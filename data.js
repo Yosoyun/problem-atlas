@@ -1,10 +1,11 @@
-/* Problem Atlas — chapter dataset. Auto-generated from the curation
-   workflow. Every anchor is a durable landing/search page; every seed is
-   expanded by app.js into live, always-working problem searches. */
+/* Problem Atlas — JEE Advanced PCM dataset. Auto-generated from the
+   curation workflows. Every anchor is a durable landing/search page;
+   every seed is expanded by app.js into live, always-working searches. */
 window.ATLAS_DATA = [
   {
     "chapter": "Sets, Relations & Functions",
     "slug": "sets-relations-functions",
+    "subject": "Mathematics",
     "group": "Algebra",
     "blurb": "A durable link pack for the foundational chapter JEE Advanced builds the rest of algebra and calculus on: set algebra and Venn-diagram counting, every flavour of relation up through equivalence classes, the full function-classification machinery (one-one/onto/bijective, composition, inverse), domain-range hunting, and even/odd/periodic graph behaviour.",
     "jeeWeight": "Medium",
@@ -497,6 +498,7 @@ window.ATLAS_DATA = [
   {
     "chapter": "Complex Numbers",
     "slug": "complex-numbers",
+    "subject": "Mathematics",
     "group": "Algebra",
     "blurb": "A durable, link-rot-proof pack of ~100 resources for JEE Advanced Complex Numbers — covering modulus/argument, Euler and polar form, De Moivre, roots of unity, Argand-plane loci, rotation and complex-number geometry — built only from stable landing pages and live searches so nothing breaks over time.",
     "jeeWeight": "High",
@@ -992,6 +994,7 @@ window.ATLAS_DATA = [
   {
     "chapter": "Quadratic Equations & Theory of Equations",
     "slug": "quadratic-equations",
+    "subject": "Mathematics",
     "group": "Algebra",
     "blurb": "A durable, ever-working link pack for teaching JEE Advanced quadratic and polynomial theory — from discriminant and nature of roots to common roots, location of roots, Vieta/Newton relations, and transformation of equations — built on stable landing pages and live search seeds so no link ever dies.",
     "jeeWeight": "Medium",
@@ -1484,6 +1487,7 @@ window.ATLAS_DATA = [
   {
     "chapter": "Sequences & Series",
     "slug": "sequences-series",
+    "subject": "Mathematics",
     "group": "Algebra",
     "blurb": "A durable, always-working bank of courses, references, computation tools, and live problem searches covering every JEE Advanced Sequences & Series technique, from AP/GP/HP and AGP to telescoping, the Vn method, and AM-GM-HM inequalities.",
     "jeeWeight": "Medium",
@@ -1963,6 +1967,7 @@ window.ATLAS_DATA = [
   {
     "chapter": "Permutations & Combinations",
     "slug": "permutations-combinations",
+    "subject": "Mathematics",
     "group": "Algebra",
     "blurb": "A durable, link-rot-proof bundle of counting resources — durable landing pages plus live search seeds — covering everything from the fundamental principle of counting through circular permutations, distributions, inclusion-exclusion, derangements and the multinomial theorem at JEE Advanced depth.",
     "jeeWeight": "Medium",
@@ -2467,6 +2472,7 @@ window.ATLAS_DATA = [
   {
     "chapter": "Binomial Theorem",
     "slug": "binomial-theorem",
+    "subject": "Mathematics",
     "group": "Algebra",
     "blurb": "A durable, self-refreshing pack of vetted landing pages plus live problem searches covering the full Binomial Theorem syllabus: general/middle/greatest term, coefficient identities, series summation by calculus, multinomial expansion, expansions for any index, and remainder/divisibility/fractional-part tricks.",
     "jeeWeight": "Medium",
@@ -2923,6 +2929,7 @@ window.ATLAS_DATA = [
   {
     "chapter": "Matrices & Determinants",
     "slug": "matrices-determinants",
+    "subject": "Mathematics",
     "group": "Algebra",
     "blurb": "A durable, ever-fresh link pack for JEE Advanced Matrices & Determinants — stable course and reference landing pages plus auto-updating problem searches covering matrix algebra, special matrices, transpose, determinant properties and evaluation, adjoint and inverse, and systems of linear equations including their geometry.",
     "jeeWeight": "High",
@@ -3371,6 +3378,7 @@ window.ATLAS_DATA = [
   {
     "chapter": "Probability",
     "slug": "probability",
+    "subject": "Mathematics",
     "group": "Algebra",
     "blurb": "A durable, link-rot-proof pack of ~100 always-working resources for JEE Advanced Probability — covering classical and conditional probability, Bayes theorem, independence, total probability, the binomial distribution, combinatorial counting in probability, and basic expectation — through stable course and reference pages plus live, self-refreshing problem searches.",
     "jeeWeight": "High",
@@ -3834,6 +3842,7 @@ window.ATLAS_DATA = [
   {
     "chapter": "Trigonometric Ratios & Identities",
     "slug": "trig-ratios-identities",
+    "subject": "Mathematics",
     "group": "Trigonometry",
     "blurb": "A durable, link-rot-proof pack of always-working resources for drilling compound, multiple and sub-multiple angles, transformation and conditional identities, sum-to-product, trig series, and maxima-minima of trigonometric expressions at JEE Advanced depth.",
     "jeeWeight": "Medium",
@@ -4334,6 +4343,7 @@ window.ATLAS_DATA = [
   {
     "chapter": "Trigonometric Equations",
     "slug": "trig-equations",
+    "subject": "Mathematics",
     "group": "Trigonometry",
     "blurb": "A durable, link-rot-proof pack for JEE Advanced Trigonometric Equations: general-solution theory, factoring and squaring techniques, the R-method with its solvability test, systems, trig inequalities, and range/boundedness arguments for counting roots, all reached through permanent landing pages and live searches that never 404.",
     "jeeWeight": "Medium",
@@ -4803,6 +4813,7 @@ window.ATLAS_DATA = [
   {
     "chapter": "Inverse Trigonometric Functions",
     "slug": "inverse-trigonometry",
+    "subject": "Mathematics",
     "group": "Trigonometry",
     "blurb": "A durable, link-rot-proof pack of solved problems, interactive courses, reference pages and live searches covering every JEE Advanced theme in inverse trigonometric functions — from principal values and identities to telescoping summation series, equations and graph transformations.",
     "jeeWeight": "Medium",
@@ -5275,6 +5286,7 @@ window.ATLAS_DATA = [
   {
     "chapter": "Solution of Triangles & Heights and Distances",
     "slug": "solutions-of-triangles",
+    "subject": "Mathematics",
     "group": "Trigonometry",
     "blurb": "A durable pack of always-working reference, video, and live-search links covering the sine/cosine/projection rules, triangle area, in-radius and circum-radius relations, half-angle and Napier formulae, the m-n theorem, and heights-and-distances applications for JEE Advanced.",
     "jeeWeight": "Medium",
@@ -5789,6 +5801,7 @@ window.ATLAS_DATA = [
   {
     "chapter": "Functions (Graphs, Domain & Range)",
     "slug": "functions",
+    "subject": "Mathematics",
     "group": "Calculus",
     "blurb": "A durable problem bank for JEE Advanced Functions — domain and range, composition, inverses, periodicity, graph transformations, even/odd functions and the floor, fractional-part and signum functions — built only from search and section URLs that stay live.",
     "jeeWeight": "High",
@@ -6251,6 +6264,7 @@ window.ATLAS_DATA = [
   {
     "chapter": "Limits, Continuity & Differentiability",
     "slug": "limits-continuity-differentiability",
+    "subject": "Mathematics",
     "group": "Calculus",
     "blurb": "A durable bank of ~100 always-live resources for teaching JEE Advanced limits, continuity and differentiability: standard limits and series expansions, indeterminate forms, floor and fractional-part traps, continuity and discontinuity classification, first-principles LHD/RHD checks, and functional-equation problems.",
     "jeeWeight": "High",
@@ -6720,6 +6734,7 @@ window.ATLAS_DATA = [
   {
     "chapter": "Methods of Differentiation",
     "slug": "differentiation",
+    "subject": "Mathematics",
     "group": "Calculus",
     "blurb": "A durable, link-rot-proof resource pack covering every differentiation technique JEE Advanced tests — product/quotient/chain, implicit, parametric, logarithmic, inverse-function and higher-order derivatives plus the Leibnitz rule — pairing trusted landing pages with auto-refreshing problem searches.",
     "jeeWeight": "Medium",
@@ -7207,6 +7222,7 @@ window.ATLAS_DATA = [
   {
     "chapter": "Application of Derivatives",
     "slug": "application-of-derivatives",
+    "subject": "Mathematics",
     "group": "Calculus",
     "blurb": "A durable, link-rot-proof pack of curated landing pages plus live problem searches covering tangents and normals, monotonicity, maxima/minima, mean value theorems, optimization and calculus-based inequalities for JEE Advanced.",
     "jeeWeight": "High",
@@ -7719,6 +7735,7 @@ window.ATLAS_DATA = [
   {
     "chapter": "Indefinite Integration",
     "slug": "indefinite-integration",
+    "subject": "Mathematics",
     "group": "Calculus",
     "blurb": "A durable, never-404 resource pack giving you reference notes, worked techniques, and live problem feeds for every JEE Advanced antiderivative skill - standard forms, substitution, by-parts, partial fractions, and rational, irrational and trigonometric integrals.",
     "jeeWeight": "Medium",
@@ -8187,6 +8204,7 @@ window.ATLAS_DATA = [
   {
     "chapter": "Definite Integration",
     "slug": "definite-integration",
+    "subject": "Mathematics",
     "group": "Calculus",
     "blurb": "A durable, never-404 link pack for JEE Advanced Definite Integration: curated landing pages plus live search seeds covering properties, the king property, Leibnitz rule, limit-as-a-sum, Wallis and reduction formulae, and estimation inequalities.",
     "jeeWeight": "High",
@@ -8648,6 +8666,7 @@ window.ATLAS_DATA = [
   {
     "chapter": "Area Under Curves",
     "slug": "area-under-curves",
+    "subject": "Mathematics",
     "group": "Calculus",
     "blurb": "A durable, link-rot-proof set of ~100 resources for teaching JEE Advanced Area Under Curves — region identification, area between curves, parametric and axes-bounded areas — using only stable course pages, official past-paper archives, and live search feeds that never 404.",
     "jeeWeight": "High",
@@ -9117,6 +9136,7 @@ window.ATLAS_DATA = [
   {
     "chapter": "Differential Equations",
     "slug": "differential-equations",
+    "subject": "Mathematics",
     "group": "Calculus",
     "blurb": "A durable, link-rot-proof pack of 100+ always-working resources for JEE Advanced Differential Equations, covering order and degree, formation of differential equations from families of curves, and the three in-syllabus solution methods (variable separable, homogeneous, linear first-order with integrating factor), plus standard slope-of-tangent and growth/decay applications.",
     "jeeWeight": "Medium",
@@ -9596,6 +9616,7 @@ window.ATLAS_DATA = [
   {
     "chapter": "Straight Lines",
     "slug": "straight-lines",
+    "subject": "Mathematics",
     "group": "Coordinate Geometry",
     "blurb": "A durable bank of solved-problem searches and stable reference pages covering every JEE Advanced straight-line theme — slope and line forms, angle and distance, family and concurrency, pair of straight lines, locus, and triangle/area methods.",
     "jeeWeight": "Medium",
@@ -10087,6 +10108,7 @@ window.ATLAS_DATA = [
   {
     "chapter": "Circles",
     "slug": "circles",
+    "subject": "Mathematics",
     "group": "Coordinate Geometry",
     "blurb": "A durable problem-and-resource pack for Circles in coordinate geometry: ~100 always-working links spanning equation forms, tangents and normals, length of tangent, power of a point, radical axis and radical centre, families of circles, orthogonality, chord of contact, pole-polar and the director circle.",
     "jeeWeight": "High",
@@ -10579,6 +10601,7 @@ window.ATLAS_DATA = [
   {
     "chapter": "Parabola",
     "slug": "parabola",
+    "subject": "Mathematics",
     "group": "Coordinate Geometry",
     "blurb": "A durable, ever-working bank of conics-grade Parabola resources — focal chords, tangents and normals, parametric points, chord of contact, the reflection property and locus problems — built only from landing pages and live searches that never 404.",
     "jeeWeight": "High",
@@ -11045,6 +11068,7 @@ window.ATLAS_DATA = [
   {
     "chapter": "Ellipse",
     "slug": "ellipse",
+    "subject": "Mathematics",
     "group": "Coordinate Geometry",
     "blurb": "A durable, link-safe pack of reference courses and live problem searches covering every JEE Advanced ellipse skill - standard form, eccentricity, auxiliary circle and eccentric angle, tangents, normals, director circle, chord of contact, chord bisected at a point, focal chords and locus problems.",
     "jeeWeight": "Medium",
@@ -11496,6 +11520,7 @@ window.ATLAS_DATA = [
   {
     "chapter": "Hyperbola",
     "slug": "hyperbola",
+    "subject": "Mathematics",
     "group": "Coordinate Geometry",
     "blurb": "A durable, link-rot-proof pack of ~100 always-working resources for teaching JEE Advanced Hyperbola — standard and rectangular forms, asymptotes, tangents, normals, conjugate hyperbola, eccentricity, reflection property, and locus problems — built entirely from stable landing pages and live search seeds.",
     "jeeWeight": "Medium",
@@ -11997,6 +12022,7 @@ window.ATLAS_DATA = [
   {
     "chapter": "Vectors",
     "slug": "vectors",
+    "subject": "Mathematics",
     "group": "Vectors & 3D",
     "blurb": "A durable, never-404 link pack covering every JEE Advanced vector topic — addition and the section formula, dot and cross products, scalar and vector triple products, linear dependence, vector equations of lines and planes, reciprocal systems, and coordinate-free geometry — built from stable course and reference pages plus live problem searches a teacher can mine for question sets.",
     "jeeWeight": "High",
@@ -12495,6 +12521,7 @@ window.ATLAS_DATA = [
   {
     "chapter": "Three Dimensional Geometry",
     "slug": "three-d-geometry",
+    "subject": "Mathematics",
     "group": "Vectors & 3D",
     "blurb": "A durable, never-404 link pack for JEE Advanced 3D geometry — direction cosines/ratios, lines and planes, angles and distances, shortest distance between skew lines, coplanarity, and image-of-a-point problems — built entirely from stable landing pages and live searches.",
     "jeeWeight": "High",
@@ -12954,6 +12981,26289 @@ window.ATLAS_DATA = [
           "mse",
           "youtube",
           "pyq"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Units, Dimensions & Error Analysis",
+    "slug": "units-dimensions-errors",
+    "subject": "Physics",
+    "group": "General Physics",
+    "blurb": "A complete drill-and-practice pack covering dimensional analysis, SI units, significant figures, and experimental error propagation through vernier and screw-gauge measurements — the foundational scoring chapter every JEE Advanced aspirant must master cold.",
+    "jeeWeight": "Medium",
+    "subtopics": [
+      "Dimensional formulae of physical quantities",
+      "Principle of homogeneity of dimensions",
+      "Dimensional analysis: checking equations and deriving relations",
+      "Limitations of dimensional analysis",
+      "SI base and derived units",
+      "Conversion of units between systems",
+      "Significant figures and rounding rules",
+      "Order of magnitude and scientific notation",
+      "Least count of measuring instruments",
+      "Vernier calliper: principle, zero error, readings",
+      "Screw gauge (micrometer): pitch, zero error, readings",
+      "Accuracy, precision and types of errors",
+      "Absolute, relative and percentage error",
+      "Combination of errors in sum, difference, product, quotient and powers",
+      "Error propagation in compound experimental quantities"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced Official Past Papers Archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "jeeadv.ac.in",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic question papers and answer keys; mine the General Physics section for units/dimensions and error-analysis MCQs and integer-type problems."
+      },
+      {
+        "title": "The Feynman Lectures on Physics (free full text)",
+        "url": "https://www.feynmanlectures.caltech.edu/",
+        "source": "Caltech",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Vol I Ch 5 'Time and Distance' and Ch 6 on probability/measurement give the deepest intuition for units and measurement uncertainty."
+      },
+      {
+        "title": "HyperPhysics: Units, Dimensional Analysis & Measurement",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/index.html",
+        "source": "Georgia State University",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Concept-map index; navigate to 'Units' and 'Measurement' nodes for dimensional formulae and SI-unit reference at a glance."
+      },
+      {
+        "title": "MIT OCW 8.01SC Classical Mechanics",
+        "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Week 1 covers units, dimensional analysis and significant figures; problem sets reinforce dimensional reasoning before kinematics."
+      },
+      {
+        "title": "NCERT Physics Textbooks (Class XI & XII)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Class XI Part I, Chapter 'Units and Measurements' is the canonical syllabus text — significant figures, error combination and instrument least count."
+      },
+      {
+        "title": "Wikipedia: Dimensional Analysis",
+        "url": "https://en.wikipedia.org/wiki/Dimensional_analysis",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Buckingham pi theorem and worked examples; useful for the 'deriving relations' subtopic and its limitations."
+      },
+      {
+        "title": "Wikipedia: International System of Units (SI)",
+        "url": "https://en.wikipedia.org/wiki/International_System_of_Units",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Authoritative list of seven base units and derived units with current 2019 definitions."
+      },
+      {
+        "title": "Wikipedia: Propagation of Uncertainty",
+        "url": "https://en.wikipedia.org/wiki/Propagation_of_uncertainty",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "General error-propagation formulae behind combination-of-errors problems for products, quotients and powers."
+      },
+      {
+        "title": "Wikipedia: Vernier Scale",
+        "url": "https://en.wikipedia.org/wiki/Vernier_scale",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Principle of the vernier, least count derivation and zero-error correction with diagrams."
+      },
+      {
+        "title": "Wikipedia: Micrometer Screw Gauge",
+        "url": "https://en.wikipedia.org/wiki/Micrometer_(device)",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Pitch, circular-scale least count and positive/negative zero-error treatment for screw-gauge problems."
+      },
+      {
+        "title": "Wikipedia: Significant Figures",
+        "url": "https://en.wikipedia.org/wiki/Significant_figures",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Rules for counting sig figs and rounding in arithmetic operations — directly tested in JEE."
+      },
+      {
+        "title": "OpenStax University Physics Vol 1: Units and Measurement",
+        "url": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Full free chapter on units, dimensional analysis, significant figures and uncertainty with end-of-section worked examples."
+      },
+      {
+        "title": "NPTEL Physics Courses (IIT/IISc)",
+        "url": "https://nptel.ac.in/courses/115",
+        "source": "NPTEL",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Browse introductory physics courses; opening modules treat measurement, units and error analysis at JEE-Advanced depth."
+      },
+      {
+        "title": "Wolfram Alpha: Unit & Dimension Compute",
+        "url": "https://www.wolframalpha.com/input?i=dimensions%20of%20coefficient%20of%20viscosity",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Instantly verify the dimensional formula of any physical quantity — great for self-checking student answers."
+      },
+      {
+        "title": "PhET Simulations (Physics)",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=physics",
+        "source": "PhET / CU Boulder",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Use measurement and estimation sims to demonstrate least count and reading uncertainty interactively in class."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Dimensional formulae of physical quantities",
+        "query": "dimensional formula of physical quantities",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Principle of homogeneity of dimensions",
+        "query": "principle of homogeneity dimensional equation",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Checking correctness of equations by dimensions",
+        "query": "checking correctness of physical equation by dimensional analysis",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Deriving relations using dimensional analysis",
+        "query": "deriving formula using dimensional analysis time period pendulum",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Limitations of dimensional analysis",
+        "query": "limitations of dimensional analysis dimensionless constant",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Dimensions of viscosity, surface tension, Planck constant",
+        "query": "dimensional formula viscosity surface tension Planck constant",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Dimensional formula of physical constants (G, h, k_B)",
+        "query": "dimensional formula gravitational constant Boltzmann constant",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "SI base units and derived units",
+        "query": "SI base units and derived units definitions",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Conversion of units between CGS and SI",
+        "query": "conversion of units between CGS and SI problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Conversion using dimensional method (n1u1 = n2u2)",
+        "query": "conversion of units by dimensional analysis n1u1 n2u2 problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Significant figures rules and rounding",
+        "query": "significant figures rules rounding off problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Significant figures in addition and multiplication",
+        "query": "significant figures in arithmetic operations problems",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Order of magnitude and scientific notation",
+        "query": "order of magnitude estimation physics problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Least count of measuring instruments",
+        "query": "least count of measuring instrument definition problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Vernier calliper principle and reading",
+        "query": "vernier calliper least count reading problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Vernier calliper zero error correction",
+        "query": "vernier calliper positive negative zero error problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Screw gauge pitch and least count",
+        "query": "screw gauge micrometer pitch least count problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Screw gauge zero error and diameter measurement",
+        "query": "screw gauge zero error diameter of wire problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Accuracy vs precision and types of error",
+        "query": "accuracy precision systematic random error physics",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Absolute, relative and percentage error",
+        "query": "absolute relative percentage error calculation problems",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Combination of errors in sum and difference",
+        "query": "combination of errors sum and difference physics problems",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Combination of errors in product and quotient",
+        "query": "combination of errors product quotient maximum error problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Error propagation in power and exponent relations",
+        "query": "error propagation power exponent formula percentage error",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Error in density measurement (mass and volume)",
+        "query": "percentage error in density measurement combination problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Error in simple pendulum g measurement",
+        "query": "error in g using simple pendulum percentage error problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Error in Young's modulus / resistivity experiment",
+        "query": "maximum percentage error Young modulus experiment screw gauge",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Dimensional analysis JEE Advanced PYQ",
+        "query": "units and dimensions",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Error analysis JEE Advanced PYQ",
+        "query": "error analysis combination of errors",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Vernier and screw gauge JEE Advanced PYQ",
+        "query": "vernier calliper screw gauge experiment",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "HC Verma units and measurement solved problems",
+        "query": "HC Verma units dimensions and vectors solutions",
+        "level": "Mixed",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "DC Pandey units and measurements practice",
+        "query": "DC Pandey units measurements errors solved problems",
+        "level": "Mixed",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Irodov dimensional and estimation problems",
+        "query": "Irodov dimensional analysis estimation problems solutions",
+        "level": "Olympiad",
+        "sources": [
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Hardest in-syllabus dimensional reasoning problems",
+        "query": "advanced dimensional analysis tricky problems physics",
+        "level": "Olympiad",
+        "sources": [
+          "pse",
+          "google"
+        ]
+      },
+      {
+        "label": "Significant figures and error mixed JEE problems",
+        "query": "significant figures error analysis mixed numerical problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Experimental Physics",
+    "slug": "experimental-physics",
+    "subject": "Physics",
+    "group": "General Physics",
+    "blurb": "Covers every JEE Advanced lab instrument and measurement technique with a heavy emphasis on least count, error propagation, and graph-based analysis that examiners love to test.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Vernier calliper: least count, zero error, reading method",
+      "Screw gauge / micrometer: pitch, least count, backlash and zero error",
+      "Meter bridge: balancing length, resistance of wire, end corrections",
+      "Post office box: measuring unknown resistance",
+      "Potentiometer: comparison of EMF and internal resistance of a cell",
+      "Searle's apparatus for Young's modulus of a wire",
+      "Focal length of concave mirror and convex lens (u-v method)",
+      "Speed of sound using resonance column / tube",
+      "Specific heat of a liquid using calorimeter",
+      "Verification of Ohm's law and resistivity of a wire",
+      "Least count, significant figures and measurement precision",
+      "Propagation of errors in sum, difference, product and powers",
+      "Graph plotting, slope/intercept extraction and best-fit lines",
+      "Maximum permissible error and percentage error estimation"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced official archive (past papers and answer keys)",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "jeeadv.ac.in",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Pull error-analysis and instrument-reading questions straight from official Paper 1/2 PDFs; experimental physics appears most years."
+      },
+      {
+        "title": "HyperPhysics: Measurement, Error and Instruments concept map",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/index.html",
+        "source": "HyperPhysics (GSU)",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Browse the measurement, resistance-bridge and optics nodes for clean diagrams to project while teaching least count and Wheatstone/meter-bridge theory."
+      },
+      {
+        "title": "NCERT Physics textbooks (Class XI/XII, Units & Measurement, Lab)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Class XI Ch.1 Units and Measurements plus the lab manuals are the syllabus baseline for least count, errors and significant figures."
+      },
+      {
+        "title": "PhET physics simulations (filter by physics)",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=physics",
+        "source": "PhET (CU Boulder)",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Use the Ohm's Law, Resistance-in-a-Wire and Geometric Optics sims to demo meter-bridge resistivity and u-v focal-length experiments live."
+      },
+      {
+        "title": "MIT OCW 8.02 Electricity & Magnetism",
+        "url": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Wheatstone bridge, potentiometer and resistance measurement labs and lectures back the meter-bridge / post-office-box / potentiometer experiments."
+      },
+      {
+        "title": "MIT OCW 8.01 Classical Mechanics",
+        "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Reference for Young's modulus / elasticity (Searle's apparatus) theory and the measurement-uncertainty treatment used in lab problem sets."
+      },
+      {
+        "title": "Khan Academy: Physics library",
+        "url": "https://www.khanacademy.org/science/physics",
+        "source": "Khan Academy",
+        "type": "Course",
+        "level": "JEE Main",
+        "note": "Significant figures, rounding and uncertainty videos and exercises for students shaky on the basics before error propagation."
+      },
+      {
+        "title": "Khan Academy: One-dimensional motion / measurement unit",
+        "url": "https://www.khanacademy.org/science/physics/one-dimensional-motion",
+        "source": "Khan Academy",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Intro units cover percentage error and combining uncertainties, the bread-and-butter skill in JEE experimental questions."
+      },
+      {
+        "title": "Wikipedia: Vernier scale",
+        "url": "https://en.wikipedia.org/wiki/Vernier_scale",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Diagrams and worked reading examples for vernier calliper least count and zero error; good for quick in-class reference."
+      },
+      {
+        "title": "Wikipedia: Micrometer (screw gauge)",
+        "url": "https://en.wikipedia.org/wiki/Micrometer_(device)",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Pitch, circular-scale and zero-error explanation for the screw gauge reading problems."
+      },
+      {
+        "title": "Wikipedia: Potentiometer (measuring instrument)",
+        "url": "https://en.wikipedia.org/wiki/Potentiometer_(measuring_instrument)",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Theory of balancing length, EMF comparison and internal-resistance measurement underlying the potentiometer experiment."
+      },
+      {
+        "title": "Wikipedia: Wheatstone bridge",
+        "url": "https://en.wikipedia.org/wiki/Wheatstone_bridge",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Balance condition derivation underlying meter bridge, post office box and end-correction problems."
+      },
+      {
+        "title": "Wikipedia: Propagation of uncertainty",
+        "url": "https://en.wikipedia.org/wiki/Propagation_of_uncertainty",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Formulae for combining uncertainties across sums, products and powers; backs the trickiest maximum-permissible-error questions."
+      },
+      {
+        "title": "Wikipedia: Young's modulus",
+        "url": "https://en.wikipedia.org/wiki/Young%27s_modulus",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Definition and stress-strain relation behind the Searle's-apparatus wire-extension experiment."
+      },
+      {
+        "title": "Wolfram Alpha: error propagation calculator",
+        "url": "https://www.wolframalpha.com/input?i=error%20propagation%20of%20a%20times%20b%20squared%20divided%20by%20c",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "JEE Advanced",
+        "note": "Compute percentage and absolute error for compound formulas instantly to check worked solutions."
+      },
+      {
+        "title": "Wolfram Alpha: linear least-squares fit / slope from data",
+        "url": "https://www.wolframalpha.com/input?i=linear%20fit%20least%20squares%20slope%20and%20intercept",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "JEE Advanced",
+        "note": "Demonstrate best-fit slope/intercept extraction for graph-based experiments such as Searle's and resonance-column data."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Vernier calliper least count and zero error reading",
+        "query": "vernier calliper least count zero error reading",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Screw gauge pitch and least count problems",
+        "query": "screw gauge micrometer pitch least count reading",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Screw gauge negative zero error correction",
+        "query": "screw gauge negative zero error correction diameter wire",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Vernier calliper depth and internal diameter measurement",
+        "query": "vernier calliper depth internal diameter measurement problem",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Significant figures and rounding rules",
+        "query": "significant figures rules rounding measurement physics",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Error propagation in product and quotient",
+        "query": "error propagation product quotient percentage error formula",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Error propagation with powers and combined quantities",
+        "query": "maximum permissible error physical quantity powers JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Combination of errors in sum and difference",
+        "query": "combination of errors absolute relative error sum difference",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Meter bridge balance point and unknown resistance",
+        "query": "meter bridge balance length unknown resistance problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Meter bridge end correction problems",
+        "query": "meter bridge end correction error problem JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Meter bridge maximum accuracy and error in resistance",
+        "query": "meter bridge maximum percentage error resistance balance point",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Post office box resistance measurement method",
+        "query": "post office box measure unknown resistance method",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Potentiometer comparison of EMF of two cells",
+        "query": "potentiometer comparison EMF two cells balancing length",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Potentiometer internal resistance of a cell",
+        "query": "potentiometer internal resistance of cell experiment problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Potentiometer potential gradient and sensitivity",
+        "query": "potentiometer potential gradient sensitivity problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Searle's apparatus Young's modulus of wire",
+        "query": "Searle apparatus Young modulus wire experiment error",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Young's modulus error from extension and diameter",
+        "query": "Young modulus percentage error extension diameter measurement",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Focal length of concave mirror u-v method",
+        "query": "focal length concave mirror u v method experiment",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Focal length of convex lens and error analysis",
+        "query": "focal length convex lens u v graph error analysis",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Specific heat of liquid using calorimeter",
+        "query": "specific heat capacity liquid calorimeter experiment method",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Method of mixtures calorimetry error analysis",
+        "query": "method of mixtures specific heat error calorimeter problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Speed of sound resonance column experiment",
+        "query": "speed of sound resonance tube column experiment problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Resonance column end correction and frequency",
+        "query": "resonance column end correction frequency tuning fork problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Ohm's law verification and resistivity of wire",
+        "query": "Ohm law verification resistivity of wire experiment",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Graph slope and intercept from experimental data",
+        "query": "graph slope intercept best fit experimental physics",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Best-fit line and least squares for lab data",
+        "query": "least squares best fit line lab data physics",
+        "level": "JEE Advanced",
+        "sources": [
+          "mse",
+          "pse",
+          "google"
+        ]
+      },
+      {
+        "label": "Reading vernier and screw gauge scales from a figure",
+        "query": "read vernier screw gauge scale from figure JEE problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Maximum percentage error in a physical quantity",
+        "query": "maximum percentage error physical quantity formula numerical",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Experimental physics error analysis hardest problems",
+        "query": "experimental physics error analysis JEE Advanced tough",
+        "level": "Olympiad",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Resistivity maximum error from least count of instruments",
+        "query": "resistivity wire maximum error least count screw gauge meter bridge",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Combined optics experiment focal length error",
+        "query": "lens mirror focal length combined error percentage problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Kinematics",
+    "slug": "kinematics",
+    "subject": "Physics",
+    "group": "Mechanics",
+    "blurb": "A complete drill-and-concept pack for Kinematics covering 1D/2D motion, motion graphs, projectiles, and relative-velocity (river-boat and rain) problems at JEE Main through JEE Advanced depth.",
+    "jeeWeight": "Medium",
+    "subtopics": [
+      "Motion in one dimension: position, displacement, distance",
+      "Average and instantaneous velocity and speed",
+      "Average and instantaneous acceleration",
+      "Equations of motion for uniform acceleration",
+      "Position-time, velocity-time and acceleration-time graphs",
+      "Graph interpretation: slopes of curves and areas under them",
+      "Motion under gravity: free fall and vertical throw",
+      "Projectile motion: range, maximum height, time of flight",
+      "Projectile motion on an inclined plane",
+      "Relative velocity in one and two dimensions",
+      "River-boat problems: shortest path and shortest time",
+      "Rain-man umbrella relative-velocity problems",
+      "Non-uniform acceleration and calculus methods (v dv/dx)",
+      "Variable acceleration: a(t), a(v), a(x) and integration",
+      "Vector treatment of displacement, velocity and acceleration"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced Official Past Papers Archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "jeeadv.ac.in",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic year-wise question paper PDFs; mine these for genuine Advanced-level kinematics problems."
+      },
+      {
+        "title": "MIT OCW 8.01SC Classical Mechanics",
+        "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Units 1-2 cover 1D and 2D kinematics with video lectures, problem sets and worked solutions at Advanced rigor."
+      },
+      {
+        "title": "The Feynman Lectures Vol I (Motion chapters)",
+        "url": "https://www.feynmanlectures.caltech.edu/",
+        "source": "Caltech",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Chapters 8-9 on motion and dynamics give deep conceptual grounding in velocity, acceleration and vectors."
+      },
+      {
+        "title": "HyperPhysics: Mechanics concept map",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/index.html",
+        "source": "Georgia State University",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Open the Mechanics node for equations-of-motion, projectile and free-fall pages with linked concept maps."
+      },
+      {
+        "title": "PhET Physics Simulations",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=physics",
+        "source": "PhET Colorado",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Interactive projectile, free-fall and motion-graph sims; useful for demonstrating range, angle and drag effects in class."
+      },
+      {
+        "title": "NCERT Physics Class 11 Textbooks",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Class 11 Part 1 chapters Motion in a Straight Line and Motion in a Plane are the syllabus baseline for kinematics."
+      },
+      {
+        "title": "Khan Academy: One-dimensional motion",
+        "url": "https://www.khanacademy.org/search?page_search_query=one%20dimensional%20motion%20kinematics",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Video lessons and practice on displacement, velocity, acceleration and the kinematic equations for foundation building."
+      },
+      {
+        "title": "Khan Academy: Projectile motion",
+        "url": "https://www.khanacademy.org/search?page_search_query=projectile%20motion%20two%20dimensional",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Two-dimensional projectile lessons with worked examples on range, maximum height and velocity components."
+      },
+      {
+        "title": "Brilliant: Classical Mechanics courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Interactive mechanics courses with kinematics modules emphasizing problem-solving intuition over rote formulas."
+      },
+      {
+        "title": "Wikipedia: Equations of motion",
+        "url": "https://en.wikipedia.org/w/index.php?search=equations%20of%20motion%20kinematics",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Survey of kinematic equations, their derivations and the relative-velocity formalism for quick reference."
+      },
+      {
+        "title": "Wikipedia: Projectile motion",
+        "url": "https://en.wikipedia.org/w/index.php?search=projectile%20motion%20trajectory%20range",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Trajectory equation, range and height formulas, and projectile-on-incline derivations with diagrams."
+      },
+      {
+        "title": "Physics StackExchange: relative-velocity topic search",
+        "url": "https://physics.stackexchange.com/search?q=relative%20velocity%20river%20boat%20rain",
+        "source": "Physics StackExchange",
+        "type": "Problem set",
+        "level": "JEE Advanced",
+        "note": "Curated landing page of community-resolved river-boat and rain-man discussions with multiple solution approaches."
+      },
+      {
+        "title": "Physics StackExchange: projectile and graphs topic search",
+        "url": "https://physics.stackexchange.com/search?q=projectile%20motion%20graph%20kinematics",
+        "source": "Physics StackExchange",
+        "type": "Problem set",
+        "level": "JEE Advanced",
+        "note": "Landing page of threads dissecting tricky projectile and graph-interpretation questions at competitive depth."
+      },
+      {
+        "title": "Wolfram Alpha: projectile range computation",
+        "url": "https://www.wolframalpha.com/input?i=projectile%20motion%20range%20at%2045%20degrees",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Compute range, time of flight and trajectory numerically; verify answers and run parameter sweeps."
+      },
+      {
+        "title": "Wolfram Alpha: kinematics equation solver",
+        "url": "https://www.wolframalpha.com/input?i=solve%20v%5E2%3Du%5E2%2B2as%20for%20s",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Symbolically rearrange and solve the uniform-acceleration equations; handy for building variant problems."
+      },
+      {
+        "title": "Search: HC Verma, Irodov and DC Pandey kinematics",
+        "url": "https://www.google.com/search?q=HC%20Verma%20Irodov%20kinematics%20problems%20with%20solutions",
+        "source": "Google",
+        "type": "Search",
+        "level": "JEE Advanced",
+        "note": "Locate HC Verma, Irodov and DC Pandey kinematics problem sets and worked solutions across the web."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Uniform acceleration equations of motion",
+        "query": "equations of motion uniform acceleration kinematics",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Distance vs displacement and average speed",
+        "query": "distance displacement average speed velocity kinematics",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Velocity-time graph: area and slope",
+        "query": "velocity time graph area slope acceleration",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Position-time graph interpretation",
+        "query": "position time graph interpretation motion",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Acceleration-time graph to velocity and displacement",
+        "query": "acceleration time graph find velocity displacement",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Free fall under gravity",
+        "query": "free fall motion under gravity kinematics",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Ball thrown vertically up: multi-stage",
+        "query": "ball thrown vertically upward time of flight kinematics",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Two balls dropped: meeting point",
+        "query": "two balls dropped meeting point relative motion gravity",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Projectile range and maximum height",
+        "query": "projectile motion range maximum height time of flight",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Projectile trajectory equation derivation",
+        "query": "projectile motion trajectory parabola equation derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Projectile on an inclined plane",
+        "query": "projectile motion on inclined plane range JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Horizontal projectile from a height",
+        "query": "horizontal projectile thrown from cliff height kinematics",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Two projectiles meeting / colliding in air",
+        "query": "two projectiles same point different angles collide meet in air",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Relative velocity in two dimensions",
+        "query": "relative velocity two dimensions vector kinematics",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "River-boat: shortest-time crossing",
+        "query": "river boat shortest time crossing relative velocity",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "River-boat: shortest path and minimum drift",
+        "query": "river boat shortest path minimum drift problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Rain-man umbrella angle problem",
+        "query": "rain man umbrella relative velocity angle problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Minimum distance between two moving bodies",
+        "query": "minimum distance approach two moving particles relative velocity",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Non-uniform acceleration: v dv/dx method",
+        "query": "non uniform acceleration v dv dx variable acceleration kinematics",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Acceleration as a function of velocity",
+        "query": "acceleration function of velocity integration kinematics problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Acceleration as a function of position",
+        "query": "acceleration depends on position kinematics integration",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "mse",
+          "google"
+        ]
+      },
+      {
+        "label": "Average velocity under variable acceleration",
+        "query": "average velocity variable acceleration calculus kinematics",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Stopping distance and reaction time",
+        "query": "stopping distance reaction time braking kinematics",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "pse"
+        ]
+      },
+      {
+        "label": "Overtaking and catching-up problems",
+        "query": "catch up overtaking two cars kinematics relative motion",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Velocity and acceleration from x(t)",
+        "query": "find velocity acceleration from position function of time",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "mse",
+          "google"
+        ]
+      },
+      {
+        "label": "Maximum range projectile launched from a height",
+        "query": "maximum range projectile launched from height optimal angle",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Galilean velocity addition and frames",
+        "query": "relative velocity frame of reference galilean addition",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Projectile clearing a wall / hitting a target",
+        "query": "projectile clear wall hit target minimum speed angle",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "PYQ: Kinematics (1D motion)",
+        "query": "kinematics",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "PYQ: Projectile motion",
+        "query": "projectile motion",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "PYQ: Relative motion (river-boat, rain)",
+        "query": "relative velocity river boat rain",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "PYQ: Motion graphs",
+        "query": "velocity time displacement graphs motion",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Irodov: hard kinematics problems",
+        "query": "Irodov kinematics problems",
+        "level": "Olympiad",
+        "sources": [
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "HC Verma: kinematics chapter solutions",
+        "query": "HC Verma kinematics rest and motion concepts of physics",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Newton's Laws of Motion & Friction",
+    "slug": "newtons-laws-friction",
+    "subject": "Physics",
+    "group": "Mechanics",
+    "blurb": "A drill-heavy pack on free body diagrams, pseudo forces, friction, and constraint relations for connected-body and pulley systems — the bedrock of every JEE Advanced mechanics problem.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Newton's three laws and inertial frames",
+      "Free body diagrams (FBD) for multi-body systems",
+      "Static, kinetic and limiting friction; coefficient of friction",
+      "Angle of friction and angle of repose",
+      "Pseudo force in non-inertial (accelerating) frames",
+      "Connected bodies and tension in strings",
+      "Pulley systems (fixed, movable, Atwood machine)",
+      "Constraint relations (string, wedge, pulley constraints)",
+      "Blocks on inclined planes with friction",
+      "Block-on-block and stacked-block systems",
+      "Equilibrium of concurrent forces (Lami's theorem)",
+      "Spring force and impulsive tension",
+      "Friction as the centripetal force on turning/rotating surfaces",
+      "Minimum force to move or hold a block"
+    ],
+    "anchors": [
+      {
+        "title": "MIT OCW 8.01SC Classical Mechanics (full course)",
+        "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Units on Newton's laws, friction and pulleys with problem sets, solutions and lecture videos — the gold-standard companion for this chapter."
+      },
+      {
+        "title": "The Feynman Lectures on Physics, Vol. I (free full text)",
+        "url": "https://www.feynmanlectures.caltech.edu/I_toc.html",
+        "source": "Caltech",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Chapters 9-12 cover Newton's laws of dynamics and the character of force, including friction — deepens conceptual intuition beyond rote problem solving."
+      },
+      {
+        "title": "HyperPhysics: Newton's laws concept map",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/Newt.html",
+        "source": "Georgia State University",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Compact linked pages on Newton's three laws and the normal force, branching into friction and inclined planes — quick concept refreshers."
+      },
+      {
+        "title": "PhET: Forces and Motion / Friction simulations",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=physics",
+        "source": "University of Colorado Boulder",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Run the 'Forces and Motion: Basics' and 'Friction' sims to let students visualise net force, applied force vs. friction, and acceleration in real time."
+      },
+      {
+        "title": "NCERT Physics Class XI textbooks (Laws of Motion chapter)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Class XI Part I, Chapter 5 'Laws of Motion' — the canonical Indian-syllabus baseline; assign its exercises before moving to Advanced-level drills."
+      },
+      {
+        "title": "Khan Academy: Forces and Newton's laws of motion unit",
+        "url": "https://www.khanacademy.org/science/physics/forces-newtons-laws",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Structured video sequence on FBDs, tension, inclined planes and friction with practice questions for weaker students."
+      },
+      {
+        "title": "OpenStax University Physics Vol. 1: Newton's Laws of Motion",
+        "url": "https://openstax.org/books/university-physics-volume-1/pages/5-introduction",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Free, rigorous textbook chapters on Newton's laws and applications (friction, tension, inclined planes) with worked examples and end-of-chapter problems."
+      },
+      {
+        "title": "Wikipedia: Friction",
+        "url": "https://en.wikipedia.org/wiki/Friction",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Reliable definitions and derivations for static/kinetic friction, coefficient of friction and angle of repose — settles definitional disputes."
+      },
+      {
+        "title": "Wolfram Alpha: compute inclined-plane & Atwood quantities",
+        "url": "https://www.wolframalpha.com/input?i=block%20on%20inclined%20plane%20with%20friction%20acceleration",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Plug in mass, angle and coefficient to instantly check acceleration and tension answers, or vary parameters to build problem variants."
+      },
+      {
+        "title": "Brilliant: Classical Mechanics courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Interactive force-and-motion courses with guided, increasingly hard problems good for stretching top students on FBD reasoning."
+      },
+      {
+        "title": "JEE Advanced official past papers archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "IIT (JEE Advanced)",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic question papers and answer keys — mine the mechanics sections for genuine NLM/friction problems at exact exam difficulty."
+      },
+      {
+        "title": "MIT OCW 8.01 Physics I (lectures, assignments, exams)",
+        "url": "https://ocw.mit.edu/courses/8-01-physics-i-classical-mechanics-fall-1999/",
+        "source": "MIT OpenCourseWare",
+        "type": "Problem set",
+        "level": "JEE Advanced",
+        "note": "Assignments and exam archives on Newton's laws and friction — rigorous connected-body and inclined-plane practice with solutions."
+      },
+      {
+        "title": "HyperPhysics: Inclined plane mechanics",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/mincl.html",
+        "source": "Georgia State University",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Worked inclined-plane and friction treatment with clickable equations for normal force, components and acceleration — handy blackboard templates."
+      },
+      {
+        "title": "HyperPhysics: Standard mechanics example problems",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/HFrame.html",
+        "source": "Georgia State University",
+        "type": "Problem set",
+        "level": "JEE Main",
+        "note": "Navigate the Mechanics frame for worked friction, tension and Atwood-machine examples — ready-made templates for in-class derivations."
+      },
+      {
+        "title": "OpenStax University Physics: Friction (Chapter 6)",
+        "url": "https://openstax.org/books/university-physics-volume-1/pages/6-2-friction",
+        "source": "OpenStax",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Detailed friction section covering limiting friction, the friction angle and motion on inclines — clarifies the self-adjusting nature of static friction."
+      },
+      {
+        "title": "Wolfram Alpha: solve simultaneous force equations",
+        "url": "https://www.wolframalpha.com/input?i=solve%20m1*a%20%3D%20T%20-%20mu*m1*g%2C%20m2*a%20%3D%20m2*g%20-%20T",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "JEE Advanced",
+        "note": "Symbolically solve the coupled equations from connected-body / Atwood problems to verify acceleration and tension expressions."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "FBD for multi-body connected systems",
+        "query": "free body diagram multiple blocks connected system physics",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "FBD for blocks in contact (normal forces)",
+        "query": "free body diagram blocks in contact normal force",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Newton's second law net force problems",
+        "query": "Newton second law net force acceleration problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Static vs kinetic friction concepts",
+        "query": "static and kinetic friction coefficient explained",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Limiting friction and angle of repose",
+        "query": "limiting friction angle of repose derivation",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Block on inclined plane with friction",
+        "query": "block on inclined plane with friction acceleration",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Minimum force to move a block on rough ground",
+        "query": "minimum force to move block on rough surface",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Optimal angle to pull a block (minimum force)",
+        "query": "minimum force to pull block at angle friction optimization",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "mse",
+          "pse"
+        ]
+      },
+      {
+        "label": "Stacked two-block friction, common acceleration",
+        "query": "two block friction system stacked blocks acceleration",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Block-on-block: max force before top slips",
+        "query": "block on block friction maximum force without slipping",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Connected bodies and string tension",
+        "query": "connected bodies tension in string two masses",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Atwood machine acceleration and tension",
+        "query": "Atwood machine acceleration tension derivation",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Movable pulley constraint and acceleration",
+        "query": "movable pulley system constraint acceleration mechanical advantage",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Constraint relations via string length",
+        "query": "constraint relation pulley string velocity acceleration method",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Wedge constraint relation problems",
+        "query": "wedge constraint relation block sliding on wedge",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Pseudo force in an accelerating lift",
+        "query": "pseudo force accelerating lift elevator apparent weight",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Pseudo force on a block on accelerating wedge",
+        "query": "pseudo force block accelerating wedge non-inertial frame",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Acceleration so a block doesn't slide on a wedge",
+        "query": "block does not slide accelerating wedge minimum acceleration",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Lami's theorem for three-force equilibrium",
+        "query": "Lami theorem equilibrium three concurrent forces",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Hanging mass: string tensions at angles",
+        "query": "hanging mass two strings tension angle equilibrium",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Spring force in block systems",
+        "query": "spring force block system Newton laws spring constant",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Impulsive tension when a string is suddenly cut",
+        "query": "impulsive tension string cut sudden acceleration",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Chain on a table sliding off (friction)",
+        "query": "chain on table friction fraction hanging slides off",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pse",
+          "mse"
+        ]
+      },
+      {
+        "label": "Tension varying along a heavy accelerating rope",
+        "query": "rope tension variable along length hanging accelerating",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Direction of self-adjusting static friction",
+        "query": "direction of static friction self adjusting which way",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Three connected blocks on a rough surface",
+        "query": "three connected blocks rough surface tension acceleration",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Two blocks with different friction coefficients",
+        "query": "two blocks different coefficients of friction inclined surface",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Friction as centripetal force on a turning car",
+        "query": "friction circular motion car turning required coefficient",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "NLM & friction JEE Advanced previous-year questions",
+        "query": "Newton laws of motion friction",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Pulley & connected-body PYQ",
+        "query": "pulley connected bodies constraint",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Friction on inclined plane PYQ practice",
+        "query": "friction inclined plane block",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Hardest NLM/friction problems (Irodov, DC Pandey)",
+        "query": "Irodov DC Pandey Newton laws friction hardest problems",
+        "level": "Olympiad",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Work, Energy & Power",
+    "slug": "work-energy-power",
+    "subject": "Physics",
+    "group": "Mechanics",
+    "blurb": "A complete problem-and-resource pack covering the work-energy theorem, conservative forces and potential-energy curves, power, spring energy, and vertical circular motion exactly as tested in JEE Advanced.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Work done by constant and variable forces (line integral of force)",
+      "Work-energy theorem and its applications",
+      "Conservative vs non-conservative forces",
+      "Potential energy and the force-potential energy relation (F = -dU/dx)",
+      "Potential energy curves, equilibrium points and stability",
+      "Conservation of mechanical energy",
+      "Work done against friction and energy dissipation",
+      "Elastic potential energy stored in a spring",
+      "Spring-block systems and energy methods",
+      "Power: instantaneous and average power",
+      "Vertical circular motion (string, rod and track constraints)",
+      "Motion on a smooth vertical circle and condition for completing the loop",
+      "Energy methods for blocks on inclines and curved surfaces",
+      "Work done by gravity and gravitational potential energy near Earth's surface",
+      "Collisions seen via kinetic energy (elastic vs inelastic energy loss)"
+    ],
+    "anchors": [
+      {
+        "title": "MIT OCW 8.01SC Classical Mechanics (work, energy, power)",
+        "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Video lectures and problem sets on the work-energy theorem, conservative forces and power; gold-standard for JEE Advanced depth."
+      },
+      {
+        "title": "The Feynman Lectures on Physics, Vol I (Work and Potential Energy)",
+        "url": "https://www.feynmanlectures.caltech.edu/",
+        "source": "Caltech",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Free full text; Ch 13-14 build work, line integrals of force and conservative-field intuition from first principles."
+      },
+      {
+        "title": "HyperPhysics: Work, Energy and Power concept map",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/index.html",
+        "source": "Georgia State University",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Navigate to Mechanics, then Work/Energy; compact formula maps for work, KE, PE, springs and power, ideal for quick revision."
+      },
+      {
+        "title": "PhET Interactive Simulations (filter for Energy Skate Park)",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=physics",
+        "source": "University of Colorado Boulder",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Visualise mechanical-energy conservation, potential-energy curves and friction losses live with the Energy Skate Park sim."
+      },
+      {
+        "title": "Official JEE Advanced past papers archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "JEE Advanced (IIT)",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic question papers and answer keys; pull every Work-Energy-Power problem directly from the source."
+      },
+      {
+        "title": "NCERT Physics textbooks (Class XI: Work, Energy and Power)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Class XI Part 1, Chapter 5 is the syllabus baseline; in-text examples and exercises frequently seed JEE problems."
+      },
+      {
+        "title": "Khan Academy: Work and energy (search)",
+        "url": "https://www.khanacademy.org/search?page_search_query=work%20energy%20theorem",
+        "source": "Khan Academy",
+        "type": "Course",
+        "level": "JEE Main",
+        "note": "Structured video and practice on the work-energy theorem, conservation of energy and power; good for building fundamentals."
+      },
+      {
+        "title": "Khan Academy: Spring potential energy and Hooke's law (search)",
+        "url": "https://www.khanacademy.org/search?page_search_query=spring%20potential%20energy%20Hooke%20law",
+        "source": "Khan Academy",
+        "type": "Course",
+        "level": "JEE Main",
+        "note": "Elastic PE, work done by a spring and energy graphs for spring-block systems."
+      },
+      {
+        "title": "MIT OCW 8.01 Physics I: Classical Mechanics (lecture notes and exams)",
+        "url": "https://ocw.mit.edu/courses/8-01-physics-i-classical-mechanics-fall-1999/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Lecture notes and graded exams covering energy methods, springs and circular motion at JEE Advanced rigour."
+      },
+      {
+        "title": "LibreTexts Physics: Work, Energy and Energy Resources",
+        "url": "https://phys.libretexts.org/Bookshelves/University_Physics",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Open university-level text with derivations and worked examples on the energy method, springs and equilibrium from U(x)."
+      },
+      {
+        "title": "Wikipedia: Work-energy theorem and conservative forces (search)",
+        "url": "https://en.wikipedia.org/w/index.php?search=work%20energy%20theorem%20conservative%20force",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Rigorous statements, derivations and the curl/path-independence criterion for conservative forces."
+      },
+      {
+        "title": "Wikipedia: Mechanical energy conservation (search)",
+        "url": "https://en.wikipedia.org/w/index.php?search=conservation%20of%20mechanical%20energy",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Background on energy conservation, work by non-conservative forces and the energy method."
+      },
+      {
+        "title": "Wolfram Alpha: compute work as a line integral (search)",
+        "url": "https://www.wolframalpha.com/input?i=integrate%20F%20dx%20work%20done%20variable%20force",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "JEE Advanced",
+        "note": "Evaluate the integral of F.dx for position-dependent forces and check answers to variable-force work problems."
+      },
+      {
+        "title": "Wolfram Alpha: spring energy and SHM energy (search)",
+        "url": "https://www.wolframalpha.com/input?i=energy%20stored%20in%20spring%20half%20k%20x%20squared",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Cross-check elastic PE, maximum compression and the KE/PE energy split in spring problems."
+      },
+      {
+        "title": "Brilliant: Classical Mechanics and Energy courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Interactive problem-first courses on energy, conservation and momentum that reward conceptual fluency over plug-and-chug."
+      },
+      {
+        "title": "HC Verma / DC Pandey / Irodov WEP problem sets (search)",
+        "url": "https://www.google.com/search?q=HC+Verma+Irodov+DC+Pandey+work+energy+power+problems+with+solutions",
+        "source": "Google",
+        "type": "Search",
+        "level": "JEE Advanced",
+        "note": "Locate solved problems from the standard JEE practice books; mine harder energy-method and vertical-circle questions."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Work done by a constant force at an angle",
+        "query": "work done by constant force at angle F d cos theta",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Work done by a variable / position-dependent force",
+        "query": "work done by variable force integral F dx",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Work from a force-displacement graph",
+        "query": "work done area under force displacement graph",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Work-energy theorem basic applications",
+        "query": "work energy theorem find final speed",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Work-energy theorem with friction on a horizontal surface",
+        "query": "work energy theorem with friction block stopping distance",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Work done against gravity and gravitational PE",
+        "query": "work done against gravity gravitational potential energy",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Conservation of mechanical energy on a smooth incline",
+        "query": "conservation of mechanical energy block sliding smooth incline",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Energy method for a block on a curved frictionless track",
+        "query": "block sliding curved frictionless track energy conservation speed",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Force from potential energy F = -dU/dx",
+        "query": "force from potential energy F equals minus dU dx",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Identify conservative vs non-conservative force",
+        "query": "conservative force path independence curl test problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Stable, unstable and neutral equilibrium from U(x)",
+        "query": "potential energy curve stable unstable equilibrium JEE problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Oscillation amplitude and turning points from a U(x) graph",
+        "query": "potential energy graph find turning points oscillation amplitude",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Elastic potential energy stored in a spring",
+        "query": "elastic potential energy spring half k x squared problem",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Maximum compression of a spring by a moving block",
+        "query": "maximum compression spring block velocity energy conservation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Spring-block system with friction energy loss",
+        "query": "spring block system friction maximum compression energy",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Two-block spring momentum and energy problem",
+        "query": "two blocks spring compressed released energy momentum",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Vertical spring with hanging mass energy",
+        "query": "vertical spring hanging mass maximum extension energy conservation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Instantaneous and average power P = F.v",
+        "query": "instantaneous power F dot v average power problem",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Power of an engine pulling a load up an incline",
+        "query": "power engine pulling load incline constant velocity problem",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Constant power motion and velocity-time behaviour",
+        "query": "constant power motion velocity proportional square root time",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Vertical circular motion: minimum speed at the top",
+        "query": "vertical circular motion minimum speed top of loop critical velocity",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Tension in a string in a vertical circle",
+        "query": "tension vertical circle string top bottom energy problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Loop-the-loop: minimum height to complete the circle",
+        "query": "ball loop the loop minimum height to complete vertical circle",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Particle leaving a smooth sphere / dome",
+        "query": "particle sliding off top of sphere where leaves surface energy",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Rod vs string constraint in vertical circular motion",
+        "query": "vertical circle light rod minimum speed at top versus string",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Energy lost to friction over a rough path",
+        "query": "energy dissipated by friction block rough surface work",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Kinetic energy change in elastic and inelastic collisions",
+        "query": "kinetic energy loss inelastic collision elastic collision problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Work done by a pseudo force in a non-inertial frame",
+        "query": "work done pseudo force non inertial frame energy problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Line integral of force F.dr for a conservative field",
+        "query": "line integral work done conservative force F dot dr derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "mse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Definite integral of a force-position function for work",
+        "query": "definite integral force position function work done calculation",
+        "level": "JEE Advanced",
+        "sources": [
+          "mse",
+          "google"
+        ]
+      },
+      {
+        "label": "Past-year: Work, Energy & Power JEE Advanced",
+        "query": "work energy power",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Past-year: vertical circular motion JEE Advanced",
+        "query": "vertical circular motion energy",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Past-year: potential energy curve / equilibrium JEE Advanced",
+        "query": "potential energy curve equilibrium",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Past-year: spring energy and conservation JEE Advanced",
+        "query": "spring block energy conservation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Centre of Mass, Momentum & Collisions",
+    "slug": "centre-of-mass-collisions",
+    "subject": "Physics",
+    "group": "Mechanics",
+    "blurb": "A high-yield JEE Advanced chapter where conservation of momentum, restitution, and variable-mass problems reward students who reason from invariants rather than memorized formulas.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Centre of mass of discrete and continuous bodies",
+      "Centre of mass by symmetry and integration",
+      "Centre of mass of bodies with a removed cavity",
+      "Motion of the centre of mass under external forces",
+      "Conservation of linear momentum in isolated systems",
+      "Impulse and the impulse-momentum theorem",
+      "Impulsive forces and impulsive tension in connected bodies",
+      "Elastic collisions in one dimension",
+      "Oblique (two-dimensional) elastic collisions",
+      "Perfectly inelastic and partially inelastic collisions",
+      "Coefficient of restitution and Newton's experimental law",
+      "Successive bounces and energy loss per impact",
+      "Variable-mass systems and the rocket equation",
+      "Thrust force and rocket propulsion",
+      "Recoil, explosions and fragmentation",
+      "Reduced mass and centre-of-mass frame analysis"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced Official Past Papers Archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "jeeadv.ac.in",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic question papers and answer keys; mine the mechanics sections for centre-of-mass and collision problems."
+      },
+      {
+        "title": "The Feynman Lectures on Physics, Vol I",
+        "url": "https://www.feynmanlectures.caltech.edu/I_10.html",
+        "source": "Caltech",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Chapter 10 gives the cleanest first-principles treatment of momentum conservation and centre-of-mass motion."
+      },
+      {
+        "title": "HyperPhysics: Momentum and Collisions",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/mom.html",
+        "source": "Georgia State University",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Linked concept maps on impulse, elastic and inelastic collisions, and centre of mass for quick revision."
+      },
+      {
+        "title": "MIT OCW 8.01SC Classical Mechanics",
+        "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Units on momentum, centre of mass, collisions and rocket motion with video lectures, problem sets and solutions."
+      },
+      {
+        "title": "PhET Collision Lab Simulation",
+        "url": "https://phet.colorado.edu/en/simulations/collision-lab",
+        "source": "University of Colorado Boulder",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Vary mass, velocity and elasticity to watch momentum conserved live and verify collision intuition."
+      },
+      {
+        "title": "Khan Academy: Centre of Mass",
+        "url": "https://www.khanacademy.org/science/physics/linear-momentum/center-of-mass",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Worked examples building intuition for locating the centre of mass of composite systems."
+      },
+      {
+        "title": "Khan Academy: Momentum and Collisions",
+        "url": "https://www.khanacademy.org/science/physics/linear-momentum",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Conservation of momentum, impulse and elastic-vs-inelastic distinctions explained step by step."
+      },
+      {
+        "title": "Brilliant: Classical Mechanics",
+        "url": "https://brilliant.org/courses/classical-mechanics/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Interactive momentum and collision modules; good for active-recall practice on conservation arguments."
+      },
+      {
+        "title": "NCERT Physics Textbooks (Class XI)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Class XI Part 1 chapters on laws of motion, work-energy and system of particles set the syllabus baseline."
+      },
+      {
+        "title": "Wikipedia: Elastic Collision",
+        "url": "https://en.wikipedia.org/wiki/Elastic_collision",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Full 1D and 2D elastic-collision derivations including the centre-of-mass-frame approach used in Advanced problems."
+      },
+      {
+        "title": "Wikipedia: Centre of Mass",
+        "url": "https://en.wikipedia.org/wiki/Center_of_mass",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Definitions, integration formulas and worked centroid examples for standard bodies."
+      },
+      {
+        "title": "Wikipedia: Tsiolkovsky Rocket Equation",
+        "url": "https://en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Derivation of the rocket equation and exhaust-velocity dependence for variable-mass problems."
+      },
+      {
+        "title": "Wikipedia: Coefficient of Restitution",
+        "url": "https://en.wikipedia.org/wiki/Coefficient_of_restitution",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Defines restitution via relative velocities and links it to energy loss across an impact."
+      },
+      {
+        "title": "Wikipedia: Inelastic Collision",
+        "url": "https://en.wikipedia.org/wiki/Inelastic_collision",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Perfectly and partially inelastic cases with maximum kinetic-energy-loss reasoning."
+      },
+      {
+        "title": "Wolfram Alpha: Centre of Mass Computations",
+        "url": "https://www.wolframalpha.com/input?i=center+of+mass+of+a+semicircular+disc",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Check centroid integrals for cones, hemispheres and laminae; vary the body to self-verify answers."
+      },
+      {
+        "title": "Wolfram Alpha: Elastic Collision Solver",
+        "url": "https://www.wolframalpha.com/input?i=elastic+collision+final+velocities",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Plug in masses and initial speeds to confirm final velocities for one-dimensional elastic collisions."
+      },
+      {
+        "title": "MIT OCW 8.01 Physics I (Classic)",
+        "url": "https://ocw.mit.edu/courses/8-01-physics-i-classical-mechanics-fall-1999/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Walter Lewin lectures covering momentum, collisions and centre-of-mass dynamics with demonstrations."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Centre of mass of a uniform semicircular ring and disc",
+        "query": "centre of mass of semicircular ring and disc derivation",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Centre of mass of a solid cone and hemisphere by integration",
+        "query": "centre of mass of solid cone hemisphere integration",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "pse"
+        ]
+      },
+      {
+        "label": "Centre of mass of a body with a removed cavity",
+        "query": "centre of mass of disc with circular cavity removed",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Centre-of-mass shift when a man walks on a boat or plank",
+        "query": "man walking on boat displacement centre of mass",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Motion of the centre of mass under external forces",
+        "query": "motion of centre of mass under external force",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Conservation of momentum in explosion and fragmentation",
+        "query": "conservation of momentum explosion fragments problems",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Recoil of a gun and a projectile bursting at the top",
+        "query": "recoil velocity gun projectile burst at highest point",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Impulse-momentum theorem and force-time graphs",
+        "query": "impulse momentum theorem force time graph problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Impulsive tension and impulsive forces in connected bodies",
+        "query": "impulsive tension impulsive force connected particles",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "One-dimensional elastic collision final-velocity derivation",
+        "query": "one dimensional elastic collision final velocities derivation",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Elastic collision of equal masses exchanging velocities",
+        "query": "elastic collision equal masses exchange velocities",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Two-dimensional oblique elastic collision of smooth spheres",
+        "query": "two dimensional oblique elastic collision spheres",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Perfectly inelastic collision and maximum kinetic energy loss",
+        "query": "perfectly inelastic collision maximum kinetic energy loss",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Ballistic pendulum: bullet embedded in a block",
+        "query": "ballistic pendulum bullet block momentum energy",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Coefficient of restitution and Newton's law of restitution",
+        "query": "coefficient of restitution Newton law of restitution problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Ball bouncing on the floor: total distance and time",
+        "query": "ball bouncing coefficient of restitution total distance time",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Oblique impact of a ball on a smooth wall",
+        "query": "oblique impact ball smooth wall coefficient of restitution",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Energy loss in a collision via reduced mass and e",
+        "query": "energy loss in collision reduced mass coefficient of restitution",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google"
+        ]
+      },
+      {
+        "label": "Collisions in the centre-of-mass frame",
+        "query": "collision in centre of mass frame reduced mass",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Newton's cradle and chains of collisions",
+        "query": "Newtons cradle chain elastic collisions explanation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Variable-mass system equation of motion derivation",
+        "query": "variable mass system equation of motion derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Rocket propulsion: thrust and burnout velocity",
+        "query": "rocket propulsion thrust burnout velocity problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Tsiolkovsky rocket equation including gravity",
+        "query": "Tsiolkovsky rocket equation including gravity derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Falling chain and sand on a conveyor belt",
+        "query": "chain falling sand conveyor belt variable mass force",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Lifting a coiled chain off the ground",
+        "query": "lifting coiled chain off ground variable mass",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Two blocks and a spring on a frictionless surface",
+        "query": "two blocks spring momentum energy frictionless surface",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Block sliding on a frictionless wedge: horizontal momentum",
+        "query": "block sliding on frictionless wedge momentum conservation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Block-spring collision with a wall and restitution",
+        "query": "block spring collision wall restitution problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Centre of mass and collisions: JEE Advanced previous years",
+        "query": "centre of mass and collisions JEE Advanced previous year questions",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Hard momentum and collision problems with solutions",
+        "query": "momentum collisions hard problems with solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "HC Verma and Irodov collision practice problems",
+        "query": "HC Verma Irodov centre of mass momentum collision problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Restitution and successive collisions: JEE Advanced PYQ",
+        "query": "coefficient of restitution successive collisions JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Centre of mass of an L-shaped or composite lamina",
+        "query": "centre of mass of L-shaped composite lamina",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Velocity of centre of mass and reduced-mass two-body system",
+        "query": "velocity of centre of mass two body reduced mass",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Rotational Motion",
+    "slug": "rotational-motion",
+    "subject": "Physics",
+    "group": "Mechanics",
+    "blurb": "Rigid-body dynamics is a perennial JEE Advanced favourite, blending moment of inertia, torque, angular-momentum conservation and rolling constraints into multi-concept problems that reward students who think in terms of the instantaneous axis.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Moment of inertia and radius of gyration",
+      "Parallel-axis and perpendicular-axis theorems",
+      "Moment of inertia of standard bodies (rod, ring, disc, sphere, shell, cylinder)",
+      "Torque and the rotational analogue of Newton's second law",
+      "Angular momentum of a particle and of a rigid body",
+      "Conservation of angular momentum (collisions, contracting systems)",
+      "Rolling without slipping: velocity and acceleration constraints",
+      "Combined translation and rotation of rigid bodies",
+      "Rolling on inclined planes and the energy method",
+      "Instantaneous axis of rotation",
+      "Kinetic energy of rotation and the work-energy theorem",
+      "Rotational equilibrium and toppling vs sliding",
+      "Angular impulse and impulsive torque",
+      "Rolling with slipping and the transition to pure rolling",
+      "Collisions of rigid bodies (ball-rod, hinged rods, disc-on-disc)"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced Official Past Papers Archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "jeeadv.ac.in",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic papers and answer keys; mine the Mechanics section each year for rolling and angular-momentum problems."
+      },
+      {
+        "title": "HyperPhysics: Rotation Concept Map",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/index.html",
+        "source": "HyperPhysics (GSU)",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Linked concept tree for moment of inertia, torque, angular momentum and rolling; a one-glance revision web."
+      },
+      {
+        "title": "MIT OCW 8.01SC Classical Mechanics",
+        "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Full lectures on rigid-body rotation, angular momentum and rolling, plus problem sets with solutions."
+      },
+      {
+        "title": "The Feynman Lectures on Physics (free full text)",
+        "url": "https://www.feynmanlectures.caltech.edu/",
+        "source": "Caltech",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Volume I chapters 18-20 build rotation in two and three dimensions, centre of mass and angular momentum from first principles."
+      },
+      {
+        "title": "PhET Physics Simulations",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=physics",
+        "source": "PhET (CU Boulder)",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Run torque, balancing-act and angular-momentum sims to build intuition before Advanced-level numericals."
+      },
+      {
+        "title": "Khan Academy: Torque and Angular Momentum",
+        "url": "https://www.khanacademy.org/search?page_search_query=torque%20and%20angular%20momentum",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Stepwise videos and practice on torque, moment of inertia and rotational kinematics for the foundation layer."
+      },
+      {
+        "title": "Khan Academy: Rolling Without Slipping",
+        "url": "https://www.khanacademy.org/search?page_search_query=rolling%20without%20slipping",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Clarifies the v = R-omega constraint and energy of a rolling body; assign before inclined-plane problems."
+      },
+      {
+        "title": "Wikipedia: Moment of Inertia",
+        "url": "https://en.wikipedia.org/wiki/Moment_of_inertia",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Derivations and the full table of moments of inertia for standard shapes; a cross-check for parallel-axis use."
+      },
+      {
+        "title": "Wikipedia: Angular Momentum",
+        "url": "https://en.wikipedia.org/wiki/Angular_momentum",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Particle and rigid-body angular momentum, conservation conditions and the link to torque."
+      },
+      {
+        "title": "Wikipedia: Instant Centre of Rotation",
+        "url": "https://en.wikipedia.org/wiki/Instant_centre_of_rotation",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Defines the instantaneous axis and shows how to locate it for rolling and general planar motion."
+      },
+      {
+        "title": "NPTEL: Engineering Mechanics / Dynamics",
+        "url": "https://nptel.ac.in/courses/112106286",
+        "source": "NPTEL",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Indian lecture course covering rigid-body kinetics, moment of inertia, rolling and angular momentum at exam depth."
+      },
+      {
+        "title": "Physics StackExchange: Rolling and Friction",
+        "url": "https://physics.stackexchange.com/questions/tagged/rolling",
+        "source": "Physics StackExchange",
+        "type": "Problem set",
+        "level": "JEE Advanced",
+        "note": "Curated tag of expert threads on friction direction, when slipping begins, and energy accounting in rolling."
+      },
+      {
+        "title": "Physics StackExchange: Angular Momentum",
+        "url": "https://physics.stackexchange.com/questions/tagged/angular-momentum",
+        "source": "Physics StackExchange",
+        "type": "Problem set",
+        "level": "JEE Advanced",
+        "note": "Tag feed on when L is conserved, choice of axis, and sudden-impulse rigid-body problems."
+      },
+      {
+        "title": "Wolfram Alpha: Moment of Inertia Compute",
+        "url": "https://www.wolframalpha.com/input?i=moment%20of%20inertia%20of%20a%20solid%20sphere",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Instantly verify moment-of-inertia integrals and rotational quantities when checking student derivations."
+      },
+      {
+        "title": "Wolfram Alpha: Rolling Cylinder on Incline",
+        "url": "https://www.wolframalpha.com/input?i=acceleration%20of%20cylinder%20rolling%20down%20incline",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "JEE Advanced",
+        "note": "Compute and compare accelerations of sphere, cylinder and ring on an incline for a quick race demonstration."
+      },
+      {
+        "title": "NCERT Physics Textbook (Class 11, Part 1)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Chapter 'Systems of Particles and Rotational Motion' is the syllabus baseline; in-text and exercise problems are exam-relevant."
+      },
+      {
+        "title": "Brilliant: Classical Mechanics Courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Interactive rotational-dynamics modules with guided problem solving to stretch strong students."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Moment of inertia of standard bodies",
+        "query": "moment of inertia rod ring disc sphere shell derivation",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Radius of gyration: concept and use",
+        "query": "radius of gyration moment of inertia meaning problems",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "pse"
+        ]
+      },
+      {
+        "label": "Parallel and perpendicular axis theorems",
+        "query": "parallel axis perpendicular axis theorem moment of inertia",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Moment of inertia by integration",
+        "query": "moment of inertia integration continuous body",
+        "level": "JEE Advanced",
+        "sources": [
+          "mse",
+          "pse",
+          "cse"
+        ]
+      },
+      {
+        "label": "Torque and the I-alpha equation",
+        "query": "torque equals I alpha rotational dynamics",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Massive pulley: torque and acceleration",
+        "query": "Atwood machine massive pulley torque acceleration",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Angular momentum of particle and rigid body",
+        "query": "angular momentum rigid body about axis",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Conservation of angular momentum problems",
+        "query": "conservation of angular momentum problems rigid body",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Contracting systems: skater and turntable",
+        "query": "ice skater turntable angular momentum conservation moment of inertia change",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Man walking on a rotating platform",
+        "query": "man walking on rotating turntable angular momentum",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google"
+        ]
+      },
+      {
+        "label": "Rolling without slipping constraint",
+        "query": "rolling without slipping velocity acceleration constraint",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Direction of friction in rolling",
+        "query": "direction of friction rolling without slipping incline",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Sphere vs cylinder vs ring race on incline",
+        "query": "rolling bodies race down inclined plane fastest",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Rolling down an incline by energy method",
+        "query": "rolling down incline energy conservation acceleration",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Kinetic energy of a rolling body",
+        "query": "kinetic energy rolling translation rotation",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Velocity of points on a rolling wheel",
+        "query": "velocity of contact point top point rolling wheel",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Instantaneous axis of rotation",
+        "query": "instantaneous axis of rotation rolling rigid body",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Transition from slipping to pure rolling",
+        "query": "rolling with slipping ball reaches pure rolling friction",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google"
+        ]
+      },
+      {
+        "label": "Billiard ball backspin and topspin",
+        "query": "billiard ball backspin topspin pure rolling friction physics",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Rod hinged at one end falling",
+        "query": "uniform rod hinged falling angular acceleration",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Ball-rod collision: angular momentum",
+        "query": "ball collides rod angular momentum collision rigid body",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google"
+        ]
+      },
+      {
+        "label": "Angular impulse and impulsive torque",
+        "query": "angular impulse impulsive torque change in angular momentum",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google"
+        ]
+      },
+      {
+        "label": "Toppling vs sliding of a block",
+        "query": "block toppling or sliding condition friction torque",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Rotational equilibrium and centre of mass",
+        "query": "rotational equilibrium net torque centre of mass problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Yo-yo and unwinding spool dynamics",
+        "query": "yo-yo spool unwinding string tension acceleration rotation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Two discs to a common angular velocity",
+        "query": "two discs rotating brought in contact common angular velocity",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google"
+        ]
+      },
+      {
+        "label": "Physical pendulum: rotation meets SHM",
+        "query": "physical pendulum moment of inertia time period",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "pse"
+        ]
+      },
+      {
+        "label": "Cylinder rolling on an accelerating plank",
+        "query": "cylinder rolling on accelerating plank friction",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google"
+        ]
+      },
+      {
+        "label": "Work-energy theorem for rotation",
+        "query": "work energy theorem rotational kinetic energy torque",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Angular velocity vector and v = omega x r",
+        "query": "angular velocity vector v equals omega cross r",
+        "level": "JEE Advanced",
+        "sources": [
+          "mse",
+          "pse"
+        ]
+      },
+      {
+        "label": "JEE Advanced PYQ: rigid-body rotation and rolling",
+        "query": "rotational motion rolling rigid body",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "JEE Advanced PYQ: angular momentum and collisions",
+        "query": "angular momentum conservation collision rigid body",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Hard practice: HC Verma and Irodov rotation",
+        "query": "HC Verma Irodov rotational dynamics hard problems",
+        "level": "Olympiad",
+        "sources": [
+          "google",
+          "pse",
+          "aops"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Gravitation",
+    "slug": "gravitation",
+    "subject": "Physics",
+    "group": "Mechanics",
+    "blurb": "A complete problem-and-resource pack for JEE Advanced Gravitation, spanning Newton's law and superposition through field/potential of mass distributions, the shell theorem, Kepler's laws, satellites, escape velocity, orbital energy, and the variation of g.",
+    "jeeWeight": "Medium",
+    "subtopics": [
+      "Newton's law of universal gravitation and the principle of superposition",
+      "Gravitational field strength of point masses, rings, shells and solid spheres",
+      "Gravitational potential and potential energy of mass distributions",
+      "Field and potential inside and outside spherical shells and solid spheres",
+      "Variation of g with altitude, depth, latitude and Earth's rotation",
+      "Kepler's three laws of planetary motion and their derivations",
+      "Orbital velocity, time period and the geosynchronous satellite",
+      "Escape velocity and the relation between escape and orbital speed",
+      "Total mechanical energy of a satellite and binding energy",
+      "Energy changes in orbit transfer and de-orbiting (air drag) problems",
+      "Gravitational self-energy of a sphere and assembly energy of mass systems",
+      "Weightlessness, apparent weight, and conditions in orbit and free fall",
+      "Areal velocity, angular momentum conservation, and elliptical orbits",
+      "Gravitational field as the negative gradient of potential"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced Official Archive — Past Question Papers",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "jeeadv.ac.in",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic past papers; mine Gravitation single/multiple-correct and integer questions with official solutions."
+      },
+      {
+        "title": "The Feynman Lectures Vol. I — Ch. 7: The Theory of Gravitation",
+        "url": "https://www.feynmanlectures.caltech.edu/I_07.html",
+        "source": "feynmanlectures.caltech.edu",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Feynman's conceptual derivation of Kepler's laws and the inverse-square law; superb lecture-prep narrative."
+      },
+      {
+        "title": "The Feynman Lectures Vol. I — Ch. 13: Work and Potential Energy",
+        "url": "https://www.feynmanlectures.caltech.edu/I_13.html",
+        "source": "feynmanlectures.caltech.edu",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Gravitational potential energy and escape-velocity reasoning from first principles."
+      },
+      {
+        "title": "HyperPhysics — Gravity Concept Map",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/grav.html",
+        "source": "hyperphysics.phy-astr.gsu.edu",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Linked concept map: Newton's law, field, potential, escape velocity, Kepler — quick formula cross-reference."
+      },
+      {
+        "title": "HyperPhysics — Index (search field, potential, orbits)",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/index.html",
+        "source": "hyperphysics.phy-astr.gsu.edu",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Master index to drill into satellite orbits, gravitational PE, and shell-theorem nodes."
+      },
+      {
+        "title": "MIT OCW 8.01SC Classical Mechanics (Gravitation & Kepler units)",
+        "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/",
+        "source": "ocw.mit.edu",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Lecture videos and problem sets on universal gravitation, orbits and energy; use the central-force weeks."
+      },
+      {
+        "title": "PhET Physics Simulations (Gravity & Orbits, Gravity Force Lab)",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=physics",
+        "source": "phet.colorado.edu",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Run 'Gravity and Orbits' and 'Gravity Force Lab' to demo inverse-square dependence and orbital motion in class."
+      },
+      {
+        "title": "NCERT Physics Textbooks (Class XI — Gravitation chapter)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "ncert.nic.in",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Baseline syllabus chapter; NCERT examples and exercises anchor every JEE Gravitation derivation."
+      },
+      {
+        "title": "Khan Academy — Gravitation search",
+        "url": "https://www.khanacademy.org/search?page_search_query=gravitation%20newton%20universal%20law",
+        "source": "khanacademy.org",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Foundational videos on universal gravitation, field, and orbits for first-pass learners."
+      },
+      {
+        "title": "Khan Academy — Kepler's laws & orbits search",
+        "url": "https://www.khanacademy.org/search?page_search_query=kepler%20laws%20orbital%20mechanics",
+        "source": "khanacademy.org",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Visual walkthroughs of Kepler's laws and orbital velocity with worked examples."
+      },
+      {
+        "title": "Brilliant — Courses (Classical Mechanics / Gravitational Physics)",
+        "url": "https://brilliant.org/courses/",
+        "source": "brilliant.org",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Interactive problem-led modules on orbits, central forces, and gravitational energy."
+      },
+      {
+        "title": "Wikipedia — search Gravitation topics",
+        "url": "https://en.wikipedia.org/w/index.php?search=shell%20theorem%20gravitational%20field",
+        "source": "en.wikipedia.org",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Rigorous articles on shell theorem, gravitational potential and Kepler's laws with full derivations."
+      },
+      {
+        "title": "Wikipedia — search Kepler orbit & gravitational energy",
+        "url": "https://en.wikipedia.org/w/index.php?search=gravitational%20potential%20energy%20kepler%20orbit",
+        "source": "en.wikipedia.org",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Orbital energy, elliptical-orbit geometry and binding-energy derivations for orbit-transfer problems."
+      },
+      {
+        "title": "Physics StackExchange — search Gravitation concepts",
+        "url": "https://physics.stackexchange.com/search?q=gravitational%20potential%20inside%20solid%20sphere",
+        "source": "physics.stackexchange.com",
+        "type": "Problem set",
+        "level": "JEE Advanced",
+        "note": "Community-vetted discussions on field/potential inside shells and solid spheres — great for conceptual traps."
+      },
+      {
+        "title": "Wolfram Alpha — compute orbital/escape quantities",
+        "url": "https://www.wolframalpha.com/input?i=escape%20velocity%20of%20earth",
+        "source": "wolframalpha.com",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Instant numeric checks: escape velocity, orbital period, satellite altitude, surface gravity of bodies."
+      },
+      {
+        "title": "Wolfram Alpha — Kepler third law / period from radius",
+        "url": "https://www.wolframalpha.com/input?i=orbital%20period%20from%20semi-major%20axis",
+        "source": "wolframalpha.com",
+        "type": "Tool",
+        "level": "JEE Advanced",
+        "note": "Verify T^2 proportional to a^3 numeric problems and geostationary-orbit radius calculations."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Newton's law of gravitation & force between point masses",
+        "query": "newton universal law of gravitation force between two point masses",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Superposition: net gravitational force from several masses",
+        "query": "net gravitational force superposition three point masses triangle",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Gravitational field of a uniform ring on its axis",
+        "query": "gravitational field on axis of uniform ring derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Field & potential inside and outside a spherical shell",
+        "query": "gravitational field potential inside outside spherical shell theorem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Field & potential inside a uniform solid sphere",
+        "query": "gravitational field potential inside uniform solid sphere",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Tunnel through the Earth — SHM and time to cross",
+        "query": "particle dropped in tunnel through earth simple harmonic motion",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Gravitational potential energy of a system of masses",
+        "query": "gravitational potential energy system of point masses assembly",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Self-energy of a uniform solid sphere",
+        "query": "gravitational self energy of uniform solid sphere derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Variation of g with altitude and depth",
+        "query": "variation of acceleration due to gravity with altitude depth",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Variation of g with latitude due to Earth's rotation",
+        "query": "variation of g with latitude earth rotation apparent weight",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Escape velocity derivation and dependence",
+        "query": "escape velocity derivation from surface and from height",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Escape velocity from a planet of given density/radius",
+        "query": "escape velocity in terms of density and radius of planet",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Orbital velocity and period of a satellite",
+        "query": "orbital velocity time period of satellite circular orbit",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Geostationary / geosynchronous satellite orbit",
+        "query": "geostationary satellite orbit radius altitude calculation",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Total energy and binding energy of a satellite",
+        "query": "total energy binding energy of satellite in circular orbit",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Energy required to raise a satellite to a higher orbit",
+        "query": "energy to shift satellite from one circular orbit to another",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Satellite losing energy to air drag (orbital decay)",
+        "query": "satellite air resistance orbit decreases speed increases energy",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Kepler's first law — elliptical orbits and foci",
+        "query": "kepler first law derivation elliptical orbit inverse square",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Kepler's second law — areal velocity & angular momentum",
+        "query": "kepler second law areal velocity conservation angular momentum",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Kepler's third law — T^2 proportional to a^3 problems",
+        "query": "kepler third law period semi major axis problems",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Speeds at perigee and apogee of an elliptical orbit",
+        "query": "velocity at perigee apogee elliptical orbit energy angular momentum conservation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Gravitational potential due to a ring, disc and rod",
+        "query": "gravitational potential on axis of ring disc rod derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Weightlessness in orbit and apparent weight in a lift",
+        "query": "weightlessness satellite apparent weight free fall problem",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Cavity inside a sphere — field via the shifted-sphere trick",
+        "query": "gravitational field inside spherical cavity in solid sphere",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Projectile thrown with speed less than escape velocity",
+        "query": "maximum height of body projected with given speed gravitation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Two particles released from rest under mutual gravitation",
+        "query": "two masses released from rest mutual gravitation speed when distance halved",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Effective gravity and pendulum period on another planet",
+        "query": "value of g on planet effective gravity pendulum period",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Gravitational field as the negative gradient of potential",
+        "query": "gravitational field intensity negative gradient of potential relation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Binary star system — period from Newtonian gravitation",
+        "query": "binary star system period two masses gravitation circular orbit common centre",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Mixed JEE Advanced gravitation full problem set",
+        "query": "gravitation JEE Advanced multiple correct integer type problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Kepler & orbital-energy conceptual MCQ traps",
+        "query": "satellite orbit energy kepler conceptual mcq common mistakes",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Acceleration due to gravity from mass and radius",
+        "query": "relation acceleration due to gravity mass radius density of planet",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Mechanical Properties of Solids (Elasticity)",
+    "slug": "elasticity",
+    "subject": "Physics",
+    "group": "Mechanics",
+    "blurb": "A compact, link-durable pack covering stress-strain behavior, the elastic moduli, elastic energy, Poisson ratio, and thermal stress for JEE Advanced.",
+    "jeeWeight": "Medium",
+    "subtopics": [
+      "Stress and strain (longitudinal, volumetric, shear)",
+      "Stress-strain curve and elastic limit",
+      "Hooke's law and elastic constants",
+      "Young's modulus",
+      "Bulk modulus and compressibility",
+      "Shear (rigidity) modulus",
+      "Poisson's ratio",
+      "Relations between elastic moduli",
+      "Elastic potential energy and strain energy density",
+      "Thermal stress and thermal strain",
+      "Elongation of wires under load and self-weight",
+      "Composite and series/parallel wire systems",
+      "Breaking stress and factor of safety",
+      "Wire as a spring (k = YA/L) and oscillations",
+      "Elastic hysteresis, fatigue and after-effect"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced Official Past Papers Archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "JEE Advanced (IIT)",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authoritative source for past Advanced papers; mine Mechanics sections for elasticity-based numericals."
+      },
+      {
+        "title": "HyperPhysics: Elasticity and Stress-Strain Concept Map",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/permot3.html",
+        "source": "Georgia State University",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Visual concept map linking stress, strain, and the Young/bulk/shear moduli with formulas."
+      },
+      {
+        "title": "HyperPhysics Index (search elasticity, Young's modulus, shear)",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/index.html",
+        "source": "Georgia State University",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Top-level hub; navigate to Elasticity, Bulk Modulus, and Hooke's Law nodes for quick concept recall."
+      },
+      {
+        "title": "The Feynman Lectures Vol II Ch.38 - Elasticity",
+        "url": "https://www.feynmanlectures.caltech.edu/II_38.html",
+        "source": "Caltech / Feynman Lectures",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Rigorous treatment of moduli, Poisson ratio, and elastic-constant relations; gold-standard conceptual depth."
+      },
+      {
+        "title": "The Feynman Lectures Vol II Ch.39 - Elastic Materials",
+        "url": "https://www.feynmanlectures.caltech.edu/II_39.html",
+        "source": "Caltech / Feynman Lectures",
+        "type": "Reference",
+        "level": "Olympiad",
+        "note": "Strain tensor and elastic energy density for the strongest students wanting beyond-syllabus grounding."
+      },
+      {
+        "title": "MIT OCW 8.01SC Classical Mechanics",
+        "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Use the springs/Hooke's-law and energy modules to anchor elastic-energy and force-extension reasoning."
+      },
+      {
+        "title": "PhET Physics Simulations (Hooke's Law / Masses & Springs)",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=physics",
+        "source": "PhET / University of Colorado",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Run the Hooke's-Law and Masses-and-Springs sims to demonstrate linear force-extension and stored energy."
+      },
+      {
+        "title": "Khan Academy: Stress, Strain and Elastic Modulus",
+        "url": "https://www.khanacademy.org/search?page_search_query=stress%20strain%20elastic%20modulus",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Foundational explainers and practice for stress-strain definitions and Young's modulus."
+      },
+      {
+        "title": "Khan Academy: Young's Modulus and Hooke's Law",
+        "url": "https://www.khanacademy.org/search?page_search_query=Young%20modulus%20Hooke%20law",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Direct search landing for elastic-modulus lessons; good for first-pass conceptual clarity."
+      },
+      {
+        "title": "Brilliant Courses (Classical Mechanics / Materials)",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Interactive problem-solving in mechanics; pick the springs/materials units for guided elasticity practice."
+      },
+      {
+        "title": "NCERT Class 11 Physics Textbooks (Mechanical Properties of Solids)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Baseline syllabus text; the chapter exercises are the canonical starting problem set."
+      },
+      {
+        "title": "Wikipedia search: elastic modulus / Poisson ratio / thermal stress",
+        "url": "https://en.wikipedia.org/w/index.php?search=elastic%20modulus%20Poisson%20ratio%20thermal%20stress",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Quick reference for modulus relations and definitions; cross-check formulae and SI units."
+      },
+      {
+        "title": "Wikipedia: relations among Young, bulk, shear modulus and Poisson ratio",
+        "url": "https://en.wikipedia.org/w/index.php?search=relation%20between%20Young%20bulk%20shear%20modulus%20Poisson%20ratio",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "The conversion table among E, K, G and Poisson ratio - a frequent Advanced single-correct/matching theme."
+      },
+      {
+        "title": "Physics StackExchange: elasticity Q&A search",
+        "url": "https://physics.stackexchange.com/search?q=Young%20modulus%20stress%20strain%20elasticity",
+        "source": "Physics StackExchange",
+        "type": "Search",
+        "level": "JEE Advanced",
+        "note": "Conceptual edge cases (why shear modulus is zero for fluids, sign conventions) explained by experts."
+      },
+      {
+        "title": "Physics StackExchange: Poisson ratio and thermal stress search",
+        "url": "https://physics.stackexchange.com/search?q=Poisson%20ratio%20thermal%20stress%20rod%20clamped",
+        "source": "Physics StackExchange",
+        "type": "Search",
+        "level": "JEE Advanced",
+        "note": "Targeted discussions on clamped-rod thermal stress and Poisson-ratio subtleties."
+      },
+      {
+        "title": "Wolfram Alpha: compute elongation / stress / strain",
+        "url": "https://www.wolframalpha.com/input?i=Young%20modulus%20stress%20strain%20elongation%20calculator",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Plug in F, A, L, Y to verify elongation and stress numerics quickly during problem-set design."
+      },
+      {
+        "title": "Wolfram Alpha: thermal stress in a clamped rod",
+        "url": "https://www.wolframalpha.com/input?i=thermal%20stress%20Y%20alpha%20delta%20T%20clamped%20rod",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "JEE Advanced",
+        "note": "Evaluate Y*alpha*deltaT thermal-stress expressions and sanity-check answer magnitudes."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Stress and strain basics: definitions and units",
+        "query": "stress strain longitudinal volumetric shear definition units",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Stress-strain curve: elastic limit, yield, breaking point",
+        "query": "stress strain curve elastic limit yield point breaking stress",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Hooke's law and the proportional limit",
+        "query": "Hooke law proportional limit elastic behaviour solids",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Young's modulus and elongation of a loaded wire",
+        "query": "Young modulus loaded wire elongation F L A Y calculation",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Elongation of a wire under its own weight",
+        "query": "elongation wire due to its own weight self weight",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pse",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Bulk modulus and compressibility of a material",
+        "query": "bulk modulus compressibility volumetric strain pressure",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Shear (rigidity) modulus and shear strain",
+        "query": "shear modulus rigidity modulus shear strain angle problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Poisson's ratio: lateral vs longitudinal strain",
+        "query": "Poisson ratio lateral longitudinal strain definition range",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Relation between Y, K, G and Poisson ratio",
+        "query": "relation Young bulk shear modulus Poisson ratio derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pse",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Volume change of a wire under tension (Poisson)",
+        "query": "volume change wire under tension Poisson ratio problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Elastic potential energy and work to stretch a wire",
+        "query": "elastic potential energy stretched wire half stress strain work",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Strain energy density (energy per unit volume)",
+        "query": "strain energy density energy per unit volume elastic",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pse",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Thermal stress in a rigidly clamped rod",
+        "query": "thermal stress clamped rod Y alpha delta T heated",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pse",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Thermal strain and force on supports with temperature change",
+        "query": "thermal strain force on walls rod heated cooled supports",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Composite wire: two materials joined in series",
+        "query": "composite wire two materials series elongation Young modulus",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pse",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Parallel wires sharing a load (equal extension)",
+        "query": "two wires parallel sharing load equal extension stress ratio",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pse",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Breaking stress, breaking load and factor of safety",
+        "query": "breaking stress breaking load factor of safety wire problem",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Maximum length a wire can hang before breaking",
+        "query": "maximum length wire hang before breaking under own weight",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pse",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Stress in a rotating rod or ring (radial tension)",
+        "query": "stress rotating rod ring tension elasticity angular velocity",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pse",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Wire as a spring: oscillation period via Young's modulus",
+        "query": "wire spring constant Young modulus oscillation period mass SHM",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Effective spring constant of a wire (k = YA/L)",
+        "query": "wire effective spring constant Y A L combination problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Stress in a hanging rope/cable of finite mass",
+        "query": "tension stress hanging rope finite mass varying along length",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pse",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Pressure-induced volume strain in deep sea / fluid",
+        "query": "bulk modulus volume strain deep sea pressure depth problem",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Combined load + temperature change on a fixed rod",
+        "query": "rod fixed both ends load and temperature change stress",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pse",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Work done from the force-extension graph (area method)",
+        "query": "work done stretching wire area under force extension graph",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Elastic after-effect, elastic fatigue and hysteresis",
+        "query": "elastic after effect elastic fatigue hysteresis loop solids",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "pse"
+        ]
+      },
+      {
+        "label": "Comparing elasticity of steel vs rubber vs copper",
+        "query": "which is more elastic steel rubber copper Young modulus comparison",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Energy and heat dissipated when a load is suddenly applied",
+        "query": "sudden load wire elastic energy heat dissipated factor two",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pse",
+          "pyq"
+        ]
+      },
+      {
+        "label": "JEE Advanced past elasticity numericals (mixed)",
+        "query": "elasticity Young modulus stress strain JEE Advanced previous year",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Derive the modulus relations E = 2G(1+nu) = 3K(1-2nu)",
+        "query": "derive relation E 2G 1 plus nu 3K 1 minus 2nu",
+        "level": "Olympiad",
+        "sources": [
+          "mse",
+          "pse",
+          "google"
+        ]
+      },
+      {
+        "label": "Stepped rod: total elongation under axial loads",
+        "query": "stepped rod different cross sections axial load total elongation",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pse",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Stress in a stretched conical / tapering rod",
+        "query": "elongation tapering conical rod variable cross section integral",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pse",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Limiting values and physical bounds of Poisson's ratio",
+        "query": "Poisson ratio limits range -1 to 0.5 physical meaning",
+        "level": "Olympiad",
+        "sources": [
+          "mse",
+          "pse",
+          "google"
+        ]
+      },
+      {
+        "label": "Block on inclined wire: elongation setups",
+        "query": "block on incline connected by wire elongation Young modulus",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pse",
+          "pyq"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Fluid Mechanics",
+    "slug": "fluid-mechanics",
+    "subject": "Physics",
+    "group": "Mechanics",
+    "blurb": "A high-yield mechanics chapter where hydrostatics, buoyancy, Bernoulli flow and surface tension reward students who can set up force/pressure balances cleanly under exam pressure.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Hydrostatic pressure and pressure variation with depth",
+      "Pascal's law and hydraulic press / lift",
+      "Gauge vs absolute pressure, barometer and manometer",
+      "Archimedes' principle and buoyant force",
+      "Floatation, apparent weight and stability of floating bodies",
+      "Pressure in accelerating and rotating fluids (free surface)",
+      "Equation of continuity (mass conservation in flow)",
+      "Bernoulli's theorem and its applications (Venturi, Pitot, atomizer)",
+      "Efflux and Torricelli's theorem",
+      "Viscosity and Newton's law of viscous flow",
+      "Stokes' law and terminal velocity",
+      "Poiseuille flow and flow rate through a tube",
+      "Surface tension, surface energy and excess pressure (drops/bubbles)",
+      "Capillarity and Jurin's law",
+      "Reynolds number and laminar vs turbulent flow"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced official past papers archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "jeeadv.ac.in",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Pull every year's question papers and answer keys; fluid mechanics appears regularly in mechanics sections."
+      },
+      {
+        "title": "The Feynman Lectures on Physics (free full text)",
+        "url": "https://www.feynmanlectures.caltech.edu/",
+        "source": "Caltech",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Volume II Ch. 40-41 on dry/wet water gives the deepest intuition for hydrostatics, Bernoulli and viscosity."
+      },
+      {
+        "title": "HyperPhysics: Fluids concept map",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/pflu.html",
+        "source": "Georgia State University",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "One-page hub linking pressure, buoyancy, Bernoulli, viscosity and surface tension formulas with derivations."
+      },
+      {
+        "title": "HyperPhysics index (full concept map)",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/index.html",
+        "source": "Georgia State University",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Master index; jump to Pressure, Bernoulli equation, Poiseuille and surface tension nodes for quick formula recall."
+      },
+      {
+        "title": "MIT OCW 8.01SC Classical Mechanics",
+        "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Fluid statics and dynamics lecture notes/problem sets sit within this mechanics course; use the fluids week."
+      },
+      {
+        "title": "PhET physics simulations (filter)",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=physics",
+        "source": "PhET / CU Boulder",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Use 'Under Pressure' and 'Fluid Pressure and Flow' sims to demo Pascal, depth-pressure and continuity live in class."
+      },
+      {
+        "title": "Khan Academy: fluids search",
+        "url": "https://www.khanacademy.org/search?page_search_query=fluids%20pressure%20buoyancy%20Bernoulli",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Video playlist on density, pressure, buoyancy and Bernoulli for foundational revision before harder problems."
+      },
+      {
+        "title": "Brilliant courses (fluids / mechanics)",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Interactive classical-mechanics and pressure courses good for building conceptual problem-solving habits."
+      },
+      {
+        "title": "NCERT textbooks (Physics Class XI)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Class XI Part II 'Mechanical Properties of Fluids' is the syllabus baseline; download chapter PDF + examples."
+      },
+      {
+        "title": "Physics StackExchange: Bernoulli search",
+        "url": "https://physics.stackexchange.com/search?q=Bernoulli%20equation%20fluid%20flow",
+        "source": "Physics StackExchange",
+        "type": "Search",
+        "level": "JEE Advanced",
+        "note": "Expert threads clearing up Bernoulli misconceptions (lift, energy form, when it fails) that trip up toppers."
+      },
+      {
+        "title": "Physics StackExchange: surface tension & capillarity search",
+        "url": "https://physics.stackexchange.com/search?q=surface%20tension%20capillary%20rise%20excess%20pressure",
+        "source": "Physics StackExchange",
+        "type": "Search",
+        "level": "JEE Advanced",
+        "note": "Discussions on excess pressure in drops vs bubbles and Jurin's law subtleties for tricky surface-tension problems."
+      },
+      {
+        "title": "Wikipedia: Bernoulli's principle",
+        "url": "https://en.wikipedia.org/wiki/Bernoulli%27s_principle",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Clean statement, assumptions and derivation with references; good for the full energy form and applications."
+      },
+      {
+        "title": "Wikipedia search: fluid mechanics topics",
+        "url": "https://en.wikipedia.org/w/index.php?search=hydrostatic%20pressure%20Archimedes%20viscosity%20Stokes%20law",
+        "source": "Wikipedia",
+        "type": "Search",
+        "level": "Mixed",
+        "note": "Jump to Archimedes' principle, Stokes' law, Poiseuille's law and surface tension articles for definitions/derivations."
+      },
+      {
+        "title": "Wolfram Alpha: terminal velocity (Stokes) compute",
+        "url": "https://www.wolframalpha.com/input?i=terminal%20velocity%20sphere%20Stokes%20law",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "JEE Advanced",
+        "note": "Plug radius, densities and viscosity to check terminal-velocity numeric answers instantly."
+      },
+      {
+        "title": "Wolfram Alpha: capillary rise compute",
+        "url": "https://www.wolframalpha.com/input?i=capillary%20rise%20height%20formula%20surface%20tension",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Quick sanity-check tool for Jurin's-law numbers and unit handling in surface-tension problems."
+      },
+      {
+        "title": "Khan Academy: Pascal's principle & buoyancy search",
+        "url": "https://www.khanacademy.org/search?page_search_query=Pascal%20principle%20Archimedes%20buoyant%20force",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Targeted videos on hydraulic press and floatation for students who need the conceptual base before JEE-level drills."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Hydrostatic pressure variation with depth",
+        "query": "hydrostatic pressure variation with depth in liquid",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Pressure in connected vessels / U-tube",
+        "query": "pressure in connected vessels U-tube different liquids",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Pascal's law and hydraulic press",
+        "query": "Pascal law hydraulic press lift force ratio",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Manometer and barometer pressure problems",
+        "query": "manometer barometer gauge pressure",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Force and torque on a dam / vertical wall",
+        "query": "force and torque on dam wall due to liquid pressure",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Archimedes buoyancy and apparent weight",
+        "query": "Archimedes principle buoyant force apparent weight",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Floating body fraction submerged",
+        "query": "floating body fraction submerged density relative",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Iceberg / ice melting and water level change",
+        "query": "ice melting in water level change buoyancy",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Buoyancy with block and spring / string",
+        "query": "block submerged spring string tension buoyancy",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Stability of floating bodies",
+        "query": "stability of floating body conditions tilt restoring torque",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Pressure in accelerating liquid container",
+        "query": "pressure in horizontally accelerating liquid container free surface slope",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Rotating liquid free surface (parabola)",
+        "query": "rotating cylinder liquid free surface parabola pressure",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Equation of continuity and flow speed",
+        "query": "equation of continuity fluid flow area velocity",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Bernoulli theorem derivation and applications",
+        "query": "Bernoulli theorem derivation applications",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Venturimeter flow rate problems",
+        "query": "venturimeter flow rate pressure difference",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Pitot tube and dynamic pressure",
+        "query": "Pitot tube dynamic pressure fluid speed",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Torricelli efflux from a tank",
+        "query": "Torricelli theorem efflux velocity tank hole range",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Efflux with falling level / time to empty tank",
+        "query": "time to empty tank efflux varying height",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Siphon working via Bernoulli",
+        "query": "siphon physics Bernoulli flow rate",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Viscosity and Newton's law of viscous force",
+        "query": "viscosity Newton law viscous force velocity gradient",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Stokes law and terminal velocity of sphere",
+        "query": "Stokes law terminal velocity sphere falling liquid",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Terminal velocity with buoyancy and drag",
+        "query": "terminal velocity sphere buoyancy viscous drag derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Poiseuille flow rate through a tube",
+        "query": "Poiseuille equation flow rate tube radius pressure",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Reynolds number: laminar vs turbulent",
+        "query": "Reynolds number laminar turbulent flow critical velocity",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Surface tension and surface energy",
+        "query": "surface tension surface energy work done forming drop",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Excess pressure inside drop and bubble",
+        "query": "excess pressure inside soap bubble liquid drop surface tension",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Coalescing drops: energy and radius",
+        "query": "n drops coalesce into bigger drop energy released surface tension",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Capillary rise and Jurin's law",
+        "query": "capillary rise Jurin law surface tension contact angle",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Capillary tube shorter than rise height",
+        "query": "capillary tube shorter than rise height liquid does not overflow",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Two soap bubbles connected by a tube",
+        "query": "two soap bubbles connected by tube air flow radius",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Fluid mechanics mixed JEE Advanced PYQ set",
+        "query": "fluid mechanics",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "HC Verma / Irodov fluid mechanics practice",
+        "query": "HC Verma Irodov fluid mechanics solved problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Hardest in-syllabus fluid statics combos",
+        "query": "advanced fluid statics buoyancy pressure tricky problems",
+        "level": "Olympiad",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Toughest surface tension + capillarity problems",
+        "query": "tough surface tension capillarity problems with solutions",
+        "level": "Olympiad",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Simple Harmonic Motion",
+    "slug": "simple-harmonic-motion",
+    "subject": "Physics",
+    "group": "Waves & Thermal",
+    "blurb": "A foundational oscillations chapter that recurs in nearly every JEE Advanced paper, rewarding students who master spring combinations, energy methods, and the small-angle pendulum approximations before moving on to waves.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "SHM differential equation and solutions x = A sin(ωt + φ)",
+      "Phase, amplitude, angular frequency and time period",
+      "Velocity, acceleration and phase relations in SHM",
+      "Spring-mass systems and effective spring constant",
+      "Series and parallel combinations of springs",
+      "Simple pendulum and small-angle approximation",
+      "Physical (compound) pendulum and radius of gyration",
+      "Torsional pendulum and angular SHM",
+      "Energy in SHM: kinetic, potential and total energy",
+      "Equilibrium, restoring force and SHM about a mean position",
+      "Damped oscillations and damping coefficient",
+      "Forced oscillations and resonance",
+      "Superposition of two SHMs along a line",
+      "Lissajous figures from perpendicular SHMs",
+      "SHM in fluids, floating bodies and tunnel-through-Earth problems"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced Official Past Papers Archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "IIT JEE Advanced",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic question papers and answer keys; mine the Mechanics sections for SHM, springs, pendulum and resonance problems."
+      },
+      {
+        "title": "MIT OCW 8.03 Vibrations and Waves",
+        "url": "https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Lewin's lectures open with free, damped, and driven harmonic oscillators - the cleanest treatment of resonance for SHM."
+      },
+      {
+        "title": "MIT OCW 8.01 Classical Mechanics",
+        "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "JEE Main",
+        "note": "Use the oscillations unit for the spring-mass derivation and energy-in-SHM foundations before the harder 8.03 material."
+      },
+      {
+        "title": "Feynman Lectures Vol I Ch.21-24: The Harmonic Oscillator",
+        "url": "https://www.feynmanlectures.caltech.edu/I_21.html",
+        "source": "Caltech / Feynman",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Chapters 21-24 derive SHM, forced oscillation, resonance and transients from first principles; free full text."
+      },
+      {
+        "title": "HyperPhysics: Periodic Motion concept map",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/permot.html",
+        "source": "Georgia State University",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Compact formula maps on SHM, springs, simple and physical pendulums, energy and resonance, all cross-linked."
+      },
+      {
+        "title": "PhET Masses and Springs simulation",
+        "url": "https://phet.colorado.edu/en/simulations/masses-and-springs",
+        "source": "University of Colorado Boulder",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Vary mass and spring constant to see period dependence and watch kinetic-potential energy exchange live."
+      },
+      {
+        "title": "PhET Pendulum Lab simulation",
+        "url": "https://phet.colorado.edu/en/simulations/pendulum-lab",
+        "source": "University of Colorado Boulder",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Test how period depends on length, gravity and amplitude, and where the small-angle approximation breaks."
+      },
+      {
+        "title": "NCERT Physics Class 11 (Oscillations chapter)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Open the Class 11 Physics Part II PDF; the Oscillations chapter is the syllabus baseline and source of many in-text problems."
+      },
+      {
+        "title": "Khan Academy: Simple Harmonic Motion",
+        "url": "https://www.khanacademy.org/science/physics/oscillatory-motion-and-waves",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Video walkthroughs of SHM equations, springs and pendulums with worked practice for shoring up fundamentals."
+      },
+      {
+        "title": "OpenStax University Physics Vol 1: Oscillations",
+        "url": "https://openstax.org/books/university-physics-volume-1/pages/15-introduction",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Free chapter covering SHM, energy, pendulums, damped and forced oscillations with derivations and end-of-section problems."
+      },
+      {
+        "title": "LibreTexts: Oscillations and the Harmonic Oscillator",
+        "url": "https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/Book%3A_University_Physics_I_-_Mechanics_Sound_Oscillations_and_Waves_(OpenStax)/15%3A_Oscillations",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Effective spring constant, energy methods, damped and driven oscillators with full derivations and quality factor."
+      },
+      {
+        "title": "Wikipedia: Simple Harmonic Motion",
+        "url": "https://en.wikipedia.org/wiki/Simple_harmonic_motion",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Survey article linking SHM, the harmonic oscillator, damping and resonance with full mathematical treatment."
+      },
+      {
+        "title": "Wikipedia: Harmonic Oscillator (damped and driven)",
+        "url": "https://en.wikipedia.org/wiki/Harmonic_oscillator",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Quality factor, underdamped vs overdamped regimes and resonance curves - the in-syllabus qualitative end of SHM."
+      },
+      {
+        "title": "Wikipedia: Pendulum (mechanics)",
+        "url": "https://en.wikipedia.org/wiki/Pendulum_(mechanics)",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Derivations for simple, physical and torsional pendulums including radius-of-gyration and equivalent-length results."
+      },
+      {
+        "title": "Wolfram Alpha: solve SHM differential equation",
+        "url": "https://www.wolframalpha.com/input?i=solve+x%27%27+%2B+w%5E2+x+%3D+0",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "JEE Advanced",
+        "note": "Compute and verify oscillator solutions, periods, and damped-oscillation roots; great for checking derived expressions."
+      },
+      {
+        "title": "Wolfram Alpha: period of a physical pendulum",
+        "url": "https://www.wolframalpha.com/input?i=period+of+a+physical+pendulum",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "JEE Advanced",
+        "note": "Plug in moment of inertia and pivot distance to confirm physical and torsional pendulum time-period answers."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "SHM equation: amplitude, phase and angular frequency from x(t)",
+        "query": "simple harmonic motion equation amplitude phase angular frequency",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Velocity and acceleration as functions of displacement in SHM",
+        "query": "SHM velocity acceleration as function of displacement",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "pse"
+        ]
+      },
+      {
+        "label": "Determine whether a given force law produces SHM",
+        "query": "test whether motion is simple harmonic restoring force proportional displacement",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Block on a spring: time period and effective spring constant",
+        "query": "spring mass system time period effective spring constant",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Springs in series and parallel: combined oscillation period",
+        "query": "springs in series parallel combination time period oscillation",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "pse"
+        ]
+      },
+      {
+        "label": "Cut-spring problem: spring constant of a fraction of a spring",
+        "query": "spring cut into parts spring constant SHM problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Two-block spring system and reduced mass oscillation",
+        "query": "two block spring system reduced mass oscillation frequency",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Spring-mass on an inclined plane and shifted mean position",
+        "query": "spring block on incline SHM time period mean position",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "pse"
+        ]
+      },
+      {
+        "label": "Simple pendulum: period and small-angle approximation",
+        "query": "simple pendulum time period small angle approximation derivation",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Pendulum period inside an accelerating frame or lift",
+        "query": "simple pendulum time period accelerating lift effective gravity",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Physical (compound) pendulum: period and equivalent length",
+        "query": "physical compound pendulum time period moment of inertia equivalent length",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "pse"
+        ]
+      },
+      {
+        "label": "Torsional pendulum and angular SHM",
+        "query": "torsional pendulum angular SHM time period torsional constant",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Energy in SHM: kinetic, potential and total energy variation",
+        "query": "energy in simple harmonic motion kinetic potential total energy",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Average kinetic and potential energy over a cycle",
+        "query": "average kinetic potential energy over one period SHM",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Finding the SHM time period using the energy method",
+        "query": "find SHM time period using energy conservation method",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Floating body / liquid column oscillation as SHM",
+        "query": "floating cylinder liquid column oscillation SHM time period",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Tunnel through the Earth: oscillation period",
+        "query": "particle oscillation tunnel through earth SHM time period",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "U-tube liquid oscillation time period",
+        "query": "liquid oscillation U tube SHM time period derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Damped harmonic oscillator: amplitude decay and damping coefficient",
+        "query": "damped harmonic oscillator amplitude decay damping coefficient",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Underdamped, critically damped and overdamped regimes",
+        "query": "underdamped critically damped overdamped oscillation comparison",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Forced oscillation, driving frequency and steady-state amplitude",
+        "query": "forced oscillation driven harmonic oscillator steady state amplitude",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Resonance and quality factor in oscillations",
+        "query": "resonance condition quality factor forced oscillation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Superposition of two SHMs along the same line",
+        "query": "superposition of two simple harmonic motions same direction resultant amplitude",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Perpendicular SHMs and Lissajous figures",
+        "query": "perpendicular simple harmonic motions Lissajous figures",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Phasor / rotating vector representation of SHM",
+        "query": "phasor rotating vector representation simple harmonic motion",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "SHM of a charged particle under an electrostatic restoring force",
+        "query": "charged particle SHM electrostatic restoring force frequency",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Solving the SHM differential equation rigorously",
+        "query": "solve differential equation x double dot plus omega squared x equals zero",
+        "level": "JEE Advanced",
+        "sources": [
+          "mse",
+          "pse",
+          "google"
+        ]
+      },
+      {
+        "label": "Time to travel between two points in SHM using phase",
+        "query": "time taken to move between two displacements SHM phase method",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "SHM and oscillations JEE Advanced previous year questions",
+        "query": "simple harmonic motion oscillations chapter",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Spring and pendulum PYQ set from JEE Advanced papers",
+        "query": "spring mass pendulum oscillations",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Damped and forced oscillation PYQs and JEE-level problems",
+        "query": "damped forced oscillation resonance",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Angular frequency of a body oscillating in a fluid with buoyancy",
+        "query": "buoyancy oscillation block floating liquid SHM angular frequency",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Waves & Sound",
+    "slug": "waves-sound",
+    "subject": "Physics",
+    "group": "Waves & Thermal",
+    "blurb": "A high-yield mechanical-waves toolkit covering the wave equation, standing waves on strings and in pipes, beats, resonance, and the Doppler effect, with JEE Advanced level problems and free derivations.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "1D wave equation and its general solution",
+      "Travelling waves: phase, wave speed, wavenumber and angular frequency",
+      "Speed of transverse waves on a stretched string",
+      "Speed of longitudinal (sound) waves in gases (Newton-Laplace formula)",
+      "Principle of superposition and interference of waves",
+      "Standing waves on strings: nodes, antinodes and harmonics",
+      "Resonance in open and closed organ pipes (end correction)",
+      "Beats and beat frequency",
+      "Doppler effect for sound (moving source, observer and medium)",
+      "Intensity, loudness and the decibel scale",
+      "Energy and power transported by a travelling wave",
+      "Reflection and transmission of waves at boundaries",
+      "Sonometer, Melde's experiment and resonance-tube methods",
+      "Quincke's tube and path-difference interference"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced Official Past Papers Archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "jeeadv.ac.in",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Official question papers and answer keys; mine the mechanics/waves problems each year for authentic Doppler, beats and standing-wave questions."
+      },
+      {
+        "title": "MIT OCW 8.03SC Physics III: Vibrations & Waves",
+        "url": "https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "The single best free course for this chapter: wave equation, travelling/standing waves, beats and Doppler with lecture videos and problem sets."
+      },
+      {
+        "title": "MIT OCW 8.01SC Classical Mechanics",
+        "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "JEE Main",
+        "note": "Foundational mechanics (tension, oscillations, energy) underpinning string-wave speed and SHM-driven wave sources."
+      },
+      {
+        "title": "The Feynman Lectures on Physics (free full text)",
+        "url": "https://www.feynmanlectures.caltech.edu/",
+        "source": "Caltech",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Vol. I Ch. 47-51 give physical insight into sound, beats, harmonics and the Doppler effect; superb for conceptual depth."
+      },
+      {
+        "title": "HyperPhysics: Sound & Hearing concept map",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/index.html",
+        "source": "Georgia State University",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Open the Sound and Waves trees for compact formulas on wave speed, standing waves, organ pipes, beats, intensity and Doppler shift."
+      },
+      {
+        "title": "PhET Physics Simulations (Wave on a String, Sound, Fourier)",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=physics",
+        "source": "University of Colorado Boulder",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Run Wave on a String, Waves Intro and Sound Waves sims to visualise reflection at fixed/free ends, standing waves, beats and interference."
+      },
+      {
+        "title": "NCERT Physics Textbooks (Class 11 Waves chapter)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Class 11 Physics Part II Ch. 15 'Waves' is the baseline syllabus text; download the PDF for definitions, formulas and solved examples."
+      },
+      {
+        "title": "Khan Academy: Mechanical Waves & Sound search",
+        "url": "https://www.khanacademy.org/search?page_search_query=mechanical%20waves%20and%20sound",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Free guided videos and practice on wave properties, standing waves, beats and the Doppler effect for building fundamentals."
+      },
+      {
+        "title": "Khan Academy: Doppler effect search",
+        "url": "https://www.khanacademy.org/search?page_search_query=Doppler%20effect%20sound",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Targeted Doppler-effect explainers covering moving-source vs moving-observer sign conventions."
+      },
+      {
+        "title": "Brilliant Courses (Waves & Mechanics)",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Interactive waves and oscillations courses with guided problem-solving useful for the harder superposition and resonance items."
+      },
+      {
+        "title": "Wikipedia: Doppler effect (search)",
+        "url": "https://en.wikipedia.org/w/index.php?search=Doppler%20effect",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "General-case Doppler formula with full derivation and sign conventions; cross-check the moving-medium (wind) variant."
+      },
+      {
+        "title": "Wikipedia: Standing wave (search)",
+        "url": "https://en.wikipedia.org/w/index.php?search=standing%20wave%20harmonics%20string%20pipe",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Derivation of normal modes for strings and open/closed pipes, including end-correction discussion."
+      },
+      {
+        "title": "Physics StackExchange: standing waves on a string (search)",
+        "url": "https://physics.stackexchange.com/search?q=standing%20waves%20string%20boundary%20conditions",
+        "source": "Physics StackExchange",
+        "type": "Search",
+        "level": "JEE Advanced",
+        "note": "Expert Q&A on fixed vs free ends, harmonic content and why tension/density set the fundamental frequency."
+      },
+      {
+        "title": "Physics StackExchange: Doppler effect subtleties (search)",
+        "url": "https://physics.stackexchange.com/search?q=Doppler%20effect%20moving%20source%20observer%20wind",
+        "source": "Physics StackExchange",
+        "type": "Search",
+        "level": "JEE Advanced",
+        "note": "Resolves common confusions on reflection off moving walls, wind-affected Doppler and combined source+observer motion."
+      },
+      {
+        "title": "Wolfram Alpha: beat frequency / Doppler compute",
+        "url": "https://www.wolframalpha.com/input?i=beat%20frequency%20of%20two%20sound%20waves",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Plug in two frequencies for an instant beat-frequency, or query a Doppler-shifted frequency to verify numerical answers."
+      },
+      {
+        "title": "Wolfram Alpha: standing wave / organ pipe frequency compute",
+        "url": "https://www.wolframalpha.com/input?i=fundamental%20frequency%20of%20a%20closed%20organ%20pipe",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Compute harmonic frequencies, the wave speed v=f*lambda and string-tension relations to self-check homework numbers."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Travelling wave equation: phase, speed and direction",
+        "query": "transverse travelling wave equation phase velocity direction of propagation",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Writing y(x,t) from a wave shape and verifying the wave equation",
+        "query": "verify wave equation second derivative y(x,t) wave speed",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Particle velocity vs wave velocity on a string",
+        "query": "particle velocity versus wave velocity transverse string graph slope",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Speed of a transverse wave on a stretched string (tension and mu)",
+        "query": "speed of transverse wave on string tension linear mass density derivation",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Power and energy transported by a travelling wave on a string",
+        "query": "average power energy transported transverse wave on string formula",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Speed of sound in gases: Newton-Laplace and temperature dependence",
+        "query": "speed of sound in gas Newton Laplace adiabatic temperature dependence",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Superposition and interference: path difference and phase difference",
+        "query": "superposition interference of sound waves path difference phase difference",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Two coherent sources: resultant amplitude and intensity addition",
+        "query": "resultant amplitude intensity two coherent sound sources phasor",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Reflection of waves at fixed and free ends (phase change)",
+        "query": "reflection of wave at fixed end free end phase change boundary",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Reflection and transmission at a boundary between two strings",
+        "query": "reflection transmission coefficient wave boundary two strings impedance",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Standing waves on a string: harmonics and node-antinode positions",
+        "query": "standing waves on string harmonics nodes antinodes frequency formula",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Sonometer: frequency vs length, tension and mass per unit length",
+        "query": "sonometer law of vibrating strings frequency tension length",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Melde's experiment: longitudinal vs transverse mode",
+        "query": "Melde experiment transverse longitudinal mode tuning fork string",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Open organ pipe harmonics and end correction",
+        "query": "open organ pipe harmonics end correction fundamental frequency",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Closed organ pipe: odd harmonics and frequency ratios",
+        "query": "closed organ pipe odd harmonics frequency ratio derivation",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Resonance tube experiment: finding speed of sound",
+        "query": "resonance tube experiment speed of sound end correction two resonances",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Beats: derivation of beat frequency and waxing/waning",
+        "query": "beats phenomenon beat frequency derivation two tuning forks",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Beats problems: loaded/waxed tuning fork frequency identification",
+        "query": "tuning fork beats wax filing unknown frequency problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Doppler effect: moving source and moving observer formula",
+        "query": "Doppler effect sound moving source observer general formula sign convention",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Doppler effect with reflection off a moving wall/car",
+        "query": "Doppler effect reflection moving wall car beats apparent frequency",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Doppler effect with wind (moving medium)",
+        "query": "Doppler effect with wind moving medium apparent frequency",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Doppler effect: source moving in a circle / accelerating",
+        "query": "Doppler effect source moving in circle maximum minimum frequency",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Sound intensity, the inverse-square law and the decibel scale",
+        "query": "sound intensity inverse square law decibel scale intensity level",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Loudness in decibels: combining multiple sources",
+        "query": "combining sound intensity levels decibels multiple sources problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Quincke's tube: path-difference interference of sound",
+        "query": "Quincke tube interference sound path difference minimum maximum",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Air-column resonance with changing temperature",
+        "query": "organ pipe resonance frequency change with temperature speed of sound",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Harmonics common to open and closed pipes / two strings",
+        "query": "common harmonics open closed pipe overtones resonance problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Combined Doppler and beats (two whistles / approaching trains)",
+        "query": "Doppler effect two sources beats approaching trains apparent frequency beats",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Standing-wave pressure vs displacement nodes in a pipe",
+        "query": "displacement node pressure antinode organ pipe sound wave",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Waves & Sound full chapter JEE Advanced PYQ",
+        "query": "Waves and sound",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Doppler effect JEE Advanced previous year questions",
+        "query": "Doppler effect sound",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Standing waves and organ pipes JEE Advanced PYQ",
+        "query": "standing waves strings organ pipes resonance",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "HC Verma / DC Pandey Waves practice problems with solutions",
+        "query": "HC Verma DC Pandey waves and sound chapter",
+        "level": "Mixed",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Irodov waves and acoustics hardest problems with solutions",
+        "query": "Irodov waves acoustics oscillations",
+        "level": "Olympiad",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Thermal Physics & Calorimetry",
+    "slug": "thermal-physics",
+    "subject": "Physics",
+    "group": "Waves & Thermal",
+    "blurb": "A reliable, always-live set of concept maps, simulations, official past papers, and targeted problem searches covering thermal expansion, calorimetry, and the three modes of heat transfer for JEE Advanced.",
+    "jeeWeight": "Medium",
+    "subtopics": [
+      "Linear, areal and volumetric thermal expansion",
+      "Thermal stress and bimetallic strips",
+      "Apparent vs real expansion of liquids",
+      "Calorimetry and principle of mixtures",
+      "Specific heat, heat capacity and water equivalent",
+      "Latent heat of fusion and vaporization",
+      "Phase change and heating curves",
+      "Conduction, Fourier's law and thermal resistance",
+      "Series and parallel rod networks",
+      "Steady-state gradients and lagged rods",
+      "Radial conduction in cylindrical and spherical shells",
+      "Stefan-Boltzmann law and net radiation exchange",
+      "Blackbody radiation, emissivity and Kirchhoff's law",
+      "Newton's law of cooling",
+      "Wien's displacement law and spectral distribution"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced Official Archive (past papers & keys)",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "jeeadv.ac.in",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic question papers and answer keys; mine thermal physics questions year by year."
+      },
+      {
+        "title": "HyperPhysics: Heat & Thermodynamics concept map",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/index.html",
+        "source": "Georgia State University",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Click into Heat & Thermo for compact derivations of calorimetry, conduction and radiation laws."
+      },
+      {
+        "title": "Wikipedia: Thermal expansion",
+        "url": "https://en.wikipedia.org/w/index.php?search=thermal%20expansion%20coefficient",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Linear, area and volume coefficients with the alpha:beta:gamma = 1:2:3 relation."
+      },
+      {
+        "title": "Wikipedia: Stefan-Boltzmann law",
+        "url": "https://en.wikipedia.org/w/index.php?search=Stefan%E2%80%93Boltzmann%20law",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Derivation and the sigma constant; pair with emissivity and net radiation exchange."
+      },
+      {
+        "title": "Wikipedia: Wien's displacement law",
+        "url": "https://en.wikipedia.org/w/index.php?search=Wien%27s%20displacement%20law",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "lambda_max times T = b; ties the spectral peak shift to surface temperature."
+      },
+      {
+        "title": "Wikipedia: Newton's law of cooling",
+        "url": "https://en.wikipedia.org/w/index.php?search=Newton%27s%20law%20of%20cooling",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Cooling-rate proportionality and its exponential temperature-decay solution."
+      },
+      {
+        "title": "Wikipedia: Thermal conduction & thermal resistance",
+        "url": "https://en.wikipedia.org/w/index.php?search=thermal%20conduction%20thermal%20resistance",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Fourier's law and the rod-network analogy with electrical resistance."
+      },
+      {
+        "title": "Khan Academy: specific heat & calorimetry",
+        "url": "https://www.khanacademy.org/search?page_search_query=specific%20heat%20calorimetry",
+        "source": "Khan Academy",
+        "type": "Course",
+        "level": "JEE Main",
+        "note": "Foundational videos on heat capacity and mixture problems before harder JEE drills."
+      },
+      {
+        "title": "Khan Academy: heat transfer & thermal radiation",
+        "url": "https://www.khanacademy.org/search?page_search_query=heat%20transfer%20conduction%20radiation",
+        "source": "Khan Academy",
+        "type": "Course",
+        "level": "JEE Main",
+        "note": "Builds intuition for conduction, convection and radiation modes."
+      },
+      {
+        "title": "PhET physics simulations (filter for heat/energy)",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=physics",
+        "source": "PhET, CU Boulder",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Run 'Energy Forms and Changes' and 'States of Matter' to visualize heat flow and phase change."
+      },
+      {
+        "title": "Physics StackExchange: thermal expansion & stress",
+        "url": "https://physics.stackexchange.com/search?q=thermal%20expansion%20bimetallic%20strip",
+        "source": "Physics StackExchange",
+        "type": "Problem set",
+        "level": "JEE Advanced",
+        "note": "Worked discussions of thermal stress and bimetallic-strip bending."
+      },
+      {
+        "title": "Physics StackExchange: radiation & Stefan-Boltzmann",
+        "url": "https://physics.stackexchange.com/search?q=Stefan%20Boltzmann%20radiation%20cooling",
+        "source": "Physics StackExchange",
+        "type": "Problem set",
+        "level": "JEE Advanced",
+        "note": "Subtleties of net radiative exchange, emissivity and effective temperature."
+      },
+      {
+        "title": "Wolfram Alpha: compute lambda_max from Wien's law",
+        "url": "https://www.wolframalpha.com/input?i=Wien%20displacement%20law%20peak%20wavelength%20at%205800%20K",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Plug in any surface temperature to get the peak emission wavelength instantly."
+      },
+      {
+        "title": "Wolfram Alpha: blackbody radiated power",
+        "url": "https://www.wolframalpha.com/input?i=Stefan-Boltzmann%20radiated%20power%20blackbody",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Sanity-check sigma*A*T^4 numbers and unit conversions in radiation problems."
+      },
+      {
+        "title": "NCERT Physics textbooks (Class 11 thermal chapters)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Open Class 11 Part 2: 'Thermal Properties of Matter' is the syllabus baseline for this chapter."
+      },
+      {
+        "title": "OpenStax University Physics Vol 2 (Temperature & Heat)",
+        "url": "https://openstax.org/details/books/university-physics-volume-2",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Free textbook chapters on thermal expansion, calorimetry, phase change and heat transfer with worked examples."
+      },
+      {
+        "title": "The Feynman Lectures on Physics (free full text)",
+        "url": "https://www.feynmanlectures.caltech.edu/",
+        "source": "Caltech",
+        "type": "Reference",
+        "level": "Olympiad",
+        "note": "See Vol I chapters on heat, diffusion and thermal radiation for deeper insight."
+      },
+      {
+        "title": "Brilliant: physics & thermodynamics courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Interactive problem sequences on heat, energy and thermal equilibrium for active recall."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Linear thermal expansion of rods",
+        "query": "linear thermal expansion coefficient rod length change",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Area and volume expansion relation",
+        "query": "areal volumetric expansion coefficient relation alpha beta gamma",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Thermal stress in clamped rods",
+        "query": "thermal stress clamped rod prevented expansion force",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Bimetallic strip bending",
+        "query": "bimetallic strip radius of curvature on heating",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Apparent vs real expansion of liquids",
+        "query": "apparent real expansion of liquid in container coefficient",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Pendulum clock error from expansion",
+        "query": "pendulum clock time error temperature change expansion",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Calorimetry mixture final temperature",
+        "query": "calorimetry principle of mixtures final temperature",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Water equivalent of calorimeter",
+        "query": "water equivalent of calorimeter heat capacity problem",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Specific heat by method of mixtures",
+        "query": "specific heat capacity determination method of mixtures",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Latent heat of fusion: ice and water",
+        "query": "latent heat of fusion ice mixing water final state",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Latent heat of vaporization: steam",
+        "query": "latent heat of vaporization steam heating water calorimetry",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Phase-change heating curve",
+        "query": "temperature vs heat added phase change graph problem",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Mixing ice and steam final state",
+        "query": "mixing ice and steam final temperature mass of ice melted",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Steady-state conduction through a rod",
+        "query": "steady state heat conduction rod Fourier law temperature gradient",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Thermal resistance in series",
+        "query": "composite rod thermal resistance in series junction temperature",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Thermal resistance in parallel",
+        "query": "two rods in parallel equivalent thermal conductivity",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Conduction with lateral lagging",
+        "query": "lagged rod heat conduction rate insulated sides problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Growth of ice on a pond",
+        "query": "rate of ice formation on pond thickness time conduction",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Radial conduction: cylindrical shell",
+        "query": "radial heat conduction cylindrical shell logarithmic temperature",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Conduction in a spherical shell",
+        "query": "heat conduction spherical shell steady state rate",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Stefan-Boltzmann radiated power",
+        "query": "Stefan Boltzmann law radiated power emissivity area",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Net radiation exchange with surroundings",
+        "query": "net radiation exchange body surroundings temperature fourth power",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Blackbody and emissivity problems",
+        "query": "blackbody emissivity absorptivity gray body radiation problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Kirchhoff's law of radiation",
+        "query": "Kirchhoff law thermal radiation good absorber good emitter",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Wien's displacement law peak wavelength",
+        "query": "Wien displacement law peak wavelength temperature problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Blackbody spectral energy distribution",
+        "query": "blackbody spectral energy distribution curve temperature shift",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Newton's law of cooling: rate form",
+        "query": "Newton law of cooling rate of cooling average temperature",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Newton's cooling: exponential decay",
+        "query": "Newton law of cooling exponential temperature decay derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Cooling time between two temperatures",
+        "query": "time taken to cool from temperature to temperature Newton cooling",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Solar constant and Sun's temperature",
+        "query": "solar constant estimate Sun surface temperature Stefan Boltzmann",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Mixed expansion + calorimetry problems",
+        "query": "thermal expansion calorimetry mixed concept problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Full chapter heat-transfer PYQ set",
+        "query": "heat transfer thermal properties of matter chapterwise",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Kinetic Theory of Gases",
+    "slug": "kinetic-theory",
+    "subject": "Physics",
+    "group": "Waves & Thermal",
+    "blurb": "A high-yield bridge between mechanics and thermodynamics: drill students on the molecular model of gases — pressure from collisions, rms vs average vs most-probable speeds, degrees of freedom, equipartition, and mean free path — since these results feed directly into thermodynamics and calorimetry problems.",
+    "jeeWeight": "Medium",
+    "subtopics": [
+      "Ideal gas equation PV = nRT and Boltzmann form PV = NkT",
+      "Kinetic theory postulates and assumptions of an ideal gas",
+      "Pressure of an ideal gas from molecular collisions (P = (1/3) n m v_rms^2)",
+      "Kinetic interpretation of temperature and average translational KE",
+      "RMS speed, average speed, and most-probable speed comparison",
+      "Degrees of freedom: translational, rotational, vibrational",
+      "Law of equipartition of energy",
+      "Internal energy and molar specific heats Cv, Cp of mono/di/polyatomic gases",
+      "Ratio of specific heats gamma and its dependence on degrees of freedom",
+      "Mean free path and its dependence on pressure, temperature, molecular size",
+      "Maxwell-Boltzmann speed distribution curve and its temperature dependence",
+      "Avogadro's number, Boltzmann constant, and universal gas constant relations",
+      "Mixtures of ideal gases and effective molar specific heat",
+      "Real gas behaviour and limitations of the ideal gas model (qualitative)"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced Official Archive (past papers & answer keys)",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "jeeadv.ac.in",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic previous-year JEE Advanced papers; pull kinetic-theory and thermodynamics questions for exam-realistic practice."
+      },
+      {
+        "title": "The Feynman Lectures Vol I, Ch.39 — The Kinetic Theory of Gases",
+        "url": "https://www.feynmanlectures.caltech.edu/I_39.html",
+        "source": "feynmanlectures.caltech.edu",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Feynman's free full-text treatment of gas pressure and equipartition; Ch.39-40 give the conceptual derivation students should read."
+      },
+      {
+        "title": "HyperPhysics — Kinetic Theory & Gas Law concept maps",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/Kinetic/kinthe.html",
+        "source": "hyperphysics.phy-astr.gsu.edu",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Compact derivations of pressure, rms speed, equipartition and mean free path with linked concept maps — ideal one-page revision."
+      },
+      {
+        "title": "PhET Gas Properties / States of Matter simulations",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=physics",
+        "source": "phet.colorado.edu",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Filter for 'Gas Properties' and 'Gas Intro' to visually demonstrate pressure-from-collisions, temperature, and the speed distribution live in class."
+      },
+      {
+        "title": "Khan Academy — search 'kinetic theory of gases ideal gas'",
+        "url": "https://www.khanacademy.org/search?page_search_query=kinetic%20theory%20of%20gases%20ideal%20gas",
+        "source": "khanacademy.org",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Free lessons on the ideal gas law and molecular speeds for first-pass conceptual grounding before Advanced-level rigor."
+      },
+      {
+        "title": "Khan Academy — search 'Maxwell Boltzmann distribution'",
+        "url": "https://www.khanacademy.org/search?page_search_query=Maxwell%20Boltzmann%20distribution",
+        "source": "khanacademy.org",
+        "type": "Video",
+        "level": "Mixed",
+        "note": "Walks through the shape and temperature-dependence of the speed distribution — useful for the curve-reading questions JEE favors."
+      },
+      {
+        "title": "NCERT Physics Textbooks (Class 11 Ch.13 Kinetic Theory)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "ncert.nic.in",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "The exact NCERT chapter; download Class 11 Physics Part II for the baseline derivations every JEE question is built on."
+      },
+      {
+        "title": "Wikipedia — search 'kinetic theory of gases'",
+        "url": "https://en.wikipedia.org/w/index.php?search=kinetic%20theory%20of%20gases",
+        "source": "en.wikipedia.org",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Reliable overview of postulates, pressure derivation, and the distribution function with full mathematical statements for teacher reference."
+      },
+      {
+        "title": "Wikipedia — search 'Maxwell-Boltzmann distribution speed'",
+        "url": "https://en.wikipedia.org/w/index.php?search=Maxwell%E2%80%93Boltzmann%20distribution%20speed",
+        "source": "en.wikipedia.org",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Detailed derivation of most-probable, average, and rms speeds from the distribution — exactly the ratios JEE Advanced tests."
+      },
+      {
+        "title": "Wikipedia — search 'mean free path gas'",
+        "url": "https://en.wikipedia.org/w/index.php?search=mean%20free%20path%20gas",
+        "source": "en.wikipedia.org",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Covers the 1/(sqrt(2) n pi d^2) formula and its pressure/temperature dependence for the mean-free-path numericals."
+      },
+      {
+        "title": "Wikipedia — search 'equipartition theorem degrees of freedom'",
+        "url": "https://en.wikipedia.org/w/index.php?search=equipartition%20theorem%20degrees%20of%20freedom",
+        "source": "en.wikipedia.org",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Explains why each quadratic degree of freedom gets (1/2)kT and how it fixes Cv, Cp, gamma for di/poly-atomic gases."
+      },
+      {
+        "title": "Wikipedia — search 'specific heats of gases'",
+        "url": "https://en.wikipedia.org/w/index.php?search=heat%20capacity%20ratio%20gamma%20gases",
+        "source": "en.wikipedia.org",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Full statement of Cv, Cp, and gamma for monatomic/diatomic/polyatomic gases, including when vibrational modes activate."
+      },
+      {
+        "title": "LibreTexts Physics — Kinetic Theory of Gases chapter",
+        "url": "https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/Book%3A_University_Physics_I_-_Mechanics_Sound_Oscillations_and_Waves_(OpenStax)/02%3A_The_Kinetic_Theory_of_Gases",
+        "source": "phys.libretexts.org",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "OpenStax chapter with worked derivations of pressure, equipartition, distribution, and mean free path plus end-of-section exercises."
+      },
+      {
+        "title": "Wolfram Alpha — compute rms speed of nitrogen at 300 K",
+        "url": "https://www.wolframalpha.com/input?i=rms%20speed%20of%20nitrogen%20at%20300%20K",
+        "source": "wolframalpha.com",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Instant numeric checks for rms/average/most-probable speeds and mean free path so students can verify their own calculations."
+      },
+      {
+        "title": "Wolfram Alpha — compute mean free path of oxygen at STP",
+        "url": "https://www.wolframalpha.com/input?i=mean%20free%20path%20of%20oxygen%20at%20STP",
+        "source": "wolframalpha.com",
+        "type": "Tool",
+        "level": "JEE Advanced",
+        "note": "Plug-and-check tool for mean-free-path numericals; vary pressure and temperature to demonstrate the scaling laws."
+      },
+      {
+        "title": "MIT OCW 8.01SC Classical Mechanics (mechanics foundation for collisions)",
+        "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/",
+        "source": "ocw.mit.edu",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Momentum-and-collision lectures underpin the wall-collision derivation of gas pressure; use for students shaky on elastic-collision impulse."
+      },
+      {
+        "title": "Brilliant — Physics courses (thermal physics & gases)",
+        "url": "https://brilliant.org/courses/",
+        "source": "brilliant.org",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Interactive problem-led modules on gases and thermal physics for guided practice between conceptual gaps."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Ideal gas equation PV = nRT numericals",
+        "query": "ideal gas equation PV nRT",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Boltzmann form PV = NkT and number of molecules",
+        "query": "ideal gas law PV NkT number of molecules Boltzmann constant",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "pse",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Kinetic theory postulates and assumptions",
+        "query": "kinetic theory of gases postulates assumptions ideal gas",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Pressure of ideal gas derivation P = (1/3) rho v_rms^2",
+        "query": "pressure of ideal gas kinetic theory derivation one third",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "pse",
+          "google"
+        ]
+      },
+      {
+        "label": "Kinetic interpretation of temperature and average KE",
+        "query": "kinetic interpretation of temperature average translational kinetic energy",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "pse"
+        ]
+      },
+      {
+        "label": "RMS speed calculation for gases",
+        "query": "rms speed of gas molecules kinetic theory",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "RMS vs average vs most-probable speed ratios",
+        "query": "rms average most probable speed ratio gas molecules",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Effect of temperature and molar mass on rms speed",
+        "query": "rms speed dependence temperature molar mass gas",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Degrees of freedom of monatomic, diatomic, polyatomic gases",
+        "query": "degrees of freedom monatomic diatomic polyatomic gas",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Law of equipartition of energy problems",
+        "query": "law of equipartition of energy degrees of freedom",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Molar specific heats Cv and Cp from kinetic theory",
+        "query": "molar specific heat Cv Cp kinetic theory degrees of freedom",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pse",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Ratio of specific heats gamma and degrees of freedom",
+        "query": "ratio of specific heats gamma degrees of freedom gas",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Internal energy of ideal gas using equipartition",
+        "query": "internal energy of ideal gas equipartition degrees of freedom",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Mixture of gases effective gamma and Cv",
+        "query": "mixture of ideal gases effective specific heat gamma",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pse",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Mean free path formula and derivation",
+        "query": "mean free path of gas molecules formula derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "pse",
+          "google"
+        ]
+      },
+      {
+        "label": "Mean free path pressure and temperature variation",
+        "query": "mean free path dependence on pressure temperature density",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pse",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Maxwell-Boltzmann speed distribution curve",
+        "query": "Maxwell Boltzmann speed distribution curve gas",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Reading Maxwell distribution curve: area and peak shift",
+        "query": "Maxwell speed distribution curve temperature peak shift area",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Most probable speed from Maxwell distribution derivation",
+        "query": "most probable speed Maxwell Boltzmann distribution derivation",
+        "level": "Olympiad",
+        "sources": [
+          "mse",
+          "pse",
+          "google"
+        ]
+      },
+      {
+        "label": "Avogadro number, Boltzmann constant, gas constant relations",
+        "query": "Avogadro number Boltzmann constant universal gas constant relation",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "pse"
+        ]
+      },
+      {
+        "label": "Dalton's law of partial pressures in gas mixtures",
+        "query": "Dalton law partial pressure ideal gas mixture",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Average kinetic energy per molecule (3/2)kT problems",
+        "query": "average kinetic energy per molecule three half kT",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Gas in gravitational field: barometric distribution",
+        "query": "barometric formula ideal gas in gravitational field number density",
+        "level": "Olympiad",
+        "sources": [
+          "pse",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Collision frequency of gas molecules",
+        "query": "collision frequency gas molecules mean free path kinetic theory",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Effusion and Graham's law from kinetic theory",
+        "query": "effusion Graham law rms speed kinetic theory",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pse",
+          "pyq"
+        ]
+      },
+      {
+        "label": "RMS speed and speed of sound in a gas relation",
+        "query": "rms speed relation speed of sound in gas gamma",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Kinetic theory previous-year JEE Advanced questions",
+        "query": "kinetic theory of gases",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "HC Verma kinetic theory of gases solved problems",
+        "query": "HC Verma kinetic theory of gases solved problems",
+        "level": "Mixed",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Irodov kinetic theory and gas distribution problems",
+        "query": "Irodov kinetic theory of gases distribution functions",
+        "level": "Olympiad",
+        "sources": [
+          "google",
+          "pse",
+          "pyq"
+        ]
+      },
+      {
+        "label": "DC Pandey kinetic theory practice problems",
+        "query": "DC Pandey kinetic theory of gases practice problems",
+        "level": "Mixed",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Vibrational degrees of freedom and high-temperature Cv",
+        "query": "vibrational degrees of freedom diatomic gas high temperature specific heat",
+        "level": "Olympiad",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Limitations of ideal gas and real gas behaviour (qualitative)",
+        "query": "limitations of ideal gas real gas deviation kinetic theory",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pse",
+          "youtube"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Thermodynamics",
+    "slug": "thermodynamics-physics",
+    "subject": "Physics",
+    "group": "Waves & Thermal",
+    "blurb": "A consistently scoring chapter that rewards clean PV-diagram reasoning: master the first-law sign conventions, the four standard processes, and cyclic-engine efficiency, and your students can bank these marks every year.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Zeroth law and thermal equilibrium, temperature scales",
+      "Internal energy and the first law of thermodynamics (ΔU = Q − W)",
+      "Work done by an ideal gas as area under the PV curve",
+      "Isothermal process: PV = constant, work and heat",
+      "Adiabatic process: PV^γ = constant, no heat exchange",
+      "Isobaric and isochoric processes, Cp and Cv",
+      "Mayer relation Cp − Cv = R and the ratio γ for mono/di/polyatomic gases",
+      "Degrees of freedom and the equipartition of energy",
+      "Cyclic processes and net work as enclosed PV-loop area",
+      "Heat engines, efficiency and the Carnot cycle",
+      "Refrigerators, heat pumps and coefficient of performance",
+      "Second law: Kelvin–Planck and Clausius statements, Carnot's theorem",
+      "Reversible vs irreversible (quasi-static) processes",
+      "Polytropic processes PV^n = constant as a unifying framework",
+      "Free expansion and mixing of gases (equivalent specific heats)"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced Official Past Papers Archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "jeeadv.ac.in",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authoritative source for past JEE Advanced papers; pull thermodynamics questions (engine efficiency, PV cycles, adiabatic work) from Paper 1 and Paper 2 of recent years."
+      },
+      {
+        "title": "Feynman Lectures Vol. I, Ch. 44 — The Laws of Thermodynamics",
+        "url": "https://www.feynmanlectures.caltech.edu/I_44.html",
+        "source": "feynmanlectures.caltech.edu",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Feynman's derivation of the Carnot cycle and the second law; the cleanest conceptual treatment of reversible engines for teacher prep."
+      },
+      {
+        "title": "Feynman Lectures Vol. I, Ch. 45 — Illustrations of Thermodynamics",
+        "url": "https://www.feynmanlectures.caltech.edu/I_45.html",
+        "source": "feynmanlectures.caltech.edu",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Worked thermodynamic relations and applications; good for building intuition behind Cp, Cv and equations of state."
+      },
+      {
+        "title": "Feynman Lectures Vol. I, Ch. 39 — Kinetic Theory of Gases",
+        "url": "https://www.feynmanlectures.caltech.edu/I_39.html",
+        "source": "feynmanlectures.caltech.edu",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Links internal energy and degrees of freedom to temperature; the bridge between kinetic theory and the first law used in JEE problems."
+      },
+      {
+        "title": "HyperPhysics — Laws of Thermodynamics Concept Map",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermlaw.html",
+        "source": "hyperphysics.phy-astr.gsu.edu",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Hyperlinked concept map of the first, second and third laws; jump to entropy, internal energy and heat for quick board-ready definitions."
+      },
+      {
+        "title": "HyperPhysics — Heat Engines and the Carnot Cycle",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/heaeng.html",
+        "source": "hyperphysics.phy-astr.gsu.edu",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Engine and Carnot-cycle diagrams with efficiency formulas; ideal for explaining η = 1 − Tc/Th and the PV/TS loops on the board."
+      },
+      {
+        "title": "HyperPhysics — First Law and Thermodynamic Processes",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/firlaw.html",
+        "source": "hyperphysics.phy-astr.gsu.edu",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "First-law statement with worked isothermal, adiabatic, isobaric and isochoric cases and their work integrals — exactly the JEE process toolkit."
+      },
+      {
+        "title": "HyperPhysics — Specific Heats of Gases (Cp, Cv, γ)",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/Kinetic/shegas.html",
+        "source": "hyperphysics.phy-astr.gsu.edu",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Derivation of Cp − Cv = R and γ values for mono/di/polyatomic gases via degrees of freedom; underpins all adiabatic-process numericals."
+      },
+      {
+        "title": "HyperPhysics — Heat and Thermodynamics Index Hub",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/hph.html",
+        "source": "hyperphysics.phy-astr.gsu.edu",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Top-level concept map; navigate to the Heat and Thermodynamics cluster for entropy, refrigerators, and equation-of-state cross-links."
+      },
+      {
+        "title": "NCERT Physics Textbooks (Class 11 Thermodynamics, Ch. 12)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "ncert.nic.in",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Official NCERT Class 11 Part II chapter on Thermodynamics; the baseline text JEE assumes — assign for first-law, processes and Carnot fundamentals."
+      },
+      {
+        "title": "Khan Academy — Thermodynamics Lessons Search",
+        "url": "https://www.khanacademy.org/search?page_search_query=thermodynamics%20first%20law%20heat%20engines",
+        "source": "khanacademy.org",
+        "type": "Course",
+        "level": "JEE Main",
+        "note": "Video lessons on the first law, PV diagrams, heat engines and Carnot efficiency; good for students who need the conceptual ramp before problem sets."
+      },
+      {
+        "title": "Khan Academy — PV Diagrams and Work Search",
+        "url": "https://www.khanacademy.org/search?page_search_query=PV%20diagram%20work%20done%20by%20gas%20thermodynamics",
+        "source": "khanacademy.org",
+        "type": "Course",
+        "level": "JEE Main",
+        "note": "Targeted lessons on reading PV diagrams and computing work as area; pairs with isothermal/adiabatic curve-comparison problems."
+      },
+      {
+        "title": "Physics StackExchange — Adiabatic vs Isothermal Search",
+        "url": "https://physics.stackexchange.com/search?q=adiabatic%20isothermal%20process%20work%20done%20ideal%20gas",
+        "source": "physics.stackexchange.com",
+        "type": "Search",
+        "level": "JEE Advanced",
+        "note": "Expert Q&A on subtle sign conventions and why adiabatic curves are steeper than isotherms; great for resolving student misconceptions."
+      },
+      {
+        "title": "Physics StackExchange — Carnot Efficiency and Second Law Search",
+        "url": "https://physics.stackexchange.com/search?q=Carnot%20cycle%20efficiency%20second%20law%20thermodynamics",
+        "source": "physics.stackexchange.com",
+        "type": "Search",
+        "level": "JEE Advanced",
+        "note": "Discussions on why no engine beats Carnot and reversibility arguments; useful for the conceptual MCQs JEE Advanced likes to set."
+      },
+      {
+        "title": "Wikipedia — Carnot Cycle and Thermodynamics Search",
+        "url": "https://en.wikipedia.org/w/index.php?search=Carnot+cycle+heat+engine+thermodynamics",
+        "source": "en.wikipedia.org",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Reference articles on the Carnot cycle, first law and thermodynamic processes with clear PV/TS diagrams and derivations for lesson scaffolding."
+      },
+      {
+        "title": "Wolfram Alpha — Carnot / Adiabatic Computations",
+        "url": "https://www.wolframalpha.com/input?i=Carnot%20efficiency%20Th%3D600K%20Tc%3D300K",
+        "source": "wolframalpha.com",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Compute efficiencies, final temperatures and work for parametrized processes; change inputs to generate instant numerical answer keys."
+      },
+      {
+        "title": "Brilliant — Physics & Thermodynamics Courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "brilliant.org",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Interactive problem-driven courses; use the thermodynamics and gases modules for guided first-law and entropy reasoning practice."
+      },
+      {
+        "title": "PhET Physics Simulations — Gas Properties & States of Matter",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=physics",
+        "source": "phet.colorado.edu",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Use the Gas Properties and States of Matter sims to demonstrate isothermal/isobaric changes and pressure–volume–temperature relations live in class."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "First law sign conventions",
+        "query": "first law of thermodynamics internal energy heat work sign convention",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Work as area under the PV curve",
+        "query": "work done by gas area under PV diagram thermodynamic process",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Isothermal process work and heat",
+        "query": "isothermal process ideal gas work done heat PV constant",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Adiabatic process PV^gamma relation",
+        "query": "adiabatic process ideal gas PV gamma constant work done",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Isobaric and isochoric processes",
+        "query": "isobaric isochoric process work heat internal energy ideal gas",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Mayer relation Cp − Cv = R",
+        "query": "Cp minus Cv equals R derivation ideal gas Mayer relation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Degrees of freedom and gamma values",
+        "query": "degrees of freedom monatomic diatomic gas gamma Cp Cv ratio",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Adiabatic vs isothermal curve slope",
+        "query": "adiabatic versus isothermal curve slope steeper PV diagram",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Cyclic process net work and heat",
+        "query": "cyclic process net work area enclosed PV loop heat absorbed rejected efficiency",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Heat engine efficiency",
+        "query": "heat engine efficiency thermodynamics work output heat input",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Carnot cycle efficiency derivation",
+        "query": "Carnot cycle efficiency derivation reversible engine four steps",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Carnot theorem maximum efficiency",
+        "query": "Carnot theorem no engine more efficient than Carnot reversible",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Second law: Kelvin–Planck and Clausius",
+        "query": "second law thermodynamics Kelvin Planck Clausius statement equivalence",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Refrigerator and heat pump COP",
+        "query": "refrigerator heat pump coefficient of performance thermodynamics",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Reversible vs irreversible processes",
+        "query": "reversible irreversible process thermodynamics quasi-static definition",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Polytropic process PV^n",
+        "query": "polytropic process PV^n constant work molar heat capacity",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Mixing of gases: equivalent gamma",
+        "query": "mixture of ideal gases equivalent Cv gamma degrees of freedom",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Free expansion of an ideal gas",
+        "query": "free expansion ideal gas Joule expansion no work no heat",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Internal energy as a state function",
+        "query": "internal energy state function path independent thermodynamics",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Work done in adiabatic expansion",
+        "query": "work done adiabatic expansion ideal gas temperature change formula",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Molar heat capacity in a given process",
+        "query": "molar heat capacity ideal gas linear or combined process find C PV diagram",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Carnot engine numerical with reservoirs",
+        "query": "Carnot engine numerical reservoir temperature efficiency work heat",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Two Carnot engines in series",
+        "query": "two Carnot engines in series intermediate temperature combined efficiency",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Identify the process from a PV graph",
+        "query": "identify thermodynamic process from PV diagram graph JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Slope of an adiabatic curve",
+        "query": "slope of adiabatic curve dP/dV equals minus gamma P/V derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "mse",
+          "google"
+        ]
+      },
+      {
+        "label": "Temperature change in adiabatic compression",
+        "query": "adiabatic compression final temperature TV gamma minus 1 constant",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "First law with phase change and gas expansion",
+        "query": "first law thermodynamics latent heat work done gas expansion problem",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Isothermal work: nRT ln(V2/V1)",
+        "query": "isothermal expansion work nRT ln V2 over V1 derivation problem",
+        "level": "JEE Main",
+        "sources": [
+          "mse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Entropy change of an ideal gas",
+        "query": "entropy change ideal gas isothermal adiabatic process formula JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Carnot cycle on a TS diagram",
+        "query": "Carnot cycle temperature entropy TS diagram rectangle efficiency",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Electrostatics",
+    "slug": "electrostatics",
+    "subject": "Physics",
+    "group": "Electromagnetism",
+    "blurb": "A high-yield JEE Advanced staple where Gauss-law symmetry arguments, conductor boundary conditions, and energy-method problems separate top scorers from the rest.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Coulomb's law and superposition of forces",
+      "Electric field due to point and continuous charge distributions",
+      "Electric field lines and field of a dipole",
+      "Gauss's law and flux calculations",
+      "Gauss's law applications: line, sheet, spherical and cylindrical symmetry",
+      "Electric potential and potential due to charge distributions",
+      "Relation between field and potential (gradient)",
+      "Electrostatic potential energy of charges and systems",
+      "Electric dipole: torque, potential energy and field",
+      "Conductors in electrostatic equilibrium and induced charges",
+      "Equipotential surfaces and their geometry",
+      "Electrostatic shielding and the cavity problem",
+      "Energy density of the electric field",
+      "Method of images (point charge near grounded plane/sphere)"
+    ],
+    "anchors": [
+      {
+        "title": "MIT OCW 8.02 Electricity & Magnetism (full course)",
+        "url": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Lewin's lectures, problem sets and solutions covering Coulomb's law, Gauss's law, potential and conductors at JEE depth."
+      },
+      {
+        "title": "Feynman Lectures Vol II: Electrostatics (Ch. 4-8)",
+        "url": "https://www.feynmanlectures.caltech.edu/II_toc.html",
+        "source": "Caltech",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Free full text; the cleanest conceptual treatment of field, flux, potential energy and conductors."
+      },
+      {
+        "title": "HyperPhysics: Electricity & Magnetism concept map",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/electric/elecon.html",
+        "source": "Georgia State University",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Quick formula maps on Coulomb's law, Gauss's law, dipoles, potential and conductors with cross-links."
+      },
+      {
+        "title": "PhET: Charges & Fields simulation",
+        "url": "https://phet.colorado.edu/en/simulations/charges-and-fields",
+        "source": "University of Colorado Boulder",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Interactive field-line and equipotential sim for building visual intuition before problem solving."
+      },
+      {
+        "title": "Khan Academy: Electrostatics topic",
+        "url": "https://www.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage",
+        "source": "Khan Academy",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Foundational videos and practice on Coulomb's law, electric field, flux and potential."
+      },
+      {
+        "title": "Wikipedia: Gauss's law",
+        "url": "https://en.wikipedia.org/wiki/Gauss%27s_law",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Integral and differential forms, derivation from Coulomb's law, and worked symmetry applications."
+      },
+      {
+        "title": "Wikipedia: Electric dipole moment",
+        "url": "https://en.wikipedia.org/wiki/Electric_dipole_moment",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Dipole field, potential, torque and energy in a uniform field, with the 1/r^3 far-field result."
+      },
+      {
+        "title": "Wikipedia: Method of image charges",
+        "url": "https://en.wikipedia.org/wiki/Method_of_image_charges",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Olympiad",
+        "note": "Grounded-plane and grounded-sphere image constructions for force and induced-charge problems."
+      },
+      {
+        "title": "Wikipedia: Electric potential energy",
+        "url": "https://en.wikipedia.org/wiki/Electric_potential_energy",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Self-energy, interaction energy and field-energy-density relations that trip up JEE Advanced students."
+      },
+      {
+        "title": "Wikipedia: Electrostatics",
+        "url": "https://en.wikipedia.org/wiki/Electrostatics",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Umbrella overview linking Coulomb force, fields, flux, conductors and energy density."
+      },
+      {
+        "title": "Wolfram Alpha computational engine",
+        "url": "https://www.wolframalpha.com/",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Plug in charges and distances to check Coulomb-force, field, potential and dipole numerical answers instantly."
+      },
+      {
+        "title": "NPTEL: Electromagnetic Theory / Physics courses",
+        "url": "https://nptel.ac.in/courses/115",
+        "source": "NPTEL",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "IIT-faculty video courses with derivations and tutorials on fields, Gauss's law, potential and conductors."
+      },
+      {
+        "title": "NCERT Physics textbooks (Class 12)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Electric Charges & Fields and Electrostatic Potential & Capacitance: the syllabus baseline JEE builds on."
+      },
+      {
+        "title": "Brilliant: Electricity & Magnetism courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Guided interactive problem sequences on fields, flux and potential for active practice."
+      },
+      {
+        "title": "JEE Advanced official archive (past papers)",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "IIT JEE Advanced",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic past papers; mine the electrostatics multi-concept and matrix-match questions for exam-style practice."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Coulomb's law: force between point charges and superposition",
+        "query": "Coulomb law force between point charges superposition",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Equilibrium of charges on a line (third-charge problem)",
+        "query": "equilibrium of three point charges position stability electrostatics",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Charged ball on a string in a field (force balance)",
+        "query": "charged ball suspended string electric field angle tension",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Field on the axis of a uniformly charged ring",
+        "query": "electric field on axis of uniformly charged ring derivation",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Field of a charged arc/semicircle at the center",
+        "query": "electric field at center of charged arc semicircle linear charge density",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Field of a uniformly charged disc and infinite sheet",
+        "query": "electric field uniformly charged disc infinite sheet derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Field of a finite charged rod (off-axis point)",
+        "query": "electric field finite charged rod off axis integration",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Flux through a cube/closed surface with a point charge",
+        "query": "electric flux through cube face point charge Gauss law",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Gauss's law for an infinite line and cylinder",
+        "query": "electric field infinite line charge cylinder Gauss law",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Field inside and outside a charged solid sphere",
+        "query": "electric field inside outside uniformly charged solid sphere Gauss law",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Charged spherical shell: field and potential graphs",
+        "query": "uniformly charged spherical shell electric field potential graph",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cavity inside a charged sphere (superposition trick)",
+        "query": "electric field inside spherical cavity uniformly charged sphere superposition",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Non-uniform volume charge density and Gauss's law",
+        "query": "electric field non uniform volume charge density Gauss law radial",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Potential due to point charges and continuous distributions",
+        "query": "electric potential due to system of charges and charged ring",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Field from potential by gradient (negative derivative)",
+        "query": "electric field from potential gradient negative derivative problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Potential on the axis of a charged disc and ring",
+        "query": "electric potential on axis of charged disc ring derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Potential energy of a system of point charges",
+        "query": "potential energy system of point charges interaction energy",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Self-energy of a charged sphere and shell",
+        "query": "self energy uniformly charged sphere shell derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Energy density of the electric field",
+        "query": "energy density electric field half epsilon E squared derivation problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Work moving a charge between equipotentials",
+        "query": "work done moving charge electric field equipotential problems",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Dipole field on axial and equatorial lines",
+        "query": "electric dipole field axial equatorial derivation",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Dipole in a uniform field: torque, energy, oscillation",
+        "query": "dipole in uniform electric field torque potential energy oscillation period",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Dipole-dipole and charge-dipole interaction energy",
+        "query": "dipole dipole interaction energy charge dipole electrostatics",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Force on a dipole in a non-uniform field",
+        "query": "force on electric dipole non uniform field gradient",
+        "level": "Olympiad",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Conductors: induced charge and surface field sigma/epsilon",
+        "query": "conductor electrostatic equilibrium induced charge surface field sigma epsilon",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Concentric conducting shells: charge, potential, grounding",
+        "query": "concentric conducting spherical shells charge potential grounding problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Charge in a conductor cavity (shielding)",
+        "query": "charge inside cavity of conductor induced charge electrostatic shielding",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Electrostatic pressure on a charged conductor",
+        "query": "electrostatic pressure on charged conductor surface force per area",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Equipotential surfaces: shape, field direction, work",
+        "query": "equipotential surfaces electric field perpendicular work done problems",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Method of images: point charge near grounded plane",
+        "query": "method of images point charge grounded conducting plane force induced charge",
+        "level": "Olympiad",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Method of images: point charge near grounded sphere",
+        "query": "method of images point charge grounded conducting sphere image charge magnitude",
+        "level": "Olympiad",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Charged particle motion in a uniform field",
+        "query": "charged particle projectile motion uniform electric field deflection",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Earnshaw's theorem and equilibrium stability",
+        "query": "Earnshaw theorem stability charge equilibrium electrostatics",
+        "level": "Olympiad",
+        "sources": [
+          "pse",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Mixed multi-concept JEE Advanced electrostatics problems",
+        "query": "electrostatics multi concept JEE Advanced hard problems Gauss potential dipole",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Capacitance",
+    "slug": "capacitors",
+    "subject": "Physics",
+    "group": "Electromagnetism",
+    "blurb": "A consistently scoring electrostatics chapter where capacitor networks, dielectric slabs, energy bookkeeping, and RC transients reward students who master both symmetry tricks and clean differential-equation handling.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Capacitance definition and units",
+      "Parallel plate capacitor and field between plates",
+      "Spherical and cylindrical capacitors",
+      "Series and parallel combinations",
+      "Capacitor networks and symmetry (Wheatstone-type, infinite ladders)",
+      "Dielectrics, dielectric constant and polarization",
+      "Partially filled and layered dielectric slabs",
+      "Energy stored in a capacitor and energy density",
+      "Force between capacitor plates",
+      "Redistribution of charge and common potential",
+      "Energy loss on connecting capacitors",
+      "Charging and discharging RC circuits",
+      "Time constant and transient analysis",
+      "Capacitor with battery vs isolated (charge vs voltage held constant)",
+      "Capacitors in multi-loop DC circuits"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced Official Past Papers Archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "jeeadv.ac.in",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic question papers and answer keys; mine the Electrostatics/Capacitance items year by year."
+      },
+      {
+        "title": "The Feynman Lectures Vol II Ch 8: Electrostatic Energy",
+        "url": "https://www.feynmanlectures.caltech.edu/II_08.html",
+        "source": "Caltech",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Free full text; energy of a capacitor, field energy density, and the force between plates derived from energy."
+      },
+      {
+        "title": "The Feynman Lectures Vol II Ch 10: Dielectrics",
+        "url": "https://www.feynmanlectures.caltech.edu/II_10.html",
+        "source": "Caltech",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Polarization, bound charge, dielectric constant and how a slab raises capacitance, with deep physical insight."
+      },
+      {
+        "title": "HyperPhysics: Energy Stored on a Capacitor",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/electric/capeng.html",
+        "source": "Georgia State University",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Compact derivation of half-QV energy and energy density, linked across to combinations and dielectrics."
+      },
+      {
+        "title": "HyperPhysics: Capacitance Concept Map",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/electric/capac.html",
+        "source": "Georgia State University",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Formula trees for parallel-plate, spherical and cylindrical capacitors plus series/parallel combinations."
+      },
+      {
+        "title": "MIT OCW 8.02 Electricity & Magnetism (full course)",
+        "url": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Lecture notes and problem sets on capacitance, dielectrics and RC circuits at exactly Advanced depth."
+      },
+      {
+        "title": "PhET Capacitor Lab: Basics (simulation)",
+        "url": "https://phet.colorado.edu/en/simulations/capacitor-lab-basics",
+        "source": "PhET / University of Colorado",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Vary plate area, separation and dielectric to watch C, Q, V and stored energy update live."
+      },
+      {
+        "title": "Khan Academy: Capacitors and Capacitance",
+        "url": "https://www.khanacademy.org/science/physics/circuits-topic/circuits-with-capacitors/v/capacitors-and-capacitance",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Foundational videos plus practice on parallel plates, combinations and energy stored."
+      },
+      {
+        "title": "Brilliant: Electricity & Magnetism Courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Interactive courses with capacitor-network and circuit-reasoning problems for building intuition."
+      },
+      {
+        "title": "NCERT Physics Class 12 Textbook (Ch 2: Electrostatic Potential and Capacitance)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "The syllabus baseline; work every in-text and exercise problem of the capacitance chapter first."
+      },
+      {
+        "title": "Wikipedia: Capacitor",
+        "url": "https://en.wikipedia.org/wiki/Capacitor",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Covers geometries, energy, dielectrics and the displacement-current link to fields between plates."
+      },
+      {
+        "title": "Wikipedia: Capacitance",
+        "url": "https://en.wikipedia.org/wiki/Capacitance",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Self vs mutual capacitance, definitions and the standard capacitor geometries with derivations."
+      },
+      {
+        "title": "Wikipedia: RC Circuit",
+        "url": "https://en.wikipedia.org/wiki/RC_circuit",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Charging/discharging exponentials, time constant and natural/step response derivations."
+      },
+      {
+        "title": "Wikipedia: Dielectric",
+        "url": "https://en.wikipedia.org/wiki/Dielectric",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Polarization, bound charge and dielectric constant; background for partially filled and layered-slab problems."
+      },
+      {
+        "title": "Wolfram Alpha: Parallel Plate Capacitance Calculator",
+        "url": "https://www.wolframalpha.com/input?i=parallel%20plate%20capacitor%20capacitance",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Plug in area, separation and dielectric constant to check C, Q, V and energy numerically."
+      },
+      {
+        "title": "Wolfram Alpha: RC Circuit Time Constant",
+        "url": "https://www.wolframalpha.com/input?i=RC%20circuit%20time%20constant",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "JEE Advanced",
+        "note": "Evaluate charging/discharging curves and time constants for transient problem checks."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Parallel plate capacitor capacitance derivation",
+        "query": "parallel plate capacitor capacitance derivation",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Spherical capacitor capacitance",
+        "query": "spherical capacitor capacitance derivation",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Cylindrical capacitor capacitance",
+        "query": "cylindrical capacitor capacitance derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Capacitors in series and parallel",
+        "query": "capacitors in series and parallel combination problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Network reduction by symmetry",
+        "query": "capacitor network symmetry equivalent capacitance",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Wheatstone bridge of capacitors",
+        "query": "balanced wheatstone bridge capacitor equivalent capacitance",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Infinite ladder network of capacitors",
+        "query": "infinite ladder network capacitors equivalent capacitance",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Energy stored in a capacitor",
+        "query": "energy stored in capacitor half QV derivation",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Electric field energy density",
+        "query": "electric field energy density capacitor derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Energy loss connecting two capacitors",
+        "query": "energy loss connecting two charged capacitors",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Common potential and charge redistribution",
+        "query": "common potential charge redistribution capacitors",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Force between capacitor plates",
+        "query": "force between capacitor plates derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Dielectric constant effect on capacitance",
+        "query": "dielectric constant effect on capacitance",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Partially filled dielectric slab",
+        "query": "capacitor partially filled dielectric slab capacitance",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Layered dielectrics (series and parallel)",
+        "query": "capacitor multiple dielectric layers series parallel",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Force on dielectric slab (energy method)",
+        "query": "force on dielectric slab inserted into capacitor energy method",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Battery connected vs isolated capacitor",
+        "query": "capacitor dielectric inserted battery connected vs disconnected charge voltage",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "RC charging derivation",
+        "query": "RC circuit charging capacitor exponential derivation",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "RC discharging derivation",
+        "query": "RC circuit discharging capacitor time constant derivation",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Meaning of the RC time constant",
+        "query": "RC time constant physical meaning capacitor charging",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Capacitor in steady-state DC circuit",
+        "query": "capacitor steady state no current DC circuit analysis",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Capacitors in multi-loop circuits",
+        "query": "capacitor multiple loop circuit charge on each capacitor",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Charge sharing through a resistor",
+        "query": "two capacitors connected through resistor charge sharing transient",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "RC transient with multiple R and C",
+        "query": "RC circuit multiple resistors capacitors transient analysis",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Capacitor with a grounded plate",
+        "query": "capacitor grounded plate charge distribution problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Networks by node-potential method",
+        "query": "capacitor network node potential method charge",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Moving plate / variable separation",
+        "query": "capacitor moving plate variable separation energy work",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Capacitance JEE Main previous-year questions",
+        "query": "capacitance electrostatic potential",
+        "level": "JEE Main",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Capacitor JEE Advanced previous-year problems",
+        "query": "capacitor combination dielectric energy",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "RC circuit JEE Advanced previous-year questions",
+        "query": "RC circuit charging discharging transient",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "HC Verma capacitors solved problems",
+        "query": "HC Verma capacitors chapter solutions",
+        "level": "Mixed",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Irodov capacitance and energy problems",
+        "query": "Irodov capacitor energy electrostatics solutions",
+        "level": "Olympiad",
+        "sources": [
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "DC Pandey capacitors objective problems",
+        "query": "DC Pandey capacitors solutions JEE",
+        "level": "Mixed",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Hardest capacitor-network problems",
+        "query": "hardest capacitor network problem physics olympiad",
+        "level": "Olympiad",
+        "sources": [
+          "pse",
+          "google"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Current Electricity",
+    "slug": "current-electricity",
+    "subject": "Physics",
+    "group": "Electromagnetism",
+    "blurb": "Everything from Ohm's law and drift velocity to multi-loop Kirchhoff networks, Wheatstone/meter bridges, potentiometers, EMF-internal-resistance combinations, and RC charging/discharging transients — the workhorse chapter for JEE Advanced circuit problems.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Ohm's law and V-I characteristics (ohmic vs non-ohmic)",
+      "Resistivity, conductivity and temperature dependence",
+      "Drift velocity, mobility and microscopic Ohm's law (J = sigma E)",
+      "Current density and the relation I = nAev_d",
+      "Series and parallel resistor combinations",
+      "Symmetry and folding methods for resistor networks",
+      "Wheatstone bridge balance condition",
+      "Kirchhoff's current and voltage laws (KCL, KVL)",
+      "Meter bridge and Carey Foster bridge",
+      "Potentiometer: comparing EMFs and measuring internal resistance",
+      "Cells, EMF, terminal voltage and internal resistance",
+      "Grouping of cells (series, parallel, mixed) for maximum current",
+      "Maximum power transfer and electrical power dissipation",
+      "RC circuits: charging and discharging transients, time constant",
+      "Galvanometer, ammeter and voltmeter (shunt and series resistance)"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced — Official Archive of Past Question Papers",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "jeeadv.ac.in",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authoritative source for past Advanced papers; pull every Current Electricity problem (circuits, potentiometer, RC) with official solutions."
+      },
+      {
+        "title": "HyperPhysics — DC Circuits & Ohm's Law concept map",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/electric/ohmlaw.html",
+        "source": "HyperPhysics (GSU)",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Compact linked concept map for resistance, Ohm's law and circuit basics; great for quick conceptual revision before problem sets."
+      },
+      {
+        "title": "HyperPhysics — Resistors in Series & Parallel",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/electric/resis.html",
+        "source": "HyperPhysics (GSU)",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Reference for combining resistors; use as the baseline before introducing symmetry tricks on tougher networks."
+      },
+      {
+        "title": "HyperPhysics — Kirchhoff's Rules",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/electric/kirch.html",
+        "source": "HyperPhysics (GSU)",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Loop and junction rules with worked sign conventions — the foundation for every multi-loop Advanced problem."
+      },
+      {
+        "title": "HyperPhysics — RC Circuit Charging & Discharging",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/electric/capdis.html",
+        "source": "HyperPhysics (GSU)",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Exponential transient curves and the time constant tau = RC; pair with calculus derivation for Advanced-level questions."
+      },
+      {
+        "title": "HyperPhysics — Drift Velocity & Microscopic Ohm's Law",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/electric/ohmmic.html",
+        "source": "HyperPhysics (GSU)",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Links current density, drift velocity and conductivity; useful for the n, A, e, v_d numerical estimates Advanced loves."
+      },
+      {
+        "title": "MIT OCW 8.02 Electricity & Magnetism (full course)",
+        "url": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Lecture notes, problem sets and exams covering DC circuits, Kirchhoff and RC transients at a level matching or exceeding Advanced."
+      },
+      {
+        "title": "The Feynman Lectures on Physics — free full text",
+        "url": "https://www.feynmanlectures.caltech.edu/",
+        "source": "Caltech",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Vol II chapters on conductivity, currents in materials and circuit relations give deep physical intuition behind Ohm's law and drift."
+      },
+      {
+        "title": "PhET Physics Simulations (filter)",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=physics",
+        "source": "PhET / CU Boulder",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Open 'Circuit Construction Kit: DC' to let students build and measure series/parallel networks, Kirchhoff loops and RC charging live."
+      },
+      {
+        "title": "NCERT Physics Textbooks (Class 12 — Current Electricity)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Class 12 Part 1 Chapter 3 is the syllabus baseline; every Advanced problem assumes mastery of its derivations and in-text examples."
+      },
+      {
+        "title": "Khan Academy — DC circuit analysis search",
+        "url": "https://www.khanacademy.org/search?page_search_query=DC%20circuit%20analysis%20Kirchhoff",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Step-by-step videos on Ohm's law, equivalent resistance and Kirchhoff's rules for students who need the fundamentals reinforced."
+      },
+      {
+        "title": "Khan Academy — RC circuits & time constant search",
+        "url": "https://www.khanacademy.org/search?page_search_query=RC%20circuit%20charging%20time%20constant",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Mixed",
+        "note": "Visual treatment of capacitor charging/discharging curves and tau = RC; assign before tackling transient numericals."
+      },
+      {
+        "title": "Wikipedia — Wheatstone bridge",
+        "url": "https://en.wikipedia.org/wiki/Wheatstone_bridge",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Balance condition, sensitivity and meter-bridge / Carey Foster extensions — good for the measurement-instrument flavour of Advanced."
+      },
+      {
+        "title": "Wikipedia — Potentiometer (measuring instrument)",
+        "url": "https://en.wikipedia.org/wiki/Potentiometer_(measuring_instrument)",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Principle of null-deflection EMF comparison and internal-resistance measurement, a recurring Advanced experimental-physics theme."
+      },
+      {
+        "title": "Physics StackExchange — RC transient & circuit search",
+        "url": "https://physics.stackexchange.com/search?q=RC%20circuit%20transient%20charging%20Kirchhoff",
+        "source": "Physics StackExchange",
+        "type": "Problem set",
+        "level": "JEE Advanced",
+        "note": "Community-vetted derivations and subtle conceptual traps (initial vs steady-state currents, sign conventions) at Advanced depth."
+      },
+      {
+        "title": "Wolfram Alpha — symbolic circuit & RC computation",
+        "url": "https://www.wolframalpha.com/input?i=solve%20RC%20circuit%20charging%20equation",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Check Kirchhoff systems, equivalent resistance and RC differential-equation solutions; quick numerical verification of student answers."
+      },
+      {
+        "title": "Brilliant — Electricity & circuit courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Interactive circuit-analysis courses that build intuition for Kirchhoff networks and equivalent-resistance reasoning."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Ohm's law and V-I characteristics of ohmic vs non-ohmic conductors",
+        "query": "Ohm's law V-I characteristics ohmic non-ohmic conductor",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Resistivity and temperature coefficient of resistance numericals",
+        "query": "resistivity temperature coefficient of resistance numerical",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Drift velocity, mobility and current density derivation",
+        "query": "drift velocity mobility current density derivation I=nAev_d",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Microscopic Ohm's law J = sigma E and relaxation time",
+        "query": "microscopic Ohm's law J sigma E relaxation time conductivity",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Equivalent resistance of series and parallel combinations",
+        "query": "equivalent resistance series parallel combination problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Infinite ladder resistor network equivalent resistance",
+        "query": "infinite ladder network equivalent resistance",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Resistor cube equivalent resistance between corners by symmetry",
+        "query": "cube resistor network equivalent resistance symmetry",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Symmetry and folding method for complex resistor networks",
+        "query": "symmetry folding method complex resistor network equivalent resistance",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Wheatstone bridge balance condition problems",
+        "query": "Wheatstone bridge balance condition",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Unbalanced Wheatstone bridge galvanometer current",
+        "query": "unbalanced Wheatstone bridge galvanometer current Kirchhoff",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Meter bridge balance point and end corrections",
+        "query": "meter bridge balance point end correction problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Carey Foster bridge resistance measurement",
+        "query": "Carey Foster bridge resistance measurement",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "pse"
+        ]
+      },
+      {
+        "label": "Kirchhoff's laws multi-loop circuit analysis",
+        "query": "Kirchhoff's laws KVL KCL multi loop circuit analysis",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Kirchhoff's laws hard multi-mesh network with multiple batteries",
+        "query": "Kirchhoff multi mesh network multiple batteries hard problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Wheatstone bridge with capacitor steady state charge",
+        "query": "Wheatstone bridge with capacitor steady state charge",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Potentiometer principle and comparison of EMFs",
+        "query": "potentiometer principle comparison of EMF of two cells",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Potentiometer measurement of internal resistance of a cell",
+        "query": "potentiometer internal resistance of cell measurement",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Potentiometer sensitivity and potential gradient problems",
+        "query": "potentiometer sensitivity potential gradient problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "EMF, terminal voltage and internal resistance of a cell",
+        "query": "EMF terminal voltage internal resistance of cell problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Grouping of cells in series, parallel and mixed for maximum current",
+        "query": "grouping of cells series parallel mixed maximum current",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Maximum power transfer theorem in DC circuits",
+        "query": "maximum power transfer theorem DC circuit derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Electrical power dissipation and heating effect of current",
+        "query": "electrical power dissipation heating effect of current problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "RC circuit charging equation and time constant derivation",
+        "query": "RC circuit charging equation time constant derivation",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "RC circuit discharging exponential decay problems",
+        "query": "RC circuit discharging exponential decay current voltage",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "RC transient initial and steady state current analysis",
+        "query": "RC circuit initial steady state current capacitor analysis",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Multiple capacitors and resistors transient network with switches",
+        "query": "multiple capacitor resistor network transient switch problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Galvanometer to ammeter conversion using shunt",
+        "query": "galvanometer ammeter conversion shunt resistance problem",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Galvanometer to voltmeter conversion series resistance",
+        "query": "galvanometer voltmeter conversion series resistance problem",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Effect of voltmeter and ammeter resistance on measurement error",
+        "query": "voltmeter ammeter resistance measurement error circuit",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Capacitor in steady-state DC branch: no-current branch charge",
+        "query": "capacitor steady state DC circuit no current branch charge problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Wheatstone bridge, meter bridge & potentiometer past-year questions",
+        "query": "Wheatstone bridge meter bridge potentiometer",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Current electricity full chapter JEE Advanced past-year questions",
+        "query": "current electricity DC circuits",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Moving Charges & Magnetism",
+    "slug": "magnetic-effects",
+    "subject": "Physics",
+    "group": "Electromagnetism",
+    "blurb": "Everything from Biot-Savart and Ampere's law to cyclotron, solenoids and dipole torque — the magnetostatics core that JEE Advanced loves to combine with circular-motion and vector geometry.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Biot-Savart law and field of current elements",
+      "Magnetic field on the axis of a circular loop",
+      "Ampere's circuital law and its applications",
+      "Magnetic field of a long straight wire",
+      "Magnetic field of a solenoid",
+      "Magnetic field of a toroid",
+      "Lorentz force on a moving charge",
+      "Motion of charged particles in uniform magnetic fields",
+      "Velocity selector and crossed E and B fields",
+      "Cyclotron principle and frequency",
+      "Force on a current-carrying conductor",
+      "Force between two parallel currents and definition of ampere",
+      "Torque on a current loop in a magnetic field",
+      "Magnetic dipole moment of a current loop",
+      "Magnetic dipole in a uniform field (analogy with electric dipole)"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced Official Past Papers Archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "JEE Advanced (IIT)",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic question papers and answer keys; mine these for past magnetostatics and Lorentz-force problems."
+      },
+      {
+        "title": "MIT OCW 8.02 Electricity & Magnetism",
+        "url": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Full E&M course with lecture notes and problem sets; modules on magnetic fields, Biot-Savart, Ampere's law and forces."
+      },
+      {
+        "title": "HyperPhysics: Magnetic Field Concept Map",
+        "url": "https://hyperphysics.phy-astr.gsu.edu/hbase/index.html",
+        "source": "Georgia State University",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Click into the Electricity & Magnetism map for Biot-Savart, Ampere, solenoid, toroid and force formulas with quick derivations."
+      },
+      {
+        "title": "The Feynman Lectures on Physics (Vol II)",
+        "url": "https://www.feynmanlectures.caltech.edu/",
+        "source": "Caltech",
+        "type": "Reference",
+        "level": "Olympiad",
+        "note": "Volume II chapters on magnetostatics, the vector potential and forces give the deepest conceptual treatment for top students."
+      },
+      {
+        "title": "PhET Physics Simulations (Magnets & Electromagnets)",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=physics",
+        "source": "University of Colorado Boulder",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Filter for Magnet and Faraday/Magnets simulations to visualise field lines, solenoids and charged-particle motion in class."
+      },
+      {
+        "title": "NCERT Physics Textbooks (Class 12)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Class 12 Part 1, Chapter 'Moving Charges and Magnetism' — the syllabus baseline and source of many directly-lifted problems."
+      },
+      {
+        "title": "Khan Academy: Magnetic Forces & Fields",
+        "url": "https://www.khanacademy.org/search?page_search_query=magnetic%20force%20on%20moving%20charge",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Video lessons on Lorentz force, right-hand rule and field of a wire for foundation building and revision."
+      },
+      {
+        "title": "Khan Academy: Ampere's Law & Solenoids",
+        "url": "https://www.khanacademy.org/search?page_search_query=ampere%20law%20solenoid%20magnetic%20field",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Targeted search for Ampere's-law applications, ideal solenoid and toroid field videos."
+      },
+      {
+        "title": "Wikipedia: Biot-Savart Law",
+        "url": "https://en.wikipedia.org/w/index.php?search=Biot%E2%80%93Savart%20law",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Statement, vector integral form and worked field-of-wire/loop cases; good for the precise mathematical formulation."
+      },
+      {
+        "title": "Wikipedia: Ampere's Circuital Law",
+        "url": "https://en.wikipedia.org/w/index.php?search=Ampere%27s%20circuital%20law",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Integral and differential forms plus symmetry-based applications to wire, solenoid and toroid."
+      },
+      {
+        "title": "Wikipedia: Cyclotron",
+        "url": "https://en.wikipedia.org/w/index.php?search=cyclotron%20physics",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Cyclotron frequency derivation, dees and the relativistic limit — directly maps to the JEE Advanced cyclotron sub-topic."
+      },
+      {
+        "title": "Wikipedia: Magnetic Dipole Moment",
+        "url": "https://en.wikipedia.org/w/index.php?search=magnetic%20dipole%20moment%20current%20loop",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Dipole moment of a current loop, torque tau = m x B and potential energy U = -m.B for the dipole sub-topic."
+      },
+      {
+        "title": "Wolfram Alpha: Compute Magnetic Field & Force",
+        "url": "https://www.wolframalpha.com/input?i=magnetic%20field%20of%20a%20solenoid",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Plug in currents, turns and geometry to check numerical answers for fields, forces and cyclotron frequencies."
+      },
+      {
+        "title": "Physics StackExchange: Magnetostatics Q&A",
+        "url": "https://physics.stackexchange.com/search?q=Biot-Savart%20Ampere%20magnetic%20field",
+        "source": "Physics StackExchange",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Search hub for conceptual subtleties and tricky derivations debated by physicists; great for clearing student doubts."
+      },
+      {
+        "title": "Brilliant: Electricity & Magnetism Courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Interactive problem-led E&M courses; pick the magnetism modules for guided reasoning practice."
+      },
+      {
+        "title": "MIT OCW 8.01 Classical Mechanics (circular motion refresher)",
+        "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "JEE Main",
+        "note": "Circular-motion and centripetal-force units underpin radius/period analysis of charges in magnetic fields."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Biot-Savart field of a finite straight wire",
+        "query": "magnetic field of finite straight current carrying wire Biot Savart",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Field on the axis of a circular current loop",
+        "query": "magnetic field on axis of circular current loop derivation",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Field at the centre of arcs and partial loops",
+        "query": "magnetic field at centre of circular arc current",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Biot-Savart integral for a current segment",
+        "query": "Biot Savart law integral magnetic field derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "mse",
+          "pse",
+          "google"
+        ]
+      },
+      {
+        "label": "Ampere's law for an infinite straight wire",
+        "query": "Ampere circuital law infinite straight wire magnetic field",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Field inside and outside a long solenoid",
+        "query": "magnetic field inside long solenoid Ampere law",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Magnetic field of a toroid",
+        "query": "magnetic field of toroid Ampere law derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Ampere's law for a cylinder with non-uniform current density",
+        "query": "Ampere law cylindrical conductor non uniform current density magnetic field",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Field of a thick wire and coaxial cable",
+        "query": "magnetic field thick wire coaxial cable Ampere law",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Lorentz force on a moving charge (basics)",
+        "query": "Lorentz force magnetic force on moving charge problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Circular motion of a charge in a magnetic field",
+        "query": "charged particle circular motion uniform magnetic field radius period",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Helical path of a charge in a magnetic field",
+        "query": "helical motion charged particle magnetic field pitch radius",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Velocity selector and crossed E and B fields",
+        "query": "velocity selector crossed electric magnetic fields problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cyclotron frequency and maximum energy",
+        "query": "cyclotron frequency maximum kinetic energy derivation problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Charge entering a field region at an angle",
+        "query": "charged particle entering magnetic field region deflection problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Combined electric and magnetic field motion",
+        "query": "motion of charge in combined electric and magnetic field problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Force on a straight current-carrying conductor",
+        "query": "force on current carrying conductor in magnetic field problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Force on a curved or semicircular wire",
+        "query": "magnetic force on semicircular current carrying wire problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Force between two parallel current-carrying wires",
+        "query": "force between two parallel current carrying wires problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Definition of the ampere from parallel-wire force",
+        "query": "definition of ampere force between parallel conductors",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "google"
+        ]
+      },
+      {
+        "label": "Torque on a rectangular current loop",
+        "query": "torque on rectangular current loop in magnetic field derivation",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Magnetic dipole moment of a current loop",
+        "query": "magnetic dipole moment current loop problems",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Potential energy of a magnetic dipole in a field",
+        "query": "potential energy magnetic dipole in uniform magnetic field problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Oscillations of a magnetic dipole in a field",
+        "query": "oscillation time period magnetic dipole in magnetic field",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Magnetic moment of a rotating charged ring or disc",
+        "query": "rotating charged ring disc magnetic moment problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Magnetic moment to angular momentum ratio",
+        "query": "gyromagnetic ratio magnetic moment angular momentum electron orbit",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Helmholtz-coil field of two coaxial coils",
+        "query": "Helmholtz coils axial magnetic field two coaxial loops problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Superposition of fields from multiple wires",
+        "query": "net magnetic field due to multiple current carrying wires problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Net force on a loop in a non-uniform field",
+        "query": "net force on current loop magnetic dipole non uniform field",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google"
+        ]
+      },
+      {
+        "label": "Moving Charges & Magnetism JEE Advanced PYQ set",
+        "query": "moving charges and magnetism magnetic effects of current",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Hardest in-syllabus magnetism mixed problems",
+        "query": "magnetic field force tough JEE Advanced level problems with solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Mass spectrometer and charge trajectory geometry",
+        "query": "mass spectrometer charged particle magnetic field trajectory radius problems",
+        "level": "Olympiad",
+        "sources": [
+          "pse",
+          "google"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Electromagnetic Induction",
+    "slug": "electromagnetic-induction",
+    "subject": "Physics",
+    "group": "Electromagnetism",
+    "blurb": "A high-yield JEE Advanced chapter where Faraday-Lenz reasoning, motional EMF on moving conductors, and LR-circuit transients combine into multi-concept problems. Drill sign conventions and energy bookkeeping relentlessly.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Magnetic flux and Faraday's law of induction",
+      "Lenz's law and induced current direction",
+      "Motional EMF in moving rods and loops",
+      "EMF in rotating coils and rods",
+      "Induced electric fields and non-conservative E",
+      "Self-inductance and back EMF",
+      "Mutual inductance and coupled coils",
+      "Inductance of solenoids and toroids",
+      "Growth of current in LR circuits",
+      "Decay of current in LR circuits and time constant",
+      "Energy stored in an inductor and magnetic energy density",
+      "Eddy currents, braking and damping",
+      "Inductors in series and parallel",
+      "Combined LR with motional EMF and terminal velocity"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced Official Past Papers Archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "IIT JEE Advanced",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Pull EMI questions from recent papers; induction problems recur most years in Paper 1 or 2."
+      },
+      {
+        "title": "HyperPhysics: Faraday's Law and Induction",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/electric/farlaw.html",
+        "source": "HyperPhysics (GSU)",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Linked concept map for Faraday's law, motional EMF, Lenz's law and flux change."
+      },
+      {
+        "title": "MIT OCW 8.02 Electricity & Magnetism",
+        "url": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Faraday's law, inductance and RL circuit lectures, problem sets and exams with full solutions."
+      },
+      {
+        "title": "The Feynman Lectures on Physics (Vol II)",
+        "url": "https://www.feynmanlectures.caltech.edu/II_toc.html",
+        "source": "Caltech / Feynman",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Vol II Ch 16-17 give the cleanest treatment of induced EMF, the flux rule and its subtleties."
+      },
+      {
+        "title": "PhET: Faraday's Law Simulation",
+        "url": "https://phet.colorado.edu/en/simulations/faradays-law",
+        "source": "PhET (Colorado)",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Visualize flux change, Lenz's law and bar-magnet-through-coil induced EMF interactively."
+      },
+      {
+        "title": "PhET: Faraday's Electromagnetic Lab",
+        "url": "https://phet.colorado.edu/en/simulations/faradays-electromagnetic-lab",
+        "source": "PhET (Colorado)",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Build coils, pickup loops and a generator to explore induction and inductance hands-on."
+      },
+      {
+        "title": "NCERT Physics Class 12 (Ch 6 EMI)",
+        "url": "https://ncert.nic.in/textbook.php?leph1=6-6",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Chapter 6 Electromagnetic Induction; base theory and in-text problems every aspirant must master."
+      },
+      {
+        "title": "Wikipedia: Faraday's Law of Induction",
+        "url": "https://en.wikipedia.org/wiki/Faraday%27s_law_of_induction",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Integral and differential forms, the flux rule and its exceptions, with derivations."
+      },
+      {
+        "title": "Wikipedia: Inductance (Self & Mutual)",
+        "url": "https://en.wikipedia.org/wiki/Inductance",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Self/mutual inductance, coefficient of coupling and series-parallel inductor formulas."
+      },
+      {
+        "title": "Wikipedia: Eddy Current",
+        "url": "https://en.wikipedia.org/wiki/Eddy_current",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Mechanism of eddy currents, electromagnetic braking, damping and skin-depth context."
+      },
+      {
+        "title": "Wolfram Alpha: RL Circuit & Inductor Computations",
+        "url": "https://www.wolframalpha.com/input?i=RL+circuit+current+growth+time+constant",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Compute time constants, transient currents, inductor energy and solve LR differential equations."
+      },
+      {
+        "title": "Brilliant: Electricity & Magnetism Course",
+        "url": "https://brilliant.org/courses/electricity-magnetism/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Interactive problem-driven modules on induction, inductance and circuit transients."
+      },
+      {
+        "title": "Khan Academy: Electromagnetic Induction",
+        "url": "https://www.khanacademy.org/science/physics/magnetic-forces-and-magnetic-fields",
+        "source": "Khan Academy",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Foundational videos and exercises on Faraday's law, Lenz's law and motional EMF."
+      },
+      {
+        "title": "MIT OCW 8.03 Vibrations & Waves",
+        "url": "https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Bridges inductors into LC/oscillatory-circuit intuition, connecting EMI to AC topics."
+      },
+      {
+        "title": "Wolfram Alpha: Solenoid Inductance & Energy Density",
+        "url": "https://www.wolframalpha.com/input?i=solenoid+self+inductance+energy+stored+magnetic+field",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "JEE Advanced",
+        "note": "Evaluate L = mu0 n^2 A l, stored energy (1/2)LI^2 and energy density B^2/2mu0."
+      },
+      {
+        "title": "HyperPhysics: Inductance and RL Circuits",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/electric/indcon.html",
+        "source": "HyperPhysics (GSU)",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Concept pages for self-inductance, RL growth/decay curves and inductor energy."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Faraday's law flux-change EMF basics",
+        "query": "Faraday law of induction magnetic flux change induced EMF",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Lenz's law direction of induced current",
+        "query": "Lenz law direction of induced current magnet through coil",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Flux through loop in changing B field",
+        "query": "magnetic flux through loop time varying magnetic field induced EMF",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Motional EMF of rod in magnetic field",
+        "query": "motional EMF conducting rod moving magnetic field induced voltage",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Rod on rails sliding to terminal velocity",
+        "query": "conducting rod sliding on rails magnetic field terminal velocity induced current",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "EMF of rod rotating about one end",
+        "query": "EMF rotating rod about one end uniform magnetic field",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Induced EMF in a rotating coil generator",
+        "query": "induced EMF rotating coil generator peak EMF angular frequency",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Expanding or shrinking loop EMF",
+        "query": "expanding circular loop magnetic field induced EMF rate of change of area",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Induced electric field, non-conservative",
+        "query": "induced electric field changing magnetic field non conservative line integral",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Self-inductance of a solenoid",
+        "query": "self inductance solenoid derivation formula number of turns",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Mutual inductance of coupled coils",
+        "query": "mutual inductance two coaxial coils solenoid derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Coefficient of coupling between coils",
+        "query": "coefficient of coupling mutual inductance self inductance relation k",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Inductors in series and parallel",
+        "query": "inductors in series parallel equivalent inductance with mutual coupling",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Growth of current in LR circuit",
+        "query": "growth of current LR circuit time constant exponential charging inductor",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Decay of current in LR circuit",
+        "query": "decay of current LR circuit switch opened time constant inductor",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "LR differential equation derivation",
+        "query": "LR circuit differential equation solution current time constant derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "mse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Energy stored in an inductor",
+        "query": "energy stored in inductor half L I squared derivation",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Magnetic energy density of a field",
+        "query": "magnetic energy density B squared over 2 mu0 derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Eddy currents and electromagnetic braking",
+        "query": "eddy currents electromagnetic braking damping pendulum metal plate",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Inductor at t=0 vs steady state",
+        "query": "inductor circuit initial current steady state long time switch closed",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Force and power on rod in B field",
+        "query": "force on current carrying rod magnetic field power dissipated motional EMF",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Charge through circuit from flux change",
+        "query": "total charge induced circuit change in flux resistance integral",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Magnet falling through a copper pipe",
+        "query": "magnet falling through copper pipe eddy currents terminal velocity Lenz",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Induced EMF in a secondary coil",
+        "query": "mutual inductance induced EMF secondary coil rate of change primary current",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Two moving rods on shared rails",
+        "query": "two conducting rods on rails magnetic field relative motion induced current",
+        "level": "Olympiad",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Multi-loop LR switching transients",
+        "query": "LR circuit multiple loops inductor switching transient analysis",
+        "level": "Olympiad",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Rod rotating in B with circuit resistance",
+        "query": "rotating rod magnetic field resistance current power dissipated",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Self-inductance of a toroid",
+        "query": "toroid self inductance derivation number of turns mean radius",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Induced EMF from flux vs time graph",
+        "query": "induced EMF from magnetic flux versus time graph slope problem",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Mixed EMI problem sets (HCV, Irodov, DC Pandey)",
+        "query": "HC Verma Irodov DC Pandey electromagnetic induction solved problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "EMI previous-year JEE Advanced problems",
+        "query": "electromagnetic induction inductance LR circuit previous year",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Loop entering/exiting a field region",
+        "query": "square loop entering exiting uniform magnetic field region induced EMF force",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Energy conservation in motional EMF",
+        "query": "energy conservation motional EMF work done battery heat kinetic energy",
+        "level": "Olympiad",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Power balance in an RL transient",
+        "query": "RL circuit battery resistor power delivered inductor energy rate transient",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Alternating Current",
+    "slug": "alternating-current",
+    "subject": "Physics",
+    "group": "Electromagnetism",
+    "blurb": "A high-yield AC unit covering R-L-C response, phasor analysis, series-RLC resonance and quality factor, average power and power factor, transformers, and LC oscillations — built to take students from definitions to JEE Advanced multi-concept problems.",
+    "jeeWeight": "Medium",
+    "subtopics": [
+      "AC voltage and current: rms and peak values, average and rms over a cycle",
+      "AC through a pure resistor",
+      "AC through a pure inductor: inductive reactance and phase lead of voltage",
+      "AC through a pure capacitor: capacitive reactance and phase lag of voltage",
+      "Phasor diagrams for R, L, C and combinations",
+      "Series RLC circuit: impedance and net phase angle",
+      "Resonance in series RLC: resonant frequency and current peak",
+      "Quality factor (Q-factor) and bandwidth/sharpness of resonance",
+      "Instantaneous, average and rms power in AC circuits",
+      "Power factor, wattless current and power dissipation",
+      "Transformers: turns ratio, step-up/step-down, ideal vs real, energy losses",
+      "LC oscillations: charge and current oscillations, energy exchange",
+      "Analogy between LC oscillations and SHM",
+      "Choke coils and reactance vs resistance in limiting current"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced official archive — past question papers & answer keys",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "jeeadv.ac.in",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Pull AC problems from past Advanced papers; phasor, resonance and power-factor items appear regularly. Use as the authoritative PYQ source."
+      },
+      {
+        "title": "HyperPhysics — Electricity & Magnetism concept index (AC circuits)",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/index.html",
+        "source": "HyperPhysics (GSU)",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Navigate to Electricity & Magnetism > AC Circuits for reactance, impedance and phasor diagrams — concise visual reference for first exposure."
+      },
+      {
+        "title": "HyperPhysics — series RLC resonance and Q-factor",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/electric/serres.html",
+        "source": "HyperPhysics (GSU)",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Direct page on series resonance, resonant frequency and quality factor — exact formulas students must derive and apply."
+      },
+      {
+        "title": "MIT OCW 8.02 Electricity & Magnetism — full course",
+        "url": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Lectures and problem sets on driven RLC circuits, impedance and power; rigour beyond JEE but excellent for phasor intuition and worked problems."
+      },
+      {
+        "title": "MIT OCW 8.03 Vibrations & Waves — driven oscillators & resonance",
+        "url": "https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Treats resonance, Q-factor and the LC-SHM analogy formally — use the driven-oscillator units to deepen RLC resonance and bandwidth understanding."
+      },
+      {
+        "title": "The Feynman Lectures on Physics (free full text)",
+        "url": "https://www.feynmanlectures.caltech.edu/",
+        "source": "Caltech",
+        "type": "Reference",
+        "level": "Olympiad",
+        "note": "Vol. II chapters on AC circuits, impedance and resonance give the deepest conceptual treatment — for the strongest students chasing intuition."
+      },
+      {
+        "title": "NCERT Physics textbooks (Class 12) — Alternating Current chapter",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Open Class 12 Physics Part 1; the Alternating Current chapter defines the syllabus scope, sign conventions and base problem set."
+      },
+      {
+        "title": "PhET — Circuit Construction Kit: AC simulation",
+        "url": "https://phet.colorado.edu/en/simulations/circuit-construction-kit-ac",
+        "source": "PhET (CU Boulder)",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Let students see phase relationships, reactance and resonance live — strong for building phasor-diagram intuition before the maths."
+      },
+      {
+        "title": "Khan Academy — AC circuits & electromagnetic induction unit",
+        "url": "https://www.khanacademy.org/science/physics/in-in-class12th-physics-india/in-in-alternating-current",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Short videos on reactance, impedance and resonance; good remediation for students shaky on phasors and rms values."
+      },
+      {
+        "title": "Brilliant — electricity & magnetism courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Interactive problem-first courses; the electricity/circuits tracks reinforce reactance and resonance through guided problem solving."
+      },
+      {
+        "title": "Wikipedia — RLC circuit (impedance, resonance, Q-factor)",
+        "url": "https://en.wikipedia.org/wiki/RLC_circuit",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Comprehensive article with phasor maths, bandwidth and Q derivations — good consolidated reference once basics are in place."
+      },
+      {
+        "title": "Wikipedia — LC circuit (LC oscillations & SHM analogy)",
+        "url": "https://en.wikipedia.org/wiki/LC_circuit",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Covers undamped LC oscillation, natural frequency 1/sqrt(LC) and the mechanical-SHM analogy that Advanced loves to test."
+      },
+      {
+        "title": "Wikipedia — transformer (turns ratio & ideal model)",
+        "url": "https://en.wikipedia.org/wiki/Transformer",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Turns-ratio relations, ideal vs real transformer and energy-loss mechanisms — matches the limited transformer scope in the syllabus."
+      },
+      {
+        "title": "Wikipedia — AC power (real, reactive, power factor)",
+        "url": "https://en.wikipedia.org/wiki/AC_power",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Derivation of average power = Vrms Irms cos(phi), wattless current and power factor — clears the common misconceptions Advanced exploits."
+      },
+      {
+        "title": "Wikipedia — electrical reactance (inductive & capacitive)",
+        "url": "https://en.wikipedia.org/wiki/Electrical_reactance",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Consolidated treatment of X_L = omega L and X_C = 1/(omega C), phase relationships and the impedance triangle — clean formula reference."
+      },
+      {
+        "title": "Wolfram Alpha — computational engine for RLC & reactance",
+        "url": "https://www.wolframalpha.com/",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Enter R, L, C and omega to instantly check impedance, phase angle, resonant frequency, Q and reactances while setting or self-verifying problems."
+      },
+      {
+        "title": "NPTEL — Basic Electrical Technology / Circuit Theory courses",
+        "url": "https://nptel.ac.in/courses/108",
+        "source": "NPTEL (IIT/IISc)",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Filter the Electrical Engineering listing for circuit-theory courses with rigorous lectures on AC steady-state, phasors, resonance and power."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "RMS and average value of AC waveforms",
+        "query": "rms value average value alternating current sine half-wave",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "AC through a pure resistor — phase and power",
+        "query": "AC through pure resistor phase power dissipation",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "AC through a pure inductor — inductive reactance",
+        "query": "AC through inductor inductive reactance phase lead voltage",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "AC through a pure capacitor — capacitive reactance",
+        "query": "AC through capacitor capacitive reactance phase lag current",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Phasor diagram method for AC circuits",
+        "query": "phasor diagram method AC circuit series RLC",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Series RLC impedance and net phase angle",
+        "query": "series RLC circuit impedance phase angle calculation numerical",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Resonance condition and resonant frequency in series RLC",
+        "query": "series RLC resonance condition resonant frequency derivation maximum current",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Quality factor of RLC circuit",
+        "query": "quality factor Q series RLC circuit derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Bandwidth and sharpness of resonance",
+        "query": "bandwidth half power frequencies sharpness resonance RLC",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Average power in AC circuit derivation",
+        "query": "average power AC circuit Vrms Irms cos phi derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Power factor problems and improvement",
+        "query": "power factor AC circuit problems improvement",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Wattless current and wattless component",
+        "query": "wattless current wattless component AC circuit",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Choke coil and reactance limiting current",
+        "query": "choke coil AC circuit reactance limiting current advantage",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Transformer turns ratio and step-up/step-down",
+        "query": "transformer turns ratio step up step down voltage current",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Ideal vs real transformer and energy losses",
+        "query": "ideal transformer efficiency energy losses eddy current hysteresis",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "LC oscillations: charge and current",
+        "query": "LC oscillations charge current natural frequency derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Energy exchange in LC oscillation",
+        "query": "energy oscillation LC circuit electric magnetic energy exchange",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "LC oscillation analogy with SHM",
+        "query": "LC oscillation analogy simple harmonic motion mass spring",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Parallel RLC and resonance comparison",
+        "query": "parallel RLC circuit resonance impedance comparison series",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Voltage across L and C exceeding source at resonance",
+        "query": "voltage across inductor capacitor greater than source resonance",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Impedance triangle and admittance",
+        "query": "impedance triangle admittance AC circuit reactance resistance",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "RC and RL series AC circuit problems",
+        "query": "RC RL series AC circuit impedance phase problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "pse"
+        ]
+      },
+      {
+        "label": "AC circuit assertion-reason and conceptual MCQs",
+        "query": "alternating current assertion reason conceptual MCQ",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube"
+        ]
+      },
+      {
+        "label": "HC Verma alternating current solved problems",
+        "query": "HC Verma alternating current solved problems chapter",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Irodov AC circuits and oscillations problems",
+        "query": "Irodov alternating current electric oscillations problems solutions",
+        "level": "Olympiad",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "DC Pandey alternating current practice set",
+        "query": "DC Pandey alternating current practice problems solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "JEE Advanced previous-year AC questions",
+        "query": "JEE Advanced previous year alternating current resonance power factor",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Phase difference and lead-lag numericals",
+        "query": "phase difference lead lag voltage current AC circuit numerical",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Sinusoidal source driving RLC: transient and steady state",
+        "query": "sinusoidal source RLC steady state response phasor",
+        "level": "Olympiad",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Power consumed in series RLC at given frequency",
+        "query": "power consumed series RLC circuit frequency power factor numerical",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Ray Optics & Optical Instruments",
+    "slug": "ray-optics",
+    "subject": "Physics",
+    "group": "Optics & Modern",
+    "blurb": "A high-yield JEE Advanced chapter that rewards clean sign-convention discipline across mirrors, refraction at curved surfaces, the lens maker formula, prisms, total internal reflection, and multi-element optical instruments.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Reflection at plane and spherical mirrors (mirror formula, magnification, sign convention)",
+      "Image formation by concave and convex mirrors; velocity of image",
+      "Refraction at plane surfaces; apparent depth and normal shift",
+      "Refraction at a single spherical surface (n2/v - n1/u = (n2-n1)/R)",
+      "Thin lens formula and linear/longitudinal magnification",
+      "Lens maker formula and focal length variation with medium",
+      "Combination of thin lenses (in contact and separated); equivalent focal length and power",
+      "Silvered lenses and lens-mirror combinations",
+      "Prism: deviation, minimum deviation, and refractive index measurement",
+      "Dispersion by a prism; dispersive power, angular and chromatic dispersion",
+      "Total internal reflection, critical angle, optical fibre and mirage",
+      "Achromatic combination of prisms and lenses",
+      "Optical instruments: simple and compound microscope (magnifying power)",
+      "Astronomical telescope: magnifying power in normal adjustment and length",
+      "Defects of vision and power of corrective lenses"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced Official Past Papers Archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "IIT JEE Advanced",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authoritative source of real Ray Optics problems (mirrors, lenses, prisms, TIR) from past Advanced papers with official answer keys."
+      },
+      {
+        "title": "HyperPhysics: Geometric Optics Concept Map",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/index.html",
+        "source": "Georgia State University",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Interlinked concept maps for mirror/lens equations, refraction, dispersion and the optics ray-diagram conventions used throughout this chapter."
+      },
+      {
+        "title": "Feynman Lectures Vol I: Geometrical Optics",
+        "url": "https://www.feynmanlectures.caltech.edu/",
+        "source": "Caltech",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Chapters 26-27 give Feynman's first-principles treatment of reflection, refraction, focal lengths and the thin-lens idea for deep conceptual reading."
+      },
+      {
+        "title": "PhET Physics Simulations (Optics)",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=physics",
+        "source": "University of Colorado Boulder",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Use Geometric Optics and Bending Light sims to visualise image formation, magnification, refraction and total internal reflection interactively."
+      },
+      {
+        "title": "NCERT Physics Textbooks (Class 12, Ray Optics)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Class 12 Part II Chapter 9 is the syllabus baseline; master its derivations and solved examples before attempting Advanced-level problems."
+      },
+      {
+        "title": "Khan Academy: Geometric Optics search",
+        "url": "https://www.khanacademy.org/search?page_search_query=geometric%20optics%20mirrors%20lenses",
+        "source": "Khan Academy",
+        "type": "Course",
+        "level": "JEE Main",
+        "note": "Video lessons and practice on mirror/lens formula, ray diagrams and refraction for building fluency before Advanced drills."
+      },
+      {
+        "title": "Khan Academy: Refraction and Lenses search",
+        "url": "https://www.khanacademy.org/search?page_search_query=refraction%20snell%20law%20lens%20maker",
+        "source": "Khan Academy",
+        "type": "Course",
+        "level": "JEE Main",
+        "note": "Targeted refraction, Snell's law and lens-maker content useful for the refraction-heavy half of the chapter."
+      },
+      {
+        "title": "Brilliant: Physics Courses (Optics)",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Guided interactive problem sequences on light, reflection and refraction that build the reasoning style Advanced rewards."
+      },
+      {
+        "title": "Wikipedia: Geometrical Optics search",
+        "url": "https://en.wikipedia.org/w/index.php?search=geometrical%20optics%20lens%20maker%20equation",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Background articles on the lens maker equation, thin lens, prism deviation and dispersion with full derivations and figures."
+      },
+      {
+        "title": "Wikipedia: Total Internal Reflection search",
+        "url": "https://en.wikipedia.org/w/index.php?search=total%20internal%20reflection%20critical%20angle",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Detailed treatment of critical angle, TIR conditions, optical fibres and prism reflectors relevant to high-value Advanced questions."
+      },
+      {
+        "title": "Physics StackExchange: lens maker / spherical surface search",
+        "url": "https://physics.stackexchange.com/search?q=lens+maker+formula+spherical+refracting+surface",
+        "source": "Physics StackExchange",
+        "type": "Problem set",
+        "level": "JEE Advanced",
+        "note": "Expert discussions and worked subtleties of refraction at a spherical surface and lens-maker derivations, including sign-convention pitfalls."
+      },
+      {
+        "title": "Physics StackExchange: prism minimum deviation search",
+        "url": "https://physics.stackexchange.com/search?q=prism+minimum+deviation+dispersion",
+        "source": "Physics StackExchange",
+        "type": "Problem set",
+        "level": "JEE Advanced",
+        "note": "Q&A on minimum deviation, thin-prism approximation, dispersive power and achromatic combinations for tricky prism problems."
+      },
+      {
+        "title": "Wolfram Alpha: thin lens equation compute",
+        "url": "https://www.wolframalpha.com/input?i=thin%20lens%20equation%201%2Fv%20-%201%2Fu%20%3D%201%2Ff",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Compute and check image distance, magnification and focal length results; great for verifying numeric answers in self-made problems."
+      },
+      {
+        "title": "Wolfram Alpha: critical angle compute",
+        "url": "https://www.wolframalpha.com/input?i=critical%20angle%20arcsin(1%2F1.5)%20in%20degrees",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Quick evaluation of critical angles, Snell's-law refraction angles and dispersive-power arithmetic to validate optics solutions."
+      },
+      {
+        "title": "Khan Academy: Optical Instruments search",
+        "url": "https://www.khanacademy.org/search?page_search_query=microscope%20telescope%20magnifying%20power",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Explanations of simple/compound microscope and telescope magnifying power and tube length for the optical-instruments portion."
+      },
+      {
+        "title": "Physics StackExchange: image velocity in mirrors search",
+        "url": "https://physics.stackexchange.com/search?q=velocity+of+image+plane+mirror+spherical+mirror",
+        "source": "Physics StackExchange",
+        "type": "Problem set",
+        "level": "JEE Advanced",
+        "note": "Discussions on differentiating mirror/lens equations to find image velocity, a recurring Advanced trick for moving-object problems."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Plane mirror image formation and field of view",
+        "query": "plane mirror image formation field of view minimum mirror size",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Concave mirror image position and magnification",
+        "query": "concave mirror image distance magnification mirror formula",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Convex mirror real and virtual image numericals",
+        "query": "convex mirror numerical problems magnification",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Velocity of image in a moving spherical mirror",
+        "query": "velocity of image in spherical mirror moving object",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Apparent depth and normal shift in slabs",
+        "query": "apparent depth normal shift refraction glass slab problems",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Lateral shift through a parallel-sided glass slab",
+        "query": "lateral shift parallel glass slab refraction problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Snell's law multi-layer / variable-index refraction",
+        "query": "Snell law refraction through multiple layers variable refractive index",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Refraction at a single spherical surface",
+        "query": "refraction at single spherical surface formula problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Lens maker formula derivation and use",
+        "query": "lens maker formula derivation focal length problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Focal length of a lens immersed in liquid",
+        "query": "focal length of lens immersed in liquid refractive index change",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Thin lens image formation and magnification",
+        "query": "thin lens image formation magnification numerical problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Combination of two thin lenses in contact",
+        "query": "combination of thin lenses in contact equivalent power",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Two lenses separated by a distance: equivalent focal length",
+        "query": "two lenses separated by distance equivalent focal length problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Silvered lens and lens-mirror combination",
+        "query": "silvered lens equivalent mirror focal length problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Displacement method for focal length of a lens",
+        "query": "displacement method focal length convex lens experiment problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Prism deviation and angle of minimum deviation",
+        "query": "prism angle of minimum deviation refractive index problems",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Thin prism deviation and grazing incidence",
+        "query": "thin prism deviation grazing incidence maximum deviation problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Dispersion by prism and dispersive power",
+        "query": "dispersion by prism dispersive power angular dispersion problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Achromatic combination of prisms and lenses",
+        "query": "achromatic combination of prisms lenses condition problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Critical angle and total internal reflection",
+        "query": "total internal reflection critical angle problems",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "TIR in optical fibre and 45-degree prism reflectors",
+        "query": "total internal reflection optical fibre prism 45 degree problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cone of light visible from a point below water (TIR)",
+        "query": "circle of light radius point source below water total internal reflection problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Simple microscope magnifying power",
+        "query": "simple microscope magnifying power normal near point problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Compound microscope magnification and tube length",
+        "query": "compound microscope magnifying power tube length problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Astronomical telescope magnifying power and length",
+        "query": "astronomical telescope magnifying power length normal adjustment problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Defects of vision and corrective lens power",
+        "query": "myopia hypermetropia corrective lens power problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Combined refracting surface plus mirror/lens systems",
+        "query": "refraction spherical surface combined with mirror lens system problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Image of an object inside a refracting glass sphere",
+        "query": "image formation refraction inside glass sphere problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Newton conjugate relation x1*x2 = f^2 for lenses",
+        "query": "Newton lens formula x1 x2 equals f squared object image distance problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Object between convex lens and concave mirror",
+        "query": "object between convex lens and concave mirror image formation problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Hardest mixed multi-element ray optics problems",
+        "query": "ray optics tough multi element image formation JEE Advanced",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Apparent shift of sun/star from atmospheric refraction",
+        "query": "atmospheric refraction apparent shift of sun star problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Wave Optics",
+    "slug": "wave-optics",
+    "subject": "Physics",
+    "group": "Optics & Modern",
+    "blurb": "Everything from Huygens wavelets to YDSE fringe shifts, single-slit diffraction, thin films and polarization — the high-yield wave-nature chapter where careful path-difference bookkeeping wins JEE Advanced marks.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Huygens principle and wavefront construction",
+      "Laws of reflection and refraction from Huygens principle",
+      "Superposition and the principle of interference",
+      "Coherent and incoherent sources",
+      "Young's double-slit experiment: fringe width and intensity",
+      "Path difference, phase difference and optical path",
+      "Intensity distribution I = 4I0 cos^2(phi/2)",
+      "Fringe shift due to a thin transparent sheet",
+      "YDSE in a medium and with white light",
+      "Single-slit Fraunhofer diffraction: minima and central maximum width",
+      "Angular and linear width of the central diffraction maximum",
+      "Thin-film interference and Newton's rings (reflected/transmitted)",
+      "Conditions for constructive and destructive thin-film interference",
+      "Polarization, Malus law and Brewster angle",
+      "Temporal and spatial coherence, coherence length"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced official past papers archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "jeeadv.ac.in",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic question papers and answer keys; mine wave-optics interference and diffraction problems from the Physics sections year by year."
+      },
+      {
+        "title": "The Feynman Lectures Vol I, Ch 26-31 (Optics, Interference, Diffraction)",
+        "url": "https://www.feynmanlectures.caltech.edu/",
+        "source": "Caltech",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Free full text — chapters on optics, the principle of least time, interference and diffraction give the deepest conceptual grounding for this chapter."
+      },
+      {
+        "title": "HyperPhysics — Interference & Diffraction concept maps",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/phyopt/intdis.html",
+        "source": "Georgia State University",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Click-through maps for YDSE, single-slit diffraction, thin films, Newton's rings and polarization with the working formulas."
+      },
+      {
+        "title": "HyperPhysics — Polarization and Brewster's angle",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/phyopt/polclas.html",
+        "source": "Georgia State University",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Malus law, Brewster angle and polarization-by-reflection laid out compactly — exactly the in-syllabus polarization subset JEE Advanced tests."
+      },
+      {
+        "title": "MIT OCW 8.03 Vibrations & Waves",
+        "url": "https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Lecture videos, notes and problem sets on wave superposition, interference and diffraction — the rigorous physics-of-waves backbone for this chapter."
+      },
+      {
+        "title": "MIT OCW 8.02 Electricity & Magnetism (EM waves)",
+        "url": "https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "EM-wave and polarization material grounds why light is a transverse wave that interferes and polarizes."
+      },
+      {
+        "title": "PhET interactive physics simulations",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=physics",
+        "source": "University of Colorado Boulder",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Run the 'Wave Interference' sim to watch double-slit fringes form and vary slit separation, wavelength and spacing live in class."
+      },
+      {
+        "title": "Khan Academy — interference, diffraction & YDSE",
+        "url": "https://www.khanacademy.org/search?page_search_query=interference%20diffraction%20double%20slit",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Bite-size explainers and practice for the conceptual base of fringe width, path difference and single-slit minima."
+      },
+      {
+        "title": "Brilliant — wave optics & oscillations courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Interactive waves-and-light courses that build intuition for superposition, interference patterns and intensity."
+      },
+      {
+        "title": "NCERT Physics textbooks (Class 12, Ch 10 Wave Optics)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "The canonical syllabus baseline — Huygens principle, YDSE, diffraction and polarization exactly as the JEE syllabus frames them."
+      },
+      {
+        "title": "Physics StackExchange — wave optics Q&A search",
+        "url": "https://physics.stackexchange.com/search?q=double%20slit%20interference%20fringe%20shift",
+        "source": "Physics StackExchange",
+        "type": "Search",
+        "level": "JEE Advanced",
+        "note": "Expert discussion of subtle points: fringe shift with a slab, optical path in a medium, and what 'coherence' really requires."
+      },
+      {
+        "title": "Wikipedia — wave optics topic search",
+        "url": "https://en.wikipedia.org/w/index.php?search=Young%27s%20double-slit%20experiment%20interference",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Reliable derivations and diagrams for YDSE, Fraunhofer diffraction, thin-film interference and Brewster's angle."
+      },
+      {
+        "title": "Wikipedia — single-slit Fraunhofer diffraction",
+        "url": "https://en.wikipedia.org/w/index.php?search=single%20slit%20diffraction%20Fraunhofer",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Derivation of the a sin(theta) = n*lambda minima condition and the double-width central maximum, with intensity profile."
+      },
+      {
+        "title": "Wolfram Alpha — compute fringe width & diffraction angles",
+        "url": "https://www.wolframalpha.com/input?i=fringe%20width%20double%20slit%20lambda%20D%20over%20d",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Plug in lambda, slit separation and screen distance to check fringe width, diffraction minima angles and small-angle approximations instantly."
+      },
+      {
+        "title": "HyperPhysics — Young's double slit & fringe geometry",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/phyopt/slits.html",
+        "source": "Georgia State University",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Geometry of path difference d sin(theta), bright/dark fringe positions and fringe-width formula in one screen."
+      },
+      {
+        "title": "Wikipedia — coherence (physics) search",
+        "url": "https://en.wikipedia.org/w/index.php?search=coherence%20temporal%20spatial%20coherence%20length%20light",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Clarifies temporal vs spatial coherence and coherence length — the often-skipped concept that explains why two lamps don't interfere."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Huygens principle: constructing reflected/refracted wavefronts",
+        "query": "Huygens principle wavefront reflection refraction proof",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Deriving Snell's law from Huygens principle",
+        "query": "derive Snell law refraction from Huygens principle wavefront",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Superposition of two waves and resultant intensity",
+        "query": "superposition two waves resultant amplitude intensity phase difference",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Coherent vs incoherent sources and sustained interference",
+        "query": "coherent incoherent sources conditions sustained interference",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "YDSE fringe width derivation",
+        "query": "Young double slit experiment fringe width beta lambda D by d derivation",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "YDSE intensity I = 4 I0 cos^2(phi/2)",
+        "query": "Young double slit intensity distribution 4 I0 cos squared phi over 2",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Position of bright and dark fringes from path difference",
+        "query": "double slit bright dark fringe position path difference n lambda",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Fringe shift when a thin transparent slab covers one slit",
+        "query": "fringe shift thin glass sheet one slit YDSE (mu minus 1) t derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "YDSE performed inside a medium of refractive index mu",
+        "query": "Young double slit experiment immersed in liquid medium fringe width change",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "YDSE with white light: central white fringe and coloured edges",
+        "query": "Young double slit white light central fringe coloured pattern",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Missing orders within the central diffraction envelope",
+        "query": "missing orders YDSE diffraction envelope number of fringes problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Angular fringe width and shifting the source or screen",
+        "query": "angular fringe width YDSE shifting source slit screen problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Single-slit diffraction minima: a sin theta = n lambda",
+        "query": "single slit diffraction minima condition a sin theta n lambda derivation",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Width of central maximum in single-slit diffraction",
+        "query": "single slit diffraction central maximum width 2 lambda D by a",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Effect of wavelength and slit width on diffraction spread",
+        "query": "single slit diffraction angular width wavelength slit width dependence problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Comparing interference and diffraction patterns",
+        "query": "difference between interference and diffraction fringes comparison",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Thin-film interference: soap film and oil film colours",
+        "query": "thin film interference soap film oil film colour condition 2 mu t",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Reflected vs transmitted thin films and the half-wave loss",
+        "query": "thin film interference reflected transmitted lambda by 2 path change",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Anti-reflection coating minimum-thickness problems",
+        "query": "anti reflection coating minimum thickness lambda over 4 mu problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Newton's rings: radius of bright and dark rings",
+        "query": "Newton rings radius dark bright ring formula derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Wedge-shaped (air-wedge) film interference fringes",
+        "query": "wedge shaped thin film air wedge interference fringe spacing",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Polarization of light and Malus law",
+        "query": "Malus law intensity polarizer analyzer cos squared theta problem",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Brewster's angle and polarization by reflection",
+        "query": "Brewster angle polarization by reflection tan theta refractive index derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Light through multiple polaroids at successive angles",
+        "query": "light intensity through three polaroids successive angle Malus law",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Temporal and spatial coherence, coherence length",
+        "query": "temporal spatial coherence coherence length condition for interference",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Optical path length and phase change in a medium",
+        "query": "optical path length refractive index phase difference light in medium",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Lloyd's mirror and biprism single-source interference",
+        "query": "Lloyd mirror biprism interference equivalent double slit problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Source slit width, separation and fringe visibility",
+        "query": "fringe visibility source slit width spatial coherence YDSE problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Imax/Imin ratio from two unequal-amplitude sources",
+        "query": "Imax Imin ratio interference amplitude ratio two sources problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Wave optics full past-year question bank",
+        "query": "wave optics interference diffraction polarization",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Wave optics JEE Advanced mixed problem set with solutions",
+        "query": "wave optics JEE Advanced level problems with solutions interference diffraction",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "HC Verma / DC Pandey wave optics solved problems",
+        "query": "HC Verma DC Pandey wave optics solved problems light waves",
+        "level": "Mixed",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Dual Nature & Atomic Physics",
+    "slug": "dual-nature-atomic",
+    "subject": "Physics",
+    "group": "Optics & Modern",
+    "blurb": "A compact, never-404 link pack covering the photoelectric effect, matter waves, the Bohr/hydrogen-like atom, spectral series, and X-rays/Moseley's law for JEE Advanced practice and revision.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Photoelectric effect: Einstein's equation and stopping potential",
+      "Work function and threshold frequency/wavelength",
+      "Photons: energy, momentum, and radiation pressure",
+      "Photoelectric current vs intensity and frequency graphs",
+      "de Broglie wavelength of matter waves",
+      "de Broglie wavelength of accelerated charged particles",
+      "Bohr model: postulates and quantization of angular momentum",
+      "Radius, velocity and energy of Bohr orbits",
+      "Energy levels of hydrogen-like atoms (Z dependence)",
+      "Hydrogen spectrum: Lyman, Balmer and Paschen series",
+      "Rydberg formula and series limits",
+      "Ionization and excitation energy/potential",
+      "Reduced mass and finite nuclear mass correction",
+      "X-ray production: continuous spectrum and cutoff wavelength",
+      "Characteristic X-rays and Moseley's law"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced official past papers archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "jeeadv.ac.in",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Pull real Advanced questions on photoelectric effect, Bohr model and X-rays straight from past papers."
+      },
+      {
+        "title": "HyperPhysics: Photoelectric effect concept map",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/mod1.html",
+        "source": "HyperPhysics (GSU)",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Clean derivation of Einstein's photoelectric equation with stopping-potential logic."
+      },
+      {
+        "title": "HyperPhysics: Bohr model of hydrogen",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/hyde.html",
+        "source": "HyperPhysics (GSU)",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Orbit radius, velocity and energy formulas with the spectral-series tie-in students must memorize."
+      },
+      {
+        "title": "HyperPhysics: Hydrogen spectrum and Rydberg formula",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/hyd.html",
+        "source": "HyperPhysics (GSU)",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Lyman/Balmer/Paschen series with wavelengths to cross-check numerical answers."
+      },
+      {
+        "title": "HyperPhysics: de Broglie matter waves",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/debrog.html",
+        "source": "HyperPhysics (GSU)",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Matter-wavelength relation including the accelerated-electron shortcut used in JEE numericals."
+      },
+      {
+        "title": "HyperPhysics: X-ray production and characteristic lines",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/xrayc.html",
+        "source": "HyperPhysics (GSU)",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Continuous cutoff wavelength plus K-alpha/K-beta characteristic X-rays for Moseley problems."
+      },
+      {
+        "title": "PhET Photoelectric Effect simulation",
+        "url": "https://phet.colorado.edu/en/simulations/photoelectric",
+        "source": "PhET (Colorado)",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Vary intensity, frequency and voltage live to build intuition before assigning graph-based MCQs."
+      },
+      {
+        "title": "PhET Models of the Hydrogen Atom",
+        "url": "https://phet.colorado.edu/en/simulations/hydrogen-atom",
+        "source": "PhET (Colorado)",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Compare Bohr vs other models and watch photon emission/absorption between energy levels."
+      },
+      {
+        "title": "PhET physics simulations (full filtered list)",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=physics",
+        "source": "PhET (Colorado)",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Browse for quantum and atomic-physics sims to demo in class."
+      },
+      {
+        "title": "Wikipedia: Moseley's law",
+        "url": "https://en.wikipedia.org/wiki/Moseley%27s_law",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "The (Z-1) screening constant and sqrt(frequency) vs Z plot that Advanced loves to test."
+      },
+      {
+        "title": "Wikipedia: Hydrogen spectral series",
+        "url": "https://en.wikipedia.org/wiki/Hydrogen_spectral_series",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Series limits, transition wavelengths and the Rydberg constant value in one canonical page."
+      },
+      {
+        "title": "Khan Academy: Photoelectric effect lesson",
+        "url": "https://www.khanacademy.org/science/physics/quantum-physics/photons/v/photoelectric-effect",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Foundation video for weaker students before they attempt stopping-potential problems."
+      },
+      {
+        "title": "Wikipedia: Bohr model",
+        "url": "https://en.wikipedia.org/wiki/Bohr_model",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Energy-level diagrams, quantization mvr=nh/2pi and emission/absorption from a stable reference."
+      },
+      {
+        "title": "Wikipedia: Photoelectric effect",
+        "url": "https://en.wikipedia.org/wiki/Photoelectric_effect",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Why intensity does not change stopping potential and the classical-theory failure, for top students."
+      },
+      {
+        "title": "Wolfram Alpha: compute de Broglie / Bohr quantities",
+        "url": "https://www.wolframalpha.com/input?i=de+Broglie+wavelength+of+electron+accelerated+through+100+V",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Instant numerical checks for wavelength, orbit radius and photon energy answers."
+      },
+      {
+        "title": "NCERT Physics textbooks (Class 12, Ch 11 & 12)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Dual Nature (Ch 11) and Atoms (Ch 12) — the exact in-syllabus baseline for theory and formulas."
+      },
+      {
+        "title": "The Feynman Lectures on Physics (free full text)",
+        "url": "https://www.feynmanlectures.caltech.edu/",
+        "source": "Caltech",
+        "type": "Reference",
+        "level": "Olympiad",
+        "note": "Vol III quantum chapters for deep conceptual reading on photons and the Bohr atom."
+      },
+      {
+        "title": "Wikipedia: Matter wave (de Broglie)",
+        "url": "https://en.wikipedia.org/wiki/Matter_wave",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Canonical reference for the lambda = h/p relation and the de Broglie standing-wave condition in Bohr orbits."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Einstein's photoelectric equation numericals",
+        "query": "Einstein photoelectric equation stopping potential",
+        "level": "JEE Main",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Work function and threshold wavelength",
+        "query": "work function threshold frequency wavelength photoelectric",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Stopping potential vs frequency graphs",
+        "query": "stopping potential versus frequency slope Planck constant graph",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Photoelectric current vs intensity and voltage",
+        "query": "photoelectric current intensity saturation stopping potential graph",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Two-frequency photoelectric ratio problems",
+        "query": "photoelectric effect two wavelengths ratio maximum kinetic energy",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Photon energy, momentum and photon count",
+        "query": "photon energy momentum number of photons emitted per second",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Radiation pressure and force from photons",
+        "query": "radiation pressure force photons absorbing reflecting surface",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "de Broglie wavelength of accelerated electron",
+        "query": "de Broglie wavelength electron accelerated through potential difference",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "de Broglie wavelength vs KE / thermal neutrons",
+        "query": "de Broglie wavelength kinetic energy thermal neutron problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Bohr quantization from de Broglie standing wave",
+        "query": "Bohr quantization angular momentum de Broglie standing wave derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Bohr orbit radius, velocity and energy formulas",
+        "query": "Bohr model radius velocity energy hydrogen like atom Z",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Energy levels of hydrogen-like ions (He+, Li2+)",
+        "query": "energy levels hydrogen like ion He+ Li2+ Z squared",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Ionization and excitation energy/potential",
+        "query": "ionization energy excitation potential hydrogen atom problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Number of spectral lines from level n",
+        "query": "number of spectral lines emitted excited hydrogen atom n to ground",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Lyman, Balmer, Paschen series wavelengths",
+        "query": "Lyman Balmer Paschen series shortest longest wavelength Rydberg",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Rydberg formula and series-limit calculations",
+        "query": "Rydberg formula series limit wavelength hydrogen spectrum calculation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Photon-atom collision and recoil problems",
+        "query": "photon absorption emission atom recoil momentum conservation problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Moving hydrogen atom: recoil and energy",
+        "query": "hydrogen atom recoil photon emission energy momentum conservation",
+        "level": "Olympiad",
+        "sources": [
+          "pse",
+          "google"
+        ]
+      },
+      {
+        "label": "Reduced mass: positronium and muonic atoms",
+        "query": "reduced mass correction Bohr model positronium muonic atom",
+        "level": "Olympiad",
+        "sources": [
+          "pse",
+          "google"
+        ]
+      },
+      {
+        "label": "Continuous X-ray spectrum and cutoff wavelength",
+        "query": "continuous X-ray spectrum minimum cutoff wavelength tube voltage",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Characteristic X-rays: K-alpha, K-beta lines",
+        "query": "characteristic X-rays K alpha K beta L series wavelength",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Moseley's law and atomic-number determination",
+        "query": "Moseley law characteristic X-ray frequency atomic number screening constant",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "X-ray tube efficiency and energy conversion",
+        "query": "X-ray tube efficiency energy electrons heat photons problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google"
+        ]
+      },
+      {
+        "label": "Combined photoelectric + de Broglie problems",
+        "query": "photoelectron de Broglie wavelength maximum kinetic energy combined problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Emitted photon then photoelectric on a metal",
+        "query": "hydrogen transition photon photoelectric effect metal work function problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Wavelength of light from electron transition",
+        "query": "wavelength photon emitted electron transition hydrogen energy level",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "de Broglie wavelength in nth Bohr orbit",
+        "query": "de Broglie wavelength electron nth Bohr orbit circumference 2 pi r",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Photoelectrons in a magnetic field (radius)",
+        "query": "photoelectrons magnetic field circular path radius maximum kinetic energy",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Classical vs quantum: time-delay failure",
+        "query": "classical theory photoelectric effect time delay failure explanation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Mixed previous-year dual nature & atoms set",
+        "query": "dual nature radiation matter atoms previous year solved problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "HC Verma / DC Pandey modern physics practice",
+        "query": "HC Verma DC Pandey modern physics photoelectric Bohr solutions",
+        "level": "Mixed",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Franck-Hertz: atomic excitation by collision",
+        "query": "atomic excitation electron collision hydrogen energy levels problem",
+        "level": "Olympiad",
+        "sources": [
+          "pse",
+          "google"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Nuclear Physics",
+    "slug": "nuclear-physics",
+    "subject": "Physics",
+    "group": "Optics & Modern",
+    "blurb": "Everything a JEE Advanced student needs on radioactivity and the nucleus: the decay law, half-life and mean life, mass defect, binding energy per nucleon, and the energetics of fission, fusion, and nuclear reactions.",
+    "jeeWeight": "Medium",
+    "subtopics": [
+      "Composition of the nucleus: atomic number, mass number, isotopes and isobars",
+      "Nuclear size and density; the R = R0 A^(1/3) radius relation",
+      "Radioactivity: alpha, beta and gamma decay and their nature",
+      "The radioactive decay law N = N0 e^(-lambda t) and activity",
+      "Half-life, mean (average) life and the decay constant lambda",
+      "Units of activity: becquerel and curie; specific activity",
+      "Successive (sequential) decay and radioactive equilibrium",
+      "Mass-energy equivalence E = mc^2 and the atomic mass unit (u = 931.5 MeV)",
+      "Mass defect and total binding energy of a nucleus",
+      "Binding energy per nucleon curve and nuclear stability",
+      "Q-value of a nuclear reaction and conservation laws",
+      "Nuclear fission: chain reaction and energy release",
+      "Nuclear fusion: stellar energy and the proton-proton cycle",
+      "Carbon dating and radioactive-isotope applications",
+      "Nuclear reactions: balancing and threshold energy"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced Official Archive (past papers + answer keys)",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "jeeadv.ac.in",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic past JEE Advanced papers; mine Modern Physics sections for radioactivity, half-life and binding-energy problems."
+      },
+      {
+        "title": "HyperPhysics: Nuclear Structure & Radioactivity concept map",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/index.html",
+        "source": "Georgia State University",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Navigate to the Nuclear section for decay law, binding energy curve, fission and fusion linked diagrams."
+      },
+      {
+        "title": "Feynman Lectures Vol. I (energy, conservation) full free text",
+        "url": "https://www.feynmanlectures.caltech.edu/",
+        "source": "Caltech",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Use for conceptual grounding on mass-energy equivalence and conservation laws behind Q-values."
+      },
+      {
+        "title": "NCERT Physics Textbooks (Class 12, Ch. 13 Nuclei)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "The Nuclei chapter defines the exact syllabus scope, formulae and worked numericals JEE expects."
+      },
+      {
+        "title": "Khan Academy: Nuclear physics & radioactive decay search",
+        "url": "https://www.khanacademy.org/search?page_search_query=nuclear%20physics%20radioactive%20decay",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Video lessons on decay, half-life and binding energy for first-pass conceptual clarity."
+      },
+      {
+        "title": "Khan Academy: Binding energy & mass defect search",
+        "url": "https://www.khanacademy.org/search?page_search_query=nuclear%20binding%20energy%20mass%20defect",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Targeted clips on computing mass defect and binding energy per nucleon."
+      },
+      {
+        "title": "Wikipedia: Radioactive decay",
+        "url": "https://en.wikipedia.org/w/index.php?search=radioactive%20decay%20law",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Derivation of the exponential decay law plus tables of decay constants and half-lives."
+      },
+      {
+        "title": "Wikipedia: Nuclear binding energy",
+        "url": "https://en.wikipedia.org/w/index.php?search=nuclear%20binding%20energy%20per%20nucleon",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Binding-energy-per-nucleon curve, iron-56 peak, and why fission and fusion both release energy."
+      },
+      {
+        "title": "Wikipedia: Nuclear fission and fusion",
+        "url": "https://en.wikipedia.org/w/index.php?search=nuclear%20fission%20fusion%20energy%20release",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Chain reactions, the proton-proton cycle, and energy accounting for reactor and stellar processes."
+      },
+      {
+        "title": "Wolfram Alpha: half-life / decay computations",
+        "url": "https://www.wolframalpha.com/input?i=half-life%20decay%20constant%20activity%20calculation",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Plug in N0, lambda or t to check activity, remaining nuclei and half-life numerics instantly."
+      },
+      {
+        "title": "Wolfram Alpha: nuclear binding energy of a nuclide",
+        "url": "https://www.wolframalpha.com/input?i=binding%20energy%20of%20iron-56%20nucleus",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Query any nuclide for mass defect, total binding energy and binding energy per nucleon."
+      },
+      {
+        "title": "Physics StackExchange: radioactive decay & half-life search",
+        "url": "https://physics.stackexchange.com/search?q=radioactive%20decay%20half-life",
+        "source": "Physics StackExchange",
+        "type": "Problem set",
+        "level": "JEE Advanced",
+        "note": "Worked conceptual Q&A on decay statistics, mean life vs half-life and successive decay."
+      },
+      {
+        "title": "Physics StackExchange: binding energy & Q-value search",
+        "url": "https://physics.stackexchange.com/search?q=nuclear%20binding%20energy%20Q-value%20reaction",
+        "source": "Physics StackExchange",
+        "type": "Problem set",
+        "level": "JEE Advanced",
+        "note": "Subtle discussions on sign conventions for Q-value and energetics of fission and fusion."
+      },
+      {
+        "title": "PhET Simulations (physics) — Alpha Decay, Beta Decay, Nuclear Fission",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=physics",
+        "source": "PhET, University of Colorado",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Interactive sims for decay processes and chain-reaction fission to build physical intuition."
+      },
+      {
+        "title": "Brilliant Courses (Modern / Quantum & Nuclear)",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Guided problem courses touching decay, mass-energy and nuclear stability with active recall."
+      },
+      {
+        "title": "Wikipedia: Carbon-14 dating",
+        "url": "https://en.wikipedia.org/w/index.php?search=radiocarbon%20carbon-14%20dating%20half-life",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Application of the decay law to dating problems, a recurring JEE numerical theme."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Radioactive decay law N = N0 e^(-lambda t) basics",
+        "query": "radioactive decay law exponential N0 e^(-lambda t)",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Half-life and mean life relation derivation",
+        "query": "half-life mean life relation decay constant derivation",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Activity, becquerel and curie units numericals",
+        "query": "activity of radioactive sample becquerel curie units numericals",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Fraction of nuclei remaining after n half-lives",
+        "query": "fraction nuclei remaining after n half-lives calculation",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "pse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Mass defect and binding energy calculation",
+        "query": "mass defect binding energy of nucleus calculation 931.5 MeV",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Binding energy per nucleon curve and stability",
+        "query": "binding energy per nucleon curve nuclear stability explanation",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Nuclear radius R = R0 A^(1/3) and density",
+        "query": "nuclear radius R0 A^(1/3) nuclear density problems",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "pse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Q-value of a nuclear reaction problems",
+        "query": "Q-value nuclear reaction energy released calculation",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Alpha, beta, gamma decay and balancing equations",
+        "query": "alpha beta gamma decay nuclear equation balancing",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Carbon dating and radioactive age estimation",
+        "query": "carbon-14 dating half-life age estimation problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Energy released in nuclear fission of U-235",
+        "query": "energy released nuclear fission uranium-235 per fission calculation",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "pse"
+        ]
+      },
+      {
+        "label": "Energy released in nuclear fusion / proton cycle",
+        "query": "energy released nuclear fusion deuterium proton-proton cycle",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "pse"
+        ]
+      },
+      {
+        "label": "Successive radioactive decay and equilibrium",
+        "query": "successive radioactive decay parent daughter equilibrium problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Mixture of two radioactive isotopes decay problem",
+        "query": "mixture two radioactive isotopes combined activity decay problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Number of disintegrations in a time interval",
+        "query": "average life number of disintegrations in time interval calculation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Radioactivity full chapter JEE Advanced PYQ",
+        "query": "radioactivity nuclear physics",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Binding energy & mass defect JEE Advanced PYQ",
+        "query": "binding energy mass defect nuclear",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Half-life and decay constant JEE Advanced PYQ",
+        "query": "half-life decay constant radioactivity",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Nuclear fission and fusion JEE Advanced PYQ",
+        "query": "nuclear fission fusion energy",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "HC Verma nuclear physics solved problems",
+        "query": "HC Verma the nucleus nuclear physics solved problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "DC Pandey nuclear physics exercise solutions",
+        "query": "DC Pandey modern physics nuclear physics exercise solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Irodov nuclear physics problems solutions",
+        "query": "Irodov nuclear reactions radioactive decay problems solutions",
+        "level": "Olympiad",
+        "sources": [
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Mass-energy equivalence E = mc^2 in nuclear context",
+        "query": "mass-energy equivalence E=mc^2 nuclear binding energy",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Threshold energy of an endothermic nuclear reaction",
+        "query": "threshold energy endothermic nuclear reaction calculation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Decay of activity ratio and log-graph problems",
+        "query": "radioactive decay activity ratio log graph problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Number of alpha and beta particles in a decay chain",
+        "query": "number of alpha beta particles emitted in radioactive decay series",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "pse"
+        ]
+      },
+      {
+        "label": "Power output of a nuclear reactor from fission rate",
+        "query": "nuclear reactor power output fission rate fuel consumption problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Energy released per unit mass in fission vs fusion",
+        "query": "energy released per kg nuclear fission versus fusion comparison",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Specific binding energy and reaction direction",
+        "query": "binding energy per nucleon reactant product energy release direction",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Statistical nature of decay and probability problems",
+        "query": "radioactive decay probability statistical nature mean life problems",
+        "level": "Olympiad",
+        "sources": [
+          "pse",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Activity after time given initial activity and lambda",
+        "query": "activity after given time initial activity decay constant numerical",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "pse"
+        ]
+      },
+      {
+        "label": "Conservation of mass number and charge in reactions",
+        "query": "conservation mass number charge nuclear reaction identify particle",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Mole Concept & Stoichiometry",
+    "slug": "mole-concept",
+    "subject": "Chemistry",
+    "group": "Physical Chemistry",
+    "blurb": "The foundational toolkit of physical chemistry — mole, molar mass, formulae, stoichiometry, limiting reagent, concentration terms, and the equivalent concept — that every JEE Advanced quantitative problem ultimately rests on.",
+    "jeeWeight": "Medium",
+    "subtopics": [
+      "Mole and Avogadro's number",
+      "Atomic and molar mass, gram-atom, gram-mole",
+      "Empirical formula and molecular formula determination",
+      "Percentage composition by mass",
+      "Balancing chemical equations and stoichiometric ratios",
+      "Limiting reagent and excess reagent",
+      "Theoretical, actual and percentage yield",
+      "Concentration terms: molarity, molality, mole fraction",
+      "Mass percent, ppm, and normality",
+      "Equivalent weight and the equivalent concept",
+      "Equivalents in acid-base and redox reactions",
+      "Dilution and molarity-volume relations",
+      "Gravimetric and volumetric stoichiometry",
+      "Combustion analysis (CHNO determination)",
+      "Eudiometry and gaseous-volume stoichiometry"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Chemistry Class 11 — Some Basic Concepts of Chemistry",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Open Class 11 Chemistry Part 1, Unit 1: mole concept, molar mass, empirical/molecular formula, stoichiometry and concentration terms — the syllabus baseline for JEE."
+      },
+      {
+        "title": "LibreTexts — Stoichiometry and the Mole",
+        "url": "https://chem.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Search 'stoichiometry mole' for structured lessons on moles, molar mass, limiting reagent and percent yield with worked examples and end-of-section problems."
+      },
+      {
+        "title": "LibreTexts — Solution Concentration (Molarity, Molality, Mole Fraction)",
+        "url": "https://chem.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Search 'molarity molality mole fraction' for the full set of concentration-unit definitions and interconversion problems."
+      },
+      {
+        "title": "LibreTexts — Equivalents, Normality and Titration",
+        "url": "https://chem.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Search 'equivalent normality titration' for the equivalent concept, n-factor and law of equivalence applied to acid-base and redox titrations."
+      },
+      {
+        "title": "ChemGuide — Calculations in Chemistry (moles & formulae)",
+        "url": "https://www.chemguide.co.uk/",
+        "source": "ChemGuide",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Clean JEE-level notes on the mole, molar mass and formula calculations; use the site index to reach the basic-calculations pages."
+      },
+      {
+        "title": "MIT OCW 5.111 — Principles of Chemical Science",
+        "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/",
+        "source": "MIT OCW",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Early lectures and problem sets cover the mole, stoichiometry and limiting-reagent reasoning at a rigour above JEE — great for stretch problems."
+      },
+      {
+        "title": "Khan Academy — Mole and Stoichiometry",
+        "url": "https://www.khanacademy.org/search?page_search_query=mole%20concept%20stoichiometry",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Video walkthroughs and practice on moles, molar mass, limiting reactant and percent yield for first-pass conceptual clarity."
+      },
+      {
+        "title": "Khan Academy — Molarity and Concentration",
+        "url": "https://www.khanacademy.org/search?page_search_query=molarity%20molality%20concentration",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Concentration-term videos with dilution practice; pair with the equivalent-concept seeds for full coverage."
+      },
+      {
+        "title": "JEE Advanced — Official Past Papers Archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "JEE Advanced",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic question papers and answer keys; mole/stoichiometry shows up inside numerical and integer-type chemistry problems every year."
+      },
+      {
+        "title": "Brilliant — Chemistry Courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Interactive chemical-reactions and quantitative-chemistry courses for active practice on mole and stoichiometry reasoning."
+      },
+      {
+        "title": "Wolfram Alpha — Stoichiometry & Molar Mass Calculator",
+        "url": "https://www.wolframalpha.com/input?i=molar%20mass%20of%20H2SO4",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Computes molar masses, balances equations and runs stoichiometric/limiting-reagent calculations; change the query to any formula or reaction to self-check answers."
+      },
+      {
+        "title": "Wolfram Alpha — Chemical Equation Balancer",
+        "url": "https://www.wolframalpha.com/input?i=balance%20KMnO4%20%2B%20FeSO4%20%2B%20H2SO4",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "JEE Advanced",
+        "note": "Balances redox and acid-base equations and reports mole ratios; ideal for verifying equivalent-concept and stoichiometry setups."
+      },
+      {
+        "title": "PubChem — Compound Molecular Weight Lookup",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/#query=glucose",
+        "source": "PubChem",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Authoritative molecular weights and molecular formulae for any compound; useful when setting empirical-formula and percent-composition problems."
+      },
+      {
+        "title": "Wikipedia — Mole, Stoichiometry & Concentration",
+        "url": "https://en.wikipedia.org/w/index.php?search=mole%20unit%20stoichiometry%20concentration",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Definitional reference for the mole (SI), Avogadro constant, stoichiometry and concentration units with linked derivations."
+      },
+      {
+        "title": "PhET — Reactants, Products and Leftovers (Limiting Reagent Sim)",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=chemistry",
+        "source": "PhET",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Interactive limiting-reagent and molarity simulations; lets students build intuition for excess/limiting reactant before the algebra."
+      },
+      {
+        "title": "OpenStax — Chemistry 2e (Stoichiometry & Composition)",
+        "url": "https://openstax.org/details/books/chemistry-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Free textbook chapters on composition of substances, the mole, stoichiometry and reaction yields with abundant in-text exercises and answers."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Mole concept & Avogadro number basics",
+        "query": "https://www.youtube.com/results?search_query=mole+concept+avogadro+number+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Molar mass & gram-atom calculations",
+        "query": "https://www.google.com/search?q=molar+mass+gram+atom+mole+calculation+problems+with+solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Empirical vs molecular formula problems",
+        "query": "https://www.google.com/search?q=empirical+and+molecular+formula+problems+with+solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Percentage composition by mass",
+        "query": "https://www.youtube.com/results?search_query=percentage+composition+by+mass+chemistry+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Combustion analysis (CHNO) problems",
+        "query": "https://www.google.com/search?q=combustion+analysis+empirical+formula+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "pse"
+        ]
+      },
+      {
+        "label": "Balancing chemical equations practice",
+        "query": "https://www.youtube.com/results?search_query=balancing+chemical+equations+stoichiometry+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Stoichiometry mole ratio problems",
+        "query": "https://www.google.com/search?q=stoichiometry+mole+ratio+problems+with+solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Limiting reagent solved problems",
+        "query": "https://www.google.com/search?q=limiting+reagent+problems+with+solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Limiting reagent JEE Advanced lecture",
+        "query": "https://www.youtube.com/results?search_query=limiting+reagent+excess+reagent+JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "cse",
+          "pse"
+        ]
+      },
+      {
+        "label": "Percentage yield & theoretical yield",
+        "query": "https://www.google.com/search?q=percentage+yield+theoretical+yield+stoichiometry+problems+with+solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Molarity calculations & dilution",
+        "query": "https://www.youtube.com/results?search_query=molarity+dilution+calculation+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Molality–molarity interconversion (density)",
+        "query": "https://www.google.com/search?q=molarity+molality+interconversion+density+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "pse"
+        ]
+      },
+      {
+        "label": "Mole fraction problems",
+        "query": "https://www.google.com/search?q=mole+fraction+calculation+problems+with+solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "ppm and mass percent concentration",
+        "query": "https://www.google.com/search?q=ppm+mass+percent+concentration+problems+with+solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "cse",
+          "mse"
+        ]
+      },
+      {
+        "label": "Equivalent weight & n-factor concept",
+        "query": "https://www.youtube.com/results?search_query=equivalent+weight+n+factor+concept+JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "cse",
+          "pse"
+        ]
+      },
+      {
+        "label": "Normality & equivalent concept problems",
+        "query": "https://www.google.com/search?q=normality+equivalent+concept+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "pse"
+        ]
+      },
+      {
+        "label": "Law of equivalence in titration",
+        "query": "https://www.google.com/search?q=law+of+equivalence+titration+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Redox n-factor in KMnO4 / K2Cr2O7 reactions",
+        "query": "https://www.google.com/search?q=n+factor+KMnO4+K2Cr2O7+equivalent+redox+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "pse"
+        ]
+      },
+      {
+        "label": "Eudiometry gaseous-volume problems",
+        "query": "https://www.google.com/search?q=eudiometry+gas+volume+stoichiometry+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Hardest mole concept numericals",
+        "query": "https://www.youtube.com/results?search_query=tough+mole+concept+numericals+JEE+Advanced",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Average atomic mass & isotope abundance",
+        "query": "https://www.google.com/search?q=average+atomic+mass+isotope+abundance+problems+with+solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Mole concept full chapter one-shot",
+        "query": "https://www.youtube.com/results?search_query=mole+concept+stoichiometry+one+shot+JEE",
+        "level": "Mixed",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Concentration terms full lecture",
+        "query": "https://www.youtube.com/results?search_query=concentration+terms+molarity+molality+normality+JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Gravimetric analysis stoichiometry",
+        "query": "https://www.google.com/search?q=gravimetric+analysis+stoichiometry+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "pse"
+        ]
+      },
+      {
+        "label": "Mixture & double-titration equivalent problems",
+        "query": "https://www.google.com/search?q=double+titration+mixture+equivalent+NaOH+Na2CO3+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "pse"
+        ]
+      },
+      {
+        "label": "Mole concept conceptual subtleties Q&A",
+        "query": "https://www.google.com/search?q=mole+concept+conceptual+questions+JEE+Advanced",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "mse",
+          "google"
+        ]
+      },
+      {
+        "label": "Mole concept & stoichiometry PYQ pdf",
+        "query": "https://www.google.com/search?q=mole+concept+stoichiometry+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Limiting reagent & yield PYQ pdf",
+        "query": "https://www.google.com/search?q=stoichiometry+limiting+reagent+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Equivalent concept & normality PYQ pdf",
+        "query": "https://www.google.com/search?q=equivalent+concept+normality+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Concentration terms PYQ pdf",
+        "query": "https://www.google.com/search?q=mole+fraction+molarity+molality+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Empirical/molecular formula PYQ pdf",
+        "query": "https://www.google.com/search?q=empirical+molecular+formula+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Atomic Structure",
+    "slug": "atomic-structure",
+    "subject": "Chemistry",
+    "group": "Physical Chemistry",
+    "blurb": "A high-yield JEE Advanced foundation chapter blending the Bohr model, quantum numbers and orbital theory with numerical-heavy topics like de Broglie wavelength, Heisenberg uncertainty, the photoelectric effect and hydrogen spectral series.",
+    "jeeWeight": "Medium",
+    "subtopics": [
+      "Bohr model of the hydrogen atom and Bohr's postulates",
+      "Energy levels, radius and velocity of electron in Bohr orbits",
+      "Hydrogen emission spectrum and spectral series (Lyman, Balmer, Paschen, Brackett, Pfund)",
+      "Rydberg equation and calculation of spectral line wavelengths",
+      "Photoelectric effect: work function, threshold frequency, photon energy",
+      "de Broglie wavelength and dual nature of matter",
+      "Heisenberg uncertainty principle",
+      "Quantum numbers (n, l, m, s) and their permissible values",
+      "Shapes and orientation of s, p and d orbitals",
+      "Radial and angular nodes; nodal planes",
+      "Aufbau principle, Pauli exclusion principle and Hund's rule",
+      "Electronic configuration of atoms and ions (including Cr, Cu anomalies)",
+      "Quantization of angular momentum (nh/2pi)",
+      "Ionization energy and electron energy from spectral data",
+      "Effective nuclear charge and the (n + l) rule for orbital filling"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Chemistry Class 11 - Structure of Atom (official textbook PDF)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "The Class 11 Part I chapter is the syllabus baseline; download the 'Structure of Atom' PDF - every JEE Advanced atomic-structure idea is rooted here."
+      },
+      {
+        "title": "Chemistry LibreTexts - Atomic Theory & Quantum Mechanics modules",
+        "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Browse the Physical & Theoretical library for full Bohr-model, quantum-number and atomic-orbital derivations with worked examples."
+      },
+      {
+        "title": "ChemGuide - Atomic orbitals & electronic structure",
+        "url": "https://www.chemguide.co.uk/atoms/propertiesmenu.html",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Jim Clark's atomic-orbital and electronic-configuration pages give the cleanest JEE-level intuition for orbital shapes and the order of filling."
+      },
+      {
+        "title": "ChemGuide - orders of filling orbitals and electronic configurations",
+        "url": "https://www.chemguide.co.uk/atoms/properties/elstructecn.html",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Direct page on the (n+l) filling order and the configuration of the first 36 elements, including the chromium and copper exceptions."
+      },
+      {
+        "title": "MIT OCW 5.111SC - Principles of Chemical Science (atomic structure unit)",
+        "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/",
+        "source": "MIT OCW",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Lectures 1-6 cover the photoelectric effect, hydrogen spectrum, Schrodinger model and quantum numbers with problem sets and solutions - excellent for the hardest in-syllabus depth."
+      },
+      {
+        "title": "Khan Academy - Bohr model and atomic structure",
+        "url": "https://www.khanacademy.org/search?page_search_query=Bohr%20model%20hydrogen%20atom%20energy%20levels",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Video plus practice on Bohr energy levels and spectral lines; good for building the concept before the JEE-level problems."
+      },
+      {
+        "title": "Khan Academy - quantum numbers and electron configuration",
+        "url": "https://www.khanacademy.org/search?page_search_query=quantum%20numbers%20electron%20configuration%20orbitals",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Step-by-step on n, l, m, s and writing configurations including the Cr and Cu exceptions."
+      },
+      {
+        "title": "Khan Academy - photoelectric effect and de Broglie wavelength",
+        "url": "https://www.khanacademy.org/search?page_search_query=photoelectric%20effect%20de%20Broglie%20wavelength",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Builds the quantum-of-light idea and matter waves with clean numerical walkthroughs."
+      },
+      {
+        "title": "PhET - Chemistry interactive simulations (Hydrogen Atom, Photoelectric Effect)",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=chemistry",
+        "source": "PhET",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Run 'Models of the Hydrogen Atom' and 'Photoelectric Effect' sims in class to make spectral series and work-function concepts tangible."
+      },
+      {
+        "title": "HyperPhysics - Bohr atom, hydrogen spectrum & quantum numbers",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/hframe.html",
+        "source": "HyperPhysics",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Concept-map reference with formulas and worked values for Bohr energetics, Rydberg lines, de Broglie wavelength and quantum numbers - fast for setting up numericals."
+      },
+      {
+        "title": "Brilliant - Quantum Mechanics & Atomic Physics courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Interactive problem-driven lessons on wave-particle duality, uncertainty and the quantum atom for stronger students."
+      },
+      {
+        "title": "Wikipedia - Hydrogen spectral series (Rydberg formula reference)",
+        "url": "https://en.wikipedia.org/wiki/Hydrogen_spectral_series",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Authoritative reference for the Rydberg equation, series names and series limits - useful for quick fact-checking constants and wavelengths."
+      },
+      {
+        "title": "Wikipedia - Bohr model",
+        "url": "https://en.wikipedia.org/wiki/Bohr_model",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Clean derivation summary for orbit radius, velocity and energy plus the angular-momentum quantization rule used across H-like ion problems."
+      },
+      {
+        "title": "Wolfram Alpha - computational knowledge engine (atomic structure queries)",
+        "url": "https://www.wolframalpha.com/",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Type de Broglie, Bohr-radius, photon-energy and Rydberg queries to instantly verify numerical answers and units."
+      },
+      {
+        "title": "Chemistry LibreTexts - Photoelectric Effect & wave-particle duality",
+        "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Within the quantum-mechanics maps, find derivations of KE = hv - phi and the matter-wave relation with solved numericals."
+      },
+      {
+        "title": "Chemistry StackExchange - quantum-numbers tag",
+        "url": "https://chemistry.stackexchange.com/questions/tagged/quantum-numbers",
+        "source": "ChemSE",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Curated tag resolving tricky doubts on nodes, degeneracy, anomalous configurations and quantum-number permissibility."
+      },
+      {
+        "title": "Chemistry StackExchange - atomic-structure tag",
+        "url": "https://chemistry.stackexchange.com/questions/tagged/atomic-structure",
+        "source": "ChemSE",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Conceptual threads that clarify Bohr-model limitations, the uncertainty principle and why dual nature matters at the atomic scale."
+      },
+      {
+        "title": "JEE Advanced - official past papers archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "JEE Advanced (IIT)",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic question papers and answer keys; mine atomic-structure problems (Bohr energetics, spectra, quantum numbers) year by year for exam-real practice."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Bohr model energy, radius and velocity numericals",
+        "query": "Bohr model hydrogen atom energy radius velocity numericals",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Ionization energy of H-like species (Bohr)",
+        "query": "Bohr model ionization energy hydrogen like species Z numericals",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Balmer & Lyman series wavelength problems",
+        "query": "hydrogen spectrum Balmer Lyman series wavelength Rydberg problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Rydberg formula spectral line calculations",
+        "query": "Rydberg formula spectral line wavelength calculation",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "pse"
+        ]
+      },
+      {
+        "label": "Number of spectral lines emitted formula",
+        "query": "number of spectral lines emitted hydrogen transition formula problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Photoelectric effect work function & KE numericals",
+        "query": "photoelectric effect work function threshold frequency kinetic energy numericals",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "de Broglie wavelength of electron/proton problems",
+        "query": "de Broglie wavelength electron proton calculation problems",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Heisenberg uncertainty principle numericals",
+        "query": "Heisenberg uncertainty principle position momentum numericals",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Quantum numbers: allowed sets and orbital ID",
+        "query": "quantum numbers n l m s allowed sets identify orbital problems",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Maximum electrons for given quantum numbers",
+        "query": "maximum number of electrons with given quantum numbers problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Radial & angular node counting problems",
+        "query": "radial angular nodes nodal planes orbital counting problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Shapes of s, p, d orbitals conceptual questions",
+        "query": "shapes of s p d orbitals orientation nodal planes questions",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Electronic configuration with Cr/Cu exceptions",
+        "query": "electronic configuration anomalous chromium copper half-filled stability problems",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Aufbau, Pauli & Hund rule application",
+        "query": "Aufbau principle Pauli exclusion Hund rule electronic configuration problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Angular momentum quantization (nh/2pi)",
+        "query": "Bohr quantization angular momentum nh/2pi orbit problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Photon energy in electronic transitions",
+        "query": "energy of photon emitted electron transition hydrogen atom problems",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Full-chapter JEE Advanced problem set",
+        "query": "atomic structure JEE Advanced level problems with solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Series limit: shortest & longest wavelengths",
+        "query": "series limit wavelength shortest longest line hydrogen spectrum problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "de Broglie wavelength linked to Bohr orbit",
+        "query": "de Broglie wavelength electron Bohr orbit 2 pi r = n lambda problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Photoelectric stopping-potential graph questions",
+        "query": "photoelectric effect stopping potential frequency graph slope Planck constant problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "pse"
+        ]
+      },
+      {
+        "label": "Quantum numbers & degeneracy tricky MCQs",
+        "query": "quantum numbers orbital degeneracy JEE Advanced tricky MCQ",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Uncertainty principle for electron in atom",
+        "query": "Heisenberg uncertainty principle electron confined atom minimum velocity problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "He+, Li2+ Bohr energetics comparison",
+        "query": "He+ Li2+ hydrogen like ion Bohr energy radius comparison problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Ionisation energy from spectral data",
+        "query": "ionisation energy from ionization potential spectral data calculation atomic structure",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Atomic structure JEE Advanced PYQs",
+        "query": "atomic structure",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Bohr model & hydrogen spectrum PYQs",
+        "query": "Bohr model hydrogen spectrum",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Photoelectric effect PYQs",
+        "query": "photoelectric effect",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Quantum numbers & orbitals PYQs",
+        "query": "quantum numbers orbitals electronic configuration",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "de Broglie & Heisenberg PYQs",
+        "query": "de Broglie wavelength Heisenberg uncertainty",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Radial probability & nodes conceptual doubts",
+        "query": "radial probability distribution maxima nodes orbital hydrogen",
+        "level": "Olympiad",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Schrodinger quantum-atom conceptual questions",
+        "query": "Schrodinger wave equation hydrogen atom wavefunction quantum numbers conceptual",
+        "level": "Olympiad",
+        "sources": [
+          "cse",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Hardest in-syllabus mixed atomic-structure problems",
+        "query": "atomic structure hardest conceptual mixed problems Bohr de Broglie uncertainty",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Chemical Bonding & Molecular Structure",
+    "slug": "chemical-bonding",
+    "subject": "Chemistry",
+    "group": "Physical Chemistry",
+    "blurb": "A high-yield JEE Advanced staple where VSEPR geometry, hybridization, MOT bond order/magnetism, and dipole/H-bonding reasoning recur every year, so drill conceptual and structure-prediction problems heavily.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Ionic bonding, lattice energy and Born-Haber cycle",
+      "Covalent bonding and Lewis structures",
+      "Octet rule and its exceptions (electron-deficient, hypervalent, odd-electron species)",
+      "Formal charge and resonance",
+      "VSEPR theory and molecular geometry / bond angles",
+      "Hybridization (sp, sp2, sp3, sp3d, sp3d2)",
+      "Valence Bond Theory and overlap of orbitals",
+      "Molecular Orbital Theory: bond order, magnetic behaviour, stability",
+      "Sigma and pi bonds, bond length and bond energy",
+      "Dipole moment and molecular polarity",
+      "Hydrogen bonding (intermolecular and intramolecular)",
+      "Fajans rules and partial covalent character of ionic bonds",
+      "Back bonding and pi-bonding in p-block species",
+      "Electronegativity and percent ionic character"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Chemistry Class 11 Chapter 4: Chemical Bonding & Molecular Structure",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Open Class 11 Chemistry Part I, Unit 4 - the baseline text JEE Advanced bonding questions build on; covers VSEPR, hybridization, VBT and MOT."
+      },
+      {
+        "title": "Chemistry LibreTexts: Chemical Bonding & Molecular Geometry",
+        "url": "https://chem.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Search 'molecular geometry' or 'molecular orbital theory' for rigorous diagrams of VSEPR, MO correlation diagrams and bond order at JEE Advanced depth."
+      },
+      {
+        "title": "ChemGuide: Bonding (ionic, covalent, shapes, double bonds)",
+        "url": "https://www.chemguide.co.uk/",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Clear JEE-level notes on covalent/ionic bonding, electronegativity and orbital overlap; ideal for cementing concepts before problems."
+      },
+      {
+        "title": "MIT OCW 5.111 Principles of Chemical Science (bonding & MO lectures)",
+        "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/",
+        "source": "MIT OCW",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Lecture videos plus problem sets on Lewis structures, VSEPR and molecular orbital theory; stretches strong students past board level."
+      },
+      {
+        "title": "Official JEE Advanced Past Papers Archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "JEE Advanced",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic question papers and answer keys; mine bonding/MOT/VSEPR items (frequent in single-correct and match-the-column)."
+      },
+      {
+        "title": "Khan Academy: chemical bonding search",
+        "url": "https://www.khanacademy.org/search?page_search_query=chemical%20bonding",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Video walkthroughs of Lewis structures, VSEPR shapes and dipole moments for first-pass conceptual clarity."
+      },
+      {
+        "title": "Khan Academy: molecular orbital theory search",
+        "url": "https://www.khanacademy.org/search?page_search_query=molecular%20orbital%20theory",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Mixed",
+        "note": "Builds MO diagrams, bond order and paramagnetism (O2) step by step - exactly the JEE Advanced MOT skill set."
+      },
+      {
+        "title": "PhET Chemistry Simulations (Molecule Shapes / Molecule Polarity)",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=chemistry",
+        "source": "PhET",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "'Molecule Shapes' and 'Molecule Polarity' sims let students rotate VSEPR geometries and see dipole vectors interactively."
+      },
+      {
+        "title": "Chemistry StackExchange: VSEPR & bond angle search",
+        "url": "https://chemistry.stackexchange.com/search?q=VSEPR+bond+angle",
+        "source": "ChemStackExchange",
+        "type": "Search",
+        "level": "JEE Advanced",
+        "note": "Expert answers to the subtle 'why' questions (bond angle ordering, lone-pair effects, hypervalency) that trip up toppers."
+      },
+      {
+        "title": "Chemistry StackExchange: molecular orbital diagram search",
+        "url": "https://chemistry.stackexchange.com/search?q=molecular+orbital+diagram+bond+order",
+        "source": "ChemStackExchange",
+        "type": "Search",
+        "level": "JEE Advanced",
+        "note": "Discussion of s-p mixing, the N2 vs O2 ordering switch, and bond-order/magnetism reasoning at depth."
+      },
+      {
+        "title": "Wikipedia: molecular orbital theory search",
+        "url": "https://en.wikipedia.org/w/index.php?search=molecular+orbital+theory",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Quick reference for MO diagrams, VSEPR notation (AXE), Fajans rules and dipole-moment data with worked examples."
+      },
+      {
+        "title": "PubChem: molecular structure & geometry search",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/#query=carbon%20dioxide",
+        "source": "PubChem",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Look up real molecules to verify geometry, bond lengths and 3D structure when checking VSEPR predictions."
+      },
+      {
+        "title": "Wolfram Alpha: molecular geometry & bond data",
+        "url": "https://www.wolframalpha.com/input?i=molecular+geometry+of+SF6",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Returns geometry, bond angles and hybridization for any formula - a fast self-check tool for shape problems."
+      },
+      {
+        "title": "Brilliant: Chemistry courses (bonding & structure)",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Interactive problem-driven lessons on bonding and molecular structure; good for active-recall practice between problem sets."
+      },
+      {
+        "title": "Chemistry LibreTexts: Fajans Rules & ionic character",
+        "url": "https://chem.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Search 'Fajans rules' / 'polarization' for partial covalent character of ionic bonds - a recurring JEE reasoning topic."
+      },
+      {
+        "title": "Chemistry StackExchange: hybridization & VBT search",
+        "url": "https://chemistry.stackexchange.com/search?q=hybridization+orbital+overlap",
+        "source": "ChemStackExchange",
+        "type": "Search",
+        "level": "JEE Advanced",
+        "note": "Threads on hybridization assignment, VBT vs VSEPR limits and sp3d/sp3d2 geometry for the trickier central-atom cases."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "VSEPR bond angle ordering problems",
+        "query": "VSEPR theory bond angle comparison NH3 H2O NF3",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Predict molecular shapes with lone pairs",
+        "query": "VSEPR molecular shape prediction with lone pairs",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Hybridization of central atom problems",
+        "query": "hybridization of central atom sp3d sp3d2 problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "MOT bond order calculation O2 N2",
+        "query": "molecular orbital theory bond order calculation O2 N2",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "MOT paramagnetic vs diamagnetic species",
+        "query": "molecular orbital theory paramagnetic diamagnetic O2 species",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "s-p mixing: N2 vs O2 MO ordering",
+        "query": "s p mixing molecular orbital ordering N2 O2 energy level",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Dipole moment comparison of molecules",
+        "query": "dipole moment comparison cis trans CO2 NH3 problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Resonance and formal charge problems",
+        "query": "resonance structures formal charge most stable problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Fajans rules covalent character ordering",
+        "query": "Fajans rules covalent character of ionic compounds ordering",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Hydrogen bonding effect on properties",
+        "query": "hydrogen bonding intramolecular intermolecular boiling point",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Lattice energy and Born-Haber cycle",
+        "query": "Born Haber cycle lattice energy calculation problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Back bonding in BF3 / BCl3 problems",
+        "query": "back bonding BF3 BCl3 Lewis acid strength order",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Bond length vs bond order in isoelectronic species",
+        "query": "bond length bond order comparison isoelectronic species",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Octet rule exceptions, hypervalent species",
+        "query": "octet rule exceptions hypervalent electron deficient molecules",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Lewis structure drawing practice",
+        "query": "Lewis dot structure drawing practice problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Sigma and pi bond counting",
+        "query": "number of sigma pi bonds in molecule problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Valence bond theory orbital overlap",
+        "query": "valence bond theory orbital overlap sigma pi bonds",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Bond order of ions: CO, NO, O2+, O2-",
+        "query": "bond order of CO NO O2+ O2- molecular orbital",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Electronegativity and percent ionic character",
+        "query": "electronegativity percent ionic character bond polarity",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Bond angle order in hydrides reasoning",
+        "query": "bond angle order hydrides PH3 NH3 H2S H2O reasoning",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Drago / Bent's rule for bond angle anomalies",
+        "query": "Drago rule bent rule bond angle hydrides explanation",
+        "level": "Olympiad",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Shapes of interhalogens and noble-gas fluorides",
+        "query": "shapes of interhalogen compounds XeF4 ClF3 VSEPR",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Chemical bonding JEE Advanced PYQ",
+        "query": "chemical bonding molecular structure",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Molecular orbital theory JEE Advanced PYQ",
+        "query": "molecular orbital theory bond order",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "VSEPR & hybridization JEE Advanced PYQ",
+        "query": "VSEPR hybridization geometry",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Dipole moment JEE Advanced PYQ",
+        "query": "dipole moment polarity",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Hydrogen bonding JEE Advanced PYQ",
+        "query": "hydrogen bonding boiling point",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Fajans rules JEE Advanced PYQ",
+        "query": "Fajans rules covalent character",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Bond order & magnetism match-the-column",
+        "query": "bond order magnetic property match the column",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Isoelectronic species: shape & bond order",
+        "query": "isoelectronic species comparison shape bond order problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Net dipole of substituted molecules",
+        "query": "net dipole moment substituted benzene chloromethanes problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Coordinate (dative) bond examples",
+        "query": "coordinate covalent dative bond examples NH4+ ozone",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Hardest in-syllabus bonding conceptual problems",
+        "query": "tricky chemical bonding conceptual problems bond angle exceptions",
+        "level": "Olympiad",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Distorted geometry of XeF6 / XeOF4",
+        "query": "structure of XeF6 XeOF4 distorted geometry explanation",
+        "level": "Olympiad",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "States of Matter (Gases & Liquids)",
+    "slug": "gaseous-state",
+    "subject": "Chemistry",
+    "group": "Physical Chemistry",
+    "blurb": "Everything from the ideal gas law to van der Waals real-gas corrections, compressibility factor, kinetic theory and Maxwell distributions, critical constants and liquefaction, plus the liquid-state properties (vapour pressure, surface tension, viscosity) - drilled at JEE Advanced depth with derivation-heavy numericals.",
+    "jeeWeight": "Medium",
+    "subtopics": [
+      "Ideal gas equation PV = nRT and its applications",
+      "Gas laws: Boyle's, Charles's, Gay-Lussac's, Avogadro's",
+      "Dalton's law of partial pressures and mole fraction",
+      "Graham's law of diffusion and effusion",
+      "Kinetic molecular theory and pressure-from-collisions derivation",
+      "Maxwell-Boltzmann molecular speed distribution",
+      "Average, most probable and root-mean-square speeds",
+      "Real gases and deviation from ideal behaviour",
+      "Compressibility factor Z and Boyle temperature",
+      "van der Waals equation and a, b constants",
+      "Critical constants Tc, Pc, Vc and their relation to a, b",
+      "Law of corresponding states and reduced variables",
+      "Liquefaction of gases and critical phenomena",
+      "Liquid state: vapour pressure, surface tension, viscosity",
+      "Mean free path and collision frequency",
+      "Equipartition of energy and degrees of freedom"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced Official Past Papers Archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "jeeadv.ac.in",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Official question papers plus answer keys; mine the Chemistry sections for gaseous-state numericals on Z, van der Waals and rms speed."
+      },
+      {
+        "title": "NCERT Class 11 Chemistry Textbook (States of Matter chapter)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "ncert.nic.in",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Open the Class 11 Chemistry book; the States of Matter chapter is the syllabus baseline every JEE gaseous-state question builds on."
+      },
+      {
+        "title": "LibreTexts: The Gaseous State (Physical Chemistry)",
+        "url": "https://chem.libretexts.org/",
+        "source": "chem.libretexts.org",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Search 'ideal gas law', 'kinetic theory' and 'van der Waals' for derivation-grade explanations with worked examples at JEE Advanced depth."
+      },
+      {
+        "title": "ChemGuide: Ideal Gases and the Ideal Gas Law",
+        "url": "https://www.chemguide.co.uk/",
+        "source": "chemguide.co.uk",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Clean, exam-focused notes on the ideal gas equation, partial pressures and the assumptions of kinetic theory; ideal for first-pass teaching."
+      },
+      {
+        "title": "MIT OCW 5.111 Principles of Chemical Science",
+        "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/",
+        "source": "ocw.mit.edu",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "University-level lectures plus problem sets covering gas behaviour and thermodynamic foundations; good for the hardest in-syllabus stretch."
+      },
+      {
+        "title": "Khan Academy: Ideal Gas Law",
+        "url": "https://www.khanacademy.org/search?page_search_query=ideal%20gas%20law",
+        "source": "khanacademy.org",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Video walkthroughs of PV = nRT, partial pressures and gas stoichiometry for students who need the concept before the numericals."
+      },
+      {
+        "title": "Khan Academy: Kinetic Theory and Maxwell Distribution",
+        "url": "https://www.khanacademy.org/search?page_search_query=kinetic%20theory%20of%20gases%20maxwell%20distribution",
+        "source": "khanacademy.org",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Animated treatment of molecular speed distribution and the meaning of rms vs average vs most-probable speed."
+      },
+      {
+        "title": "PhET: Gas Properties Simulation",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=chemistry",
+        "source": "phet.colorado.edu",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Open the 'Gas Properties' and 'Gases Intro' sims to let students vary P, V, T and watch the Maxwell speed distribution shift in real time."
+      },
+      {
+        "title": "Wikipedia: van der Waals Equation",
+        "url": "https://en.wikipedia.org/w/index.php?search=van%20der%20Waals%20equation",
+        "source": "en.wikipedia.org",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Full derivation of the equation, reduced form, and the Tc/Pc/Vc relations to a and b that JEE Advanced loves to test."
+      },
+      {
+        "title": "Wikipedia: Compressibility Factor (Z)",
+        "url": "https://en.wikipedia.org/w/index.php?search=compressibility%20factor",
+        "source": "en.wikipedia.org",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Reference for Z = PV/nRT behaviour, Boyle temperature and the law of corresponding states - key for real-gas reasoning questions."
+      },
+      {
+        "title": "Wikipedia: Maxwell-Boltzmann Distribution",
+        "url": "https://en.wikipedia.org/w/index.php?search=Maxwell-Boltzmann%20distribution",
+        "source": "en.wikipedia.org",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Speed-distribution function, derivation of the three characteristic speeds and the 1:1.128:1.224 ratio used in MCQs."
+      },
+      {
+        "title": "Chemistry StackExchange: van der Waals constants",
+        "url": "https://chemistry.stackexchange.com/search?q=van%20der%20Waals%20equation%20a%20b%20constants",
+        "source": "chemistry.stackexchange.com",
+        "type": "Problem set",
+        "level": "JEE Advanced",
+        "note": "Community-answered conceptual subtleties on what a and b physically mean and why Z dips below 1 - great for doubt resolution."
+      },
+      {
+        "title": "Chemistry StackExchange: compressibility factor and real gases",
+        "url": "https://chemistry.stackexchange.com/search?q=compressibility%20factor%20real%20gas%20deviation",
+        "source": "chemistry.stackexchange.com",
+        "type": "Problem set",
+        "level": "JEE Advanced",
+        "note": "Threads explaining why Z > 1 at high pressure and Z < 1 at intermediate pressure; pairs well with assertion-reason items."
+      },
+      {
+        "title": "Wolfram Alpha: Ideal Gas Law Solver",
+        "url": "https://www.wolframalpha.com/input?i=ideal%20gas%20law%20PV%3DnRT",
+        "source": "wolframalpha.com",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Plug in P, V, n, T to verify numerical answers instantly; also computes rms speed and partial pressures for cross-checking."
+      },
+      {
+        "title": "Wolfram Alpha: van der Waals Critical Constants",
+        "url": "https://www.wolframalpha.com/input?i=van%20der%20Waals%20equation%20critical%20constants",
+        "source": "wolframalpha.com",
+        "type": "Tool",
+        "level": "JEE Advanced",
+        "note": "Computes critical constants from a and b and vice versa; useful for setting and self-checking real-gas problems."
+      },
+      {
+        "title": "Brilliant: Physical Chemistry Courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "brilliant.org",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Interactive gas-laws and kinetic-theory lessons with built-in problem progression for spaced practice."
+      },
+      {
+        "title": "LibreTexts: Kinetic Theory of Gases module",
+        "url": "https://chem.libretexts.org/",
+        "source": "chem.libretexts.org",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Search 'kinetic molecular theory' for the full pressure-from-collisions derivation and equipartition of energy - the hardest in-syllabus content."
+      },
+      {
+        "title": "ChemGuide: Real Gases and Deviations from Ideal Behaviour",
+        "url": "https://www.chemguide.co.uk/",
+        "source": "chemguide.co.uk",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Concise notes on why real gases deviate, the role of intermolecular forces and molecular volume - direct mapping to van der Waals terms."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Ideal gas law PV=nRT numericals",
+        "query": "ideal gas law PV=nRT numerical problems chemistry",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Combined gas law and STP conversions",
+        "query": "combined gas law STP volume conversion chemistry",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Dalton's law of partial pressures",
+        "query": "Dalton law of partial pressures mole fraction problems",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Graham's law of diffusion and effusion",
+        "query": "Graham law of diffusion effusion rate problems",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Average molar mass of gas mixtures",
+        "query": "average molar mass gas mixture problems chemistry",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Kinetic theory of gases derivation",
+        "query": "kinetic theory of gases pressure derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "cse",
+          "mse"
+        ]
+      },
+      {
+        "label": "rms, average and most probable speed",
+        "query": "rms average most probable speed of gas molecules problems",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Maxwell-Boltzmann speed distribution",
+        "query": "Maxwell Boltzmann distribution of molecular speeds",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "cse",
+          "pse"
+        ]
+      },
+      {
+        "label": "Kinetic energy and equipartition",
+        "query": "kinetic energy of gas equipartition degrees of freedom problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "pse"
+        ]
+      },
+      {
+        "label": "Mean free path and collision frequency",
+        "query": "mean free path collision frequency of gas molecules problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "pse"
+        ]
+      },
+      {
+        "label": "Real gas deviation from ideal behaviour",
+        "query": "real gas deviation from ideal behaviour explained",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Compressibility factor Z numericals",
+        "query": "compressibility factor Z of real gas numerical problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Why Z below or above 1",
+        "query": "why compressibility factor less than one greater than one",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "van der Waals equation numericals",
+        "query": "van der Waals equation real gas numerical problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "van der Waals constants a and b meaning",
+        "query": "van der Waals constants a b physical significance units",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Critical constants from van der Waals",
+        "query": "critical constants Tc Pc Vc from van der Waals equation derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Boyle temperature of a real gas",
+        "query": "Boyle temperature van der Waals gas derivation problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Law of corresponding states",
+        "query": "law of corresponding states reduced equation of state",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Liquefaction and critical temperature",
+        "query": "liquefaction of gases critical temperature explained",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Liquid state: VP, surface tension, viscosity",
+        "query": "liquid state vapour pressure surface tension viscosity chemistry",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Gas density and molar mass relation",
+        "query": "gas density molar mass ideal gas equation problems",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Eudiometry and gaseous reactions",
+        "query": "eudiometry gaseous reactions volume combustion problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Gas collected over water correction",
+        "query": "gas collected over water vapour pressure correction problems",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Z vs P plots for different gases",
+        "query": "compressibility factor Z versus pressure plots different gases",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Gaseous state full chapter (PYQ)",
+        "query": "states of matter gaseous state chemistry",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "van der Waals & Z (PYQ)",
+        "query": "van der Waals equation compressibility factor",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Kinetic theory & Maxwell speeds (PYQ)",
+        "query": "kinetic theory of gases rms speed Maxwell distribution",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Critical constants & liquefaction (PYQ)",
+        "query": "critical constants liquefaction of gases",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Graham's law (PYQ)",
+        "query": "Graham law of diffusion effusion gaseous state",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Mixture partial pressure (JEE level)",
+        "query": "mixture of gases partial pressure JEE level problems with solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Chemical Thermodynamics & Thermochemistry",
+    "slug": "thermodynamics-chem",
+    "subject": "Chemistry",
+    "group": "Physical Chemistry",
+    "blurb": "A durable, JEE-Advanced-aligned link pack covering the first law, enthalpy and Hess-law calculations, bond enthalpies, entropy, and Gibbs-energy spontaneity criteria, with mixed-level problem sources for drilling numericals.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "System, surroundings and state functions",
+      "First law of thermodynamics and internal energy (U)",
+      "Work, heat and IUPAC sign conventions (w, q)",
+      "Enthalpy (H), Cp, Cv and their relation",
+      "Hess's law and enthalpy of formation/combustion",
+      "Bond enthalpy and reaction enthalpy estimation",
+      "Standard enthalpies (formation, combustion, neutralization)",
+      "Calorimetry and heat capacity calculations",
+      "Entropy (S) and the second law",
+      "Spontaneity and Gibbs free energy (G = H - TS)",
+      "Gibbs energy, equilibrium and temperature dependence (dG = -RT ln K)",
+      "Reversible vs irreversible processes; isothermal and adiabatic",
+      "Born-Haber cycle and lattice enthalpy",
+      "Kirchhoff's equation and temperature dependence of enthalpy"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Chemistry Textbooks (Class 11 Thermodynamics chapter)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Foundation text for the JEE thermodynamics syllabus; download the Class 11 Part-I Thermodynamics chapter PDF."
+      },
+      {
+        "title": "Chemistry LibreTexts — Thermodynamics & Thermochemistry",
+        "url": "https://chem.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Search Thermochemistry, Enthalpy, Entropy and Gibbs Free Energy modules for rigorous explanations with worked examples."
+      },
+      {
+        "title": "ChemGuide — Energetics & Thermodynamics notes",
+        "url": "https://www.chemguide.co.uk/",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Clear JEE-level notes on enthalpy changes, Hess's law, bond enthalpies and Born-Haber cycles; navigate to Physical Chemistry > Energetics."
+      },
+      {
+        "title": "MIT OCW 5.111 Principles of Chemical Science",
+        "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/",
+        "source": "MIT OCW",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "University lectures and problem sets on thermodynamics (first/second law, Gibbs energy) at Advanced-level depth."
+      },
+      {
+        "title": "Khan Academy — Thermodynamics (chemistry)",
+        "url": "https://www.khanacademy.org/science/chemistry/thermodynamics-chemistry",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Video walkthroughs of enthalpy, Hess's law, entropy and Gibbs free energy with practice; good for first-pass conceptual clarity."
+      },
+      {
+        "title": "PhET — Chemistry simulations",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=chemistry",
+        "source": "PhET",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Interactive sims (Energy Forms and Changes, States of Matter) to visualize heat transfer, internal energy and phase transitions."
+      },
+      {
+        "title": "Brilliant — Thermodynamics & Chemical Reactions courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Guided interactive problem sequences on energy, entropy and spontaneity for active problem-solving practice."
+      },
+      {
+        "title": "Chemistry StackExchange — thermodynamics tag",
+        "url": "https://chemistry.stackexchange.com/questions/tagged/thermodynamics",
+        "source": "ChemStackExchange",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Expert Q&A archive clarifying subtle conceptual traps around G, S and spontaneity that recur in Advanced questions."
+      },
+      {
+        "title": "Wikipedia — Hess's law",
+        "url": "https://en.wikipedia.org/wiki/Hess%27s_law",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Concise reference on Hess's law and enthalpy cycles with worked numerical illustrations."
+      },
+      {
+        "title": "Wikipedia — Bond-dissociation energy",
+        "url": "https://en.wikipedia.org/wiki/Bond-dissociation_energy",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Bond-enthalpy tables and the average-bond-enthalpy method for estimating reaction enthalpies."
+      },
+      {
+        "title": "Wikipedia — Gibbs free energy",
+        "url": "https://en.wikipedia.org/wiki/Gibbs_free_energy",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Reference on G = H - TS, the spontaneity criterion and the link to the equilibrium constant (dG = -RT ln K)."
+      },
+      {
+        "title": "Wolfram Alpha — thermochemistry computations",
+        "url": "https://www.wolframalpha.com/",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Compute and check standard enthalpies, heats of reaction and thermodynamic data; query with your own numbers."
+      },
+      {
+        "title": "PubChem — standard thermodynamic data lookup",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/",
+        "source": "PubChem",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Authoritative standard enthalpy-of-formation and combustion data for verifying Hess-law and Born-Haber calculations."
+      },
+      {
+        "title": "LibreTexts — Born-Haber cycle & lattice enthalpy",
+        "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Search Born-Haber Cycle for step-by-step lattice-enthalpy construction, a frequent Advanced problem type."
+      },
+      {
+        "title": "Wikipedia — Born-Haber cycle",
+        "url": "https://en.wikipedia.org/wiki/Born%E2%80%93Haber_cycle",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Reference on the Born-Haber thermodynamic cycle and lattice-enthalpy determination with a worked NaCl example."
+      },
+      {
+        "title": "Official JEE Advanced past papers archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "JEE Advanced",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic previous-year JEE Advanced papers and answer keys; pull the chemistry thermodynamics questions for exam-true practice."
+      },
+      {
+        "title": "Wikipedia — Kirchhoff's equation (thermochemistry)",
+        "url": "https://en.wikipedia.org/wiki/Kirchhoff%27s_equation_(thermochemistry)",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Reference on the temperature dependence of reaction enthalpy via Cp, an Advanced-level extension topic."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "First law of thermodynamics numericals",
+        "query": "https://www.google.com/search?q=first%20law%20of%20thermodynamics%20chemistry%20problems%20with%20solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Internal energy change (delta U) problems",
+        "query": "https://chemistry.stackexchange.com/search?q=internal%20energy%20change%20delta%20U%20first%20law",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Work done in isothermal vs adiabatic process",
+        "query": "https://www.youtube.com/results?search_query=isothermal%20adiabatic%20work%20done%20chemistry%20JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "IUPAC sign convention of work and heat",
+        "query": "https://chemistry.stackexchange.com/search?q=sign%20convention%20work%20heat%20IUPAC%20thermodynamics",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Enthalpy and Cp - Cv relation",
+        "query": "https://www.google.com/search?q=Cp%20Cv%20relation%20enthalpy%20chemistry%20problems%20with%20solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Hess's law problems with solutions",
+        "query": "https://www.google.com/search?q=Hess%20law%20problems%20with%20solutions%20enthalpy%20of%20formation",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Hess's law tricky JEE problems",
+        "query": "https://www.youtube.com/results?search_query=Hess%20law%20enthalpy%20cycle%20JEE%20problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Bond enthalpy reaction enthalpy estimation",
+        "query": "https://www.google.com/search?q=bond%20enthalpy%20reaction%20enthalpy%20calculation%20problems%20with%20solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Average bond enthalpy vs bond dissociation energy",
+        "query": "https://chemistry.stackexchange.com/search?q=average%20bond%20enthalpy%20vs%20bond%20dissociation%20energy",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Standard enthalpy of formation problems",
+        "query": "https://www.google.com/search?q=standard%20enthalpy%20of%20formation%20problems%20with%20solutions%20chemistry",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Enthalpy of combustion and bomb calorimetry",
+        "query": "https://www.youtube.com/results?search_query=enthalpy%20of%20combustion%20bomb%20calorimeter%20JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Enthalpy of neutralization: strong vs weak acid",
+        "query": "https://chemistry.stackexchange.com/search?q=enthalpy%20of%20neutralization%20weak%20acid%20strong%20base",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Calorimetry and heat capacity numericals",
+        "query": "https://www.google.com/search?q=calorimetry%20heat%20capacity%20chemistry%20problems%20with%20solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Entropy change calculations",
+        "query": "https://www.google.com/search?q=entropy%20change%20calculation%20chemistry%20problems%20with%20solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Entropy of mixing and the second law",
+        "query": "https://chemistry.stackexchange.com/search?q=entropy%20of%20mixing%20second%20law%20thermodynamics",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Gibbs free energy spontaneity problems",
+        "query": "https://www.google.com/search?q=Gibbs%20free%20energy%20spontaneity%20problems%20with%20solutions%20chemistry",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Gibbs energy and equilibrium constant (dG = -RT lnK)",
+        "query": "https://www.youtube.com/results?search_query=Gibbs%20free%20energy%20equilibrium%20constant%20JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Temperature at which a reaction turns spontaneous",
+        "query": "https://chemistry.stackexchange.com/search?q=temperature%20reaction%20spontaneous%20delta%20G%20delta%20H%20delta%20S",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Born-Haber cycle problems",
+        "query": "https://www.google.com/search?q=Born%20Haber%20cycle%20lattice%20enthalpy%20problems%20with%20solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Lattice enthalpy calculation walkthrough",
+        "query": "https://www.youtube.com/results?search_query=Born%20Haber%20cycle%20lattice%20enthalpy%20JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Reversible vs irreversible process thermodynamics",
+        "query": "https://www.youtube.com/results?search_query=reversible%20irreversible%20process%20thermodynamics%20chemistry%20JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Adiabatic process gamma (PV^gamma) relations",
+        "query": "https://chemistry.stackexchange.com/search?q=adiabatic%20process%20PV%20gamma%20work%20done",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Thermodynamics JEE Advanced PYQ pdf",
+        "query": "https://www.google.com/search?q=chemical%20thermodynamics%20JEE%20Advanced%20previous%20year%20questions%20pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Thermochemistry JEE Main PYQ pdf",
+        "query": "https://www.google.com/search?q=thermochemistry%20JEE%20Main%20previous%20year%20questions%20pdf",
+        "level": "JEE Main",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Hess's law JEE Advanced PYQ",
+        "query": "https://www.google.com/search?q=Hess%20law%20JEE%20Advanced%20previous%20year%20questions%20pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Gibbs free energy JEE Advanced PYQ",
+        "query": "https://www.google.com/search?q=Gibbs%20free%20energy%20JEE%20Advanced%20previous%20year%20questions%20pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Entropy JEE Advanced PYQ pdf",
+        "query": "https://www.google.com/search?q=entropy%20JEE%20Advanced%20previous%20year%20questions%20pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Bond enthalpy JEE PYQ",
+        "query": "https://www.google.com/search?q=bond%20enthalpy%20JEE%20Advanced%20previous%20year%20questions%20pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "State function vs path function concept",
+        "query": "https://chemistry.stackexchange.com/search?q=state%20function%20vs%20path%20function%20thermodynamics",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Spontaneity and entropy of the universe",
+        "query": "https://www.youtube.com/results?search_query=entropy%20of%20universe%20spontaneity%20thermodynamics%20JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Thermodynamics full chapter JEE problem session",
+        "query": "https://www.youtube.com/results?search_query=chemical%20thermodynamics%20full%20chapter%20JEE%20Advanced%20problems",
+        "level": "Mixed",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Kirchhoff's equation: enthalpy temperature dependence",
+        "query": "https://chemistry.stackexchange.com/search?q=Kirchhoff%20equation%20enthalpy%20temperature%20dependence",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Chemical Equilibrium",
+    "slug": "chemical-equilibrium",
+    "subject": "Chemistry",
+    "group": "Physical Chemistry",
+    "blurb": "A complete problem-and-resource pack for Chemical Equilibrium covering law of mass action, Kp/Kc, Le Chatelier, reaction quotient, free-energy linkage and degree-of-dissociation numericals at full JEE Advanced depth.",
+    "jeeWeight": "Medium",
+    "subtopics": [
+      "Law of mass action and the equilibrium constant",
+      "Equilibrium constant Kc in terms of concentration",
+      "Equilibrium constant Kp in terms of partial pressure",
+      "Relation between Kp and Kc (Kp = Kc(RT)^Delta-n)",
+      "Reaction quotient Q and predicting reaction direction",
+      "Le Chatelier's principle (concentration, pressure, temperature)",
+      "Effect of catalyst and inert gas on equilibrium",
+      "Degree of dissociation and equilibrium calculations",
+      "Vapour density and abnormal molar mass for degree of dissociation",
+      "Homogeneous vs heterogeneous equilibria (pure solids and liquids)",
+      "Equilibrium calculations using ICE tables and quadratics",
+      "Simultaneous and coupled equilibria with common species",
+      "Relation of K with Gibbs free energy (Delta-G-deg = -RT ln K)",
+      "Temperature dependence of K (Van't Hoff equation)",
+      "Standard equilibria: PCl5, N2O4, NH3 (Haber), water-gas shift"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced Official Past Papers Archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "JEE Advanced",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Official question papers and answer keys; mine the Physical Chemistry sections for equilibrium-constant and degree-of-dissociation problems."
+      },
+      {
+        "title": "NCERT Chemistry Textbooks (Class 11/12)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Class 11 Unit 7 'Equilibrium' is the foundational text; download the chapter PDF and work its in-text and exercise numericals."
+      },
+      {
+        "title": "LibreTexts: Chemical Equilibrium",
+        "url": "https://chem.libretexts.org/",
+        "source": "Chemistry LibreTexts",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Search 'chemical equilibrium' and 'equilibrium constant'; the Equilibria chapters give worked Kp/Kc and ICE-table examples at JEE depth."
+      },
+      {
+        "title": "ChemGuide: Chemical Equilibria (Kc and Kp)",
+        "url": "https://www.chemguide.co.uk/",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Clean JEE-level notes on Kc, Kp and Le Chatelier; use the Physical Chemistry > Equilibria menu."
+      },
+      {
+        "title": "MIT OCW 5.111 Principles of Chemical Science",
+        "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Lecture videos and problem sets on chemical equilibrium, Le Chatelier and free-energy/K relations; rigorous, exam-stretching."
+      },
+      {
+        "title": "Khan Academy: Chemical Equilibrium",
+        "url": "https://www.khanacademy.org/search?page_search_query=chemical%20equilibrium",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Video lessons and practice on Kc, Kp, Q vs K and Le Chatelier; good for first-pass conceptual clarity."
+      },
+      {
+        "title": "PhET Chemistry Simulations",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=chemistry",
+        "source": "PhET Colorado",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Interactive sims to visualize how concentration, pressure and temperature shift equilibrium; filter for reaction-rate and equilibrium sims."
+      },
+      {
+        "title": "Brilliant: Chemistry Courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Guided interactive problems on equilibrium reasoning; useful for building Le Chatelier intuition through active problem solving."
+      },
+      {
+        "title": "Chemistry StackExchange: Equilibrium Q&A Search",
+        "url": "https://chemistry.stackexchange.com/search?q=chemical%20equilibrium%20Kp%20Kc",
+        "source": "Chemistry StackExchange",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Expert-answered subtle questions on Kp/Kc, inert-gas effects and degree of dissociation; great for clearing misconceptions."
+      },
+      {
+        "title": "Wikipedia: Chemical Equilibrium",
+        "url": "https://en.wikipedia.org/w/index.php?search=chemical%20equilibrium",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Overview of equilibrium constant, law of mass action and Le Chatelier with links to the Van't Hoff equation and reaction quotient."
+      },
+      {
+        "title": "Wikipedia: Equilibrium Constant",
+        "url": "https://en.wikipedia.org/w/index.php?search=equilibrium%20constant",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Definitions of Kc, Kp, Ka and the Delta-G-deg = -RT ln K relation; useful reference for the thermodynamic linkage."
+      },
+      {
+        "title": "Wolfram Alpha: Equilibrium Computations",
+        "url": "https://www.wolframalpha.com/input?i=equilibrium%20constant%20Kp%20from%20Kc",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Compute Kp from Kc, solve quadratic ICE equilibria and check degree-of-dissociation algebra quickly."
+      },
+      {
+        "title": "LibreTexts: Le Chatelier's Principle",
+        "url": "https://chem.libretexts.org/Bookshelves",
+        "source": "Chemistry LibreTexts",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Search 'Le Chatelier'; detailed treatment of concentration, pressure, temperature and catalyst effects with worked examples."
+      },
+      {
+        "title": "ChemGuide: Physical Chemistry Index",
+        "url": "https://www.chemguide.co.uk/physicalmenu.html",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Concise explanation of position-of-equilibrium shifts; navigate to the Le Chatelier and equilibria entries."
+      },
+      {
+        "title": "Khan Academy: Le Chatelier Practice",
+        "url": "https://www.khanacademy.org/search?page_search_query=Le%20Chatelier%20principle",
+        "source": "Khan Academy",
+        "type": "Problem set",
+        "level": "JEE Main",
+        "note": "Practice predicting equilibrium shifts under stress; reinforces qualitative reasoning before numerical work."
+      },
+      {
+        "title": "Wolfram Alpha: Van't Hoff Equation",
+        "url": "https://www.wolframalpha.com/input?i=Van%27t%20Hoff%20equation%20temperature%20dependence%20equilibrium%20constant",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "JEE Advanced",
+        "note": "Evaluate K at a second temperature from Delta-H-deg using the Van't Hoff equation; verify temperature-dependence problems."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Law of mass action and equilibrium constant expressions",
+        "query": "https://chemistry.stackexchange.com/search?q=law%20of%20mass%20action%20equilibrium%20constant%20expression",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Writing Kc expressions for homogeneous and heterogeneous equilibria",
+        "query": "https://www.google.com/search?q=writing%20Kc%20expression%20heterogeneous%20equilibria%20problems%20with%20solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Relation between Kp and Kc: derivation and problems",
+        "query": "https://www.youtube.com/results?search_query=relation+between+Kp+and+Kc+derivation+problems+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Kp = Kc(RT)^Delta-n numerical problems",
+        "query": "https://www.google.com/search?q=Kp%20Kc%20RT%20delta%20n%20numerical%20problems%20with%20solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Reaction quotient Q vs K direction prediction",
+        "query": "https://www.youtube.com/results?search_query=reaction+quotient+Q+vs+K+predict+direction+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Le Chatelier: effect of pressure, temperature and concentration",
+        "query": "https://www.youtube.com/results?search_query=Le+Chatelier+principle+pressure+temperature+concentration+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Inert-gas addition at constant pressure vs constant volume",
+        "query": "https://chemistry.stackexchange.com/search?q=Le%20Chatelier%20inert%20gas%20constant%20pressure%20constant%20volume",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Effect of inert gas on equilibrium: problems with solutions",
+        "query": "https://www.google.com/search?q=effect%20of%20inert%20gas%20on%20equilibrium%20problems%20with%20solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Degree of dissociation: equilibrium numerical problems",
+        "query": "https://www.google.com/search?q=degree%20of%20dissociation%20equilibrium%20numerical%20problems%20with%20solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Degree of dissociation from vapour density (PCl5, N2O4)",
+        "query": "https://www.youtube.com/results?search_query=degree+of+dissociation+vapour+density+method+PCl5+N2O4+JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "PCl5 dissociation: Kp and degree of dissociation",
+        "query": "https://chemistry.stackexchange.com/search?q=PCl5%20dissociation%20Kp%20degree%20of%20dissociation",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "N2O4 to 2NO2 equilibrium degree of dissociation problems",
+        "query": "https://www.google.com/search?q=N2O4%202NO2%20equilibrium%20degree%20of%20dissociation%20problem%20with%20solution",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "ICE table equilibrium calculations: worked examples",
+        "query": "https://www.youtube.com/results?search_query=ICE+table+equilibrium+calculation+worked+examples+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Quadratic ICE equilibrium problems with solutions",
+        "query": "https://www.google.com/search?q=equilibrium%20ICE%20table%20quadratic%20problems%20with%20solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Delta-G-deg = -RT ln K: free energy and equilibrium constant",
+        "query": "https://www.youtube.com/results?search_query=delta+G+equals+minus+RT+ln+K+equilibrium+constant+JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Gibbs free energy and equilibrium constant: conceptual Q&A",
+        "query": "https://chemistry.stackexchange.com/search?q=Gibbs%20free%20energy%20equilibrium%20constant%20relation",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Van't Hoff equation: temperature dependence of K problems",
+        "query": "https://www.google.com/search?q=Van%27t%20Hoff%20equation%20temperature%20dependence%20equilibrium%20constant%20problems%20with%20solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Temperature effect on exothermic vs endothermic equilibrium",
+        "query": "https://www.youtube.com/results?search_query=effect+of+temperature+exothermic+endothermic+equilibrium+constant+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Simultaneous and coupled equilibria with a common species",
+        "query": "https://chemistry.stackexchange.com/search?q=simultaneous%20equilibria%20common%20gas%20problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Simultaneous equilibria: hard problems with solutions",
+        "query": "https://www.google.com/search?q=simultaneous%20equilibria%20common%20species%20advanced%20problems%20with%20solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Partial pressure, total pressure and Kp problems",
+        "query": "https://www.google.com/search?q=equilibrium%20partial%20pressure%20total%20pressure%20Kp%20problems%20with%20solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Haber process: ammonia synthesis equilibrium and yield",
+        "query": "https://www.youtube.com/results?search_query=Haber+process+ammonia+synthesis+equilibrium+Le+Chatelier+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Chemical equilibrium one-shot: full chapter revision",
+        "query": "https://www.youtube.com/results?search_query=chemical+equilibrium+one+shot+JEE+full+chapter",
+        "level": "Mixed",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Chemical equilibrium JEE Advanced previous-year questions",
+        "query": "https://www.google.com/search?q=chemical%20equilibrium%20JEE%20Advanced%20previous%20year%20questions%20pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Equilibrium constant Kp/Kc JEE Advanced PYQ set",
+        "query": "https://www.google.com/search?q=equilibrium%20constant%20Kp%20Kc%20JEE%20Advanced%20previous%20year%20questions%20pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Degree of dissociation JEE Advanced PYQ set",
+        "query": "https://www.google.com/search?q=degree%20of%20dissociation%20equilibrium%20JEE%20Advanced%20previous%20year%20questions%20pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Le Chatelier JEE Advanced PYQ set",
+        "query": "https://www.google.com/search?q=Le%20Chatelier%20principle%20JEE%20Advanced%20previous%20year%20questions%20pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Chemical equilibrium JEE Main PYQ set",
+        "query": "https://www.google.com/search?q=chemical%20equilibrium%20JEE%20Main%20previous%20year%20questions%20pdf",
+        "level": "JEE Main",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Reaction quotient and Le Chatelier: JEE numerical practice",
+        "query": "https://www.google.com/search?q=reaction%20quotient%20Le%20Chatelier%20JEE%20numerical%20practice%20problems%20with%20solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Heterogeneous equilibria with pure solids and liquids",
+        "query": "https://chemistry.stackexchange.com/search?q=heterogeneous%20equilibrium%20pure%20solid%20liquid%20Kp",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Hardest in-syllabus multi-step equilibrium problems",
+        "query": "https://www.google.com/search?q=advanced%20chemical%20equilibrium%20multi%20step%20problems%20with%20solutions%20JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Vapour density and abnormal molar mass in dissociation",
+        "query": "https://chemistry.stackexchange.com/search?q=vapour%20density%20abnormal%20molar%20mass%20degree%20of%20dissociation",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Relative density change to find degree of dissociation",
+        "query": "https://www.google.com/search?q=relative%20density%20change%20degree%20of%20dissociation%20equilibrium%20problems%20with%20solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Equilibrium constant for combined and reversed reactions",
+        "query": "https://www.youtube.com/results?search_query=equilibrium+constant+reversed+added+reactions+Kp+JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Ionic Equilibrium",
+    "slug": "ionic-equilibrium",
+    "subject": "Chemistry",
+    "group": "Physical Chemistry",
+    "blurb": "A high-yield Physical Chemistry chapter where pH, buffers, salt hydrolysis and Ksp problems demand sharp equilibrium algebra and approximation skills that reward disciplined practice.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Arrhenius, Bronsted-Lowry and Lewis concepts of acids and bases",
+      "Conjugate acid-base pairs and relative strengths",
+      "Ionic product of water (Kw) and its temperature dependence",
+      "pH, pOH and the pH scale",
+      "Ka, Kb and pKa/pKb relationships",
+      "Degree of dissociation and Ostwald's dilution law",
+      "Common ion effect and its applications",
+      "Buffer solutions and the Henderson-Hasselbalch equation",
+      "Buffer capacity and preparation of acidic/basic buffers",
+      "Salt hydrolysis of strong/weak acid-base combinations",
+      "pH of salt solutions and hydrolysis constant (Kh)",
+      "Solubility and solubility product (Ksp)",
+      "Predicting precipitation and selective precipitation",
+      "Acid-base titration curves and equivalence points",
+      "Acid-base indicators and choice of indicator"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced Official Past Papers Archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "jeeadv.ac.in",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic past JEE Advanced papers; mine Chemistry sections for ionic equilibrium pH, buffer and Ksp questions with official answer keys."
+      },
+      {
+        "title": "NCERT Chemistry Textbooks (Class 11 Equilibrium chapter)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Class 11 Equilibrium chapter is the syllabus backbone for ionic equilibrium; in-text examples and exercises are non-negotiable for every JEE aspirant."
+      },
+      {
+        "title": "Chemistry LibreTexts: Acids and Bases / Aqueous Equilibria",
+        "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Rigorous derivations and worked examples on pH, Ka/Kb, buffers and hydrolysis that scale from JEE Main to Advanced depth."
+      },
+      {
+        "title": "ChemGuide: Acids, Bases and Equilibria",
+        "url": "https://www.chemguide.co.uk/physical/acidbaseeqia/acidbaseeqiamenu.html",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Crisp explanations of Bronsted-Lowry theory, Ka/Kb, buffers and indicators at exactly the conceptual altitude JEE expects."
+      },
+      {
+        "title": "MIT OCW 5.111 Principles of Chemical Science",
+        "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/",
+        "source": "MIT OCW",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "University acid-base equilibria lectures and problem sets stretch strong students beyond board-level into titration-curve and polyprotic reasoning."
+      },
+      {
+        "title": "Khan Academy: Acids, Bases and Buffers",
+        "url": "https://www.khanacademy.org/science/ap-chemistry-beta/x2eef969c74e0d802:acids-and-bases",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Step-by-step video walkthroughs of pH, Ka, buffer and titration calculations; ideal for building first-pass fluency before timed practice."
+      },
+      {
+        "title": "PhET: pH Scale and Acid-Base Solutions Simulations",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=chemistry&type=html",
+        "source": "PhET",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Interactive 'pH Scale' and 'Acid-Base Solutions' sims let students see how concentration and strength shift H+ and dissociation visually."
+      },
+      {
+        "title": "Brilliant: Chemistry Courses (Equilibrium)",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Guided interactive problem sequences on chemical and ionic equilibrium that build the estimation and approximation instincts JEE rewards."
+      },
+      {
+        "title": "Chemistry LibreTexts: Salt Hydrolysis and pH of Salt Solutions",
+        "url": "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/16%3A_Acid-Base_Equilibria",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Acid-base equilibria chapter covering hydrolysis of salts, Kh and pH of salt solutions with full worked numerical treatment."
+      },
+      {
+        "title": "Wikipedia: Acid Dissociation Constant (Ka)",
+        "url": "https://en.wikipedia.org/wiki/Acid_dissociation_constant",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Solid reference for Ka/pKa definitions, the relation Ka.Kb = Kw, and representative constants for common weak acids."
+      },
+      {
+        "title": "Wikipedia: Solubility Equilibrium and Ksp",
+        "url": "https://en.wikipedia.org/wiki/Solubility_equilibrium",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Covers Ksp expressions, molar solubility, common ion effect and selective precipitation logic used heavily in Advanced numericals."
+      },
+      {
+        "title": "PubChem: Acid/Base Compound Property Lookup",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/",
+        "source": "PubChem",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Look up authentic pKa, dissociation and solubility data for acids, bases and sparingly soluble salts to build realistic practice problems."
+      },
+      {
+        "title": "Wolfram Alpha: pH and Equilibrium Calculator",
+        "url": "https://www.wolframalpha.com/",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Instant numeric checks for pH, degree of dissociation and buffer outputs; great for verifying hand-computed answers."
+      },
+      {
+        "title": "Chemistry LibreTexts: Buffers and Titration Curves",
+        "url": "https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Analytical_Sciences_Digital_Library/JASDL/Courseware/Analytical_Chemistry_2.1/06_Equilibrium_Chemistry",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Equivalence-point math, buffer capacity, half-equivalence pKa reading and indicator selection for titration-curve problems."
+      },
+      {
+        "title": "ChemGuide: pH Curves and Indicators",
+        "url": "https://www.chemguide.co.uk/physical/acidbaseeqia/phcurves.html",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Dedicated pages on titration pH curves and choosing indicators (methyl orange vs phenolphthalein) match Advanced expectations precisely."
+      },
+      {
+        "title": "Khan Academy: Solubility Equilibria and Ksp",
+        "url": "https://www.khanacademy.org/science/ap-chemistry-beta/x2eef969c74e0d802:equilibrium/x2eef969c74e0d802:solubility-equilibria",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Video coverage of molar solubility, Ksp and the common ion effect with worked numerical examples."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Bronsted-Lowry conjugate acid-base pairs",
+        "query": "Bronsted Lowry conjugate acid base pairs",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Lewis acids and bases and applications",
+        "query": "Lewis acid base concept examples applications",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Relative strength of acids and bases (Ka, Kb, pKa)",
+        "query": "relative strength of acids bases Ka Kb pKa",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Ionic product of water Kw temperature dependence",
+        "query": "ionic product of water Kw temperature dependence",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "pH and pOH calculation for strong acids and bases",
+        "query": "pH pOH calculation strong acid base",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "pH of weak acid and weak base solutions",
+        "query": "pH of weak acid weak base solution",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Ostwald dilution law and degree of dissociation",
+        "query": "Ostwald dilution law degree of dissociation weak electrolyte",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Common ion effect on dissociation and pH",
+        "query": "common ion effect on dissociation pH",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Henderson-Hasselbalch buffer equation derivation",
+        "query": "Henderson Hasselbalch equation buffer derivation",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Acidic buffer preparation and pH problems",
+        "query": "acidic buffer solution pH problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Basic buffer ammonia-ammonium chloride pH",
+        "query": "basic buffer ammonia ammonium chloride pH",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Buffer capacity and maximum buffering range",
+        "query": "buffer capacity maximum at pH equals pKa",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Salt hydrolysis of strong acid-weak base",
+        "query": "salt hydrolysis strong acid weak base pH",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Salt hydrolysis of weak acid-weak base and degree",
+        "query": "hydrolysis weak acid weak base salt degree of hydrolysis",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Hydrolysis constant Kh relation to Ka, Kb, Kw",
+        "query": "hydrolysis constant Kh relation Ka Kb Kw",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Solubility product Ksp and molar solubility",
+        "query": "solubility product Ksp molar solubility calculation",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Common ion effect on solubility of salts",
+        "query": "common ion effect on solubility Ksp",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Predicting precipitation using ionic product vs Ksp",
+        "query": "predicting precipitation ionic product Qsp vs Ksp",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Selective precipitation of sulphides and Ksp",
+        "query": "selective precipitation sulphides Ksp",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Acid-base titration curve strong acid-strong base",
+        "query": "acid base titration curve strong acid strong base",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Titration curve weak acid-strong base equivalence point",
+        "query": "titration curve weak acid strong base equivalence half equivalence point",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Choice of indicator: methyl orange vs phenolphthalein",
+        "query": "choice of acid base indicator methyl orange phenolphthalein",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Indicator range pKin and colour-change theory",
+        "query": "acid base indicator pKin colour change range theory",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Polyprotic acid stepwise dissociation and pH",
+        "query": "polyprotic acid stepwise dissociation Ka1 Ka2 pH",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "pH of very dilute strong acid (water contribution)",
+        "query": "pH of very dilute strong acid 1e-7 M water contribution",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Effect of temperature on Kw and neutral pH",
+        "query": "effect of temperature on Kw neutral pH at 60 C",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Levelling and differentiating effect of solvents",
+        "query": "levelling effect differentiating effect of solvent on acid strength",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Ionic equilibrium full-chapter JEE problem solving",
+        "query": "ionic equilibrium chapter problem solving",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Ionic equilibrium previous year questions",
+        "query": "ionic equilibrium",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "pH, buffer and salt hydrolysis previous year questions",
+        "query": "pH buffer salt hydrolysis",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Solubility product previous year questions",
+        "query": "solubility product Ksp common ion effect",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Acid-base titration and indicators PYQ",
+        "query": "acid base titration indicators",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "cse"
+        ]
+      },
+      {
+        "label": "Hardest in-syllabus mixed ionic equilibrium numericals",
+        "query": "tough ionic equilibrium numericals pH buffer Ksp",
+        "level": "Olympiad",
+        "sources": [
+          "aops",
+          "google"
+        ]
+      },
+      {
+        "label": "Simultaneous equilibria and exact pH treatment",
+        "query": "simultaneous ionic equilibria exact pH charge balance mass balance",
+        "level": "Olympiad",
+        "sources": [
+          "cse",
+          "aops",
+          "google"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Redox Reactions",
+    "slug": "redox",
+    "subject": "Chemistry",
+    "group": "Physical Chemistry",
+    "blurb": "A drill-ready pack for redox: oxidation numbers, ion-electron and oxidation-number balancing, the equivalent concept, and quantitative redox titrations that recur every year in JEE Advanced.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Oxidation number rules and exceptions (peroxides, superoxides, O-F compounds)",
+      "Identifying oxidation, reduction, oxidising and reducing agents",
+      "Balancing redox equations by the oxidation-number change method",
+      "Balancing by the ion-electron (half-reaction) method in acidic and basic media",
+      "Equivalent concept, n-factor and equivalent weight in redox",
+      "Normality, gram-equivalents and the law of equivalence",
+      "Redox titrations: permanganometry (KMnO4)",
+      "Redox titrations: dichrometry (K2Cr2O7)",
+      "Iodometric and iodimetric titrations (I2 / thiosulphate)",
+      "Disproportionation and comproportionation reactions",
+      "Types of redox reactions: combination, decomposition, displacement",
+      "Oxidising/reducing strength and the electrochemical (activity) series",
+      "Stoichiometry of redox reactions and back titrations",
+      "Common JEE numericals: percentage purity, mixture analysis, available chlorine",
+      "Volume strength of H2O2 and equivalent weight in different media"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Chemistry Class 11 — Chapter 8: Redox Reactions (textbook PDF)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "The exact NCERT chapter JEE redox questions are built on; download Class 11 Chemistry Part-I and open the Redox chapter."
+      },
+      {
+        "title": "LibreTexts — Oxidation States (Oxidation Numbers)",
+        "url": "https://chem.libretexts.org/",
+        "source": "Chemistry LibreTexts",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Search 'oxidation states rules' for clean rule-by-rule derivations with worked examples; ideal first read before assigning problems."
+      },
+      {
+        "title": "LibreTexts — Balancing Redox Reactions (half-reaction method)",
+        "url": "https://chem.libretexts.org/",
+        "source": "Chemistry LibreTexts",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Search 'balancing redox half reactions acidic basic' for the full ion-electron method in both media with step-by-step worked equations."
+      },
+      {
+        "title": "LibreTexts — Disproportionation reactions",
+        "url": "https://chem.libretexts.org/",
+        "source": "Chemistry LibreTexts",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Search 'disproportionation' for the concept plus canonical examples (Cl2, H2O2, Cu+, P4) frequently tested in JEE."
+      },
+      {
+        "title": "LibreTexts — Titration & equivalence-point calculations",
+        "url": "https://chem.libretexts.org/",
+        "source": "Chemistry LibreTexts",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Search 'redox titration equivalence point' for the equivalent concept, n-factor and titration stoichiometry behind JEE numericals."
+      },
+      {
+        "title": "ChemGuide — Definitions of oxidation and reduction (redox)",
+        "url": "https://www.chemguide.co.uk/",
+        "source": "ChemGuide",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Clear JEE-level treatment of electron-transfer, oxidation-number and oxidising/reducing-agent definitions; use the inorganic section index."
+      },
+      {
+        "title": "ChemGuide — Working out oxidation states",
+        "url": "https://www.chemguide.co.uk/",
+        "source": "ChemGuide",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Concise rules and tricky cases (S in thiosulphate, N in nitrate) that students routinely get wrong."
+      },
+      {
+        "title": "ChemGuide — Redox titration calculations (KMnO4 / Fe2+)",
+        "url": "https://www.chemguide.co.uk/",
+        "source": "ChemGuide",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Worked permanganate titration arithmetic mapping directly to JEE numerical problems on equivalents."
+      },
+      {
+        "title": "MIT OCW 5.111 — Principles of Chemical Science (redox & electrochemistry lectures)",
+        "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Free lecture videos, notes and problem sets covering oxidation states and redox foundations for the strongest students."
+      },
+      {
+        "title": "Khan Academy — oxidation reduction (redox) reactions",
+        "url": "https://www.khanacademy.org/search?page_search_query=oxidation%20reduction%20redox%20reactions",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Beginner-friendly videos on assigning oxidation numbers and identifying redox; good for shoring up weak students."
+      },
+      {
+        "title": "Khan Academy — balancing redox equations",
+        "url": "https://www.khanacademy.org/search?page_search_query=balancing%20redox%20equations%20half%20reaction",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Step-by-step half-reaction balancing walkthroughs with practice questions."
+      },
+      {
+        "title": "Wikipedia — Redox (overview, types, history)",
+        "url": "https://en.wikipedia.org/w/index.php?search=redox+reaction",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Solid overview of redox terminology, types and the electrochemical series for quick reference and cross-linking."
+      },
+      {
+        "title": "Wikipedia — Disproportionation",
+        "url": "https://en.wikipedia.org/w/index.php?search=disproportionation",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Examples and the inverse (comproportionation); good for building a JEE-style example bank."
+      },
+      {
+        "title": "Wikipedia — Equivalent weight / equivalent concept",
+        "url": "https://en.wikipedia.org/w/index.php?search=equivalent+weight+chemistry",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Reference on n-factor and equivalent weight, the subtleties of which trip up JEE aspirants in titration problems."
+      },
+      {
+        "title": "PubChem — Potassium permanganate (KMnO4) data card",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/#query=potassium%20permanganate",
+        "source": "PubChem",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Authoritative properties of the key permanganometry titrant; pair with dichromate and thiosulphate cards."
+      },
+      {
+        "title": "Wolfram Alpha — balance redox / oxidation-state computations",
+        "url": "https://www.wolframalpha.com/input?i=balance+chemical+equation+KMnO4+%2B+FeSO4+%2B+H2SO4",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Instantly balances redox equations and computes oxidation states so students can self-check homework."
+      },
+      {
+        "title": "JEE Advanced — Official Question Archive (past papers)",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "JEE Advanced (official)",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic past question papers and answer keys; mine the chemistry sections for redox-stoichiometry and titration problems."
+      },
+      {
+        "title": "PhET — chemistry simulations (reactions & molarity)",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=chemistry",
+        "source": "PhET",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Interactive reactions/molarity sims to build intuition for stoichiometry and titration concentration calculations."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Oxidation number rules — worked examples",
+        "query": "oxidation number rules worked examples",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Tricky oxidation states (S in thiosulphate, Fe3O4, CrO5)",
+        "query": "oxidation state thiosulphate Fe3O4 CrO5 calculation",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Average vs individual oxidation number (C in organic compounds)",
+        "query": "average oxidation number carbon organic compounds",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Identify oxidising and reducing agents in a reaction",
+        "query": "identify oxidising agent reducing agent in reaction",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Balancing redox by the oxidation-number method",
+        "query": "balancing redox oxidation number change method",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Ion-electron half-reaction method in acidic medium",
+        "query": "balancing redox ion electron half reaction acidic medium",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Ion-electron half-reaction method in basic medium",
+        "query": "balancing redox half reaction basic medium hydroxide",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Hard redox balancing (P4, As2S3, mixed disproportionation)",
+        "query": "balancing difficult redox P4 As2S3 disproportionation",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "n-factor and equivalent weight in redox",
+        "query": "n factor equivalent weight redox reactions",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Equivalent concept and law of equivalence problems",
+        "query": "equivalent concept law of equivalence problems chemistry",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Normality and gram-equivalent numericals",
+        "query": "normality gram equivalent redox numericals",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "KMnO4 permanganometry titration calculations",
+        "query": "KMnO4 permanganate titration n-factor calculation",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "K2Cr2O7 dichrometry titration problems",
+        "query": "K2Cr2O7 dichromate titration redox problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Iodometric vs iodimetric titration",
+        "query": "iodometric iodimetric titration thiosulphate difference",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Redox titration mixture analysis (oxalate / iron)",
+        "query": "redox titration mixture KMnO4 oxalate iron analysis",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Back titration redox numericals",
+        "query": "back titration redox stoichiometry numericals",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Percentage purity using redox titration",
+        "query": "percentage purity redox titration calculation",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Available chlorine in bleaching powder",
+        "query": "available chlorine bleaching powder iodometric titration",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Disproportionation reactions — examples",
+        "query": "disproportionation reaction examples Cl2 H2O2 Cu+",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Comproportionation reactions",
+        "query": "comproportionation reaction examples chemistry",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Oxidising/reducing strength and activity series",
+        "query": "oxidising reducing strength electrochemical activity series",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "H2O2 as oxidising and reducing agent",
+        "query": "hydrogen peroxide oxidising reducing agent reactions",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Types of redox reactions — classification",
+        "query": "types of redox reactions combination decomposition displacement",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Redox stoichiometry word problems",
+        "query": "redox reaction stoichiometry word problems with solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Oxalic acid / sodium oxalate KMnO4 titration mixture",
+        "query": "oxalic acid sodium oxalate KMnO4 titration mixture",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Volume strength of H2O2",
+        "query": "volume strength hydrogen peroxide redox calculation",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Equivalent weight of KMnO4 in different media",
+        "query": "equivalent weight KMnO4 acidic neutral basic medium",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Hardness/strength: standard electrode potential and feasibility",
+        "query": "redox feasibility standard electrode potential prediction",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Mohr salt (FeSO4) standardisation titration",
+        "query": "Mohr salt ferrous ammonium sulphate KMnO4 titration",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Hypo (Na2S2O3) reaction with iodine — equivalents",
+        "query": "sodium thiosulphate iodine titration equivalent calculation",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Calcium oxalate / blood calcium redox estimation",
+        "query": "calcium oxalate KMnO4 titration estimation problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Mole concept linked to equivalents in redox",
+        "query": "mole concept equivalents redox conversion problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Redox previous year questions",
+        "query": "redox reactions",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Equivalent concept previous year questions",
+        "query": "equivalent concept mole concept",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Redox titration previous year questions",
+        "query": "redox titration permanganate dichromate",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Oxidation number / balancing previous year questions",
+        "query": "oxidation number balancing redox equation half reaction",
+        "level": "JEE Main",
+        "sources": [
+          "pyq",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Mixed JEE Advanced problem set",
+        "query": "Redox Reactions JEE Advanced problems with solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "pyq"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Electrochemistry",
+    "slug": "electrochemistry",
+    "subject": "Chemistry",
+    "group": "Physical Chemistry",
+    "blurb": "Covers galvanic and electrolytic cells, electrode potentials and the Nernst equation, conductance and Kohlrausch's law, and Faraday's laws — a dependable scoring chapter that links thermodynamics to redox in JEE Advanced.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Galvanic (voltaic) cells and cell notation",
+      "Standard electrode potential and the SHE reference",
+      "Electrochemical series and predicting spontaneity",
+      "EMF of a cell and the ΔG = -nFE_cell relationship",
+      "Nernst equation and concentration dependence of EMF",
+      "Concentration cells",
+      "Relation of E°cell to the equilibrium constant K",
+      "Electrolysis and products of electrolysis of aqueous solutions",
+      "Faraday's first and second laws of electrolysis",
+      "Electrolytic vs metallic conductance",
+      "Conductivity, molar and equivalent conductivity",
+      "Kohlrausch's law of independent migration of ions",
+      "Variation of conductivity with concentration (strong vs weak electrolytes)",
+      "Commercial cells, batteries and fuel cells",
+      "Corrosion and its electrochemical prevention"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced Official Past Papers Archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "jeeadv.ac.in",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic question papers with answer keys; electrochemistry numericals on Nernst, EMF and electrolysis appear nearly every year."
+      },
+      {
+        "title": "NCERT Chemistry Textbooks (Class 12 — Electrochemistry chapter)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "ncert.nic.in",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Class 12 Part 1 Unit 2 is the syllabus baseline; every NCERT in-text and exercise problem is fair game for JEE."
+      },
+      {
+        "title": "LibreTexts: Electrochemistry (full module)",
+        "url": "https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Electrochemistry",
+        "source": "chem.libretexts.org",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Comprehensive treatment of cells, potentials, Nernst equation and electrolysis with worked examples at exactly JEE depth."
+      },
+      {
+        "title": "LibreTexts: The Nernst Equation",
+        "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Electrochemistry/Nernst_Equation",
+        "source": "chem.libretexts.org",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Derivation and applications of the Nernst equation, including concentration cells — a high-frequency JEE Advanced topic."
+      },
+      {
+        "title": "ChemGuide: Redox Equilibria and Electrode Potentials",
+        "url": "https://www.chemguide.co.uk/physical/redoxeqia/menu.html",
+        "source": "chemguide.co.uk",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Crisp explanation of standard electrode potentials, the hydrogen electrode and using E° values to predict reactions."
+      },
+      {
+        "title": "ChemGuide: Electrolysis Menu",
+        "url": "https://www.chemguide.co.uk/physical/electrolysismenu.html",
+        "source": "chemguide.co.uk",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Clear notes on electrolysis of molten and aqueous electrolytes and discharge preference at electrodes."
+      },
+      {
+        "title": "MIT OCW 5.111 Principles of Chemical Science",
+        "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/",
+        "source": "ocw.mit.edu",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Lecture units on oxidation-reduction and electrochemistry with problem sets and exams; rigorous thermodynamic framing of E° and ΔG."
+      },
+      {
+        "title": "Khan Academy: Electrochemistry (Chemistry library)",
+        "url": "https://www.khanacademy.org/science/chemistry/oxidation-reduction",
+        "source": "khanacademy.org",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Video walkthroughs of cell diagrams, standard cell potential and the Nernst equation for building intuition."
+      },
+      {
+        "title": "PhET Chemistry Simulations",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=chemistry",
+        "source": "phet.colorado.edu",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Interactive simulations (e.g., battery voltage, salts and solubility) to visualise charge flow and electrolyte behaviour."
+      },
+      {
+        "title": "LibreTexts: Standard Reduction Potentials and the Electrochemical Series",
+        "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Electrochemistry/Redox_Chemistry/Standard_Reduction_Potential",
+        "source": "chem.libretexts.org",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Standard reduction potential tables and the electrochemical series for predicting spontaneity and cell EMF."
+      },
+      {
+        "title": "Wikipedia: Galvanic cell",
+        "url": "https://en.wikipedia.org/wiki/Galvanic_cell",
+        "source": "en.wikipedia.org",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Background on cell construction, the salt bridge, electrode reactions and EMF for galvanic (voltaic) cells."
+      },
+      {
+        "title": "Wikipedia: Faraday's laws of electrolysis",
+        "url": "https://en.wikipedia.org/wiki/Faraday%27s_laws_of_electrolysis",
+        "source": "en.wikipedia.org",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "First and second laws of electrolysis with the charge–mass relation underpinning quantitative electrolysis problems."
+      },
+      {
+        "title": "Wolfram Alpha: Nernst equation computation",
+        "url": "https://www.wolframalpha.com/input?i=Nernst+equation+cell+potential",
+        "source": "wolframalpha.com",
+        "type": "Tool",
+        "level": "JEE Advanced",
+        "note": "Plug in concentrations and n to check EMF, equilibrium constant and electrolysis mass numericals."
+      },
+      {
+        "title": "LibreTexts: Electrolytic Cells and Faraday's Laws",
+        "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Electrochemistry/Electrolytic_Cells",
+        "source": "chem.libretexts.org",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Faraday's first and second laws with quantitative electrolysis examples — a recurring JEE numerical type."
+      },
+      {
+        "title": "LibreTexts: Conductivity and Electrolyte Solutions",
+        "url": "https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Electrochemistry/Basics_of_Electrochemistry/Conductivity",
+        "source": "chem.libretexts.org",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Specific, molar and equivalent conductivity and their concentration dependence underpinning Kohlrausch-law problems."
+      },
+      {
+        "title": "Wikipedia: Corrosion",
+        "url": "https://en.wikipedia.org/wiki/Corrosion",
+        "source": "en.wikipedia.org",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Electrochemical mechanism of rusting and prevention methods such as galvanising and cathodic protection."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Galvanic cell EMF basics (Main)",
+        "query": "galvanic cell EMF calculation standard cell potential",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Cell notation and salt bridge",
+        "query": "electrochemical cell notation salt bridge anode cathode",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Standard electrode potential and SHE",
+        "query": "standard hydrogen electrode standard electrode potential",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Electrochemical series and spontaneity",
+        "query": "electrochemical series predict feasibility redox reaction",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Nernst equation for a single electrode",
+        "query": "Nernst equation single electrode potential concentration",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Nernst equation full cell (Advanced)",
+        "query": "Nernst equation cell EMF non-standard conditions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Concentration cells",
+        "query": "concentration cell EMF electrode concentration cell",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "E°cell, ΔG and equilibrium constant",
+        "query": "relation E cell delta G equilibrium constant nFE",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "EMF and Gibbs energy numericals",
+        "query": "cell EMF Gibbs free energy electrochemistry numericals",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Faraday's laws of electrolysis",
+        "query": "Faraday first second law electrolysis mass deposited",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Products of electrolysis of aqueous solutions",
+        "query": "electrolysis aqueous solution products discharge preference",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Charge, moles of electrons and deposited mass",
+        "query": "Faraday law charge moles electrons electrolysis calculation",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Molar and equivalent conductivity",
+        "query": "molar conductivity equivalent conductivity definition concentration",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Specific conductance and cell constant",
+        "query": "specific conductance conductivity cell constant measurement",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Kohlrausch's law applications",
+        "query": "Kohlrausch law independent migration limiting molar conductivity",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Kohlrausch's law: weak electrolyte degree of dissociation",
+        "query": "Kohlrausch law weak electrolyte degree dissociation Ka",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Conductivity variation with concentration",
+        "query": "variation molar conductivity concentration strong weak electrolyte",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Batteries: primary and secondary cells",
+        "query": "primary secondary cell lead storage battery dry cell",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Hydrogen-oxygen fuel cells",
+        "query": "hydrogen oxygen fuel cell electrochemistry working",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Corrosion: electrochemical mechanism and prevention",
+        "query": "corrosion rusting electrochemical mechanism prevention",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Electrolysis numerical problems (Advanced)",
+        "query": "electrolysis Faraday law numerical problems solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Nernst equation tough problems (Advanced)",
+        "query": "Nernst equation tough problems electrochemistry",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Mixed electrochemistry numericals",
+        "query": "electrochemistry numerical problems EMF conductance",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Equilibrium constant and Ksp from EMF",
+        "query": "calculate equilibrium constant solubility product from EMF cell",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Olympiad-level electrochemistry thermodynamics",
+        "query": "electrochemistry olympiad EMF temperature dependence Gibbs entropy",
+        "level": "Olympiad",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Electrochemistry PYQ (Advanced)",
+        "query": "Electrochemistry chemistry",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Nernst equation PYQ",
+        "query": "Nernst equation EMF",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Electrolysis and Faraday PYQ",
+        "query": "electrolysis Faraday law",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Conductance and Kohlrausch PYQ",
+        "query": "conductance molar conductivity Kohlrausch",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Galvanic cell and electrode potential PYQ",
+        "query": "galvanic cell electrode potential electrochemical series",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Concentration cell PYQ",
+        "query": "concentration cell EMF",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Mixed JEE Advanced problem set",
+        "query": "Electrochemistry JEE Advanced problems with solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Chapter-wise previous-year questions",
+        "query": "Electrochemistry chapterwise previous year questions",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Concept & formulae revision",
+        "query": "Electrochemistry important formulas and concepts",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Tricky / quality problems",
+        "query": "Electrochemistry tricky challenging problems",
+        "level": "Olympiad",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Chemical Kinetics",
+    "slug": "chemical-kinetics",
+    "subject": "Chemistry",
+    "group": "Physical Chemistry",
+    "blurb": "A high-yield Physical Chemistry chapter where JEE Advanced reliably tests integrated rate laws, half-life manipulation, and Arrhenius/activation-energy numericals. Train students to read order off initial-rate and graphical data and to interconvert tabular, graphical, and equation forms fluently.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Rate of reaction: average vs instantaneous rate, rate in terms of stoichiometry",
+      "Rate law and rate constant: experimental determination from initial-rate data",
+      "Order of reaction vs molecularity (elementary vs complex reactions)",
+      "Zero-order reactions: integrated rate law, half-life, units of k",
+      "First-order reactions: integrated rate law, half-life independence of concentration",
+      "Second-order and pseudo-first-order reactions",
+      "Integrated rate equations and graphical determination of order",
+      "Half-life dependence on order; relation between t1/2 and concentration",
+      "Arrhenius equation and temperature dependence of the rate constant",
+      "Activation energy from two-temperature data and from the Arrhenius plot",
+      "Collision theory, frequency factor, and steric factor",
+      "Effect of a catalyst on activation energy and reaction rate",
+      "Radioactive decay as first-order kinetics (carbon dating, mean life)",
+      "Mechanism, rate-determining step, and concentration/rate vs time graphs"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Class 12 Chemistry: Chemical Kinetics chapter",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Authoritative base text. Derivations of the integrated rate laws and the in-text and exercise numericals are directly examinable."
+      },
+      {
+        "title": "Chemistry LibreTexts: Kinetics (Bookshelves)",
+        "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "University-level derivations of rate laws, half-life, and Arrhenius theory with worked examples beyond NCERT depth."
+      },
+      {
+        "title": "ChemGuide: Rates of Reaction",
+        "url": "https://www.chemguide.co.uk/physical/basicratesmenu.html",
+        "source": "ChemGuide",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Clean conceptual explanations of orders, the Arrhenius equation, and catalysis. Good for first-pass clarity before numericals."
+      },
+      {
+        "title": "MIT OCW 5.111 Principles of Chemical Science (kinetics lectures)",
+        "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/",
+        "source": "MIT OCW",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Lecture videos and problem sets on rate laws, reaction mechanisms, and the steady-state approximation for stretch students."
+      },
+      {
+        "title": "Khan Academy: Kinetics (rates and rate laws)",
+        "url": "https://www.khanacademy.org/science/ap-chemistry-beta/x2eef969c74e0d802:kinetics",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Short, well-paced videos with practice on determining the rate law from initial-rate data. Solid foundations track."
+      },
+      {
+        "title": "Khan Academy: Arrhenius equation and reaction mechanisms",
+        "url": "https://www.khanacademy.org/science/ap-chemistry-beta/x2eef969c74e0d802:kinetics/x2eef969c74e0d802:arrhenius-equation-and-reaction-mechanisms",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Walkthroughs of the Arrhenius plot and two-temperature activation-energy calculations matching JEE numerical style."
+      },
+      {
+        "title": "Brilliant: Chemical Reactions course",
+        "url": "https://brilliant.org/courses/chemical-reactions/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Interactive problem-driven modules that build intuition for order, rate, and temperature dependence."
+      },
+      {
+        "title": "Wikipedia: Rate equation",
+        "url": "https://en.wikipedia.org/wiki/Rate_equation",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Comprehensive overview of rate laws, reaction order, and integrated forms with a consolidated half-life table."
+      },
+      {
+        "title": "Wikipedia: Arrhenius equation",
+        "url": "https://en.wikipedia.org/wiki/Arrhenius_equation",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Full treatment of the Arrhenius and modified Arrhenius equations, pre-exponential factor, and linearized plot form."
+      },
+      {
+        "title": "Wikipedia: Collision theory",
+        "url": "https://en.wikipedia.org/wiki/Collision_theory",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Frequency factor, steric factor, and the link between collision theory and the Arrhenius pre-exponential term."
+      },
+      {
+        "title": "Wikipedia: Half-life",
+        "url": "https://en.wikipedia.org/wiki/Half-life",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Order-by-order half-life relations and the decay-constant/mean-life link used in radioactive-decay kinetics."
+      },
+      {
+        "title": "Wolfram Alpha: first-order half-life and rate computations",
+        "url": "https://www.wolframalpha.com/input?i=first+order+reaction+half+life+rate+constant",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Instant numerical checks for half-life, rate constant, and exponential decay. Useful for self-verifying student answers."
+      },
+      {
+        "title": "Wolfram Alpha: Arrhenius activation-energy solver",
+        "url": "https://www.wolframalpha.com/input?i=Arrhenius+equation+activation+energy+two+temperatures",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Computes activation energy from k at two temperatures. Confirms two-point Arrhenius numerical answers."
+      },
+      {
+        "title": "PhET: Reactions and Rates simulation",
+        "url": "https://phet.colorado.edu/en/simulations/reactions-and-rates",
+        "source": "PhET",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Interactive sim showing how temperature, concentration, and activation energy alter reaction rate. Great for classroom demos."
+      },
+      {
+        "title": "JEE Advanced official past papers archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "JEE Advanced",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic question papers and answer keys. Mine for actual kinetics numericals on order, half-life, and activation energy."
+      },
+      {
+        "title": "NPTEL: Chemical Kinetics course material",
+        "url": "https://nptel.ac.in/courses/104101049",
+        "source": "NPTEL",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Indian-syllabus-aligned lectures covering rate laws, mechanisms, and the steady-state and rate-determining-step treatment."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Average vs instantaneous rate of reaction",
+        "query": "average vs instantaneous rate of reaction worked problems",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Rate in terms of stoichiometry numericals",
+        "query": "rate of reaction stoichiometry expression problems with solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Rate law from initial-rate data",
+        "query": "determine rate law from initial rate data JEE problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Order vs molecularity distinction",
+        "query": "order vs molecularity difference elementary complex reaction",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Units of rate constant by order",
+        "query": "units of rate constant zero first second order problems with solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Zero-order integrated rate law",
+        "query": "zero order reaction integrated rate law half life JEE problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "First-order integrated rate law numericals",
+        "query": "first order reaction integrated rate law problems with solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "First-order half-life independent of concentration",
+        "query": "first order half life independent of concentration explanation",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Half-life vs concentration to find order",
+        "query": "half life concentration method determine order of reaction problems with solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Second-order reaction kinetics",
+        "query": "second order reaction kinetics problems JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Pseudo-first-order ester hydrolysis",
+        "query": "pseudo first order reaction ester hydrolysis problems with solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Graphical determination of order",
+        "query": "graphical method order of reaction concentration time JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Arrhenius equation activation-energy numericals",
+        "query": "Arrhenius equation activation energy problems with solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Activation energy from two temperatures",
+        "query": "activation energy from rate constant at two temperatures JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Arrhenius plot ln k vs 1/T slope",
+        "query": "Arrhenius plot ln k vs 1 over T slope activation energy problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Temperature coefficient of reaction rate",
+        "query": "temperature coefficient reaction rate doubling 10 degrees problems with solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Collision theory frequency and steric factor",
+        "query": "collision theory frequency factor steric factor rate constant",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Effect of catalyst on activation energy",
+        "query": "effect of catalyst on activation energy reaction rate JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Radioactive decay and carbon dating",
+        "query": "radioactive decay first order kinetics carbon dating problems with solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Mean life and decay constant relation",
+        "query": "mean life decay constant half life relation derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Fraction remaining after n half-lives",
+        "query": "fraction of reactant remaining after n half lives kinetics JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Time for 75% / 99% completion (first order)",
+        "query": "time for 99 percent completion first order reaction problems with solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Gas-phase kinetics from total pressure",
+        "query": "first order gas phase reaction total pressure kinetics problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Steady-state approximation for mechanisms",
+        "query": "steady state approximation reaction mechanism derive rate law",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Rate-determining step from a mechanism",
+        "query": "rate determining step reaction mechanism predict rate law JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Chemical Kinetics JEE Advanced PYQs (all topics)",
+        "query": "chemical kinetics JEE Advanced previous year questions with solutions pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Order and rate-law JEE Advanced PYQs",
+        "query": "order of reaction rate law JEE Advanced previous year questions pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Arrhenius / activation-energy JEE Advanced PYQs",
+        "query": "Arrhenius activation energy JEE Advanced previous year questions pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Chemical kinetics one-shot revision lecture",
+        "query": "chemical kinetics one shot revision JEE",
+        "level": "Mixed",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Chemical kinetics numerical practice marathon",
+        "query": "chemical kinetics numericals practice problems JEE",
+        "level": "Mixed",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Solutions & Colligative Properties",
+    "slug": "solutions",
+    "subject": "Chemistry",
+    "group": "Physical Chemistry",
+    "blurb": "A high-yield physical chemistry chapter where students must master concentration interconversions, Raoult's law for ideal and non-ideal solutions, the four colligative properties, and van't Hoff factor corrections for association and dissociation.",
+    "jeeWeight": "Medium",
+    "subtopics": [
+      "Concentration terms: molarity, molality, mole fraction, ppm, mass percent and their interconversion",
+      "Solubility of solids and gases in liquids; Henry's law and its applications",
+      "Raoult's law for volatile and non-volatile solutes",
+      "Ideal solutions and enthalpy/volume of mixing",
+      "Non-ideal solutions with positive and negative deviations",
+      "Vapour pressure composition diagrams",
+      "Azeotropes: minimum-boiling and maximum-boiling mixtures",
+      "Relative lowering of vapour pressure",
+      "Elevation of boiling point and ebullioscopic constant",
+      "Depression of freezing point and cryoscopic constant",
+      "Osmosis and osmotic pressure; isotonic, hypertonic and hypotonic solutions",
+      "Reverse osmosis and abnormal molar mass",
+      "Determination of molar mass from colligative properties",
+      "Van't Hoff factor for dissociation and association",
+      "Degree of dissociation/association and modified colligative property expressions"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced Official Past Papers Archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "JEE Advanced (IIT)",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic question papers and answer keys; mine the Physical Chemistry sections for Solutions problems involving abnormal molar mass and the van't Hoff factor."
+      },
+      {
+        "title": "NCERT Chemistry Textbooks (Class 11 & 12)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Class 12 unit 'Solutions' is the syllabus baseline; work every in-text and exercise problem on Raoult's law and colligative properties before advanced sets."
+      },
+      {
+        "title": "LibreTexts: Colligative Properties Overview",
+        "url": "https://chem.libretexts.org/",
+        "source": "Chemistry LibreTexts",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Search 'colligative properties' for rigorous derivations of boiling-point elevation, freezing-point depression and osmotic pressure with worked examples."
+      },
+      {
+        "title": "LibreTexts: Raoult's Law and Ideal Solutions",
+        "url": "https://chem.libretexts.org/",
+        "source": "Chemistry LibreTexts",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Search 'Raoult's law ideal solution' for vapour-pressure-composition treatment and the thermodynamic basis of positive/negative deviation."
+      },
+      {
+        "title": "LibreTexts Chemistry Bookshelves",
+        "url": "https://chem.libretexts.org/Bookshelves",
+        "source": "Chemistry LibreTexts",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Durable index into full physical-chemistry texts; use the Physical and Theoretical Chemistry shelf for chemical-potential and solution-thermodynamics chapters."
+      },
+      {
+        "title": "ChemGuide: Raoult's Law and Non-ideal Mixtures",
+        "url": "https://www.chemguide.co.uk/",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Clean JEE-level pages on ideal mixtures, non-ideal mixtures and boiling-point/composition diagrams; ideal for vapour-pressure diagram questions."
+      },
+      {
+        "title": "ChemGuide: Azeotropes and Fractional Distillation",
+        "url": "https://www.chemguide.co.uk/",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Search azeotropes to understand minimum- and maximum-boiling mixtures, the hardest conceptual sub-topic of this chapter."
+      },
+      {
+        "title": "MIT OCW 5.111 Principles of Chemical Science",
+        "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "University-level lectures and problem sets on solution thermodynamics, chemical potential and colligative properties for deeper grounding."
+      },
+      {
+        "title": "NPTEL Chemistry Course Catalogue",
+        "url": "https://nptel.ac.in/course.html",
+        "source": "NPTEL (IIT/IISc)",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Browse physical chemistry / thermodynamics courses for IIT-faculty lectures covering solutions, partial molar quantities and colligative properties."
+      },
+      {
+        "title": "Khan Academy: Colligative Properties",
+        "url": "https://www.khanacademy.org/search?page_search_query=colligative%20properties",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Guided videos on boiling-point elevation, freezing-point depression and osmotic pressure for first-pass conceptual clarity."
+      },
+      {
+        "title": "Khan Academy: Raoult's Law and Vapour Pressure",
+        "url": "https://www.khanacademy.org/search?page_search_query=raoult%20law%20vapor%20pressure",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Short videos connecting vapour-pressure lowering to mole fraction; a useful warm-up before deviation problems."
+      },
+      {
+        "title": "Wikipedia: Colligative Properties",
+        "url": "https://en.wikipedia.org/w/index.php?search=colligative%20properties",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Compact reference for the four colligative properties and their governing equations; good for quick formula recall."
+      },
+      {
+        "title": "Wikipedia: Van't Hoff Factor",
+        "url": "https://en.wikipedia.org/w/index.php?search=van%27t%20Hoff%20factor",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Explains i for electrolytes, degree of dissociation/association and the link to abnormal molar mass; central to the toughest numericals."
+      },
+      {
+        "title": "Wikipedia: Henry's Law",
+        "url": "https://en.wikipedia.org/w/index.php?search=Henry%27s%20law",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Reference for gas solubility, the KH constant and its temperature dependence as tested in solubility questions."
+      },
+      {
+        "title": "PhET: Concentration and Molarity Simulations",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=chemistry",
+        "source": "PhET (Colorado)",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Use the Concentration and Molarity sims to build intuition for concentration terms before tackling interconversion numericals."
+      },
+      {
+        "title": "Wolfram Alpha: Colligative Property Calculator",
+        "url": "https://www.wolframalpha.com/input?i=boiling+point+elevation+calculation",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Verify boiling-point elevation, freezing-point depression and osmotic-pressure computations and check unit handling on practice problems."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Molarity, molality, mole fraction interconversion",
+        "query": "molarity molality mole fraction interconversion",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Concentration numericals with density given",
+        "query": "concentration terms numericals density molarity molality",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "ppm and mass percent solution problems",
+        "query": "ppm mass percent concentration",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Henry's law gas solubility problems",
+        "query": "Henry law gas solubility KH constant",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Henry's law constant temperature dependence",
+        "query": "Henry law constant temperature dependence solubility",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Relative lowering of vapour pressure numericals",
+        "query": "Raoult law relative lowering vapour pressure",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Total vapour pressure of two volatile liquids",
+        "query": "Raoult law two volatile liquids total vapour pressure mole fraction vapour",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Ideal solution: enthalpy and volume of mixing",
+        "query": "ideal solution enthalpy volume of mixing zero",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Positive deviation from Raoult's law",
+        "query": "non ideal solution positive deviation Raoult law",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Negative deviation from Raoult's law",
+        "query": "non ideal solution negative deviation Raoult law",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Vapour pressure composition diagram interpretation",
+        "query": "vapour pressure composition diagram non ideal solution",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Graph-based vapour pressure mixture problems",
+        "query": "vapour pressure composition graph liquid mixture",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Azeotropes: minimum and maximum boiling",
+        "query": "azeotrope minimum boiling maximum boiling",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Deviation comparison for common liquid pairs",
+        "query": "Raoult law deviation acetone chloroform ethanol water",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Boiling point elevation and Kb numericals",
+        "query": "elevation of boiling point Kb molal numericals",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Freezing point depression and Kf problems",
+        "query": "depression of freezing point Kf cryoscopic numericals",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Freezing point depression with van't Hoff factor",
+        "query": "freezing point depression van't Hoff factor ionic solute",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Osmotic pressure: isotonic, hyper/hypotonic",
+        "query": "osmotic pressure isotonic hypertonic solution",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Osmotic pressure molar mass of macromolecules",
+        "query": "osmotic pressure molar mass determination macromolecule",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Reverse osmosis and water purification",
+        "query": "reverse osmosis semipermeable membrane",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Molar mass from colligative properties (mixed)",
+        "query": "molar mass determination colligative properties",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Van't Hoff factor and degree of dissociation",
+        "query": "van't Hoff factor degree of dissociation electrolyte",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Van't Hoff factor for association (dimerisation)",
+        "query": "van't Hoff factor association dimer benzoic acid",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Abnormal molar mass numericals",
+        "query": "abnormal molar mass van't Hoff factor",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Tricky conceptual colligative-property MCQs",
+        "query": "colligative properties conceptual MCQ tricky",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Solutions: full JEE Advanced PYQ set",
+        "query": "solutions colligative properties",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Colligative properties PYQ with solutions",
+        "query": "colligative properties van't Hoff factor",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Raoult's law / non-ideal solution PYQ",
+        "query": "Raoult law non ideal solution deviation",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Osmotic pressure PYQ (molar mass)",
+        "query": "osmotic pressure molar mass",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Solutions full-chapter video lecture",
+        "query": "solutions colligative properties full chapter",
+        "level": "Mixed",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Solid State",
+    "slug": "solid-state",
+    "subject": "Chemistry",
+    "group": "Physical Chemistry",
+    "blurb": "A compact, always-working link pack covering crystal lattices, unit cells, packing efficiency, density, voids, ionic structures, and defects so students can drill the calculation-heavy and conceptual sides of Solid State for JEE Advanced.",
+    "jeeWeight": "Medium",
+    "subtopics": [
+      "Crystalline vs amorphous solids",
+      "Seven crystal systems and Bravais lattices",
+      "Unit cells: primitive, body-centred, face-centred, end-centred",
+      "Number of atoms per unit cell (Z) and contributions",
+      "Cubic close packing (ccp/fcc) and hexagonal close packing (hcp)",
+      "Body-centred cubic (bcc) and simple cubic arrangements",
+      "Packing efficiency calculations (52.4%, 68%, 74%)",
+      "Tetrahedral and octahedral voids and their radii",
+      "Radius ratio rules and coordination number",
+      "Density of unit cell calculation",
+      "Ionic solids: NaCl, CsCl, ZnS, fluorite, antifluorite structures",
+      "Metallic and covalent network solids",
+      "Point defects: Schottky and Frenkel",
+      "Stoichiometric and non-stoichiometric defects, F-centres",
+      "Electrical, magnetic, and band properties of solids"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Chemistry Class 12 textbooks (Solid State chapter)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Baseline syllabus chapter; every JEE Advanced Solid State idea (unit cells, voids, defects) is anchored here. Pick Class XII Chemistry Part I."
+      },
+      {
+        "title": "Crystals and crystal packing - Chemistry LibreTexts",
+        "url": "https://chem.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Search 'unit cell packing efficiency' and 'close packing' for derivations of fcc/bcc/hcp and void geometry at JEE Advanced depth."
+      },
+      {
+        "title": "ChemGuide - structures of metals and ionic crystals",
+        "url": "https://www.chemguide.co.uk/",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Clean, exam-level notes on metallic structures, NaCl/CsCl lattices, and coordination - ideal for quick conceptual revision."
+      },
+      {
+        "title": "MIT OCW 5.111 Principles of Chemical Science",
+        "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Lecture notes and problem sets on solids, lattices, and bonding for students wanting rigorous treatment beyond NCERT."
+      },
+      {
+        "title": "Official JEE Advanced past papers archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "JEE Advanced (IIT)",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authoritative source for actual past Solid State questions; download full papers and locate physical-chemistry items each year."
+      },
+      {
+        "title": "Khan Academy - crystal structure and unit cells",
+        "url": "https://www.khanacademy.org/search?page_search_query=crystal%20structure%20unit%20cell%20packing",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Video walkthroughs of lattice types, packing, and density that build intuition before tackling Advanced numericals."
+      },
+      {
+        "title": "Crystal structure - Wikipedia",
+        "url": "https://en.wikipedia.org/w/index.php?search=crystal%20structure%20unit%20cell%20Bravais%20lattice",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Reference for Bravais lattices, atomic packing factor values, and coordination numbers; useful for cross-checking derivations."
+      },
+      {
+        "title": "Sodium chloride and rock-salt structure - Wikipedia",
+        "url": "https://en.wikipedia.org/w/index.php?search=sodium%20chloride%20crystal%20structure%20coordination",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Detailed structure data for the NaCl-type lattice frequently tested in ionic-solid problems."
+      },
+      {
+        "title": "HyperPhysics - crystal structures and close packing",
+        "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/Solids/solcon.html",
+        "source": "HyperPhysics",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Concise diagrams of sc/bcc/fcc/hcp, coordination, and packing fractions for fast verification of geometry results."
+      },
+      {
+        "title": "Crystal Structure Basics - LibreTexts",
+        "url": "https://chem.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Search 'radius ratio' and 'coordination number' for why ratio limits give specific coordination numbers - a common Advanced reasoning theme."
+      },
+      {
+        "title": "Wolfram Alpha - unit cell density calculator",
+        "url": "https://www.wolframalpha.com/input?i=density%20of%20bcc%20unit%20cell%20given%20edge%20length%20and%20atomic%20mass",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Plug edge length, Z, and molar mass to verify density-calculation answers and explore the formula numerically."
+      },
+      {
+        "title": "PubChem - common crystalline solids (NaCl, ZnS, CaF2)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/#query=sodium%20chloride%20crystal%20structure",
+        "source": "PubChem",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Authoritative compound data including crystal structure and density for solids used in numerical problems."
+      },
+      {
+        "title": "Crystallographic defects - Wikipedia",
+        "url": "https://en.wikipedia.org/w/index.php?search=crystallographic%20point%20defects%20Schottky%20Frenkel",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Reference for Schottky/Frenkel and non-stoichiometric defects and how they affect density - directly exam-relevant."
+      },
+      {
+        "title": "Close packing of spheres - LibreTexts",
+        "url": "https://chem.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Search 'closest packed structures' for the geometry of tetrahedral/octahedral voids and ABAB vs ABCABC stacking."
+      },
+      {
+        "title": "Atomic packing factor - Wikipedia",
+        "url": "https://en.wikipedia.org/w/index.php?search=atomic%20packing%20factor",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Lists APF values and derivation outlines for sc, bcc, fcc, hcp - quick verification of packing-efficiency results."
+      },
+      {
+        "title": "ChemGuide - giant covalent and metallic structures",
+        "url": "https://www.chemguide.co.uk/",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Notes on diamond, graphite, and metallic bonding to classify covalent-network and metallic solids."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Crystalline vs amorphous solids basics",
+        "query": "crystalline and amorphous solids difference properties",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Seven crystal systems and Bravais lattices",
+        "query": "seven crystal systems fourteen Bravais lattices",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Unit cell types and atoms per cell (Z)",
+        "query": "number of atoms in unit cell primitive bcc fcc Z calculation",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Packing efficiency derivation sc bcc fcc",
+        "query": "packing efficiency derivation simple cubic bcc fcc",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "hcp packing efficiency derivation",
+        "query": "hexagonal close packing hcp packing efficiency derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Tetrahedral and octahedral voids",
+        "query": "tetrahedral and octahedral voids number and location close packing",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Radius ratio rule and coordination number",
+        "query": "radius ratio rule coordination number limiting values",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Density of unit cell numericals",
+        "query": "density of unit cell formula numerical",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Edge length from density problems",
+        "query": "edge length of unit cell from density atomic radius",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "NaCl rock salt structure analysis",
+        "query": "NaCl rock salt structure coordination number atoms per unit cell",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "CsCl structure and coordination",
+        "query": "CsCl structure coordination number unit cell",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "ZnS zinc blende and wurtzite",
+        "query": "zinc blende wurtzite ZnS structure tetrahedral voids",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Fluorite and antifluorite structures",
+        "query": "fluorite antifluorite structure CaF2 Na2O coordination",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Schottky and Frenkel defects",
+        "query": "Schottky and Frenkel defect difference effect on density",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Non-stoichiometric defects and F-centres",
+        "query": "non-stoichiometric defects metal excess metal deficiency F-centre colour",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Electrical properties and band theory",
+        "query": "conductors semiconductors insulators band theory solids",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Magnetic properties of solids",
+        "query": "paramagnetic ferromagnetic antiferromagnetic ferrimagnetic solids",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "n-type and p-type semiconductors",
+        "query": "n-type p-type semiconductor doping group 13 15",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Close packing ABAB vs ABCABC stacking",
+        "query": "ccp hcp ABAB ABCABC stacking difference close packing",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Void radius in terms of sphere radius",
+        "query": "radius of tetrahedral octahedral void in terms of atom radius derivation",
+        "level": "Olympiad",
+        "sources": [
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Atoms remaining after removing along body diagonal",
+        "query": "atoms removed along body diagonal formula unit calculation solid state",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Effect of defects on density numericals",
+        "query": "defect density calculation missing ions vacancies numerical",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Spinel and inverse spinel structures",
+        "query": "spinel inverse spinel structure octahedral tetrahedral occupancy",
+        "level": "Olympiad",
+        "sources": [
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Coordination number across lattices",
+        "query": "coordination number simple cubic bcc fcc hcp",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Edge length and atomic radius relation",
+        "query": "relation edge length atomic radius sc bcc fcc derivation",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Solid State full chapter problem set",
+        "query": "solid state chemistry chapter problems with solutions",
+        "level": "Mixed",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Solid State previous year questions",
+        "query": "solid state chemistry unit cell packing density",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Ionic solids previous year questions",
+        "query": "ionic solids NaCl ZnS CsCl structure coordination",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Point defects previous year questions",
+        "query": "point defects Schottky Frenkel non-stoichiometric",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Radius ratio previous year questions",
+        "query": "radius ratio coordination number ionic crystal",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Hardest solid state mixed-lattice numericals",
+        "query": "tough solid state numericals mixed lattice voids density",
+        "level": "Olympiad",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Avogadro number from unit cell density",
+        "query": "determination of Avogadro number from unit cell density",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Mixed JEE Advanced problem set",
+        "query": "Solid State JEE Advanced problems with solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Chapter-wise previous-year questions",
+        "query": "Solid State chapterwise previous year questions",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Concept & formulae revision",
+        "query": "Solid State important formulas and concepts",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Tricky / quality problems",
+        "query": "Solid State tricky challenging problems",
+        "level": "Olympiad",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Surface Chemistry",
+    "slug": "surface-chemistry",
+    "subject": "Chemistry",
+    "group": "Physical Chemistry",
+    "blurb": "A compact, high-yield Physical Chemistry chapter on adsorption isotherms, catalysis and colloids — easy marks for JEE when students master the Freundlich log-log plot, colloid classification, and the Hardy-Schulze coagulation rule.",
+    "jeeWeight": "Medium",
+    "subtopics": [
+      "Physisorption vs chemisorption",
+      "Factors affecting adsorption (temperature, pressure, surface area)",
+      "Freundlich adsorption isotherm and its log-log plot",
+      "Langmuir adsorption isotherm (qualitative)",
+      "Adsorption from solution",
+      "Homogeneous and heterogeneous catalysis",
+      "Adsorption theory of heterogeneous catalysis",
+      "Activity and selectivity of catalysts",
+      "Enzyme catalysis and its characteristics",
+      "Shape-selective catalysis by zeolites",
+      "Classification of colloids (lyophilic/lyophobic, multimolecular/macromolecular/associated)",
+      "Preparation and purification of colloids (Bredig arc, peptization, dialysis)",
+      "Tyndall effect and Brownian motion",
+      "Micelles, critical micelle concentration and Kraft temperature",
+      "Emulsions and emulsifiers",
+      "Coagulation, Hardy-Schulze rule and protective colloids (gold number)"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Class 12 Chemistry textbook (Surface Chemistry chapter)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Single most important source: NCERT Surface Chemistry definitions, classifications and isotherm statements are quoted near-verbatim in JEE questions."
+      },
+      {
+        "title": "LibreTexts Physical Chemistry: adsorption and surfaces",
+        "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps",
+        "source": "Chemistry LibreTexts",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Rigorous treatment of physisorption, chemisorption and the Langmuir isotherm derivation beyond NCERT, for Advanced-level surface-coverage depth."
+      },
+      {
+        "title": "LibreTexts Supplemental Modules: colloids and the colloidal state",
+        "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)",
+        "source": "Chemistry LibreTexts",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Clean classification tables for colloids, Tyndall scattering and micelles matching the JEE syllabus."
+      },
+      {
+        "title": "ChemGuide: catalysis (homogeneous and heterogeneous)",
+        "url": "https://www.chemguide.co.uk/physical/catalysismenu.html",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Clear JEE-level notes on how catalysts work, adsorption theory and the Haber/contact-process examples; ideal short reading before problem sets."
+      },
+      {
+        "title": "ChemGuide: physical chemistry index (rates and catalysts)",
+        "url": "https://www.chemguide.co.uk/physicalpage.html",
+        "source": "ChemGuide",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Use the rates-of-reaction and catalyst pages to connect Surface Chemistry with chemical kinetics and activation energy."
+      },
+      {
+        "title": "Official JEE Advanced past papers archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "JEE Advanced (IIT)",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authoritative real question papers; scan Chemistry sections for adsorption/colloid/catalysis items to set the exact exam standard."
+      },
+      {
+        "title": "Khan Academy: Chemistry library (intermolecular forces, surfaces)",
+        "url": "https://www.khanacademy.org/science/chemistry",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Foundation videos on intermolecular forces and surfaces; good remedial layer for weaker students before tackling isotherms."
+      },
+      {
+        "title": "Khan Academy: Kinetics — catalysts and reaction rate",
+        "url": "https://www.khanacademy.org/science/ap-chemistry-beta/x2eef969c74e0d802:kinetics",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Catalyst videos linking activation-energy lowering to surface catalysis; pairs with the kinetics chapter."
+      },
+      {
+        "title": "Wikipedia: Freundlich equation",
+        "url": "https://en.wikipedia.org/wiki/Freundlich_equation",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Equation form, log-log linearization and comparison with Langmuir — exactly the algebra tested in numerical questions."
+      },
+      {
+        "title": "Wikipedia: Langmuir adsorption model",
+        "url": "https://en.wikipedia.org/wiki/Langmuir_adsorption_model",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Monolayer assumptions, surface coverage and saturation behaviour for the qualitative Langmuir comparison JEE expects."
+      },
+      {
+        "title": "Wikipedia: Colloid",
+        "url": "https://en.wikipedia.org/wiki/Colloid",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Definitions, classification, examples and links to Tyndall effect, micelles and emulsions for quick lookups."
+      },
+      {
+        "title": "Wikipedia: Schulze-Hardy rule",
+        "url": "https://en.wikipedia.org/wiki/Schulze%E2%80%93Hardy_rule",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Charge dependence and why higher-valent counterions coagulate sols better — the coagulation-power reasoning JEE tests."
+      },
+      {
+        "title": "Wolfram Alpha computational engine",
+        "url": "https://www.wolframalpha.com/",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "JEE Advanced",
+        "note": "Evaluate slope (1/n) and intercept of the Freundlich log-log plot and check student-derived constants quickly."
+      },
+      {
+        "title": "PubChem: surfactant compound database",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/",
+        "source": "PubChem",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Look up real surfactant molecules (soaps, detergents like sodium stearate) to ground micelle and emulsifier discussion in actual structures."
+      },
+      {
+        "title": "PhET chemistry simulations",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=chemistry",
+        "source": "PhET (CU Boulder)",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Interactive sims to visualize particle behaviour and concentration effects underpinning adsorption and colloidal dispersion."
+      },
+      {
+        "title": "MIT OCW 5.111SC Principles of Chemical Science",
+        "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "University-level treatment of intermolecular forces, kinetics and catalysis for stretching strong students past the JEE ceiling."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Physisorption vs chemisorption: enthalpy, reversibility, temperature",
+        "query": "https://chemistry.stackexchange.com/search?q=physisorption+vs+chemisorption+difference",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Factors affecting adsorption of gases on solids",
+        "query": "https://www.youtube.com/results?search_query=factors+affecting+adsorption+of+gases+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Freundlich adsorption isotherm: derivation and log-log plot",
+        "query": "https://www.youtube.com/results?search_query=Freundlich+adsorption+isotherm+derivation+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Freundlich isotherm numerical problems with solutions",
+        "query": "https://www.google.com/search?q=Freundlich+adsorption+isotherm+numerical+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Langmuir adsorption isotherm: assumptions and saturation",
+        "query": "https://chemistry.stackexchange.com/search?q=Langmuir+adsorption+isotherm",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Adsorption isotherm log(x/m) vs log P graph questions",
+        "query": "https://www.google.com/search?q=adsorption+isotherm+log+x+m+vs+log+P+graph+questions+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Homogeneous vs heterogeneous catalysis with examples",
+        "query": "https://www.youtube.com/results?search_query=homogeneous+heterogeneous+catalysis+examples+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Adsorption theory of heterogeneous catalysis",
+        "query": "https://www.youtube.com/results?search_query=adsorption+theory+of+heterogeneous+catalysis+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Activity and selectivity of catalysts",
+        "query": "https://www.google.com/search?q=activity+and+selectivity+of+catalysts+surface+chemistry+JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Shape-selective catalysis by zeolites (ZSM-5)",
+        "query": "https://www.youtube.com/results?search_query=shape+selective+catalysis+zeolites+ZSM-5+JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Enzyme catalysis: characteristics and lock-and-key mechanism",
+        "query": "https://www.youtube.com/results?search_query=enzyme+catalysis+characteristics+mechanism+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Classification of colloids: lyophilic vs lyophobic",
+        "query": "https://www.youtube.com/results?search_query=classification+of+colloids+lyophilic+lyophobic+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Multimolecular, macromolecular and associated colloids",
+        "query": "https://www.google.com/search?q=multimolecular+macromolecular+associated+colloids+questions+with+solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Preparation of colloids: Bredig arc and peptization",
+        "query": "https://www.youtube.com/results?search_query=preparation+of+colloids+Bredig+arc+peptization+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Purification of colloids: dialysis and electrodialysis",
+        "query": "https://chemistry.stackexchange.com/search?q=dialysis+purification+of+colloids",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Tyndall effect: cause and conditions",
+        "query": "https://www.youtube.com/results?search_query=Tyndall+effect+colloids+JEE+chemistry",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Brownian motion in colloidal solutions",
+        "query": "https://chemistry.stackexchange.com/search?q=Brownian+motion+colloid",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Micelles, CMC and Kraft temperature",
+        "query": "https://www.youtube.com/results?search_query=micelle+formation+critical+micelle+concentration+JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Cleansing action of soap via micelle mechanism",
+        "query": "https://www.google.com/search?q=cleansing+action+of+soap+micelle+mechanism+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Emulsions: types and emulsifying agents",
+        "query": "https://www.youtube.com/results?search_query=emulsions+types+emulsifying+agents+JEE+chemistry",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Coagulation and the Hardy-Schulze rule",
+        "query": "https://www.youtube.com/results?search_query=coagulation+colloids+Hardy+Schulze+rule+JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Hardy-Schulze rule: flocculation value and coagulating power problems",
+        "query": "https://www.google.com/search?q=Hardy+Schulze+rule+flocculation+value+coagulating+power+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Electrophoresis and electro-osmosis in colloids",
+        "query": "https://chemistry.stackexchange.com/search?q=electrophoresis+colloid+charge",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Protective colloids and gold number",
+        "query": "https://www.google.com/search?q=protective+colloid+gold+number+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Surface chemistry full-chapter JEE problem session",
+        "query": "https://www.youtube.com/results?search_query=surface+chemistry+full+chapter+JEE+problems",
+        "level": "Mixed",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Surface chemistry assertion-reason questions",
+        "query": "https://www.google.com/search?q=surface+chemistry+assertion+reason+questions+with+solutions+JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Surface chemistry JEE Advanced previous-year questions",
+        "query": "https://www.google.com/search?q=surface+chemistry+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Adsorption and catalysis JEE Advanced PYQ",
+        "query": "https://www.google.com/search?q=adsorption+catalysis+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Colloids and micelles JEE Advanced PYQ",
+        "query": "https://www.google.com/search?q=colloids+micelles+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Surface chemistry JEE Main previous-year questions",
+        "query": "https://www.google.com/search?q=surface+chemistry+JEE+Main+previous+year+questions+pdf",
+        "level": "JEE Main",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Hardest in-syllabus surface chemistry mixed problems",
+        "query": "https://www.google.com/search?q=surface+chemistry+JEE+Advanced+hardest+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Periodic Classification & Periodicity",
+    "slug": "periodic-table",
+    "subject": "Chemistry",
+    "group": "Inorganic Chemistry",
+    "blurb": "A high-yield foundation chapter where mastering periodic trends and their exceptions lets students reason out unfamiliar JEE Advanced inorganic problems instead of memorising facts.",
+    "jeeWeight": "Medium",
+    "subtopics": [
+      "Modern periodic law and long-form periodic table (s, p, d, f blocks)",
+      "Periodic trends in atomic radii (covalent, van der Waals, metallic)",
+      "Ionic radii and isoelectronic species comparison",
+      "Ionization enthalpy: successive IE, trends and exceptions (Be>B, N>O)",
+      "Electron gain enthalpy trends and the Cl>F anomaly",
+      "Electronegativity: Pauling and Mulliken scales, periodic variation",
+      "Effective nuclear charge, screening/shielding and Slater's rules concept",
+      "Anomalous behaviour of second-period elements (Li, Be, B, C, N, O, F)",
+      "Diagonal relationship (Li-Mg, Be-Al, B-Si)",
+      "Inert pair effect and variation of oxidation states down a group",
+      "Metallic vs non-metallic character and acidic-basic nature of oxides",
+      "Lanthanoid contraction and its consequences on periodicity",
+      "Periodicity in hydrides, halides and oxides across periods",
+      "Variation of valency and reactivity across periods and groups"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Class 11 Chemistry — Classification of Elements & Periodicity (Unit 3)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "The single most important text: every JEE periodicity question is rooted in this chapter's trends, exceptions and data tables."
+      },
+      {
+        "title": "Chemistry LibreTexts — Periodic Trends",
+        "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Periodic_Trends",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "College-level treatment of Zeff, radii, IE and electronegativity with derivations that go beyond NCERT."
+      },
+      {
+        "title": "ChemGuide — Atomic and Physical Properties of Period 3 Elements",
+        "url": "https://www.chemguide.co.uk/atoms/properties/period3props.html",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Clean, exam-pitched explanations of why trends look the way they do — ideal for the 'reason' half of assertion-reason questions."
+      },
+      {
+        "title": "ChemGuide — Atomic Radius and Ionic Radius Trends",
+        "url": "https://www.chemguide.co.uk/atoms/properties/atradius.html",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Covalent vs metallic radius and the cation/anion size logic students need for isoelectronic ordering questions."
+      },
+      {
+        "title": "ChemGuide — Ionisation Energy",
+        "url": "https://www.chemguide.co.uk/atoms/properties/ies.html",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Explains the Be>B and N>O dips and successive-IE jumps with the subshell-stability reasoning JEE rewards."
+      },
+      {
+        "title": "ChemGuide — Electronegativity (Pauling scale)",
+        "url": "https://www.chemguide.co.uk/atoms/bonding/electroneg.html",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Scale definitions and bond-polarity reasoning needed across inorganic problem solving."
+      },
+      {
+        "title": "MIT OCW 5.111 Principles of Chemical Science",
+        "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/",
+        "source": "MIT OCW",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Lecture notes on periodic trends and effective nuclear charge that justify the anomalies at JEE Advanced depth."
+      },
+      {
+        "title": "Chemistry LibreTexts — Effective Nuclear Charge & Slater's Rules",
+        "url": "https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Map%3A_Inorganic_Chemistry_(Housecroft)/02%3A_Basic_concepts_-_atoms/2.05%3A_Many-Electron_Atoms/2.5C%3A_Slaters_Rules",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Worked Slater shielding calculations that explain radius and IE ordering quantitatively."
+      },
+      {
+        "title": "Chemistry LibreTexts — Electron Affinity",
+        "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Physical_Properties_of_Matter/Atomic_and_Molecular_Properties/Electron_Affinity",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Definitions and trend reasoning behind the classic Cl>F electron-gain-enthalpy anomaly."
+      },
+      {
+        "title": "Khan Academy — Periodic Trends",
+        "url": "https://www.khanacademy.org/science/chemistry/periodic-table",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Short, visual lessons on atomic radius, IE, EA and electronegativity for quick concept onboarding."
+      },
+      {
+        "title": "Official JEE Advanced Past Papers Archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "JEE Advanced",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic question papers and answer keys — the gold standard for the exact phrasing and difficulty of periodicity problems."
+      },
+      {
+        "title": "Wikipedia — Periodic Trends",
+        "url": "https://en.wikipedia.org/wiki/Periodic_trends",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Consolidated trend summaries with cited data tables; good for cross-checking radius and electronegativity values."
+      },
+      {
+        "title": "Wikipedia — Diagonal Relationship",
+        "url": "https://en.wikipedia.org/wiki/Diagonal_relationship",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Covers Li-Mg, Be-Al, B-Si pairs with the charge-density rationale frequently tested in JEE Advanced."
+      },
+      {
+        "title": "Wikipedia — Inert Pair Effect",
+        "url": "https://en.wikipedia.org/wiki/Inert_pair_effect",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Explains why heavier p-block elements favour the lower oxidation state — directly tested in group-trend questions."
+      },
+      {
+        "title": "Wikipedia — Lanthanide Contraction",
+        "url": "https://en.wikipedia.org/wiki/Lanthanide_contraction",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Explains why 4d and 5d radii nearly coincide — a periodicity consequence directly tested in JEE Advanced inorganic."
+      },
+      {
+        "title": "Wikipedia — Electronegativity",
+        "url": "https://en.wikipedia.org/wiki/Electronegativity",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Compares Pauling, Mulliken and Allred-Rochow scales with cited values for cross-checking ordering problems."
+      },
+      {
+        "title": "PubChem — Periodic Table of Elements",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/periodic-table/",
+        "source": "PubChem",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Authoritative per-element property data (radii, IE, electronegativity) for verifying problem numbers."
+      },
+      {
+        "title": "Wolfram Alpha — Element Property Comparison",
+        "url": "https://www.wolframalpha.com/input?i=atomic+radius+Na+Mg+Al+Si",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Instant computational comparison of element properties to settle ordering questions and build worked examples."
+      },
+      {
+        "title": "Brilliant — Chemistry Courses (Atomic Structure & Periodicity)",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Interactive problem-driven lessons that reinforce trend reasoning through guided practice."
+      },
+      {
+        "title": "PhET Chemistry Simulations",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=chemistry",
+        "source": "PhET",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Build-an-Atom and related sims help visualise nuclear charge and shell structure that underlie every periodic trend."
+      },
+      {
+        "title": "Chemistry LibreTexts — Periodicity of the Elements (Inorganic Map)",
+        "url": "https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules_and_Websites_(Inorganic_Chemistry)/Descriptive_Chemistry/Periodic_Trends_of_Elemental_Properties",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Descriptive trends in oxides, hydrides and halides across periods — the basis for acidic/basic and reactivity questions."
+      },
+      {
+        "title": "NPTEL — Inorganic Chemistry (Periodic Properties)",
+        "url": "https://nptel.ac.in/courses/104101006",
+        "source": "NPTEL",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "University lecture series covering periodic properties and atomic structure with the rigour JEE Advanced demands."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Modern periodic law and long-form table basics",
+        "query": "https://www.google.com/search?q=modern+periodic+table+classification+of+elements+problems+with+solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "s, p, d, f block element identification practice",
+        "query": "https://www.google.com/search?q=s+p+d+f+block+element+classification+problems+with+solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Atomic radius trend across period and group",
+        "query": "https://www.youtube.com/results?search_query=atomic+radius+periodic+trend+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Covalent vs van der Waals vs metallic radius",
+        "query": "https://chemistry.stackexchange.com/search?q=covalent+van+der+Waals+metallic+radius+difference",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Ionic radii of isoelectronic species ordering",
+        "query": "https://www.google.com/search?q=ionic+radii+isoelectronic+species+ordering+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Isoelectronic species radius comparison concept",
+        "query": "https://chemistry.stackexchange.com/search?q=isoelectronic+species+ionic+radius+comparison",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Ionization enthalpy trend and exceptions",
+        "query": "https://www.youtube.com/results?search_query=ionization+enthalpy+trends+exceptions+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Successive ionization energies and electronic config",
+        "query": "https://www.google.com/search?q=successive+ionization+energy+find+group+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "mse"
+        ]
+      },
+      {
+        "label": "Why N has higher IE than O",
+        "query": "https://chemistry.stackexchange.com/search?q=nitrogen+higher+ionization+energy+than+oxygen",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Why Be has higher IE than B",
+        "query": "https://chemistry.stackexchange.com/search?q=beryllium+higher+ionization+energy+than+boron",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Electron gain enthalpy periodic trend",
+        "query": "https://www.youtube.com/results?search_query=electron+gain+enthalpy+trend+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Why Cl has higher electron affinity than F",
+        "query": "https://chemistry.stackexchange.com/search?q=chlorine+electron+affinity+greater+than+fluorine+reason",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Electronegativity Pauling and Mulliken scale problems",
+        "query": "https://www.google.com/search?q=electronegativity+Pauling+Mulliken+scale+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Electronegativity periodic trend lecture",
+        "query": "https://www.youtube.com/results?search_query=electronegativity+periodic+trend+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Effective nuclear charge Slater rule calculation",
+        "query": "https://www.google.com/search?q=effective+nuclear+charge+Slater+rule+calculation+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Screening and shielding effect concept questions",
+        "query": "https://chemistry.stackexchange.com/search?q=shielding+screening+effect+effective+nuclear+charge",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Anomalous behaviour of second-period elements",
+        "query": "https://www.google.com/search?q=anomalous+behaviour+second+period+elements+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Anomalous properties of Li and Be explained",
+        "query": "https://chemistry.stackexchange.com/search?q=anomalous+behaviour+lithium+beryllium+reason",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Diagonal relationship Li-Mg, Be-Al, B-Si",
+        "query": "https://www.youtube.com/results?search_query=diagonal+relationship+lithium+magnesium+beryllium+aluminium+JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Diagonal relationship charge-density reasoning",
+        "query": "https://chemistry.stackexchange.com/search?q=diagonal+relationship+charge+density+similarity",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Inert pair effect and oxidation states down a group",
+        "query": "https://www.google.com/search?q=inert+pair+effect+oxidation+state+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Acidic, basic and amphoteric nature of oxides",
+        "query": "https://www.google.com/search?q=acidic+basic+amphoteric+oxides+periodic+trend+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Metallic vs non-metallic character variation",
+        "query": "https://www.youtube.com/results?search_query=metallic+nonmetallic+character+periodic+trend+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Lanthanoid contraction and its consequences",
+        "query": "https://www.google.com/search?q=lanthanoid+contraction+consequences+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Why 4d and 5d radii are nearly equal",
+        "query": "https://chemistry.stackexchange.com/search?q=lanthanide+contraction+4d+5d+atomic+radius+similar",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Periodicity in hydrides, halides and oxides",
+        "query": "https://www.google.com/search?q=periodicity+hydrides+oxides+halides+across+period+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Variation of valency and reactivity across the table",
+        "query": "https://www.google.com/search?q=variation+of+valency+reactivity+periodic+table+problems+with+solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Periodic table previous year questions",
+        "query": "https://www.google.com/search?q=periodic+table+periodicity+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Ionization enthalpy PYQ with solutions",
+        "query": "https://www.google.com/search?q=periodic+properties+ionization+enthalpy+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Atomic and ionic radii PYQ",
+        "query": "https://www.google.com/search?q=atomic+ionic+radii+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Electronegativity and electron affinity PYQ",
+        "query": "https://www.google.com/search?q=electronegativity+electron+gain+enthalpy+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Assertion-reason and ordering-type periodicity PYQ",
+        "query": "https://www.google.com/search?q=periodic+properties+assertion+reason+ordering+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Match-the-column and integer-type periodicity",
+        "query": "https://www.google.com/search?q=periodic+table+match+the+column+integer+type+problems+with+solutions",
+        "level": "Mixed",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Full-chapter periodicity problem-solving marathon",
+        "query": "https://www.youtube.com/results?search_query=periodic+table+periodicity+full+chapter+problem+solving+JEE",
+        "level": "Mixed",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Periodic classification one-shot revision",
+        "query": "https://www.youtube.com/results?search_query=classification+of+elements+periodicity+one+shot+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Periodic trends ranking and ordering practice",
+        "query": "https://chemistry.stackexchange.com/search?q=periodic+trend+ranking+atomic+radius+ionization+energy+order",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Hydrogen & s-Block Elements",
+    "slug": "s-block",
+    "subject": "Chemistry",
+    "group": "Inorganic Chemistry",
+    "blurb": "A durable link pack covering hydrogen and its hydrides plus the alkali and alkaline earth metals — periodic trends, key compounds, diagonal relationship, and biological roles — pitched at JEE Advanced inorganic depth.",
+    "jeeWeight": "Medium",
+    "subtopics": [
+      "Hydrogen: isotopes, ortho/para forms and preparation",
+      "Hydrides: ionic, covalent and interstitial (metallic)",
+      "Water, heavy water (D2O) and hydrogen peroxide structure & redox",
+      "Alkali metals: occurrence, preparation and physical properties",
+      "Periodic trends in Group 1 (atomic/ionic size, IE, density, m.p.)",
+      "Anomalous behaviour of lithium and diagonal relationship Li-Mg",
+      "Important alkali compounds: NaOH, Na2CO3, NaHCO3, NaCl, KO2",
+      "Alkaline earth metals: properties and reactivity trends in Group 2",
+      "Anomalous behaviour of beryllium and diagonal relationship Be-Al",
+      "Important Group 2 compounds: CaO, Ca(OH)2, CaCO3, CaSO4, plaster of Paris",
+      "Solubility and thermal stability trends of carbonates, sulphates, nitrates, hydroxides",
+      "Solutions of metals in liquid ammonia (solvated electrons)",
+      "Flame colouration and characteristic reactions of s-block metals",
+      "Biological importance of Na, K, Mg and Ca",
+      "Hydration enthalpy, lattice enthalpy and reducing character trends"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Chemistry textbooks (Class 11 & 12) — official PDFs",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Hydrogen and the s-Block chapters are NCERT's primary descriptive base — every JEE Advanced inorganic fact for this chapter traces to these books; start here."
+      },
+      {
+        "title": "JEE Advanced official archive — past question papers & keys",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "IIT JEE Advanced",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic year-wise JEE Advanced papers; mine the inorganic single/multiple-correct and matching sets for s-block compound and trend questions."
+      },
+      {
+        "title": "Chemistry LibreTexts — full chemistry library",
+        "url": "https://chem.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Search 'Group 1' / 'Group 2' / 'hydrides' for rigorous descriptive inorganic chemistry with trend explanations beyond NCERT depth."
+      },
+      {
+        "title": "ChemGuide — inorganic chemistry of the s-block",
+        "url": "https://www.chemguide.co.uk/",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Clear JEE-level write-ups on Group 1/2 reactions, thermal stability of carbonates & nitrates, and solubility trends with the reasoning examiners want."
+      },
+      {
+        "title": "Khan Academy — periodic trends & alkali metals search",
+        "url": "https://www.khanacademy.org/search?page_search_query=alkali%20metals%20periodic%20trends",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Foundation videos on periodicity, ionization energy and reactivity to anchor s-block trend reasoning before tackling Advanced problems."
+      },
+      {
+        "title": "Wikipedia search — alkali metal",
+        "url": "https://en.wikipedia.org/w/index.php?search=alkali%20metal",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Consolidated data tables (densities, melting points, hydration enthalpies) and group overviews handy for cross-checking trend numbers."
+      },
+      {
+        "title": "Wikipedia search — alkaline earth metal",
+        "url": "https://en.wikipedia.org/w/index.php?search=alkaline%20earth%20metal",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Group 2 overview with periodic property tables and compound chemistry; good for the diagonal Be-Al comparison details."
+      },
+      {
+        "title": "PubChem — sodium peroxide (Na2O2) compound search",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/#query=sodium%20peroxide",
+        "source": "PubChem",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Authoritative structure/formula/oxidation-state data for the oxide-peroxide-superoxide series (Na2O, Na2O2, KO2) that JEE loves to test."
+      },
+      {
+        "title": "PubChem — hydrogen peroxide (H2O2) compound search",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/#query=hydrogen%20peroxide",
+        "source": "PubChem",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Reference structure and properties for H2O2 — its open-book geometry, oxidising/reducing dual nature, and decomposition are recurring exam points."
+      },
+      {
+        "title": "Chemistry StackExchange — diagonal relationship search",
+        "url": "https://chemistry.stackexchange.com/search?q=diagonal+relationship+lithium+magnesium",
+        "source": "Chemistry StackExchange",
+        "type": "Search",
+        "level": "JEE Advanced",
+        "note": "Expert threads explaining WHY Li resembles Mg and Be resembles Al — charge-density reasoning that turns rote facts into Advanced-level understanding."
+      },
+      {
+        "title": "Chemistry StackExchange — Group 2 carbonate thermal-stability search",
+        "url": "https://chemistry.stackexchange.com/search?q=thermal+stability+group+2+carbonates+lattice+energy",
+        "source": "Chemistry StackExchange",
+        "type": "Search",
+        "level": "JEE Advanced",
+        "note": "Polarising-power and lattice-energy arguments for decomposition-temperature trends — the conceptual core of many JEE assertion-reason items."
+      },
+      {
+        "title": "Wolfram Alpha — sodium element data",
+        "url": "https://www.wolframalpha.com/input?i=sodium%20element%20properties",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Quick computed lookups for atomic radius, ionization energy, density and electronegativity across s-block elements to verify trend ordering."
+      },
+      {
+        "title": "MIT OCW 5.111 Principles of Chemical Science",
+        "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Lectures on periodic trends, ionization energy and bonding give the first-principles grounding behind s-block reactivity and hydride character."
+      },
+      {
+        "title": "Brilliant — chemistry courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Interactive periodic-trends and chemical-bonding modules for active practice on the reasoning that underpins s-block property predictions."
+      },
+      {
+        "title": "PhET — chemistry simulations",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=chemistry",
+        "source": "PhET",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Use 'Build an Atom' and reactions/solubility sims to visualise alkali/alkaline-earth ion formation and salt dissolution behaviour."
+      },
+      {
+        "title": "PubChem — calcium sulfate (plaster of Paris) search",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/#query=calcium%20sulfate%20hemihydrate",
+        "source": "PubChem",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Reference data for CaSO4 and its hemihydrate — the basis of the plaster of Paris setting reaction frequently asked in JEE."
+      },
+      {
+        "title": "Royal Society of Chemistry — interactive Periodic Table",
+        "url": "https://www.rsc.org/periodic-table",
+        "source": "Royal Society of Chemistry",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Per-element pages for H and every Group 1/2 metal with curated property data, history and uses — a durable cross-check for trend values and descriptive facts."
+      },
+      {
+        "title": "NPTEL — inorganic chemistry course listing",
+        "url": "https://nptel.ac.in/course.html",
+        "source": "NPTEL",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Search the chemistry catalogue for inorganic/main-group lecture series; IIT-faculty treatment of periodic trends and main-group chemistry at Advanced depth."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Ortho and para hydrogen — concept and questions",
+        "query": "ortho para hydrogen difference",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Classification of hydrides (ionic, covalent, interstitial)",
+        "query": "classification of hydrides ionic covalent interstitial",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Hydrogen peroxide structure and preparation",
+        "query": "hydrogen peroxide structure preparation reactions",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "H2O2 as oxidising and reducing agent — equations",
+        "query": "H2O2 oxidising reducing agent reactions",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Heavy water D2O properties and uses",
+        "query": "heavy water D2O properties uses",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Hardness of water and removal methods",
+        "query": "hardness of water temporary permanent removal",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Alkali metals reactivity and physical-property trends",
+        "query": "alkali metals properties trends group 1",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Why ionization energy decreases down Group 1",
+        "query": "ionization energy trend group 1 alkali metals",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Oxides, peroxides and superoxides of alkali metals",
+        "query": "alkali metal oxides peroxides superoxides formation",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Alkali metals in liquid ammonia (solvated electron)",
+        "query": "alkali metals liquid ammonia solvated electron blue solution",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Sodium carbonate via Solvay process",
+        "query": "sodium carbonate Solvay process preparation",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "NaHCO3 vs Na2CO3 properties and uses",
+        "query": "sodium bicarbonate sodium carbonate comparison",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Flame colouration of s-block metals — reason",
+        "query": "flame colour alkali alkaline earth metals reason",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Lithium anomalous behaviour",
+        "query": "lithium anomalous behaviour",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Diagonal relationship: lithium and magnesium",
+        "query": "diagonal relationship lithium magnesium",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Beryllium anomaly and Be-Al diagonal relationship",
+        "query": "beryllium anomalous behaviour diagonal relationship aluminium",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Alkaline earth metals — Group 2 trends",
+        "query": "alkaline earth metals properties trends group 2",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Thermal stability of Group 2 carbonates and nitrates",
+        "query": "thermal stability group 2 carbonates nitrates trend",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Solubility trend of Group 2 hydroxides and sulphates",
+        "query": "solubility trend group 2 hydroxides sulphates lattice hydration energy",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Plaster of Paris setting reaction and uses",
+        "query": "plaster of Paris preparation setting reaction",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Quicklime, slaked lime and lime water reactions",
+        "query": "calcium oxide hydroxide quicklime slaked lime reactions",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Lattice vs hydration enthalpy in s-block solubility",
+        "query": "lattice enthalpy hydration enthalpy solubility s-block",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Reducing power of alkali metals & Li electrode-potential anomaly",
+        "query": "reducing power alkali metals lithium electrode potential anomaly",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Biological importance of Na, K, Mg, Ca",
+        "query": "biological importance sodium potassium magnesium calcium",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Position of hydrogen in the periodic table",
+        "query": "position of hydrogen in periodic table justification",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "s-block previous-year questions (JEE Advanced)",
+        "query": "s block elements",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Hydrogen and hydrides previous-year questions",
+        "query": "hydrogen and hydrides",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Alkali and alkaline earth metals PYQ set",
+        "query": "alkali alkaline earth metals",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "s-block assertion-reason practice",
+        "query": "s block elements assertion reason problems with solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Hardest in-syllabus s-block conceptual problems",
+        "query": "s block elements tricky conceptual problems JEE Advanced",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Beryllium chloride structure (bridged/polymeric)",
+        "query": "beryllium chloride structure polymeric bridged",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Covalent character of Be compounds (Fajans' rules)",
+        "query": "beryllium covalent character group 2 compounds Fajans",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Industrial preparation and uses of dihydrogen",
+        "query": "preparation of dihydrogen industrial water gas uses fuel",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Basic character trend of Group 2 oxides and hydroxides",
+        "query": "basic character trend group 2 oxides hydroxides solubility",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "p-Block Elements",
+    "slug": "p-block",
+    "subject": "Chemistry",
+    "group": "Inorganic Chemistry",
+    "blurb": "A fact-dense inorganic chapter spanning groups 13-18 where JEE Advanced rewards command of periodic trends, oxoacid structures, interhalogen geometry, and the anomalous behaviour of first-row elements.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "General periodic trends across groups 13-18 (atomic/ionic radii, ionization enthalpy, electronegativity, electron-gain enthalpy)",
+      "Inert pair effect and oxidation-state stability down a group",
+      "Group 13: boron chemistry, borax, boric acid, boranes (diborane structure and 3c-2e bonding)",
+      "Group 13: aluminium, alums, Al2O3, anomalous behaviour of boron",
+      "Group 14: allotropes of carbon, silicates, silicones, catenation, oxides CO/CO2",
+      "Group 14: tin and lead, +2 vs +4 stability, anomalous behaviour of carbon",
+      "Group 15: dinitrogen, ammonia, oxides of nitrogen, allotropes of phosphorus",
+      "Group 15: phosphorus halides (PCl3, PCl5), oxoacids of nitrogen and phosphorus",
+      "Group 16: dioxygen, ozone, allotropes of sulphur, oxides and oxoacids of sulphur (H2SO4)",
+      "Group 17: halogens, preparation and properties, oxoacids of halogens",
+      "Interhalogen compounds: structure, hybridization and reactivity",
+      "Group 18: noble gases, xenon fluorides and oxides (XeF2, XeF4, XeF6, XeO3) structures",
+      "Oxoacid acid strength, basicity and structure (VSEPR applied to oxoacids)",
+      "Anomalous behaviour of second-period elements and diagonal relationship",
+      "Bond parameters, back-bonding and pi-bonding in p-block hydrides and halides"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Chemistry Textbooks (Class 11 & 12 - p-Block chapters)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Single most important source: NCERT Class 11 Unit 11 and Class 12 Unit 7 cover the entire p-block; nearly all JEE Advanced fact-based MCQs trace to these lines."
+      },
+      {
+        "title": "Chemistry LibreTexts - Inorganic / Descriptive Main-Group Chemistry",
+        "url": "https://chem.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Search the Descriptive Inorganic and Main Group sections for systematic group-by-group trends, oxoacid structures and bonding explanations beyond NCERT depth."
+      },
+      {
+        "title": "ChemGuide - Inorganic Chemistry (Groups, Periodic Trends, Halogens)",
+        "url": "https://www.chemguide.co.uk/",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Crisp JEE-level explanations of group trends, atomic properties, and halogen/oxygen chemistry with clear reasoning - excellent for trend-based reasoning questions."
+      },
+      {
+        "title": "Official JEE Advanced Past Papers Archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "JEE Advanced",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic question papers and answer keys; p-block appears every year via inorganic MCQs, match-the-column and integer-type structure problems."
+      },
+      {
+        "title": "MIT OCW 5.111 Principles of Chemical Science",
+        "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Periodic trends, ionization energy, electron affinity and bonding lectures that underpin the conceptual 'why' behind p-block group trends."
+      },
+      {
+        "title": "Khan Academy - Periodic Trends search",
+        "url": "https://www.khanacademy.org/search?page_search_query=periodic%20trends",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Foundation videos on atomic radius, ionization energy and electronegativity trends that drive every p-block group comparison."
+      },
+      {
+        "title": "Wikipedia - search 'p-block'",
+        "url": "https://en.wikipedia.org/w/index.php?search=p-block",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Reliable structural diagrams and property tables for individual elements, oxoacids, interhalogens and noble-gas compounds; good for quick fact verification."
+      },
+      {
+        "title": "PubChem - search 'diborane'",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/#query=diborane",
+        "source": "PubChem",
+        "type": "Tool",
+        "level": "JEE Advanced",
+        "note": "Authoritative structures, geometries and properties for p-block compounds (diborane, XeF4, interhalogens, oxoacids) - verify hybridization and shape claims."
+      },
+      {
+        "title": "Chemistry StackExchange - search 'inert pair effect'",
+        "url": "https://chemistry.stackexchange.com/search?q=inert%20pair%20effect",
+        "source": "Chemistry StackExchange",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Expert answers explaining subtle p-block puzzles: inert pair effect, anomalous behaviour, back-bonding and oxoacid acidity orderings."
+      },
+      {
+        "title": "Wolfram Alpha - search 'electron configuration phosphorus'",
+        "url": "https://www.wolframalpha.com/input?i=electron%20configuration%20phosphorus",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Instant element data: electron configuration, ionization energies, oxidation states and electronegativity for any p-block element."
+      },
+      {
+        "title": "Wikipedia - search 'interhalogen compound'",
+        "url": "https://en.wikipedia.org/w/index.php?search=interhalogen%20compound",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Complete tables of AX, AX3, AX5, AX7 interhalogens with shapes and hybridization - directly maps to high-yield JEE structure questions."
+      },
+      {
+        "title": "Chemistry LibreTexts - Oxoacids of phosphorus and sulphur (search)",
+        "url": "https://chem.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Use site search for 'oxoacids' to get structures, P-H/P-OH bond counts, basicity and reducing character of phosphorus and sulphur oxoacids."
+      },
+      {
+        "title": "ChemGuide - The Halogens (Group 17)",
+        "url": "https://www.chemguide.co.uk/",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Navigate to the inorganic Group 17 pages for oxidising power trends, displacement reactions and hydrogen halide acidity - frequent JEE reasoning topics."
+      },
+      {
+        "title": "Khan Academy - search 'VSEPR molecular geometry'",
+        "url": "https://www.khanacademy.org/search?page_search_query=VSEPR%20molecular%20geometry",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "VSEPR mastery is essential for predicting shapes of interhalogens, xenon fluorides and oxoacids - the core skill p-block structure problems test."
+      },
+      {
+        "title": "PubChem - search 'xenon hexafluoride'",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/#query=xenon%20hexafluoride",
+        "source": "PubChem",
+        "type": "Tool",
+        "level": "JEE Advanced",
+        "note": "Verified data on noble-gas compounds (XeF2, XeF4, XeF6, XeO3) for confirming geometry, hybridization and lone-pair counts in exam claims."
+      },
+      {
+        "title": "Chemistry StackExchange - search 'oxoacid acid strength order'",
+        "url": "https://chemistry.stackexchange.com/search?q=oxoacid%20acid%20strength%20order",
+        "source": "Chemistry StackExchange",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Discussions of why acid strength of oxoacids increases with oxidation state and electronegativity - resolves common confusion on HClO vs HClO4."
+      },
+      {
+        "title": "Wikipedia - search 'allotropes of phosphorus'",
+        "url": "https://en.wikipedia.org/w/index.php?search=allotropes%20of%20phosphorus",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Structures of white, red and black phosphorus plus sulphur and carbon allotropes - frequently asked structure/property identification."
+      },
+      {
+        "title": "NPTEL - Chemistry of Main Group Elements (course search)",
+        "url": "https://nptel.ac.in/courses",
+        "source": "NPTEL",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Search NPTEL for main-group / inorganic chemistry courses giving rigorous group-wise treatment of bonding, structures and reactivity at JEE Advanced depth."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Periodic trends across groups 13-18 explained",
+        "query": "https://www.youtube.com/results?search_query=p-block+periodic+trends+groups+13+to+18+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Inert pair effect reasoning and oxidation-state stability",
+        "query": "https://www.google.com/search?q=inert+pair+effect+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Diborane structure and 3c-2e (banana) bonding",
+        "query": "https://chemistry.stackexchange.com/search?q=diborane+structure+banana+bond",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Borax and boric acid structure and chemistry",
+        "query": "https://www.google.com/search?q=borax+boric+acid+structure+problems+with+solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Boron family group 13 JEE Advanced practice",
+        "query": "https://www.youtube.com/results?search_query=boron+family+group+13+JEE+Advanced+questions",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Group 14 oxides, silicones and silicates",
+        "query": "https://www.google.com/search?q=group+14+carbon+family+silicones+silicates+problems+with+solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Allotropes of carbon: diamond, graphite, fullerene",
+        "query": "https://www.youtube.com/results?search_query=allotropes+of+carbon+diamond+graphite+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Catenation tendency and anomalous behaviour of carbon",
+        "query": "https://chemistry.stackexchange.com/search?q=catenation+carbon+anomalous+behaviour",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Tin and lead: +2 vs +4 stability down group 14",
+        "query": "https://www.google.com/search?q=tin+lead+group+14+oxidation+state+stability+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Group 15 nitrogen family oxides and oxoacids",
+        "query": "https://www.google.com/search?q=group+15+nitrogen+oxoacids+oxides+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Oxides of nitrogen: structures and bond orders",
+        "query": "https://chemistry.stackexchange.com/search?q=oxides+of+nitrogen+structure+N2O+NO+N2O5",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Phosphorus halides PCl3 and PCl5 hydrolysis",
+        "query": "https://www.google.com/search?q=PCl5+PCl3+hydrolysis+structure+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Oxoacids of phosphorus: basicity and reducing nature",
+        "query": "https://chemistry.stackexchange.com/search?q=oxoacids+of+phosphorus+basicity+H3PO2+H3PO3",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Allotropes of phosphorus: white, red, black",
+        "query": "https://www.youtube.com/results?search_query=allotropes+of+phosphorus+white+red+black+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Group 16 oxygen family trends and oxides of sulphur",
+        "query": "https://www.google.com/search?q=group+16+oxygen+family+sulphur+oxides+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Ozone: structure, preparation and reactions",
+        "query": "https://www.youtube.com/results?search_query=ozone+O3+structure+reactions+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Oxoacids of sulphur: peroxo and thio structures",
+        "query": "https://chemistry.stackexchange.com/search?q=oxoacids+of+sulphur+structure+peroxo+thio",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Sulphuric acid contact process and properties",
+        "query": "https://www.google.com/search?q=sulphuric+acid+contact+process+problems+with+solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Halogens group 17 oxidising power and reactions",
+        "query": "https://www.youtube.com/results?search_query=halogens+group+17+oxidising+power+JEE+Advanced",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Oxoacids of halogens: HOCl to HClO4 acid strength",
+        "query": "https://chemistry.stackexchange.com/search?q=oxoacids+of+halogens+acid+strength+HClO",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Interhalogen compounds: structure and hybridization",
+        "query": "https://www.youtube.com/results?search_query=interhalogen+compounds+structure+hybridization+JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Interhalogen shapes ICl3, IF7, BrF5 problems",
+        "query": "https://www.google.com/search?q=interhalogen+compounds+shapes+IF7+BrF5+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Noble gases group 18 xenon chemistry",
+        "query": "https://www.youtube.com/results?search_query=noble+gases+xenon+fluorides+JEE+Advanced",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Xenon fluorides XeF2/XeF4/XeF6 structure and hybridization",
+        "query": "https://chemistry.stackexchange.com/search?q=xenon+fluoride+structure+hybridization+XeF6",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Anomalous behaviour of first member and diagonal relationship",
+        "query": "https://www.google.com/search?q=anomalous+behaviour+first+element+diagonal+relationship+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Back-bonding in BF3, B(OH)3 and silicones",
+        "query": "https://chemistry.stackexchange.com/search?q=back+bonding+BF3+boron+pi+bonding",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "p-Block full chapter one-shot revision",
+        "query": "https://www.youtube.com/results?search_query=p-block+elements+one+shot+JEE+Advanced",
+        "level": "Mixed",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "p-Block JEE Advanced previous year questions",
+        "query": "https://www.google.com/search?q=p-block+elements+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Group 13 boron and aluminium JEE PYQ",
+        "query": "https://www.google.com/search?q=group+13+boron+aluminium+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Nitrogen and phosphorus group 15 JEE PYQ",
+        "query": "https://www.google.com/search?q=nitrogen+phosphorus+group+15+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Oxoacids structure JEE previous year questions",
+        "query": "https://www.google.com/search?q=oxoacids+of+sulphur+phosphorus+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Interhalogens and noble gases JEE PYQ",
+        "query": "https://www.google.com/search?q=interhalogen+noble+gas+xenon+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Halogens group 17 JEE previous year questions",
+        "query": "https://www.google.com/search?q=halogens+group+17+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Hardest p-block reasoning and match-the-column",
+        "query": "https://www.google.com/search?q=p-block+match+the+column+assertion+reason+JEE+Advanced+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Mixed JEE Advanced problem set",
+        "query": "p-Block Elements JEE Advanced problems with solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Chapter-wise previous-year questions",
+        "query": "p-Block Elements chapterwise previous year questions",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Concept & formulae revision",
+        "query": "p-Block Elements important formulas and concepts",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "d- and f-Block Elements",
+    "slug": "d-f-block",
+    "subject": "Chemistry",
+    "group": "Inorganic Chemistry",
+    "blurb": "Everything your students need on transition and inner-transition metals: variable oxidation states, colour and magnetism, the two heavyweight oxidising agents KMnO4 and K2Cr2O7, lanthanide contraction, actinides, and catalytic behaviour.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "General trends in the d-block: atomic and ionic radii, melting points, density",
+      "Electronic configurations of transition elements and their ions",
+      "Variable oxidation states and stability (relative stabilities of oxidation states)",
+      "Colour of transition metal ions and d-d transitions",
+      "Magnetic moment and spin-only formula (paramagnetism)",
+      "Standard electrode potentials and trends (E0 M2+/M, M3+/M2+)",
+      "Catalytic properties and formation of interstitial compounds and alloys",
+      "Preparation, structure and oxidising action of KMnO4",
+      "Preparation, structure and oxidising action of K2Cr2O7",
+      "Lanthanides: electronic configuration and oxidation states",
+      "Lanthanide contraction and its consequences",
+      "Actinides: electronic configuration, oxidation states and contrast with lanthanides",
+      "Comparison of 3d, 4d and 5d series",
+      "Coloured ions, complex formation and formation of coloured oxides/oxoanions"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced Official Archive — Past Question Papers",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "jeeadv.ac.in",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic previous-year JEE Advanced papers and answer keys; the gold standard for d- and f-block problem practice."
+      },
+      {
+        "title": "NCERT Chemistry Textbooks (Class 12 — The d- and f-Block Elements)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "ncert.nic.in",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Chapter 8 of Class 12 NCERT is the syllabus backbone; every JEE inorganic fact on transition/inner-transition metals traces here."
+      },
+      {
+        "title": "Chemistry LibreTexts — Transition Metals and Coordination Chemistry",
+        "url": "https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules_and_Websites_(Inorganic_Chemistry)/Descriptive_Chemistry/Elements_Organized_by_Block/3_d-Block_Elements",
+        "source": "chem.libretexts.org",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Clear explanations of d-d transitions, magnetism and variable oxidation states at JEE depth and beyond."
+      },
+      {
+        "title": "ChemGuide — Transition Metal Menu (UK A-level / JEE-level notes)",
+        "url": "https://www.chemguide.co.uk/inorgmenu.html#top",
+        "source": "chemguide.co.uk",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Jim Clark's clean notes on variable oxidation states, coloured ions, catalysis and redox titrations involving KMnO4/K2Cr2O7."
+      },
+      {
+        "title": "MIT OCW 5.111 — Principles of Chemical Science",
+        "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/",
+        "source": "ocw.mit.edu",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Lectures on d-orbital splitting, crystal field theory and colour/magnetism give the conceptual depth behind the transition-metal section."
+      },
+      {
+        "title": "Khan Academy — Transition Metals (Chemistry library)",
+        "url": "https://www.khanacademy.org/science/chemistry",
+        "source": "khanacademy.org",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Foundational videos on electron configuration of transition metals and why their ions are coloured."
+      },
+      {
+        "title": "Chemistry LibreTexts — Lanthanide Contraction",
+        "url": "https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules_and_Websites_(Inorganic_Chemistry)/Descriptive_Chemistry/Elements_Organized_by_Block/4_f-Block_Elements/The_Lanthanides/Chemistry_of_the_Lanthanides",
+        "source": "chem.libretexts.org",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Lanthanide contraction, its cause (poor 4f shielding) and consequences for 4d/5d radii and Zr-Hf similarity."
+      },
+      {
+        "title": "Wikipedia — Potassium Permanganate (KMnO4)",
+        "url": "https://en.wikipedia.org/wiki/Potassium_permanganate",
+        "source": "wikipedia.org",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Structure, preparation and redox half-reactions of KMnO4 in acidic/neutral/basic media — a JEE favourite."
+      },
+      {
+        "title": "Wikipedia — Potassium Dichromate (K2Cr2O7)",
+        "url": "https://en.wikipedia.org/wiki/Potassium_dichromate",
+        "source": "wikipedia.org",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Preparation from chromite ore, chromate-dichromate equilibrium and oxidising action — core exam material."
+      },
+      {
+        "title": "PubChem — Permanganate ion",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/compound/Permanganate",
+        "source": "pubchem.ncbi.nlm.nih.gov",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Authoritative structural and oxidation-state data for the permanganate species used in titration problems."
+      },
+      {
+        "title": "Chemistry LibreTexts — Crystal Field Theory",
+        "url": "https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules_and_Websites_(Inorganic_Chemistry)/Crystal_Field_Theory",
+        "source": "chem.libretexts.org",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Underpins colour and magnetic-moment questions: d-orbital splitting, why Sc3+/Zn2+ are colourless while Cu2+ is blue."
+      },
+      {
+        "title": "Chemistry LibreTexts — Magnetic Properties of Coordination Complexes",
+        "url": "https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules_and_Websites_(Inorganic_Chemistry)/Coordination_Chemistry/Properties_of_Coordination_Compounds/Magnetic_Properties",
+        "source": "chem.libretexts.org",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Spin-only magnetic moment, unpaired electrons and paramagnetism — the reasoning behind numerical magnetism problems."
+      },
+      {
+        "title": "Wolfram Alpha — Chemistry computation engine",
+        "url": "https://www.wolframalpha.com/examples/science-and-technology/chemistry",
+        "source": "wolframalpha.com",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Quick verification of anomalous configurations (Cr, Cu) and computational checks for spin-only magnetic moment problems."
+      },
+      {
+        "title": "Brilliant — Chemistry Courses (Atomic & Inorganic)",
+        "url": "https://brilliant.org/courses/",
+        "source": "brilliant.org",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Interactive problem-driven lessons reinforcing periodic trends, oxidation states and electron configuration logic."
+      },
+      {
+        "title": "Chemistry LibreTexts — Periodic Trends of the Transition Metals",
+        "url": "https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules_and_Websites_(Inorganic_Chemistry)/Descriptive_Chemistry/Periodic_Trends_of_Elemental_Properties/Periodic_Trends",
+        "source": "chem.libretexts.org",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Atomic/ionic radii, melting points, density and ionization enthalpy anomalies across the 3d series."
+      },
+      {
+        "title": "Khan Academy — Redox Reactions & Titrations (Chemistry library)",
+        "url": "https://www.khanacademy.org/science/chemistry/oxidation-reduction",
+        "source": "khanacademy.org",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Walks through permanganate/dichromate redox and titration calculations frequently asked in JEE numerical problems."
+      },
+      {
+        "title": "Wikipedia — Transition Metal",
+        "url": "https://en.wikipedia.org/wiki/Transition_metal",
+        "source": "wikipedia.org",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Overview of general characteristics: variable oxidation states, catalysis, alloy and interstitial compound formation."
+      },
+      {
+        "title": "Wikipedia — Actinide",
+        "url": "https://en.wikipedia.org/wiki/Actinide",
+        "source": "wikipedia.org",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Actinide oxidation-state diversity and actinoid contraction, plus the lanthanide-versus-actinide comparison JEE asks."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "d-block general properties & trends (basics)",
+        "query": "d block elements general properties atomic radii melting point trends",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Electronic configuration of transition elements",
+        "query": "electronic configuration transition elements 3d series exceptions Cr Cu",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Variable oxidation states — concept",
+        "query": "variable oxidation states transition metals stability explanation",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Stability of oxidation states (JEE Advanced reasoning)",
+        "query": "relative stability of higher oxidation states transition metals across period down group",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Colour of transition metal ions — d-d transition",
+        "query": "why transition metal ions coloured d-d transition Sc3+ Zn2+ colourless",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Magnetic moment spin-only formula problems",
+        "query": "spin only magnetic moment transition metal ion calculation number of unpaired electrons",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Magnetic moment numericals (hard)",
+        "query": "calculate spin only magnetic moment for given transition metal ions problems with solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "mse"
+        ]
+      },
+      {
+        "label": "Standard electrode potential trends in 3d series",
+        "query": "E0 M2+/M M3+/M2+ trends 3d transition series irregularities",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Catalytic properties of transition metals",
+        "query": "catalytic properties transition metals variable oxidation states interstitial compounds",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Interstitial compounds and alloy formation",
+        "query": "interstitial compounds alloys transition metals properties JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "KMnO4 preparation and structure",
+        "query": "potassium permanganate preparation from pyrolusite structure",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "KMnO4 oxidising action in acidic/neutral/basic medium",
+        "query": "KMnO4 oxidising agent reactions acidic neutral alkaline medium half reactions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "K2Cr2O7 preparation from chromite ore",
+        "query": "potassium dichromate preparation from chromite ore reactions structure",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Dichromate-chromate equilibrium & oxidising action",
+        "query": "dichromate chromate equilibrium pH oxidising action K2Cr2O7 reactions",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Lanthanide contraction — concept and consequences",
+        "query": "lanthanide contraction cause consequences 4f shielding 4d 5d radii",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Lanthanides electronic configuration & oxidation states",
+        "query": "lanthanides electronic configuration oxidation states +2 +4 examples",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Actinides electronic configuration & oxidation states",
+        "query": "actinides electronic configuration oxidation states comparison lanthanides",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Lanthanides vs actinides comparison",
+        "query": "difference between lanthanides and actinides contraction oxidation states JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Comparison of 3d 4d 5d transition series",
+        "query": "comparison 3d 4d 5d transition series properties oxidation states magnetic",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "d-f block one-shot revision (full chapter)",
+        "query": "d and f block elements one shot complete chapter revision",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "d-f block PYQ practice set",
+        "query": "d and f block elements",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "KMnO4 / K2Cr2O7 oxidising agent PYQ",
+        "query": "potassium permanganate dichromate oxidising agent",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Lanthanide contraction PYQ",
+        "query": "lanthanide contraction",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Transition metal colour & magnetic moment PYQ",
+        "query": "transition metal ions colour magnetic moment",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Oxidation states & electrode potential PYQ",
+        "query": "transition elements oxidation states electrode potential",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Anomalous configurations Cr and Cu (why)",
+        "query": "why chromium copper anomalous electronic configuration half filled fully filled stability",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Oxides and oxoanions of transition metals",
+        "query": "oxides oxoanions transition metals acidic basic character Mn oxides",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Mn anomalous behaviour in 3d series",
+        "query": "manganese anomalous high oxidation state stability +7 Mn2+ stability reasoning",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Coloured oxides Cr2O3 V2O5 reasoning (charge transfer)",
+        "query": "colour of transition metal oxides Cr2O3 V2O5 ligand to metal charge transfer",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Periodic trends d-block tricky (JEE Advanced)",
+        "query": "density melting point ionization enthalpy anomalies transition metals problems with solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "mse"
+        ]
+      },
+      {
+        "label": "Hardest in-syllabus d-f block mixed problems",
+        "query": "d f block elements challenging JEE Advanced problems with solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Zr-Hf and Nb-Ta similarity (contraction effect)",
+        "query": "zirconium hafnium niobium tantalum similar properties lanthanide contraction",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Mixed JEE Advanced problem set",
+        "query": "d- and f-Block Elements JEE Advanced problems with solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "pyq"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Coordination Compounds",
+    "slug": "coordination-compounds",
+    "subject": "Chemistry",
+    "group": "Inorganic Chemistry",
+    "blurb": "A high-yield JEE Advanced chapter where IUPAC nomenclature, isomerism counting, and bonding theories (VBT vs CFT) reliably convert into full marks with disciplined practice.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "IUPAC nomenclature of coordination compounds",
+      "Werner's coordination theory (primary and secondary valencies)",
+      "Ligands: types, denticity, ambidentate and chelating ligands",
+      "Coordination number and geometry",
+      "Structural isomerism (ionisation, hydrate, linkage, coordination)",
+      "Stereoisomerism (geometrical cis-trans, facial-meridional)",
+      "Optical isomerism in octahedral complexes",
+      "Valence Bond Theory and hybridisation (inner vs outer orbital complexes)",
+      "Crystal Field Theory and d-orbital splitting in octahedral fields",
+      "Tetrahedral and square planar crystal field splitting",
+      "Crystal Field Stabilisation Energy (CFSE) and pairing energy",
+      "Spectrochemical series, strong vs weak field ligands",
+      "Magnetic behaviour, spin-only moment, high-spin vs low-spin",
+      "Colour of complexes and d-d transitions",
+      "Stability constants of complexes and metal carbonyls (EAN rule)"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced Official Past Papers Archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "jeeadv.ac.in",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Official question papers and answer keys; pull coordination-chemistry questions year by year."
+      },
+      {
+        "title": "NCERT Chemistry Textbooks (Class 11 & 12)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "The Class 12 Coordination Compounds chapter is the syllabus baseline every JEE question is built on."
+      },
+      {
+        "title": "Chemistry LibreTexts: Crystal Field Theory",
+        "url": "https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules_and_Websites_(Inorganic_Chemistry)/Crystal_Field_Theory",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Rigorous free notes on d-orbital splitting, CFSE and field strength at JEE-Advanced depth."
+      },
+      {
+        "title": "Chemistry LibreTexts: Coordination Chemistry (Isomers & Bonding)",
+        "url": "https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Map%3A_Inorganic_Chemistry_(Housecroft)/Coordination_Chemistry",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Module hub for isomerism types, VBT and ligand field theory; map view links every sub-topic."
+      },
+      {
+        "title": "ChemGuide: Complex Ions Menu",
+        "url": "https://www.chemguide.co.uk/inorgmenu.html#top",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Clean exam-focused pages on complex ion formation, ligand exchange and colour; ideal first read."
+      },
+      {
+        "title": "ChemGuide: Why Complexes Are Coloured",
+        "url": "https://www.chemguide.co.uk/inorganic/complexions/colour.html",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Ties ligand field strength to observed colour; a recurring JEE assertion-reason theme."
+      },
+      {
+        "title": "MIT OCW 5.111 Principles of Chemical Science",
+        "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Lecture units on transition metals and crystal field theory; video plus problem sets for bonding intuition."
+      },
+      {
+        "title": "Khan Academy: Complex Ions and Coordination Compounds",
+        "url": "https://www.khanacademy.org/science/ap-chemistry-beta/x2eef969c74e0d802:applications-of-thermodynamics/x2eef969c74e0d802:introduction-to-titrations/a/complex-ion-coordination-compounds",
+        "source": "Khan Academy",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Concise article on ligands, coordination number and complex ion bonding for quick revision."
+      },
+      {
+        "title": "Wikipedia: Crystal Field Theory",
+        "url": "https://en.wikipedia.org/wiki/Crystal_field_theory",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Reference tables for splitting diagrams, spectrochemical series and CFSE; verify against NCERT for scope."
+      },
+      {
+        "title": "Wikipedia: Coordination Complex",
+        "url": "https://en.wikipedia.org/wiki/Coordination_complex",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Overview of nomenclature, isomer types and Werner theory with linked sub-articles for each."
+      },
+      {
+        "title": "Wikipedia: Stability Constants of Complexes",
+        "url": "https://en.wikipedia.org/wiki/Stability_constants_of_complexes",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Stepwise vs overall formation constants and the chelate effect; supports stability-ordering questions."
+      },
+      {
+        "title": "Wikipedia: Metal Carbonyl",
+        "url": "https://en.wikipedia.org/wiki/Metal_carbonyl",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Synergic bonding, the 18-electron/EAN rule and carbonyl structures used in bonding questions."
+      },
+      {
+        "title": "PubChem: Compound Database",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/",
+        "source": "PubChem",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Look up real complexes (cisplatin, potassium ferrocyanide) for structures and properties used in problems."
+      },
+      {
+        "title": "Wolfram Alpha Computational Engine",
+        "url": "https://www.wolframalpha.com/",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "JEE Advanced",
+        "note": "Check spin-only magnetic moment and unpaired-electron counts to verify high-spin/low-spin assignments."
+      },
+      {
+        "title": "PhET Chemistry Simulations",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=chemistry&type=html,prototype",
+        "source": "PhET",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Atomic and molecular sims to visualise orbital occupancy and the absorption ideas behind d-d transitions."
+      },
+      {
+        "title": "Khan Academy: Naming Coordination Compounds",
+        "url": "https://www.khanacademy.org/science/ap-chemistry-beta/x2eef969c74e0d802:applications-of-thermodynamics/x2eef969c74e0d802:introduction-to-titrations/v/naming-coordination-compounds",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Walkthrough of IUPAC naming rules; good for drilling prefixes and oxidation-state assignment."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "IUPAC nomenclature of coordination compounds",
+        "query": "IUPAC nomenclature coordination compounds rules",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Writing formula from IUPAC name of complex",
+        "query": "writing formula of coordination compound from IUPAC name",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Werner theory: primary and secondary valency",
+        "query": "Werner theory primary secondary valency coordination",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Werner theory AgNO3 precipitation problems",
+        "query": "Werner theory ionisable chloride AgNO3 precipitate",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Types of ligands: mono/poly/ambidentate/chelate",
+        "query": "types of ligands monodentate bidentate ambidentate chelate",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Coordination number and geometry determination",
+        "query": "coordination number central metal geometry determination",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Oxidation state of metal in a complex",
+        "query": "oxidation state of metal in coordination compound",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Structural isomerism: ionisation/hydrate/coordination",
+        "query": "ionisation hydrate coordination isomerism complexes",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Linkage isomerism with ambidentate ligands",
+        "query": "linkage isomerism ambidentate ligand nitrito nitro SCN",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Geometrical (cis-trans) isomerism in complexes",
+        "query": "geometrical isomerism cis trans coordination compounds",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Facial-meridional isomerism in MA3B3 octahedral",
+        "query": "facial meridional fac mer isomerism octahedral complex",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Optical isomerism in octahedral complexes",
+        "query": "optical isomerism octahedral coordination enantiomers",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Counting total isomers (tricky enumeration)",
+        "query": "number of geometrical optical isomers coordination complex",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Valence bond theory and hybridisation of complexes",
+        "query": "valence bond theory hybridisation coordination compounds",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Inner vs outer orbital octahedral complexes",
+        "query": "inner orbital outer orbital complex d2sp3 sp3d2",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Square planar dsp2 hybridisation problems",
+        "query": "square planar dsp2 hybridisation nickel platinum complex",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Crystal field theory: octahedral d-splitting",
+        "query": "crystal field theory octahedral d orbital splitting",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Tetrahedral vs octahedral field splitting",
+        "query": "tetrahedral crystal field splitting delta_t vs octahedral",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "CFSE calculation with pairing energy",
+        "query": "crystal field stabilisation energy CFSE calculation pairing energy",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Spectrochemical series and field strength",
+        "query": "spectrochemical series strong field weak field ligand order",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "High-spin vs low-spin determination",
+        "query": "high spin low spin complex unpaired electrons",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Spin-only magnetic moment problems",
+        "query": "spin only magnetic moment coordination complex calculation",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Colour of complexes via d-d transitions",
+        "query": "colour of coordination compounds d-d transition explanation",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Stability constants and the chelate effect",
+        "query": "stability constant formation constant chelate effect complexes",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Metal carbonyls: synergic bonding and EAN rule",
+        "query": "metal carbonyl synergic bonding effective atomic number rule",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "CFT vs VBT: comparison and limitations",
+        "query": "crystal field theory vs valence bond theory limitations",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Coordination compounds full chapter one-shot",
+        "query": "coordination compounds one shot complete chapter",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Coordination compounds previous-year questions",
+        "query": "coordination compounds",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Crystal field theory previous-year questions",
+        "query": "crystal field theory CFSE magnetic moment",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Isomerism in complexes previous-year questions",
+        "query": "isomerism coordination compounds geometrical optical",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "cse"
+        ]
+      },
+      {
+        "label": "Assertion-reason on bonding/magnetism/colour",
+        "query": "coordination compounds assertion reason hybridisation magnetic colour",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Mixed numerical: CFSE, stability, magnetism",
+        "query": "coordination compounds CFSE stability magnetic numerical problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Applications of coordination compounds",
+        "query": "applications coordination compounds biological analytical metallurgy",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Crystal field splitting in square planar fields",
+        "query": "square planar crystal field splitting d orbital diagram",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Jahn-Teller distortion in complexes",
+        "query": "Jahn Teller distortion octahedral complex explanation",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "General Principles of Metallurgy",
+    "slug": "metallurgy",
+    "subject": "Chemistry",
+    "group": "Inorganic Chemistry",
+    "blurb": "A high-yield inorganic chapter where thermodynamics meets descriptive chemistry — Ellingham diagrams, reduction-method selection, and the extraction routes for Fe, Cu, Al and Zn reward students who can reason rather than memorize.",
+    "jeeWeight": "Medium",
+    "subtopics": [
+      "Occurrence of metals and classification of ores (oxide, sulphide, carbonate, halide)",
+      "Concentration of ores: hydraulic washing, magnetic separation, froth flotation, leaching",
+      "Calcination and roasting — chemistry and distinction",
+      "Reduction of oxides: carbon (smelting), self-reduction, electrolytic and metallothermic (Goldschmidt) routes",
+      "Ellingham diagram: free-energy vs temperature, slopes, crossover points and feasibility of reduction",
+      "Thermodynamics of metallurgical reactions (delta G, delta H, delta S, coupling of reactions)",
+      "Extraction of iron: blast furnace zones, reactions and slag formation",
+      "Extraction of copper from copper pyrites: roasting, smelting, Bessemerisation, blister copper",
+      "Extraction of aluminium: Bayer process and Hall-Heroult electrolysis",
+      "Extraction of zinc from zinc blende: roasting and reduction",
+      "Refining methods: distillation, liquation, electrolytic refining, zone refining, vapour-phase (Mond and van Arkel)",
+      "Role of flux and slag in metallurgical processes",
+      "Cyanide process for silver and gold (leaching and displacement)",
+      "Thermodynamic vs electrochemical principles in metal extraction"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Class 12 Chemistry textbooks (download PDF chapters)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Open the Class 12 Chemistry (Part I) book; the General Principles and Processes of Isolation of Elements chapter is the single most important JEE source for this topic — every line is examinable."
+      },
+      {
+        "title": "JEE Advanced official past papers archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "JEE Advanced (IIT)",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic question papers and answer keys; metallurgy regularly appears in match-the-column and statement-based items — work the inorganic sections of recent years."
+      },
+      {
+        "title": "Chemistry LibreTexts — homepage and search",
+        "url": "https://chem.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Search pyrometallurgy, Ellingham diagram, electrowinning for university-level write-ups with the thermodynamic reasoning JEE Advanced expects beyond NCERT."
+      },
+      {
+        "title": "ChemGuide — UK A-level chemistry notes",
+        "url": "https://www.chemguide.co.uk/",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Clean, JEE-pitched explanations of iron extraction (blast furnace), aluminium (electrolysis), copper and titanium; ideal for cementing the descriptive reactions."
+      },
+      {
+        "title": "Wikipedia — Ellingham diagram article",
+        "url": "https://en.wikipedia.org/wiki/Ellingham_diagram",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Carries the canonical figure and slope interpretation; cross-link to blast furnace, Hall-Heroult and froth flotation pages for full coverage."
+      },
+      {
+        "title": "Khan Academy — search for metallurgy and thermodynamics",
+        "url": "https://www.khanacademy.org/search?page_search_query=metallurgy%20extraction%20of%20metals",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Use for visual reinforcement of reduction chemistry and Gibbs free energy; pair with the delta G = delta H - T delta S lessons that underpin Ellingham reasoning."
+      },
+      {
+        "title": "MIT OCW 5.111 Principles of Chemical Science",
+        "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Lecture notes on thermodynamics and free energy give the rigorous footing for spontaneity of reduction reactions tested at Advanced level."
+      },
+      {
+        "title": "PubChem — search ore and reagent compounds",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/#query=bauxite",
+        "source": "PubChem",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Look up formulae and properties of ores and intermediates (bauxite, haematite, cryolite, copper pyrites, calamine, cassiterite) to verify oxidation states and stoichiometry."
+      },
+      {
+        "title": "Wolfram Alpha — thermodynamics and stoichiometry calculator",
+        "url": "https://www.wolframalpha.com/input?i=Gibbs+free+energy+of+2C+%2B+O2+to+2CO",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "JEE Advanced",
+        "note": "Compute delta G at a given temperature for competing reduction reactions to numerically justify why carbon reduces an oxide above a crossover temperature."
+      },
+      {
+        "title": "Chemistry StackExchange — search Ellingham and metallurgy",
+        "url": "https://chemistry.stackexchange.com/search?q=Ellingham+diagram+reduction",
+        "source": "Chemistry StackExchange",
+        "type": "Search",
+        "level": "JEE Advanced",
+        "note": "Curated Q&A on subtle points — why delta S sign flips the slope, why the CO line crosses metal-oxide lines, when metallothermic reduction is preferred over carbon."
+      },
+      {
+        "title": "Wikipedia — Froth flotation (ore concentration)",
+        "url": "https://en.wikipedia.org/wiki/Froth_flotation",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Explains collectors, frothers and depressants — JEE asks the role of pine oil and NaCN as depressant in separating PbS from ZnS in a mixed sulphide ore."
+      },
+      {
+        "title": "Wikipedia — Hall-Heroult process (aluminium)",
+        "url": "https://en.wikipedia.org/wiki/Hall%E2%80%93H%C3%A9roult_process",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Cell reactions, role of molten cryolite as solvent/flux, carbon anode consumption — a recurring source of statement-based questions."
+      },
+      {
+        "title": "Chemistry LibreTexts — search Bayer and electrolytic refining",
+        "url": "https://chem.libretexts.org/?q=electrolytic+refining",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Detail on anode mud composition in copper refining and the Bayer purification of bauxite, both tested as factual recall plus reasoning."
+      },
+      {
+        "title": "ChemGuide — extraction and purification of metals index",
+        "url": "https://www.chemguide.co.uk/inorgmenu.html",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Inorganic menu links iron, copper, aluminium and titanium extraction pages with reduction-method rationale aligned to syllabus depth."
+      },
+      {
+        "title": "Wikipedia — Zone melting (zone refining)",
+        "url": "https://en.wikipedia.org/wiki/Zone_melting",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Principle of impurity segregation in molten zones for Ge/Si ultrapurification — a favourite Advanced-level discriminator among refining methods."
+      },
+      {
+        "title": "Khan Academy — search Gibbs free energy and spontaneity",
+        "url": "https://www.khanacademy.org/search?page_search_query=Gibbs%20free%20energy%20spontaneity",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Reinforces the delta G sign convention and temperature dependence needed to read an Ellingham diagram correctly."
+      },
+      {
+        "title": "Wikipedia — Mond process (nickel purification)",
+        "url": "https://en.wikipedia.org/wiki/Mond_process",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Vapour-phase refining of nickel via volatile Ni(CO)4 formed at ~330 K and decomposed at ~450 K — exact temperatures and reaction are examinable."
+      },
+      {
+        "title": "Wikipedia — Blast furnace (iron extraction)",
+        "url": "https://en.wikipedia.org/wiki/Blast_furnace",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Zone-wise reactions, CaCO3 flux to CaSiO3 slag, and the temperature gradient that fixes which reduction dominates where in the furnace."
+      },
+      {
+        "title": "Royal Society of Chemistry — periodic table and element data",
+        "url": "https://www.rsc.org/periodic-table",
+        "source": "Royal Society of Chemistry",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Authoritative element pages with extraction notes and abundance data to anchor occurrence, principal ores and the dominant industrial route for each metal."
+      },
+      {
+        "title": "Wikipedia — Gold cyanidation (MacArthur-Forrest process)",
+        "url": "https://en.wikipedia.org/wiki/Gold_cyanidation",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Leaching of Au/Ag with dilute NaCN under air followed by Zn displacement — the redox and complex-ion chemistry behind the cyanide process."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Concentration of ores — methods overview",
+        "query": "concentration of ores froth flotation magnetic separation leaching",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Froth flotation depressant problem (PbS vs ZnS)",
+        "query": "froth flotation collector depressant NaCN ZnS PbS separation",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "aops"
+        ]
+      },
+      {
+        "label": "Calcination vs roasting distinction",
+        "query": "calcination vs roasting difference reactions examples",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Roasting reactions of sulphide ores",
+        "query": "roasting of zinc blende copper pyrites galena reactions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Ellingham diagram interpretation",
+        "query": "Ellingham diagram explained slope reduction feasibility",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Ellingham crossover temperature numerical",
+        "query": "Ellingham diagram crossover temperature carbon reduction numerical",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Why the Ellingham slope changes sign",
+        "query": "Ellingham diagram why slope of CO line is negative entropy",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "pse",
+          "google"
+        ]
+      },
+      {
+        "label": "Carbon vs metallothermic reduction choice",
+        "query": "carbon reduction vs aluminothermite Goldschmidt reduction when used",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Thermodynamics of extraction — coupling reactions",
+        "query": "thermodynamics coupling reactions metal oxide reduction Gibbs free energy",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pse"
+        ]
+      },
+      {
+        "label": "Blast furnace iron extraction by zone",
+        "query": "blast furnace iron extraction reactions temperature zones slag",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Extraction of iron — practice problems",
+        "query": "extraction of iron blast furnace reactions problems",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Extraction of copper from copper pyrites",
+        "query": "extraction of copper from copper pyrites roasting Bessemer blister",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Self-reduction (auto-reduction) of copper",
+        "query": "self reduction auto reduction copper Cu2S Cu2O blister copper reaction",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Bessemerisation and silica flux in copper",
+        "query": "Bessemerisation copper silica flux slag FeSiO3",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Extraction of aluminium — Bayer process",
+        "query": "Bayer process purification of bauxite aluminium reactions",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Hall-Heroult electrolysis cell reactions",
+        "query": "Hall Heroult process cryolite cell reactions aluminium electrolysis",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Role of cryolite in aluminium extraction",
+        "query": "role of cryolite fluorspar Hall Heroult aluminium melting point flux",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Extraction of zinc from zinc blende",
+        "query": "extraction of zinc from zinc blende roasting carbon reduction",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Electrolytic refining and anode mud",
+        "query": "electrolytic refining copper anode mud composition reactions",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Zone refining principle and applications",
+        "query": "zone refining principle germanium silicon purification",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Mond process for nickel purification",
+        "query": "Mond process nickel carbonyl purification reactions temperature",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Van Arkel method for Ti and Zr",
+        "query": "van Arkel de Boer process titanium zirconium iodide purification",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Refining methods overview (distillation, liquation)",
+        "query": "refining of metals distillation liquation poling vapour phase",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Cyanide process for silver and gold",
+        "query": "cyanide leaching process extraction of silver gold MacArthur Forrest",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Role of flux and slag in metallurgy",
+        "query": "role of flux acidic basic slag formation metallurgy examples",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Occurrence and classification of ores",
+        "query": "occurrence of metals classification of ores oxide sulphide carbonate",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Leaching of bauxite and gold chemistry",
+        "query": "leaching of bauxite alumina gold cyanide reactions",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Metallurgy match-the-column practice",
+        "query": "metallurgy match the column ore extraction method",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "General principles of metallurgy — full PYQs",
+        "query": "general principles of metallurgy",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Ellingham diagram — previous year questions",
+        "query": "Ellingham diagram metallurgy",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Extraction of metals — JEE Advanced PYQ set",
+        "query": "extraction of iron copper aluminium zinc",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "cse"
+        ]
+      },
+      {
+        "label": "Metallurgy assertion-reason practice",
+        "query": "metallurgy assertion reason statement based hard",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Reduction methods — comparative reasoning",
+        "query": "electrolytic reduction vs chemical reduction reactive metals sodium magnesium",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Standard electrode potential and extraction",
+        "query": "standard electrode potential reactivity series extraction method choice",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "pse"
+        ]
+      },
+      {
+        "label": "Thermite (aluminothermy) reaction problems",
+        "query": "thermite reaction aluminothermy chromium manganese extraction enthalpy",
+        "level": "JEE Advanced",
+        "sources": [
+          "pse",
+          "cse"
+        ]
+      },
+      {
+        "label": "Magnetic separation and gravity methods",
+        "query": "magnetic separation gravity separation ore concentration tinstone wolframite",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Ores, minerals and gangue terminology",
+        "query": "ore mineral gangue flux slag definitions metallurgy terms",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Gibbs energy and spontaneity in extraction",
+        "query": "Gibbs free energy spontaneity temperature delta G metal oxide reduction",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "pse"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Qualitative Inorganic Analysis (Salt Analysis)",
+    "slug": "salt-analysis",
+    "subject": "Chemistry",
+    "group": "Inorganic Chemistry",
+    "blurb": "A complete drill set on systematic cation-group separation, anion radical tests, group reagents and confirmatory reactions — the high-yield, exam-favourite practical inorganic block of JEE Advanced.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Preliminary dry tests: colour, smell, flame test, borax bead, charcoal cavity",
+      "Cation Group 0: ammonium (NH4+) detection",
+      "Cation Group I: insoluble chlorides (Pb2+, Ag+, Hg2 2+) with dil. HCl",
+      "Cation Group II: acid-insoluble sulphides (Cu2+, Pb2+, Hg2+, Bi3+, Cd2+, As, Sb, Sn) with H2S in acidic medium",
+      "Cation Group III: hydroxides with NH4Cl + NH4OH (Fe3+, Al3+, Cr3+)",
+      "Cation Group IV: ammonium-sulphide group (Co2+, Ni2+, Mn2+, Zn2+)",
+      "Cation Group V: carbonate group (Ba2+, Sr2+, Ca2+)",
+      "Cation Group VI: soluble group Mg2+ and alkali/alkaline-earth residue",
+      "Role of group reagents and the common-ion effect in selective precipitation",
+      "Solubility product (Ksp) control of sulphide and hydroxide precipitation",
+      "Anion tests for CO3 2-, HCO3-, S2-, SO3 2-, SO4 2-, NO2-, NO3-",
+      "Anion tests for halides (Cl-, Br-, I-) and confirmatory silver/lead reactions",
+      "Brown ring test for nitrate; chromyl chloride test for chloride",
+      "Confirmatory tests: flame colours, complex formation, precipitate colour and solubility",
+      "Interfering radicals and special precautions in systematic analysis"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced Official Past Papers Archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "jeeadv.ac.in",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic question papers and answer keys; mine inorganic-analysis questions from past years."
+      },
+      {
+        "title": "NCERT Class 11/12 Chemistry Textbooks (download)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Salt analysis is taught from NCERT practical chemistry; baseline syllabus for cation/anion tests."
+      },
+      {
+        "title": "Chemistry LibreTexts (full chemistry library)",
+        "url": "https://chem.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Search 'qualitative analysis cations' for group separation schemes and Ksp-driven precipitation theory."
+      },
+      {
+        "title": "ChemGuide: A-level/JEE-level inorganic notes",
+        "url": "https://www.chemguide.co.uk/",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Crisp explanations of precipitation, halide tests and transition-metal ion reactions at JEE depth."
+      },
+      {
+        "title": "Wikipedia search: qualitative inorganic analysis",
+        "url": "https://en.wikipedia.org/w/index.php?search=qualitative%20inorganic%20analysis",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Overview of the systematic cation-group scheme and historical analytical framework."
+      },
+      {
+        "title": "Wikipedia search: cation analysis group separation scheme",
+        "url": "https://en.wikipedia.org/w/index.php?search=cation%20analysis%20group%20separation%20scheme",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Group I to VI separation table with reagents and precipitate identities."
+      },
+      {
+        "title": "Chemistry StackExchange search: qualitative analysis cation group",
+        "url": "https://chemistry.stackexchange.com/search?q=qualitative+analysis+cation+group",
+        "source": "ChemStackExchange",
+        "type": "Search",
+        "level": "JEE Advanced",
+        "note": "Expert-answered conceptual doubts on why specific group reagents are used."
+      },
+      {
+        "title": "Chemistry StackExchange search: brown ring test nitrate",
+        "url": "https://chemistry.stackexchange.com/search?q=brown+ring+test+nitrate",
+        "source": "ChemStackExchange",
+        "type": "Search",
+        "level": "JEE Advanced",
+        "note": "Mechanism and oxidation-state reasoning for the [Fe(H2O)5NO]2+ brown ring."
+      },
+      {
+        "title": "PubChem search: hydrogen sulfide group reagent",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/#query=hydrogen%20sulfide",
+        "source": "PubChem",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Properties of H2S and key sulphide/chloride salts used as group reagents and precipitates."
+      },
+      {
+        "title": "PubChem search: potassium ferrocyanide",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/#query=potassium%20ferrocyanide",
+        "source": "PubChem",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Reagent data for confirmatory tests (e.g. brown ppt with Cu2+, Prussian blue with Fe3+)."
+      },
+      {
+        "title": "Khan Academy search: solubility product precipitation",
+        "url": "https://www.khanacademy.org/search?page_search_query=solubility%20product%20precipitation",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Ksp and selective precipitation videos underpin the logic of group-reagent choices."
+      },
+      {
+        "title": "Khan Academy search: complex ion formation transition metals",
+        "url": "https://www.khanacademy.org/search?page_search_query=complex%20ion%20formation%20transition%20metals",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Advanced",
+        "note": "Coloured complexes behind confirmatory tests (e.g. Cu2+ deep blue with ammonia)."
+      },
+      {
+        "title": "PhET Chemistry Simulations (filtered)",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=chemistry",
+        "source": "PhET",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Use 'Salts & Solubility' and 'pH Scale' sims to build intuition for precipitation and Ksp."
+      },
+      {
+        "title": "Wolfram Alpha: silver chloride Ksp",
+        "url": "https://www.wolframalpha.com/input?i=silver%20chloride%20Ksp",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "JEE Advanced",
+        "note": "Look up Ksp values to justify why a precipitate forms in a given group medium."
+      },
+      {
+        "title": "Wikipedia search: flame test ion identification",
+        "url": "https://en.wikipedia.org/w/index.php?search=flame%20test%20ion%20identification",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Flame colours for Na, K, Ca, Sr, Ba, Cu — core to Group V and preliminary tests."
+      },
+      {
+        "title": "Chemistry LibreTexts: solubility product and common-ion effect",
+        "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Search 'Ksp common ion effect' for the equilibrium theory governing selective precipitation."
+      },
+      {
+        "title": "Chemistry StackExchange search: chromyl chloride test chloride",
+        "url": "https://chemistry.stackexchange.com/search?q=chromyl+chloride+test+chloride",
+        "source": "ChemStackExchange",
+        "type": "Search",
+        "level": "JEE Advanced",
+        "note": "Why chromyl chloride confirms chloride and which interfering ions are excluded."
+      },
+      {
+        "title": "PubChem search: barium sulfate",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/#query=barium%20sulfate",
+        "source": "PubChem",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Classic insoluble sulphate used to confirm SO4 2- anion; data on solubility and reactions."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Cation group scheme overview",
+        "query": "qualitative analysis cation groups separation scheme",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Group I chloride precipitate problems",
+        "query": "qualitative analysis group 1 Pb Ag Hg2 chloride precipitation",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Group II sulphide precipitation in acidic medium",
+        "query": "group 2 cations H2S acidic medium copper lead bismuth analysis",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Why add HCl before H2S (common-ion effect)",
+        "query": "common ion effect HCl before H2S group 2 sulphide precipitation",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Group III hydroxide separation Fe Al Cr",
+        "query": "group 3 cations NH4Cl NH4OH hydroxide Fe Al Cr separation",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Group IV ammonium sulphide Co Ni Mn Zn",
+        "query": "group 4 cations ammonium sulphide Co Ni Mn Zn confirmatory tests",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Group V carbonate Ba Sr Ca",
+        "query": "group 5 cations carbonate Ba Sr Ca flame test confirmation",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Ksp and selective precipitation logic",
+        "query": "solubility product Ksp selective precipitation sulphide salt analysis",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Ammonium (NH4+) cation test",
+        "query": "ammonium ion test NaOH Nessler reagent salt analysis",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Carbonate and bicarbonate anion tests",
+        "query": "carbonate bicarbonate anion test dilute acid effervescence",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Sulphate vs sulphite anion distinction",
+        "query": "sulphate sulphite anion test barium chloride confirmatory salt analysis",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Halide tests Cl Br I with silver nitrate",
+        "query": "halide anion test chloride bromide iodide silver nitrate ammonia solubility",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Brown ring test for nitrate",
+        "query": "brown ring test nitrate mechanism iron nitroso complex",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Chromyl chloride test for chloride",
+        "query": "chromyl chloride test chloride confirmatory reaction interfering ions",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Flame test colours of cations",
+        "query": "flame test colours Na K Ca Sr Ba Cu cation identification",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Borax bead and charcoal cavity dry tests",
+        "query": "borax bead test charcoal cavity test dry tests salt analysis",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Coloured complex confirmatory tests",
+        "query": "confirmatory test coloured complex Cu Fe Co Ni salt analysis",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Interfering radicals and precautions",
+        "query": "interfering radicals borate oxalate phosphate qualitative analysis precautions",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Nitrite vs nitrate anion test",
+        "query": "nitrite nitrate anion test distinction salt analysis",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Sulphide anion test (lead acetate, nitroprusside)",
+        "query": "sulphide anion test lead acetate sodium nitroprusside salt analysis",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Amphoteric hydroxide separation in Group III",
+        "query": "amphoteric hydroxide aluminium chromium NaOH separation group analysis",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Full salt analysis procedure walkthrough",
+        "query": "complete salt analysis procedure cation anion systematic identification",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "JEE Advanced inorganic analysis PYQ",
+        "query": "qualitative inorganic analysis salt analysis",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Precipitate colour identification problems",
+        "query": "precipitate colour identification cation anion salt analysis problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Match-the-column reagent-precipitate",
+        "query": "match the column qualitative analysis reagent precipitate JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "H2S as group reagent and pH control",
+        "query": "H2S group reagent pH control sulphide ion concentration salt analysis",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Ferric vs ferrous confirmatory test",
+        "query": "ferric ferrous confirmatory test potassium ferrocyanide thiocyanate",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Lead ion confirmation across groups",
+        "query": "lead ion Pb2+ confirmatory test potassium iodide chromate salt analysis",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Hardest mixture analysis with interfering ions",
+        "query": "mixture analysis interfering ions phosphate borate oxalate removal advanced",
+        "level": "Olympiad",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Salt analysis assertion-reason questions",
+        "query": "salt analysis assertion reason confirmatory test JEE Advanced",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "pyq"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "General Organic Chemistry (GOC)",
+    "slug": "goc",
+    "subject": "Chemistry",
+    "group": "Organic Chemistry",
+    "blurb": "The foundational reasoning toolkit of organic chemistry — electronic effects, acid-base strength, reactive-intermediate stability, aromaticity, and IUPAC naming — that every JEE Advanced organic mechanism problem silently depends on.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Inductive effect (+I / -I) and its role in acidity and basicity",
+      "Resonance and mesomeric effect (+M / -M), drawing valid resonance structures",
+      "Hyperconjugation (no-bond resonance) and stability ordering",
+      "Electromeric effect and its transient nature in reactions",
+      "Acidity of organic compounds: carboxylic acids, phenols, alcohols",
+      "Basicity of amines and the aliphatic vs aromatic amine trend",
+      "Comparing pKa / Ka and predicting relative acid-base strength",
+      "Stability of carbocations: order, rearrangements, non-classical ions",
+      "Stability of carbanions and free radicals",
+      "Aromaticity, anti-aromaticity and Huckel's (4n+2) rule",
+      "Aromatic, non-aromatic and anti-aromatic classification of rings and ions",
+      "IUPAC nomenclature of hydrocarbons, functional groups and polyfunctional compounds",
+      "Tautomerism and keto-enol equilibria",
+      "Bond polarity, electronegativity and dipole moment in organic molecules",
+      "Effect of substituents on reactive intermediate stability"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced Official Archive (past papers & answer keys)",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "jeeadv.ac.in",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic question papers; mine GOC items (acidity order, aromaticity, carbocation stability) from Paper 1 & 2 of every year."
+      },
+      {
+        "title": "NCERT Chemistry Textbooks (Class XI & XII)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "ncert.nic.in",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Class XI Ch. 12 'Organic Chemistry: Basic Principles & Techniques' is the GOC bible — electronic effects, nomenclature, intermediates."
+      },
+      {
+        "title": "LibreTexts: Inductive, Resonance & Hyperconjugation effects",
+        "url": "https://chem.libretexts.org/",
+        "source": "chem.libretexts.org",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Search 'inductive effect' / 'resonance structures' / 'hyperconjugation' for rigorous text with worked examples and electron-pushing."
+      },
+      {
+        "title": "Master Organic Chemistry: Inductive Effect & Electronegativity",
+        "url": "https://www.masterorganicchemistry.com/",
+        "source": "masterorganicchemistry.com",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Search 'inductive effect' and 'acid base' — best intuition for why -I groups strengthen acids; cheat-sheet style."
+      },
+      {
+        "title": "Master Organic Chemistry: Resonance & How to Draw Resonance Structures",
+        "url": "https://www.masterorganicchemistry.com/",
+        "source": "masterorganicchemistry.com",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Search 'resonance' for the rules (curved arrows, equivalent vs major contributors) needed to rank GOC stability questions."
+      },
+      {
+        "title": "Master Organic Chemistry: Carbocation Stability & Rearrangements",
+        "url": "https://www.masterorganicchemistry.com/",
+        "source": "masterorganicchemistry.com",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Search 'carbocation' — hydride/methyl shifts and stability ordering are recurring JEE Advanced traps."
+      },
+      {
+        "title": "Master Organic Chemistry: Aromaticity & Huckel's Rule",
+        "url": "https://www.masterorganicchemistry.com/",
+        "source": "masterorganicchemistry.com",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Search 'aromaticity' / 'antiaromatic' — covers (4n+2), cyclic conjugation, charged rings (cyclopentadienyl, tropylium)."
+      },
+      {
+        "title": "ChemGuide: Acid strength of organic acids & basic strength of amines",
+        "url": "https://www.chemguide.co.uk/",
+        "source": "chemguide.co.uk",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Clean JEE-level explanations of why carboxylic acids > phenols > alcohols and aliphatic vs aromatic amine basicity."
+      },
+      {
+        "title": "ChemGuide: Bonding, electronegativity & organic structures",
+        "url": "https://www.chemguide.co.uk/",
+        "source": "chemguide.co.uk",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Foundational bonding and polarity notes underpinning every electronic-effect argument in GOC."
+      },
+      {
+        "title": "Khan Academy: Resonance & acid-base in organic chemistry",
+        "url": "https://www.khanacademy.org/search?page_search_query=resonance%20structures%20organic%20chemistry",
+        "source": "khanacademy.org",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Video walkthroughs of resonance, formal charge, and acid-base — good first-pass conceptual scaffolding for students."
+      },
+      {
+        "title": "Khan Academy: Aromaticity & Huckel's rule lessons",
+        "url": "https://www.khanacademy.org/search?page_search_query=aromatic%20stability%20Huckel%20rule",
+        "source": "khanacademy.org",
+        "type": "Video",
+        "level": "Mixed",
+        "note": "Visual treatment of aromatic stabilization and ring-current criteria for classifying aromatic / anti-aromatic systems."
+      },
+      {
+        "title": "Wikipedia: GOC core concepts (resonance, hyperconjugation, aromaticity)",
+        "url": "https://en.wikipedia.org/w/index.php?search=hyperconjugation",
+        "source": "en.wikipedia.org",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Search any term — concise definitions plus references; switch query to 'aromaticity', 'inductive effect', 'tautomerism' as needed."
+      },
+      {
+        "title": "Chemistry StackExchange: GOC conceptual Q&A",
+        "url": "https://chemistry.stackexchange.com/search?q=carbocation+stability+order",
+        "source": "chemistry.stackexchange.com",
+        "type": "Problem set",
+        "level": "JEE Advanced",
+        "note": "Expert-answered edge cases (why allyl > vinyl, non-classical ions, anti-aromatic instability) ideal for hardest in-syllabus doubts; re-query for any term."
+      },
+      {
+        "title": "PubChem: structures, pKa and properties of named organic compounds",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/#query=benzoic%20acid%20pKa",
+        "source": "pubchem.ncbi.nlm.nih.gov",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Look up experimental pKa values to justify acidity-ordering claims; change query for phenol, formic acid, aniline, etc."
+      },
+      {
+        "title": "Wolfram Alpha: IUPAC name lookup & molecular data",
+        "url": "https://www.wolframalpha.com/input?i=IUPAC%20name%20of%202-methylbutan-2-ol",
+        "source": "wolframalpha.com",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Cross-check IUPAC names and structures while building nomenclature drill sets; edit the query to any structure."
+      },
+      {
+        "title": "Brilliant: Organic Chemistry & reasoning courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "brilliant.org",
+        "type": "Course",
+        "level": "JEE Main",
+        "note": "Interactive structure/reactivity reasoning courses; good for students who need active practice on electronic-effect logic."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Inductive effect on acid strength - solved problems",
+        "query": "inductive effect carboxylic acid acidity order",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Comparing acidity of halo-substituted carboxylic acids",
+        "query": "compare acidity chloroacetic acid fluoroacetic acid",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Phenol vs alcohol vs carboxylic acid acidity",
+        "query": "acidity order phenol alcohol carboxylic acid reason",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Resonance structures and major contributor ranking",
+        "query": "drawing resonance structures most stable contributor",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Mesomeric effect (+M / -M) on reactivity",
+        "query": "mesomeric effect +M -M groups reactivity",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Hyperconjugation and stability of alkenes/carbocations",
+        "query": "hyperconjugation number of alpha hydrogens stability",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Hyperconjugation vs resonance comparison",
+        "query": "hyperconjugation versus resonance comparison",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Electromeric effect concept and examples",
+        "query": "electromeric effect organic chemistry examples",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Carbocation stability order with rearrangement",
+        "query": "carbocation stability order rearrangement hydride shift",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Allylic and benzylic carbocation stabilization",
+        "query": "allyl benzyl carbocation resonance stability",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Non-classical / norbornyl carbocation (hardest in-syllabus)",
+        "query": "non classical carbocation bridged stability",
+        "level": "Olympiad",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Carbanion stability order and factors",
+        "query": "carbanion stability order factors hybridization",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Free radical stability order - problems",
+        "query": "free radical stability order with reasons",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Stability comparison of all reactive intermediates",
+        "query": "compare stability carbocation carbanion free radical",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Aromaticity and Huckel rule classification problems",
+        "query": "aromatic antiaromatic nonaromatic Huckel rule identify",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Aromaticity of charged ring ions (tropylium, cyclopentadienyl)",
+        "query": "aromaticity tropylium cyclopentadienyl anion cation",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Anti-aromaticity of cyclobutadiene & cyclopentadienyl cation",
+        "query": "antiaromatic cyclobutadiene instability reason",
+        "level": "Olympiad",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Annulenes and aromaticity (advanced reasoning)",
+        "query": "annulene aromaticity 4n+2 planar conjugation",
+        "level": "Olympiad",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Basicity of amines: aliphatic vs aromatic",
+        "query": "basicity amines aliphatic aromatic order aniline",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Effect of substituents on aniline basicity",
+        "query": "substituted aniline basicity nitro methyl effect",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "pKa / Ka comparison reasoning problems",
+        "query": "pKa comparison organic acids reasoning",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Tautomerism and keto-enol stability",
+        "query": "keto enol tautomerism stability enol content",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "IUPAC nomenclature of polyfunctional compounds",
+        "query": "IUPAC nomenclature polyfunctional compounds priority",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "IUPAC naming of branched substituted hydrocarbons",
+        "query": "IUPAC nomenclature alkanes branched substituents practice",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "IUPAC naming of cyclic, bicyclic & spiro compounds",
+        "query": "IUPAC nomenclature bicyclic spiro compounds",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Dipole moment and bond polarity comparison",
+        "query": "dipole moment organic molecules comparison problems",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Resonance energy and stability of benzene",
+        "query": "resonance energy benzene aromatic stabilization",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Combined inductive + resonance + hyperconjugation reasoning",
+        "query": "inductive resonance hyperconjugation combined effect",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "GOC electronic-effects PYQ (JEE Advanced)",
+        "query": "general organic chemistry electronic effects",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Aromaticity / Huckel rule PYQ (JEE Advanced)",
+        "query": "aromaticity Huckel rule",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Acidity / basicity ordering PYQ (JEE Advanced)",
+        "query": "acidity basicity order organic compounds",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Carbocation & reactive intermediate PYQ (JEE Advanced)",
+        "query": "carbocation stability rearrangement",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Isomerism (Structural & Stereochemistry)",
+    "slug": "isomerism",
+    "subject": "Chemistry",
+    "group": "Organic Chemistry",
+    "blurb": "A high-yield JEE Advanced staple: drill students on assigning R/S and E/Z, counting stereoisomers, spotting meso compounds, and reading Newman/Fischer projections, since 2-4 marks reliably appear every year.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Structural (constitutional) isomerism: chain, position, functional, metamerism, tautomerism",
+      "Geometrical (cis-trans) isomerism in alkenes and ring systems",
+      "E and Z nomenclature using CIP priority rules",
+      "Optical isomerism, chirality and chiral centres",
+      "R and S absolute configuration (Cahn-Ingold-Prelog rules)",
+      "Enantiomers, diastereomers and meso compounds",
+      "Plane of symmetry and internal compensation in meso forms",
+      "Specific rotation, optical activity and racemic mixtures",
+      "Counting stereoisomers (2^n rule and its exceptions)",
+      "Fischer projection: drawing, manipulation and configuration assignment",
+      "Conformational analysis of ethane and n-butane (Newman projections)",
+      "Conformations of cyclohexane: chair, boat, axial vs equatorial",
+      "Relative and absolute configuration, D/L vs R/S",
+      "Threo and erythro, syn and anti descriptors",
+      "Optical activity without a chiral carbon: allenes, biphenyls and spiranes"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced Official Past Papers Archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "jeeadv.ac.in",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Official question papers and answer keys; mine the Organic Chemistry sections for stereochemistry MCQs, match-the-column and integer-type isomerism problems."
+      },
+      {
+        "title": "NCERT Chemistry Textbooks (Class 11 & 12)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "ncert.nic.in",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Foundation source: Organic Chemistry Basic Principles (Class 11) covers isomerism types; the GOC chapter sets the vocabulary JEE assumes."
+      },
+      {
+        "title": "Master Organic Chemistry - Stereochemistry Hub",
+        "url": "https://www.masterorganicchemistry.com/category/stereochemistry/",
+        "source": "masterorganicchemistry.com",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Best plain-English walkthroughs of R/S assignment, meso detection, Fischer and Newman projections, organised as a browsable stereochemistry index."
+      },
+      {
+        "title": "ChemGuide - Organic Chemistry Menu (Isomerism)",
+        "url": "https://www.chemguide.co.uk/orgpropsmenu.html",
+        "source": "chemguide.co.uk",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Concise JEE-level notes on structural, geometric and optical isomerism with clear diagrams; ideal for first-pass concept building."
+      },
+      {
+        "title": "Chemistry LibreTexts - Stereochemistry Chapter",
+        "url": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/05%3A_Stereochemistry_at_Tetrahedral_Centers",
+        "source": "chem.libretexts.org",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Free open-textbook chapter on chirality, CIP rules, enantiomers/diastereomers and Fischer projections with worked examples and end-of-section problems."
+      },
+      {
+        "title": "Chemistry LibreTexts - Conformations & Cyclohexane",
+        "url": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/04%3A_Organic_Compounds-_Cycloalkanes_and_their_Stereochemistry",
+        "source": "chem.libretexts.org",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Detailed treatment of Newman projections, chair conformations, ring flip and 1,3-diaxial strain with energetics; the conformational-analysis backbone for JEE."
+      },
+      {
+        "title": "Khan Academy - Stereochemistry Unit",
+        "url": "https://www.khanacademy.org/science/organic-chemistry/stereochemistry-topic",
+        "source": "khanacademy.org",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Structured video unit on chirality, R/S, optical activity, enantiomers/diastereomers and Newman projections; good for students who need slow visual explanations."
+      },
+      {
+        "title": "MIT OCW 5.12 Organic Chemistry I",
+        "url": "https://ocw.mit.edu/courses/5-12-organic-chemistry-i-spring-2003/",
+        "source": "ocw.mit.edu",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "University lecture notes and problem sets on stereochemistry, conformational analysis and isomerism; rigour exceeds JEE for stretch practice."
+      },
+      {
+        "title": "Master Organic Chemistry - Stereochemistry Practice Quizzes",
+        "url": "https://www.masterorganicchemistry.com/quizzes/",
+        "source": "masterorganicchemistry.com",
+        "type": "Problem set",
+        "level": "Mixed",
+        "note": "Topic-tagged quiz bank; filter for chirality, R/S and Fischer projection drills to test recall after reading the tutorials."
+      },
+      {
+        "title": "Wikipedia - Stereochemistry Portal",
+        "url": "https://en.wikipedia.org/wiki/Stereochemistry",
+        "source": "en.wikipedia.org",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Authoritative hub linking enantiomer, diastereomer, meso, CIP priority and Fischer projection articles; good for precise terminology checks."
+      },
+      {
+        "title": "Wikipedia - CIP Priority Rules",
+        "url": "https://en.wikipedia.org/wiki/Cahn%E2%80%93Ingold%E2%80%93Prelog_priority_rules",
+        "source": "en.wikipedia.org",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Definitive reference on CIP ranking, duplicate-atom convention and tie-breaking - the edge cases that decide tricky R/S and E/Z assignments."
+      },
+      {
+        "title": "PubChem - Tartaric Acid Record",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/compound/Tartaric-acid",
+        "source": "pubchem.ncbi.nlm.nih.gov",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Inspect the canonical meso/D/L example: 3D structures, defined stereocentre counts and isomer listings for tartaric acid and related molecules."
+      },
+      {
+        "title": "Wolfram Alpha - Chemistry Reference",
+        "url": "https://www.wolframalpha.com/examples/science-and-technology/chemistry",
+        "source": "wolframalpha.com",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Query molecular formulae to verify structural-isomer counts and inspect structures; handy for checking chain-isomer counting problems."
+      },
+      {
+        "title": "PhET - Molecule Shapes Simulation",
+        "url": "https://phet.colorado.edu/en/simulations/molecule-shapes",
+        "source": "phet.colorado.edu",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Interactive 3D molecule builder that helps students visualise tetrahedral geometry and the spatial basis of chirality and stereoisomerism."
+      },
+      {
+        "title": "ChemGuide - Optical Isomerism",
+        "url": "https://www.chemguide.co.uk/basicorg/isomerism/optical.html",
+        "source": "chemguide.co.uk",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Clear explanation of optical activity, plane-polarised light, enantiomers and racemates pitched exactly at the JEE conceptual level."
+      },
+      {
+        "title": "ChemGuide - Geometric (cis-trans) Isomerism",
+        "url": "https://www.chemguide.co.uk/basicorg/isomerism/geometric.html",
+        "source": "chemguide.co.uk",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Conditions for cis-trans isomerism in alkenes, with the restricted-rotation logic that JEE tests on substituted double bonds and rings."
+      },
+      {
+        "title": "Master Organic Chemistry - Fischer Projection Tutorials",
+        "url": "https://www.masterorganicchemistry.com/2010/11/23/fischer-projections/",
+        "source": "masterorganicchemistry.com",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Dedicated articles on converting Fischer to wedge-dash, legal Fischer rotations and reading sugar configurations - core for R/S-from-Fischer problems."
+      },
+      {
+        "title": "Chemistry LibreTexts - Isomerism Overview",
+        "url": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Smith)/05%3A_Stereochemistry",
+        "source": "chem.libretexts.org",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Alternate open-textbook stereochemistry map covering constitutional vs stereoisomers, the 2^n rule and meso compounds with extra solved examples."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Structural isomerism types (chain, position, functional)",
+        "query": "https://www.google.com/search?q=structural+isomerism+chain+position+functional+metamerism+problems+with+solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Counting structural isomers of a molecular formula",
+        "query": "https://www.google.com/search?q=how+to+count+structural+isomers+C5H10+C4H8O+problems+with+solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Tautomerism and metamerism explained",
+        "query": "https://www.youtube.com/results?search_query=tautomerism+metamerism+isomerism+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Geometrical (cis-trans) isomerism basics and conditions",
+        "query": "https://www.youtube.com/results?search_query=geometrical+cis+trans+isomerism+conditions+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "E and Z nomenclature with CIP priority",
+        "query": "https://www.google.com/search?q=E+Z+nomenclature+CIP+priority+rules+problems+with+solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Geometrical isomerism in cyclic compounds and oximes",
+        "query": "https://www.google.com/search?q=geometrical+isomerism+cyclic+compounds+oximes+syn+anti+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Chirality and chiral centre identification",
+        "query": "https://www.youtube.com/results?search_query=chirality+chiral+centre+identification+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "R and S configuration assignment practice",
+        "query": "https://www.google.com/search?q=R+S+configuration+assignment+CIP+rules+problems+with+solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "R/S when lowest priority points toward viewer",
+        "query": "https://chemistry.stackexchange.com/questions/tagged/stereochemistry",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "CIP priority tie-breaking and duplicate atoms",
+        "query": "https://www.google.com/search?q=CIP+priority+rules+tie+breaking+duplicate+atoms+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Enantiomers vs diastereomers distinction",
+        "query": "https://www.youtube.com/results?search_query=enantiomers+diastereomers+difference+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Meso compounds and plane of symmetry",
+        "query": "https://www.google.com/search?q=meso+compound+plane+of+symmetry+identification+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Tartaric acid stereoisomers (R,R / S,S / meso)",
+        "query": "https://www.google.com/search?q=tartaric+acid+meso+RR+SS+stereoisomers+explained",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Number of stereoisomers: 2^n rule and exceptions",
+        "query": "https://www.google.com/search?q=number+of+stereoisomers+2+power+n+rule+exceptions+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Optical activity and specific rotation",
+        "query": "https://www.youtube.com/results?search_query=optical+activity+specific+rotation+racemic+mixture+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Racemic mixture and optical resolution",
+        "query": "https://www.google.com/search?q=racemic+mixture+resolution+of+enantiomers+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Fischer projection drawing and rules",
+        "query": "https://www.youtube.com/results?search_query=Fischer+projection+rules+R+S+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Assigning R/S from Fischer projections",
+        "query": "https://www.google.com/search?q=assign+R+S+configuration+from+Fischer+projection+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Newman projections of ethane and butane",
+        "query": "https://www.youtube.com/results?search_query=Newman+projections+ethane+butane+conformations+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Conformational energy diagrams (eclipsed, gauche, anti)",
+        "query": "https://www.google.com/search?q=conformations+butane+energy+diagram+gauche+anti+eclipsed+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Cyclohexane chair conformation: axial vs equatorial",
+        "query": "https://www.youtube.com/results?search_query=cyclohexane+chair+conformation+axial+equatorial+ring+flip+JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Most stable conformation of substituted cyclohexane",
+        "query": "https://www.google.com/search?q=most+stable+chair+conformation+substituted+cyclohexane+A+value+problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Threo/erythro and syn/anti nomenclature",
+        "query": "https://www.google.com/search?q=threo+erythro+syn+anti+stereochemistry+nomenclature+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Optical activity without a chiral carbon (allenes, biphenyls)",
+        "query": "https://www.google.com/search?q=optical+activity+without+chiral+carbon+allene+biphenyl+spirane+problems",
+        "level": "Olympiad",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "D/L vs R/S and relative vs absolute configuration",
+        "query": "https://www.google.com/search?q=D+L+vs+R+S+relative+absolute+configuration+sugars+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Isomerism stereochemistry JEE Advanced PYQ set",
+        "query": "https://www.google.com/search?q=isomerism+stereochemistry+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "R/S and E/Z assignment JEE Advanced PYQ",
+        "query": "https://www.google.com/search?q=R+S+E+Z+configuration+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Number of stereoisomers JEE Advanced integer-type PYQ",
+        "query": "https://www.google.com/search?q=number+of+stereoisomers+JEE+Advanced+integer+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Conformational analysis JEE Advanced PYQ",
+        "query": "https://www.google.com/search?q=conformations+Newman+cyclohexane+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Meso and optical activity JEE Advanced PYQ",
+        "query": "https://www.google.com/search?q=meso+compound+optical+activity+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Full isomerism chapter problem set with solutions",
+        "query": "https://www.google.com/search?q=isomerism+stereochemistry+full+chapter+problems+with+solutions",
+        "level": "Mixed",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Hardest stereoisomer counting problems",
+        "query": "https://www.google.com/search?q=hardest+stereochemistry+stereoisomer+counting+JEE+Advanced+problems+with+solutions",
+        "level": "Olympiad",
+        "sources": [
+          "google",
+          "cse",
+          "mse"
+        ]
+      },
+      {
+        "label": "Geometrical vs optical isomerism comparison drills",
+        "query": "https://www.youtube.com/results?search_query=geometrical+vs+optical+isomerism+comparison+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Hydrocarbons",
+    "slug": "hydrocarbons",
+    "subject": "Chemistry",
+    "group": "Organic Chemistry",
+    "blurb": "Covers alkane/alkene/alkyne preparation and reactions plus aromatic chemistry, with electrophilic addition (Markovnikov/anti-Markovnikov) and electrophilic aromatic substitution being the highest-yield, mechanism-heavy areas for JEE Advanced.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Alkane preparation: Wurtz reaction, decarboxylation, Kolbe electrolysis, hydrogenation",
+      "Alkane reactions: free-radical halogenation, mechanism and selectivity, combustion",
+      "Conformations of alkanes (ethane, butane) and Newman projections",
+      "Alkene preparation: dehydrohalogenation, dehydration, Saytzeff vs Hofmann",
+      "Electrophilic addition to alkenes: HX, halogens, water; carbocation stability",
+      "Markovnikov and anti-Markovnikov (peroxide/Kharasch) addition",
+      "Oxidation of alkenes: ozonolysis, hydroxylation (cold KMnO4, OsO4), epoxidation",
+      "Hydroboration-oxidation and oxymercuration-demercuration",
+      "Alkyne preparation and acidity of terminal alkynes",
+      "Alkyne reactions: addition of HX/H2O (Markovnikov, keto-enol), reduction to cis/trans alkenes",
+      "Aromaticity, Huckel rule, structure and stability of benzene",
+      "Electrophilic aromatic substitution: nitration, halogenation, sulphonation, Friedel-Crafts alkylation/acylation",
+      "Directive influence of substituents: o/p- vs m-directors, activating vs deactivating groups",
+      "Side-chain reactions and oxidation of benzene derivatives"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Class 11 Chemistry: Hydrocarbons (Chapter 13)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "The non-negotiable base text. Download Part II and study the Hydrocarbons chapter; every JEE Advanced question presumes mastery of these reactions and named-reagent conditions."
+      },
+      {
+        "title": "ChemGuide: Properties of Alkanes, Alkenes and Alkynes",
+        "url": "https://www.chemguide.co.uk/",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Clean JEE-level explanations of free-radical substitution, electrophilic addition and Markovnikov's rule. Use the Organic menu; great for clearing mechanism doubts quickly."
+      },
+      {
+        "title": "Master Organic Chemistry: Alkene & Alkyne Addition Reactions",
+        "url": "https://www.masterorganicchemistry.com/",
+        "source": "Master Organic Chemistry",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "The single best resource for addition mechanisms, carbocation rearrangements, hydroboration and Markovnikov/anti-Markovnikov logic. Search its reaction guide for each named reaction."
+      },
+      {
+        "title": "Master Organic Chemistry: Electrophilic Aromatic Substitution",
+        "url": "https://www.masterorganicchemistry.com/",
+        "source": "Master Organic Chemistry",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Definitive treatment of EAS, directing effects, and ortho/para vs meta logic with arrow-pushing. Maps directly to JEE Advanced multi-step aromatic problems."
+      },
+      {
+        "title": "Chemistry LibreTexts: Reactions of Alkenes (Electrophilic Addition)",
+        "url": "https://chem.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "University-grade reference with worked mechanisms for addition, ozonolysis, and oxidation. Search 'electrophilic addition alkenes' for the Organic Chemistry module."
+      },
+      {
+        "title": "Chemistry LibreTexts: Aromatic Compounds & Benzene",
+        "url": "https://chem.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Aromaticity, Huckel's rule, resonance energy and EAS mechanisms in depth. Search 'benzene electrophilic aromatic substitution' for the relevant chapters."
+      },
+      {
+        "title": "Khan Academy: Alkenes and Alkynes",
+        "url": "https://www.khanacademy.org/search?page_search_query=alkenes%20alkynes%20reactions",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Video walkthroughs of addition reactions and mechanisms; good first-exposure for students before moving to JEE-level problem sets."
+      },
+      {
+        "title": "Khan Academy: Aromatic Compounds & EAS",
+        "url": "https://www.khanacademy.org/search?page_search_query=electrophilic%20aromatic%20substitution",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Step-by-step EAS mechanism videos including nitration and Friedel-Crafts; pairs well with the LibreTexts aromatic chapters."
+      },
+      {
+        "title": "Official JEE Advanced Past Papers Archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "JEE Advanced (official)",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic question papers and answer keys. Pull every year and mine the organic section for hydrocarbon reaction-sequence and product-prediction problems."
+      },
+      {
+        "title": "Chemistry LibreTexts: Free-Radical Halogenation of Alkanes",
+        "url": "https://chem.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Worked initiation/propagation/termination mechanism plus selectivity and reactivity ratios. Search 'radical halogenation alkanes' for the Organic Chemistry module."
+      },
+      {
+        "title": "Master Organic Chemistry: Alkene & Alkyne Reaction Roadmaps",
+        "url": "https://www.masterorganicchemistry.com/",
+        "source": "Master Organic Chemistry",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Reagent-to-product summary maps that consolidate every addition, oxidation and reduction into one decision chart; ideal for multi-step synthesis revision."
+      },
+      {
+        "title": "Wikipedia: Electrophilic Aromatic Substitution",
+        "url": "https://en.wikipedia.org/wiki/Electrophilic_aromatic_substitution",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Concise overview of the arenium-ion mechanism and substituent effects; useful quick reference for a teacher checking conditions and reagents."
+      },
+      {
+        "title": "Wikipedia: Hydroboration-Oxidation Reaction",
+        "url": "https://en.wikipedia.org/wiki/Hydroboration%E2%80%93oxidation_reaction",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Mechanism, syn-addition stereochemistry and anti-Markovnikov regiochemistry; a recurring JEE Advanced favorite to contrast with oxymercuration."
+      },
+      {
+        "title": "PubChem: Benzene",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/compound/Benzene",
+        "source": "PubChem",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Authoritative structure, bonding and physical-property data for benzene and key hydrocarbons; handy for verifying facts and building data-based questions."
+      },
+      {
+        "title": "MIT OCW 5.111 Principles of Chemical Science",
+        "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Free MIT lectures/notes covering bonding and reactivity foundations that underpin hydrocarbon mechanisms; enrichment for the strongest students."
+      },
+      {
+        "title": "Brilliant: Organic Chemistry Courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Interactive problem-driven organic chemistry courses; good for building mechanism intuition through guided practice between formal study sessions."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Wurtz reaction mechanism and limitations",
+        "query": "Wurtz reaction mechanism alkane synthesis",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Free-radical halogenation of alkanes selectivity",
+        "query": "free radical halogenation alkanes selectivity mechanism",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Conformations of butane Newman projections",
+        "query": "conformational analysis butane Newman projection energy",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Decarboxylation and Kolbe electrolysis",
+        "query": "decarboxylation Kolbe electrolysis alkane preparation",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Saytzeff vs Hofmann elimination products",
+        "query": "Saytzeff Hofmann rule elimination major product",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Dehydration of alcohols to alkenes order",
+        "query": "dehydration of alcohols alkene reactivity order mechanism",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Markovnikov addition HX to alkenes",
+        "query": "Markovnikov rule HX addition alkene carbocation",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Anti-Markovnikov peroxide effect (Kharasch)",
+        "query": "anti Markovnikov peroxide effect HBr Kharasch mechanism",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Carbocation rearrangement in addition reactions",
+        "query": "carbocation rearrangement hydride methyl shift addition",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Hydroboration-oxidation regio and stereochemistry",
+        "query": "hydroboration oxidation alkene anti Markovnikov syn addition",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Oxymercuration-demercuration of alkenes",
+        "query": "oxymercuration demercuration alkene Markovnikov no rearrangement",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Ozonolysis product prediction",
+        "query": "ozonolysis alkene reductive oxidative product determination",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Halogenation of alkenes anti addition",
+        "query": "bromine addition alkene anti stereochemistry bromonium ion",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Hydroxylation: cold KMnO4 vs OsO4",
+        "query": "syn dihydroxylation cold KMnO4 OsO4 alkene diol",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Acidity of terminal alkynes",
+        "query": "terminal alkyne acidity sp carbon acetylide formation",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Addition of water to alkynes keto-enol",
+        "query": "hydration of alkyne Markovnikov keto enol tautomerism",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Partial reduction of alkynes cis vs trans",
+        "query": "Lindlar catalyst Na liquid ammonia alkyne cis trans alkene",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Aromaticity and Huckel rule problems",
+        "query": "aromaticity Huckel rule 4n+2 antiaromatic determination",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Benzene resonance and stability",
+        "query": "benzene resonance energy structure stability aromatic",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Nitration of benzene mechanism",
+        "query": "nitration of benzene nitronium ion mechanism",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Friedel-Crafts alkylation and acylation",
+        "query": "Friedel Crafts alkylation acylation mechanism limitations",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Directing effects activating vs deactivating",
+        "query": "ortho para meta directing activating deactivating substituent",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Halogen deactivating yet ortho-para directing",
+        "query": "halogen deactivating ortho para directing benzene explanation",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Sulphonation of benzene reversibility",
+        "query": "sulphonation benzene reversible mechanism orientation",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Side-chain oxidation of alkylbenzenes",
+        "query": "side chain oxidation toluene KMnO4 benzoic acid",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Wurtz-Fittig and Fittig reactions",
+        "query": "Wurtz Fittig reaction aromatic alkylbenzene synthesis",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Multi-step aromatic synthesis directing strategy",
+        "query": "disubstituted benzene synthesis order directing groups",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Reaction sequence product prediction hydrocarbons",
+        "query": "hydrocarbon reaction sequence product prediction organic",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Hydrocarbons JEE Advanced previous year questions",
+        "query": "Hydrocarbons chemistry",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Aromatic compounds JEE Advanced PYQ",
+        "query": "aromatic compounds electrophilic substitution",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Alkene addition reactions JEE Advanced PYQ",
+        "query": "alkene electrophilic addition Markovnikov",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Alkyne reactions JEE Advanced PYQ",
+        "query": "alkyne reactions reduction acidity",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Haloalkanes & Haloarenes",
+    "slug": "haloalkanes-haloarenes",
+    "subject": "Chemistry",
+    "group": "Organic Chemistry",
+    "blurb": "A high-yield organic chapter where mastering SN1/SN2 and E1/E2 mechanisms, stereochemistry, and haloarene reactivity directly powers JEE Advanced reaction-sequence and reasoning problems.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Classification and nomenclature of haloalkanes and haloarenes",
+      "Preparation methods (from alcohols, alkenes, hydrocarbons, halogen exchange)",
+      "SN1 mechanism: carbocation intermediate, racemization, rate law",
+      "SN2 mechanism: backside attack, Walden inversion, stereochemistry",
+      "SN1 vs SN2 reactivity: substrate, nucleophile, solvent, leaving group effects",
+      "E1 elimination and carbocation stability",
+      "E2 elimination: anti-periplanar geometry and Saytzeff/Hofmann orientation",
+      "Substitution vs elimination competition",
+      "Grignard reagent: preparation, structure and reactions",
+      "Reactivity of aryl halides toward nucleophilic substitution",
+      "Nucleophilic aromatic substitution (addition-elimination) and benzyne mechanism",
+      "Reactions with metals (Wurtz, Wurtz-Fittig, Fittig, Frankland)",
+      "Polyhalogen compounds (chloroform, DDT, freons, carbon tetrachloride)",
+      "Optical activity, chirality and stereochemistry of halide reactions",
+      "Directive influence and electrophilic substitution in haloarenes"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Class 12 Chemistry textbook (Haloalkanes & Haloarenes chapter)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "The foundational text; the haloalkanes chapter and its in-text/exercise problems are directly examined in JEE Main and are baseline for Advanced."
+      },
+      {
+        "title": "ChemGuide: Halogenoalkanes (mechanisms and reactions)",
+        "url": "https://www.chemguide.co.uk/",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Crisp JEE-level explanations of nucleophilic substitution, elimination and reaction conditions; ideal for clear mechanism revision."
+      },
+      {
+        "title": "Master Organic Chemistry: SN1/SN2/E1/E2 decision summary",
+        "url": "https://www.masterorganicchemistry.com/",
+        "source": "Master Organic Chemistry",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Best resource for the substitution-vs-elimination decision tree that JEE Advanced reasoning questions hinge on."
+      },
+      {
+        "title": "Chemistry LibreTexts: Nucleophilic substitution and elimination reactions",
+        "url": "https://chem.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Search SN1, SN2, E1, E2; thorough mechanism coverage with energy diagrams and stereochemistry at exam depth."
+      },
+      {
+        "title": "Master Organic Chemistry: Grignard reagent reactions",
+        "url": "https://www.masterorganicchemistry.com/",
+        "source": "Master Organic Chemistry",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Complete Grignard preparation and reaction patterns (carbonyls, CO2, epoxides) frequently chained in JEE Advanced sequences."
+      },
+      {
+        "title": "ChemGuide: Halogenoarenes / aryl halide reactivity",
+        "url": "https://www.chemguide.co.uk/",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Explains why aryl halides resist nucleophilic substitution; supports haloarene reactivity questions."
+      },
+      {
+        "title": "Official JEE Advanced past papers archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "JEE Advanced (IIT)",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic previous-year papers; mine organic-mechanism and reaction-sequence questions involving halides for exact difficulty calibration."
+      },
+      {
+        "title": "Khan Academy: nucleophilic substitution and elimination",
+        "url": "https://www.khanacademy.org/search?page_search_query=nucleophilic%20substitution%20SN1%20SN2",
+        "source": "Khan Academy",
+        "type": "Course",
+        "level": "JEE Main",
+        "note": "Video-led walkthroughs of SN1/SN2/E1/E2 for students who need foundational mechanism intuition before harder practice."
+      },
+      {
+        "title": "MIT OCW 5.111 Principles of Chemical Science",
+        "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "University-level treatment of bonding, kinetics and reaction mechanisms that deepens the rate-law reasoning behind SN1/SN2."
+      },
+      {
+        "title": "Chemistry LibreTexts: stereochemistry of substitution (inversion vs racemization)",
+        "url": "https://chem.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Search Walden inversion and racemization; underpins optical-activity questions that combine stereochemistry with mechanism."
+      },
+      {
+        "title": "Wikipedia: nucleophilic aromatic substitution and benzyne",
+        "url": "https://en.wikipedia.org/w/index.php?search=nucleophilic+aromatic+substitution+benzyne",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Concise reference for the addition-elimination (Meisenheimer) and benzyne elimination-addition pathways tested in haloarene questions."
+      },
+      {
+        "title": "PubChem: properties of common polyhalogen compounds",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/#query=chloroform%20DDT%20freon",
+        "source": "PubChem",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Verified structures and properties of polyhalogen compounds (chloroform, DDT, freons) for the uses/environmental-effect questions."
+      },
+      {
+        "title": "Wolfram Alpha: reaction kinetics and rate-law calculator",
+        "url": "https://www.wolframalpha.com/input?i=SN1+reaction+rate+law",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "JEE Advanced",
+        "note": "Computes and visualizes rate expressions, useful for the first/second-order kinetics distinction between SN1 and SN2."
+      },
+      {
+        "title": "Brilliant: organic chemistry and reaction mechanism courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "JEE Main",
+        "note": "Interactive problem-driven lessons that build mechanistic reasoning through guided practice."
+      },
+      {
+        "title": "Master Organic Chemistry: leaving groups, nucleophiles and solvent effects",
+        "url": "https://www.masterorganicchemistry.com/",
+        "source": "Master Organic Chemistry",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Deep dives on the factors controlling substitution/elimination rates, central to Advanced multi-factor comparison problems."
+      },
+      {
+        "title": "ChemGuide: optical isomerism and chirality",
+        "url": "https://www.chemguide.co.uk/",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Clear treatment of chirality, R/S, and optical activity that grounds the stereochemistry side of halide substitution questions."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "SN1 vs SN2 mechanism comparison",
+        "query": "SN1 vs SN2 mechanism comparison rate law",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "SN2 backside attack and Walden inversion",
+        "query": "SN2 backside attack Walden inversion stereochemistry",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "SN1 carbocation rearrangement and racemization",
+        "query": "SN1 carbocation rearrangement racemization",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "E1 vs E2 elimination mechanism",
+        "query": "E1 vs E2 elimination mechanism",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "E2 anti-periplanar geometry",
+        "query": "E2 anti periplanar geometry Newman projection",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Saytzeff vs Hofmann elimination product",
+        "query": "Saytzeff vs Hofmann elimination major product",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Substitution vs elimination decision",
+        "query": "substitution vs elimination SN1 SN2 E1 E2 decision",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Effect of solvent on SN1 SN2",
+        "query": "polar protic aprotic solvent effect SN1 SN2",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Leaving group ability order",
+        "query": "leaving group ability order nucleophilic substitution",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Nucleophilicity vs basicity order",
+        "query": "nucleophilicity order vs basicity halide",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Preparation of haloalkanes from alcohols",
+        "query": "preparation of haloalkanes from alcohols SOCl2 PCl5",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Free radical halogenation of alkanes",
+        "query": "free radical halogenation of alkanes selectivity",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Grignard reagent preparation and reactions",
+        "query": "Grignard reagent preparation reactions",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Grignard reaction with carbonyl and CO2",
+        "query": "Grignard reagent reaction aldehyde ketone CO2 product",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Why aryl halides are less reactive",
+        "query": "why aryl halides less reactive nucleophilic substitution",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Nucleophilic aromatic substitution mechanism",
+        "query": "nucleophilic aromatic substitution addition elimination Meisenheimer",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Benzyne mechanism elimination-addition",
+        "query": "benzyne mechanism elimination addition aryl halide",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Wurtz, Wurtz-Fittig and Fittig reactions",
+        "query": "Wurtz Wurtz-Fittig Fittig reaction mechanism",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Finkelstein and Swarts halogen exchange",
+        "query": "Finkelstein Swarts reaction halogen exchange",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Optical activity in substitution reactions",
+        "query": "optical activity chirality SN1 SN2 product configuration",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Allyl and benzyl halide reactivity",
+        "query": "allyl benzyl halide enhanced SN1 reactivity resonance",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Vinyl and aryl halide unreactivity",
+        "query": "vinyl aryl halide unreactive substitution reason",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Reactions of chlorobenzene",
+        "query": "chlorobenzene reactions Dow process nitration",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Polyhalogen compounds and uses",
+        "query": "chloroform DDT freon carbon tetrachloride uses properties",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Carbocation stability and rearrangement",
+        "query": "carbocation stability hydride methyl shift rearrangement",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Order of reactivity of alkyl halides",
+        "query": "order of reactivity alkyl halides SN1 SN2 ranking",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Directive influence in haloarenes",
+        "query": "halogen ortho para directing deactivating electrophilic substitution",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Haloalkanes & Haloarenes full chapter lecture",
+        "query": "Haloalkanes Haloarenes full chapter one shot",
+        "level": "Mixed",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Reaction-mechanism reasoning problems",
+        "query": "alkyl halide reaction mechanism assertion reason",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Haloalkanes & Haloarenes previous year questions",
+        "query": "Haloalkanes Haloarenes",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "SN1/SN2 previous year questions",
+        "query": "SN1 SN2 reaction mechanism",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Elimination reaction previous year questions",
+        "query": "E1 E2 elimination reaction",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Grignard reagent previous year questions",
+        "query": "Grignard reagent organometallic",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Aromatic nucleophilic substitution previous year questions",
+        "query": "nucleophilic aromatic substitution benzyne aryl halide",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Stereochemistry of halides previous year questions",
+        "query": "stereochemistry optical activity alkyl halide",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Alcohols, Phenols & Ethers",
+    "slug": "alcohols-phenols-ethers",
+    "subject": "Chemistry",
+    "group": "Organic Chemistry",
+    "blurb": "A complete drill-and-revise pack covering preparation, acidity of phenols, esterification, oxidation, Williamson ether synthesis, named reactions, and distinguishing tests with curated notes and JEE-style problems.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Preparation of alcohols: hydration, hydroboration-oxidation, oxymercuration, Grignard route",
+      "Preparation of phenols: cumene process, from diazonium salts, from chlorobenzene (Dow)",
+      "Preparation of ethers: Williamson synthesis and dehydration of alcohols",
+      "Acidity of alcohols and phenols: substituent, inductive and resonance effects",
+      "Reactions with sodium, HX (Lucas test), and PCl3/PCl5/SOCl2",
+      "Esterification mechanism, Fischer esterification and O-18 labelling",
+      "Oxidation of alcohols (PCC, KMnO4, K2Cr2O7) and Victor Meyer test",
+      "Dehydration of alcohols, E1 mechanism and carbocation rearrangements",
+      "Electrophilic aromatic substitution on phenol: nitration, halogenation, sulphonation",
+      "Kolbe-Schmitt and Reimer-Tiemann reactions of phenol",
+      "Fries rearrangement and Claisen rearrangement of aryl ethers",
+      "Coupling, oxidation and reduction of phenols",
+      "Cleavage of ethers with HI/HBr (Zeisel) and epoxide ring opening",
+      "Distinguishing tests: Lucas, iodoform, ferric chloride, ceric ammonium nitrate",
+      "Classification of alcohols: 1deg, 2deg, 3deg and structural distinction"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Chemistry Textbooks (Class 12, Unit: Alcohols, Phenols and Ethers)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Download the Class 12 Part I PDF; this unit defines the exact in-syllabus reactions and tests examiners assume."
+      },
+      {
+        "title": "Master Organic Chemistry: Alcohols Reactions Summary",
+        "url": "https://www.masterorganicchemistry.com/",
+        "source": "Master Organic Chemistry",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Search 'alcohols' for the reaction maps on oxidation, substitution, and dehydration with arrow-pushing."
+      },
+      {
+        "title": "Master Organic Chemistry: Williamson Ether Synthesis",
+        "url": "https://www.masterorganicchemistry.com/",
+        "source": "Master Organic Chemistry",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Search 'Williamson ether synthesis' for SN2 logic, choosing the right alkoxide/halide pair, and elimination pitfalls."
+      },
+      {
+        "title": "ChemGuide: Alcohols Menu",
+        "url": "https://www.chemguide.co.uk/",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Clear JEE-level notes on alcohol preparation, oxidation, esterification and the haloform/iodoform reaction."
+      },
+      {
+        "title": "ChemGuide: Phenol Reactions and Acidity",
+        "url": "https://www.chemguide.co.uk/",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Use for phenol acidity vs alcohols, reaction with NaOH/Na, and electrophilic substitution selectivity."
+      },
+      {
+        "title": "Chemistry LibreTexts: Alcohols, Phenols and Ethers",
+        "url": "https://chem.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Search the chapter pages for mechanism-level detail on esterification, ether cleavage and oxidation states."
+      },
+      {
+        "title": "Chemistry LibreTexts: Phenol Acidity and Substituent Effects",
+        "url": "https://chem.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Search 'acidity of phenols' to compare pKa across nitro/halo/alkyl substituted phenols for ranking questions."
+      },
+      {
+        "title": "Wikipedia: Reimer-Tiemann Reaction",
+        "url": "https://en.wikipedia.org/wiki/Reimer%E2%80%93Tiemann_reaction",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Dichlorocarbene mechanism and ortho-selectivity; pair with Kolbe and Fries for the named-reaction set."
+      },
+      {
+        "title": "Wikipedia: Kolbe-Schmitt Reaction",
+        "url": "https://en.wikipedia.org/wiki/Kolbe%E2%80%93Schmitt_reaction",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Carboxylation of phenoxide to salicylic acid; classic named reaction frequently tested in product prediction."
+      },
+      {
+        "title": "Wikipedia: Williamson Ether Synthesis",
+        "url": "https://en.wikipedia.org/wiki/Williamson_ether_synthesis",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Concise mechanism and substrate-choice rationale; good quick reference for ether-formation problems."
+      },
+      {
+        "title": "PubChem: Phenol Compound Page",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/compound/phenol",
+        "source": "PubChem",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Authoritative physical/chemical data (pKa, acidity, structure) for phenol and substituted phenols."
+      },
+      {
+        "title": "Wikipedia: Claisen Rearrangement",
+        "url": "https://en.wikipedia.org/wiki/Claisen_rearrangement",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "[3,3]-sigmatropic shift of allyl aryl ethers to ortho-allylphenols; pericyclic mechanism for product prediction."
+      },
+      {
+        "title": "Khan Academy: Alcohols, Ethers and Phenols",
+        "url": "https://www.khanacademy.org/science/organic-chemistry",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Video walkthroughs of preparation, oxidation and substitution mechanisms for foundation-building."
+      },
+      {
+        "title": "Wikipedia: Fries Rearrangement",
+        "url": "https://en.wikipedia.org/wiki/Fries_rearrangement",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Lewis-acid catalysed migration of aryl ester acyl group to ortho/para hydroxy ketone; temperature controls selectivity."
+      },
+      {
+        "title": "Official JEE Advanced Past Papers Archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "JEE Advanced",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic past papers; mine the organic sections for alcohol/phenol product-prediction and reasoning items."
+      },
+      {
+        "title": "Master Organic Chemistry: Oxidation of Alcohols (PCC vs Jones)",
+        "url": "https://www.masterorganicchemistry.com/",
+        "source": "Master Organic Chemistry",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Search 'oxidation of alcohols' to distinguish PCC, KMnO4 and K2Cr2O7 outcomes for 1deg/2deg/3deg substrates."
+      },
+      {
+        "title": "Wikipedia: Lucas Reagent",
+        "url": "https://en.wikipedia.org/wiki/Lucas%27_reagent",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Lucas test timing for 1deg/2deg/3deg alcohols; cross-check with Victor Meyer and iodoform tests."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Acidity ordering of substituted phenols (MCQ)",
+        "query": "acidity order of nitrophenols cresols substituted phenols",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Why phenol is more acidic than ethanol",
+        "query": "phenol more acidic than ethanol resonance explanation",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Williamson ether synthesis mechanism and substrate choice",
+        "query": "Williamson ether synthesis mechanism choosing substrate SN2",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Why Williamson fails with tertiary alkyl halides",
+        "query": "Williamson ether synthesis tertiary halide elimination SN2",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Lucas test for primary secondary tertiary alcohols",
+        "query": "Lucas test distinguishing primary secondary tertiary alcohols",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Iodoform test scope and which alcohols give it",
+        "query": "iodoform test alcohols which give positive ethanol isopropanol",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Victor Meyer test classification of alcohols",
+        "query": "Victor Meyer test primary secondary tertiary alcohols",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Ferric chloride and ceric ammonium nitrate tests",
+        "query": "ferric chloride test phenol ceric ammonium nitrate alcohol test",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Oxidation of alcohols PCC vs KMnO4 vs K2Cr2O7",
+        "query": "oxidation of alcohols PCC KMnO4 dichromate product",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Reimer-Tiemann reaction product prediction",
+        "query": "Reimer Tiemann reaction phenol salicylaldehyde mechanism",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Kolbe-Schmitt reaction and salicylic acid",
+        "query": "Kolbe Schmitt reaction phenol salicylic acid mechanism",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Fries rearrangement of aryl esters",
+        "query": "Fries rearrangement aryl ester ortho para hydroxy ketone",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Claisen rearrangement of allyl aryl ethers",
+        "query": "Claisen rearrangement allyl phenyl ether mechanism",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cumene process for phenol manufacture",
+        "query": "cumene process phenol acetone mechanism",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Ether cleavage with HI HBr (Zeisel)",
+        "query": "ether cleavage HI HBr mechanism methyl aryl ether product",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Hydroboration-oxidation vs oxymercuration regiochemistry",
+        "query": "hydroboration oxidation vs oxymercuration alcohol Markovnikov anti",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Fischer esterification mechanism and equilibrium",
+        "query": "Fischer esterification mechanism acid catalyzed equilibrium",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Esterification O-18 labelling: which bond breaks",
+        "query": "esterification oxygen 18 labelling which bond breaks",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Dehydration of alcohols: E1, order and rearrangement",
+        "query": "dehydration of alcohols E1 carbocation rearrangement Saytzeff",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Reaction of alcohols with SOCl2, PCl3, PCl5",
+        "query": "alcohol with SOCl2 PCl3 PCl5 product mechanism stereochemistry",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Electrophilic substitution on phenol: nitration, bromination",
+        "query": "phenol nitration bromination sulphonation ortho para directing",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Phenol with bromine water: 2,4,6-tribromophenol",
+        "query": "phenol bromine water tribromophenol reaction",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Grignard reagent route to alcohols",
+        "query": "Grignard reagent synthesis of primary secondary tertiary alcohols",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Phenol from diazonium salt and chlorobenzene (Dow)",
+        "query": "phenol from benzene diazonium salt Dow process chlorobenzene",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Pinacol-pinacolone rearrangement of diols",
+        "query": "pinacol pinacolone rearrangement mechanism diol",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Boiling points: alcohols vs ethers and H-bonding",
+        "query": "boiling point alcohols vs ethers hydrogen bonding comparison",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Distinguishing alcohol, phenol and ether by tests",
+        "query": "distinguish alcohol phenol ether chemical test JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Coupling reaction of phenol with diazonium salt",
+        "query": "phenol diazonium coupling azo dye reaction",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Intramolecular Williamson: epoxide from halohydrin",
+        "query": "intramolecular Williamson synthesis epoxide halohydrin",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Epoxide ring opening: acid vs base regiochemistry",
+        "query": "epoxide ring opening acid base catalysis regiochemistry",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Symmetrical ethers by alcohol dehydration",
+        "query": "symmetrical ether preparation alcohol dehydration conditions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Phenol acidity reasoning: ortho-nitrophenol H-bonding",
+        "query": "phenol acidity assertion reason ortho nitrophenol intramolecular H bond",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "pyq",
+          "google"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Aldehydes, Ketones & Carboxylic Acids",
+    "slug": "carbonyl-compounds",
+    "subject": "Chemistry",
+    "group": "Organic Chemistry",
+    "blurb": "Everything your students need to master carbonyl chemistry - nucleophilic addition, the in-syllabus named reactions (aldol, Cannizzaro, haloform, HVZ, Clemmensen, Wolff-Kishner), acid-derivative interconversions, and the distinguishing tests JEE Advanced loves to combine into multi-step problems.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Nucleophilic addition to C=O (HCN, NaHSO3, alcohols, amines, Grignard)",
+      "Acetal/hemiacetal and imine/enamine formation",
+      "Aldol and crossed-aldol condensation",
+      "Cannizzaro and crossed-Cannizzaro reactions",
+      "Haloform reaction and the iodoform test",
+      "Clemmensen and Wolff-Kishner reduction",
+      "Preparation of carbonyls (Rosenmund, Stephen, Gattermann-Koch, Etard, ozonolysis)",
+      "Oxidation of aldehydes and ketones",
+      "Carboxylic acids: preparation, acidity and substituent effects",
+      "Carboxylic acid derivatives: esters, acid chlorides, anhydrides, amides",
+      "Hell-Volhard-Zelinsky (HVZ) reaction and alpha-halogenation",
+      "Nucleophilic acyl substitution and relative reactivity of derivatives",
+      "Fischer esterification, hydrolysis and Hofmann bromamide degradation",
+      "Distinguishing tests: Tollens, Fehling, Schiff, 2,4-DNP, iodoform",
+      "Keto-enol tautomerism and alpha-hydrogen reactivity"
+    ],
+    "anchors": [
+      {
+        "title": "Master Organic Chemistry - Aldehydes & Ketones reaction guide",
+        "url": "https://www.masterorganicchemistry.com/",
+        "source": "Master Organic Chemistry",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Best mechanism-first explanations of nucleophilic addition, aldol, and reductions. Use the site search for each named reaction."
+      },
+      {
+        "title": "Master Organic Chemistry - Carboxylic acids & derivatives",
+        "url": "https://www.masterorganicchemistry.com/",
+        "source": "Master Organic Chemistry",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Reactivity ladder of acyl derivatives and nucleophilic acyl substitution; matches JEE Advanced mechanism questions."
+      },
+      {
+        "title": "ChemGuide - Aldehydes and ketones",
+        "url": "https://www.chemguide.co.uk/",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Concise notes on addition reactions and oxidation; ideal for a quick first read before problems."
+      },
+      {
+        "title": "ChemGuide - Carboxylic acids and acidity",
+        "url": "https://www.chemguide.co.uk/",
+        "source": "ChemGuide",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Acidity trends, inductive effects and salt formation explained cleanly for board plus JEE level."
+      },
+      {
+        "title": "Chemistry LibreTexts - Aldehydes & Ketones (full chapter)",
+        "url": "https://chem.libretexts.org/",
+        "source": "Chemistry LibreTexts",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Search 'aldehydes ketones nucleophilic addition'; free, rigorous, with worked mechanisms and practice problems."
+      },
+      {
+        "title": "Chemistry LibreTexts - Carboxylic acid derivatives",
+        "url": "https://chem.libretexts.org/",
+        "source": "Chemistry LibreTexts",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Deep coverage of esters, amides, anhydrides and acyl substitution mechanisms with electron-pushing arrows."
+      },
+      {
+        "title": "NCERT Chemistry Class 12 - Aldehydes, Ketones & Carboxylic Acids (Ch.12)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "The canonical syllabus source. Download Class 12 Chemistry Part II; every JEE question maps back here."
+      },
+      {
+        "title": "Official JEE Advanced past papers archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "JEE Advanced",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic question papers plus official answer keys. Pull carbonyl questions year-by-year for genuine difficulty calibration."
+      },
+      {
+        "title": "Khan Academy - Aldehydes and ketones unit",
+        "url": "https://www.khanacademy.org/science/organic-chemistry/aldehydes-ketones",
+        "source": "Khan Academy",
+        "type": "Course",
+        "level": "JEE Main",
+        "note": "Video walk-throughs of addition reactions, oxidation, and nucleophilic acyl substitution; good for slower learners."
+      },
+      {
+        "title": "Wikipedia - Aldol reaction",
+        "url": "https://en.wikipedia.org/wiki/Aldol_reaction",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Solid overview of aldol and crossed-aldol scope and mechanism with diagrams; good for crafting cross-aldol problems."
+      },
+      {
+        "title": "Wikipedia - Cannizzaro reaction",
+        "url": "https://en.wikipedia.org/wiki/Cannizzaro_reaction",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Disproportionation mechanism, crossed-Cannizzaro with formaldehyde, and conditions; chain to other named-reaction pages by name."
+      },
+      {
+        "title": "Wikipedia - Nucleophilic acyl substitution",
+        "url": "https://en.wikipedia.org/wiki/Nucleophilic_acyl_substitution",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Reactivity order of acid chloride, anhydride, ester and amide with tetrahedral-intermediate mechanism."
+      },
+      {
+        "title": "PubChem - Benzaldehyde compound page",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/compound/Benzaldehyde",
+        "source": "PubChem",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Authoritative structure, boiling point and reactivity data; swap the compound name in the URL for acetone, acetic acid, etc."
+      },
+      {
+        "title": "Wikipedia - Hell-Volhard-Zelinsky reaction",
+        "url": "https://en.wikipedia.org/wiki/Hell%E2%80%93Volhard%E2%80%93Zelinsky_halogenation",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Alpha-halogenation of carboxylic acids via enol of the acyl bromide; conditions and product clearly laid out."
+      },
+      {
+        "title": "Wikipedia - Keto-enol tautomerism",
+        "url": "https://en.wikipedia.org/wiki/Keto%E2%80%93enol_tautomerism",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Enol vs enolate, alpha-hydrogen acidity and stability factors that underpin aldol and haloform chemistry."
+      },
+      {
+        "title": "MIT OCW 5.12 - Organic Chemistry I",
+        "url": "https://ocw.mit.edu/courses/5-12-organic-chemistry-i-spring-2005/",
+        "source": "MIT OCW",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "University treatment of carbonyl reactivity, nucleophilic addition and substitution with lecture notes and problem sets."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Nucleophilic addition to aldehydes & ketones - mechanism",
+        "query": "nucleophilic addition carbonyl mechanism aldehydes ketones",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Why aldehydes are more reactive than ketones toward nucleophiles",
+        "query": "aldehyde more reactive than ketone nucleophilic addition reason steric electronic",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Cyanohydrin and bisulphite addition products",
+        "query": "cyanohydrin formation NaHSO3 bisulphite addition carbonyl",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Acetal & hemiacetal / imine & enamine formation",
+        "query": "acetal hemiacetal imine enamine formation mechanism carbonyl",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Grignard reagent addition to carbonyls",
+        "query": "Grignard reagent addition aldehyde ketone alcohol product mechanism",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Aldol condensation - mechanism & products",
+        "query": "aldol condensation mechanism enolate beta hydroxy aldehyde",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Crossed (mixed) aldol condensation - product prediction",
+        "query": "crossed aldol condensation product prediction four products",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Cannizzaro reaction mechanism (disproportionation)",
+        "query": "Cannizzaro reaction mechanism hydride transfer disproportionation",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Crossed Cannizzaro with formaldehyde as hydride donor",
+        "query": "crossed Cannizzaro reaction formaldehyde hydride donor product",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Aldol vs Cannizzaro - role of alpha hydrogen",
+        "query": "aldol versus Cannizzaro alpha hydrogen presence condition decide",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Haloform reaction & iodoform test mechanism",
+        "query": "haloform reaction iodoform test mechanism methyl ketone",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Clemmensen vs Wolff-Kishner reduction",
+        "query": "Clemmensen Wolff Kishner reduction carbonyl to methylene conditions",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Rosenmund reduction & Stephen reaction (aldehyde prep)",
+        "query": "Rosenmund reduction Stephen reaction aldehyde preparation acid chloride nitrile",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Gattermann-Koch & Etard reaction (aromatic aldehydes)",
+        "query": "Gattermann Koch Etard reaction aromatic aldehyde preparation",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Ozonolysis to aldehydes and ketones",
+        "query": "ozonolysis reductive oxidative product alkene carbonyl",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Oxidation of aldehydes vs ketones (Tollens, Fehling, etc.)",
+        "query": "oxidation aldehyde ketone mild oxidising agents carboxylic acid",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Keto-enol tautomerism & alpha-hydrogen acidity",
+        "query": "keto enol tautomerism alpha hydrogen acidity carbonyl stability",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Carboxylic acid acidity & substituent effects",
+        "query": "carboxylic acid acidity inductive effect order comparison pKa",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Preparation of carboxylic acids",
+        "query": "preparation carboxylic acids oxidation hydrolysis Grignard CO2 nitrile",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Hell-Volhard-Zelinsky (HVZ) reaction",
+        "query": "Hell Volhard Zelinsky reaction mechanism alpha halogenation carboxylic acid",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Fischer esterification mechanism (acid catalysed)",
+        "query": "Fischer esterification mechanism acid catalysed equilibrium",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Relative reactivity of acid derivatives (acyl substitution)",
+        "query": "reactivity order acid chloride anhydride ester amide nucleophilic acyl substitution",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Amide hydrolysis & Hofmann bromamide degradation",
+        "query": "amide hydrolysis Hofmann bromamide degradation amine mechanism",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Decarboxylation & HVZ-linked acid reactions",
+        "query": "carboxylic acid decarboxylation soda lime Kolbe mechanism",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Distinguishing tests: Tollens, Fehling, Schiff, 2,4-DNP",
+        "query": "Tollens Fehling Schiff 2,4-DNP distinguishing aldehyde ketone test",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Iodoform test - which compounds give a positive result",
+        "query": "iodoform test positive compounds methyl ketone ethanol acetaldehyde",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "HCN addition & cyanohydrin stereochemistry",
+        "query": "HCN addition carbonyl cyanohydrin product stereochemistry",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Carbonyl multi-step conversion / reaction sequence problems",
+        "query": "carbonyl compounds reaction sequence conversion problems organic",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Distinguishing-test problems - identify the compound",
+        "query": "identify compound qualitative test aldehyde ketone acid problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Hardest in-syllabus carbonyl mechanism problems (mixed)",
+        "query": "advanced carbonyl mechanism problems enolate aldol acyl substitution",
+        "level": "Olympiad",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Aldehydes, ketones & carboxylic acids - previous year questions",
+        "query": "aldehydes ketones carboxylic acids",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Named reactions of carbonyls - JEE PYQ set",
+        "query": "carbonyl named reactions aldol Cannizzaro Clemmensen Rosenmund",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Carboxylic acids & derivatives - JEE PYQ set",
+        "query": "carboxylic acids derivatives esters amides acidity",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Mixed JEE Advanced problem set",
+        "query": "Aldehydes, Ketones & Carboxylic Acids JEE Advanced problems with solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Chapter-wise previous-year questions",
+        "query": "Aldehydes, Ketones & Carboxylic Acids chapterwise previous year questions",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Amines & Nitrogen Compounds",
+    "slug": "amines",
+    "subject": "Chemistry",
+    "group": "Organic Chemistry",
+    "blurb": "A complete drill pack on amine preparation, basicity ordering, diazonium chemistry, and the named reactions (Hofmann, carbylamine, coupling) that JEE Advanced reworks every year into multi-step synthesis and distinguishing-test problems.",
+    "jeeWeight": "Medium",
+    "subtopics": [
+      "Classification and nomenclature of amines (1deg, 2deg, 3deg, quaternary ammonium)",
+      "Preparation: reduction of nitro, nitrile and amide groups",
+      "Gabriel phthalimide synthesis and its scope/limitations",
+      "Hofmann bromamide degradation of amides",
+      "Reductive amination and ammonolysis of alkyl halides",
+      "Basicity of amines: gas phase vs aqueous, inductive, steric and solvation effects",
+      "Comparative basicity of aliphatic vs aromatic amines and substituent effects on aniline",
+      "Acylation of amines and Hofmann elimination of quaternary ammonium salts (Hofmann vs Saytzeff)",
+      "Carbylamine (isocyanide) test for primary amines",
+      "Hinsberg test and reaction with nitrous acid (HNO2)",
+      "Diazonium salt preparation, stability and structure",
+      "Sandmeyer, Gattermann, Balz-Schiemann and other replacement reactions of diazonium salts",
+      "Azo coupling reactions and dye formation",
+      "Electrophilic substitution in aniline (bromination, nitration, sulphonation) and protection of -NH2",
+      "Distinguishing 1deg, 2deg, 3deg amines and separation of amine mixtures"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced Official Archive (past papers & answer keys)",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "jeeadv.ac.in",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic previous-year Advanced papers; mine the Organic Chemistry sections for amine and diazonium multi-step and matrix-match items."
+      },
+      {
+        "title": "NCERT Chemistry Textbooks (Class 12, Amines chapter)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Open Class 12 Chemistry Part-II; the Amines chapter is the syllabus baseline every JEE question is built on."
+      },
+      {
+        "title": "Master Organic Chemistry: Amines reactions & basicity",
+        "url": "https://www.masterorganicchemistry.com/",
+        "source": "Master Organic Chemistry",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Search 'amines' for mechanism-level treatment of basicity, reductive amination and Hofmann elimination."
+      },
+      {
+        "title": "ChemGuide: Amines, diazonium salts and aniline reactions",
+        "url": "https://www.chemguide.co.uk/",
+        "source": "ChemGuide",
+        "type": "Topic page",
+        "level": "Mixed",
+        "note": "Clean JEE-level notes on diazonium replacement and azo coupling; navigate to Organic > Amines & Diazonium."
+      },
+      {
+        "title": "Chemistry LibreTexts: Amines (preparation, basicity, reactions)",
+        "url": "https://chem.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Search 'amines basicity' and 'diazonium' for detailed worked mechanisms with embedded practice questions."
+      },
+      {
+        "title": "Khan Academy: amine reactions and basicity",
+        "url": "https://www.khanacademy.org/science/organic-chemistry",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Organic chemistry hub; open the amines unit for nomenclature, basicity factors and key syntheses."
+      },
+      {
+        "title": "Wikipedia: Amine",
+        "url": "https://en.wikipedia.org/wiki/Amine",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Consolidated reference on classification, basicity pKa data and named preparations."
+      },
+      {
+        "title": "Wikipedia: Diazonium compound",
+        "url": "https://en.wikipedia.org/wiki/Diazonium_compound",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Mechanism and scope of diazotisation, Sandmeyer/Balz-Schiemann and azo dye coupling."
+      },
+      {
+        "title": "Wikipedia: Hofmann rearrangement (bromamide degradation)",
+        "url": "https://en.wikipedia.org/wiki/Hofmann_rearrangement",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Mechanism with isocyanate intermediate; pairs with the carbylamine and amide-degradation problems."
+      },
+      {
+        "title": "Chemistry StackExchange: amines tag",
+        "url": "https://chemistry.stackexchange.com/questions/tagged/amines",
+        "source": "Chemistry StackExchange",
+        "type": "Problem set",
+        "level": "JEE Advanced",
+        "note": "Expert-answered threads on tricky basicity-ordering exceptions (aniline, amides, guanidine) and named reactions."
+      },
+      {
+        "title": "PubChem: aniline (properties & reactions)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/compound/aniline",
+        "source": "PubChem",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Authoritative data card for the canonical aromatic amine used across JEE problems."
+      },
+      {
+        "title": "PubChem: benzenediazonium chloride",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/compound/Benzenediazonium-chloride",
+        "source": "PubChem",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Structure and reactivity data for the diazonium salt central to substitution chemistry."
+      },
+      {
+        "title": "Wolfram Alpha: amine / aniline molecular data",
+        "url": "https://www.wolframalpha.com/",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "Mixed",
+        "note": "Quick pKa/pKb lookups to verify basicity-ordering reasoning across methylamine, dimethylamine, aniline."
+      },
+      {
+        "title": "Brilliant: Organic Chemistry courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "JEE Main",
+        "note": "Interactive organic-chemistry problem sequences covering functional-group reactivity including amines."
+      },
+      {
+        "title": "MIT OCW 5.12 Organic Chemistry I",
+        "url": "https://ocw.mit.edu/courses/5-12-organic-chemistry-i-spring-2003/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "University-level mechanism lectures and problem sets that deepen amine reactivity and basicity reasoning."
+      },
+      {
+        "title": "Organic Chemistry Portal: Name Reactions index",
+        "url": "https://www.organic-chemistry.org/namedreactions/",
+        "source": "Organic Chemistry Portal",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Look up Sandmeyer, Gabriel, Hofmann rearrangement and Balz-Schiemann for mechanism and scope summaries."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Amine classification & nomenclature basics",
+        "query": "https://www.youtube.com/results?search_query=amines+classification+nomenclature+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Preparation of amines: reduction of nitro and nitrile",
+        "query": "https://www.google.com/search?q=preparation+of+amines+reduction+nitro+nitrile+problems+with+solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Gabriel phthalimide synthesis scope & problems",
+        "query": "https://www.google.com/search?q=Gabriel+phthalimide+synthesis+scope+problems+with+solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Hofmann bromamide degradation mechanism",
+        "query": "https://www.youtube.com/results?search_query=Hofmann+bromamide+degradation+mechanism+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Reductive amination practice problems",
+        "query": "https://www.google.com/search?q=reductive+amination+practice+problems+with+solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Ammonolysis of alkyl halides amine mixture",
+        "query": "https://www.google.com/search?q=ammonolysis+of+alkyl+halides+amine+mixture+problems+with+solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Basicity order: aliphatic vs aromatic amines",
+        "query": "https://www.youtube.com/results?search_query=basicity+order+of+amines+aliphatic+aromatic+JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Amine basicity: gas phase vs aqueous solvation",
+        "query": "https://chemistry.stackexchange.com/search?q=basicity+amines+gas+phase+aqueous+solvation",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Why dimethylamine more basic than trimethylamine",
+        "query": "https://chemistry.stackexchange.com/search?q=dimethylamine+more+basic+than+trimethylamine+water",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Substituent effect on aniline basicity",
+        "query": "https://www.google.com/search?q=substituent+effect+aniline+basicity+order+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Carbylamine (isocyanide) test for primary amines",
+        "query": "https://www.youtube.com/results?search_query=carbylamine+isocyanide+test+primary+amine+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Hinsberg test for 1deg/2deg/3deg amines",
+        "query": "https://www.google.com/search?q=Hinsberg+test+distinguishing+primary+secondary+tertiary+amine+problems+with+solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Reaction of amines with nitrous acid (HNO2)",
+        "query": "https://www.youtube.com/results?search_query=amines+reaction+with+nitrous+acid+HNO2+JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Diazonium salt preparation and stability",
+        "query": "https://www.google.com/search?q=diazonium+salt+preparation+stability+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Sandmeyer reaction problems",
+        "query": "https://www.google.com/search?q=Sandmeyer+reaction+diazonium+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Gattermann and Balz-Schiemann reactions",
+        "query": "https://www.youtube.com/results?search_query=Gattermann+Balz+Schiemann+diazonium+reaction+JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Azo coupling reaction and dye formation",
+        "query": "https://www.youtube.com/results?search_query=azo+coupling+reaction+diazonium+dye+JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Azo coupling pH and orientation",
+        "query": "https://chemistry.stackexchange.com/search?q=azo+coupling+reaction+pH+orientation",
+        "level": "Olympiad",
+        "sources": [
+          "cse",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Electrophilic substitution in aniline",
+        "query": "https://www.google.com/search?q=electrophilic+substitution+aniline+bromination+nitration+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Acetylation protection of aniline -NH2 before nitration",
+        "query": "https://chemistry.stackexchange.com/search?q=acetylation+protection+aniline+nitration",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Distinguishing 1deg/2deg/3deg amines by chemical tests",
+        "query": "https://www.youtube.com/results?search_query=distinguish+primary+secondary+tertiary+amine+tests+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Separation of amine mixtures (Hinsberg method)",
+        "query": "https://www.google.com/search?q=separation+of+amine+mixture+Hinsberg+method+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Amines named reactions JEE previous year",
+        "query": "https://www.google.com/search?q=amines+named+reactions+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Diazonium salt JEE previous year questions",
+        "query": "https://www.google.com/search?q=diazonium+salt+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Basicity of amines JEE previous year questions",
+        "query": "https://www.google.com/search?q=basicity+of+amines+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Hofmann bromamide & carbylamine PYQ",
+        "query": "https://www.google.com/search?q=Hofmann+bromamide+carbylamine+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Amines multi-step reaction sequence problems",
+        "query": "https://www.google.com/search?q=amines+multistep+reaction+sequence+JEE+Advanced+problems+with+solutions",
+        "level": "Olympiad",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Aniline reactivity tricky conceptual questions",
+        "query": "https://chemistry.stackexchange.com/search?q=aniline+reactivity+diazonium+conceptual",
+        "level": "Olympiad",
+        "sources": [
+          "cse",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Hofmann elimination of quaternary ammonium salts",
+        "query": "https://www.youtube.com/results?search_query=Hofmann+elimination+quaternary+ammonium+Saytzeff+JEE",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Amines full-chapter problem marathon",
+        "query": "https://www.youtube.com/results?search_query=amines+full+chapter+problems+marathon+JEE+Advanced",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "mse"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Biomolecules & Polymers",
+    "slug": "biomolecules-polymers",
+    "subject": "Chemistry",
+    "group": "Organic Chemistry",
+    "blurb": "A durable resource pack for JEE Advanced Biomolecules and Polymers — carbohydrate and amino-acid structures, protein and nucleic-acid architecture, vitamins, enzymes, and polymer classification — pairing NCERT and conceptual notes with curated live problem searches.",
+    "jeeWeight": "Medium",
+    "subtopics": [
+      "Carbohydrates: classification (monosaccharides, disaccharides, polysaccharides)",
+      "Glucose and fructose: open-chain and cyclic (pyranose/furanose) structures",
+      "Reducing vs non-reducing sugars and glycosidic linkages",
+      "Anomers, epimers, mutarotation and osazone formation",
+      "Amino acids: zwitterions, isoelectric point and classification",
+      "Peptide bond and protein structure (primary to quaternary)",
+      "Denaturation of proteins; alpha-helix and beta-pleated sheet",
+      "Nucleic acids: DNA and RNA, nucleosides and nucleotides",
+      "Vitamins: classification (fat-soluble vs water-soluble) and deficiency diseases",
+      "Enzymes: nature, specificity and catalytic action",
+      "Hormones as chemical messengers (brief NCERT overview)",
+      "Classification of polymers (natural, synthetic; thermoplastic, thermosetting)",
+      "Addition (chain-growth) polymers: polythene, PVC, PTFE, polyacrylonitrile",
+      "Condensation (step-growth) polymers: nylon-6,6, nylon-6, terylene, bakelite",
+      "Copolymers, rubber (natural and synthetic), and biodegradable polymers"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Chemistry textbooks (Class 11 & 12) — Biomolecules & Polymers chapters",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "The single most authoritative source for JEE biomolecules; open Class 12 Part II for the Biomolecules and Polymers chapters."
+      },
+      {
+        "title": "Official JEE Advanced past papers archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "JEE Advanced (IIT)",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic question papers and answer keys; scan chemistry sections for carbohydrate/protein structure and polymer identification questions."
+      },
+      {
+        "title": "Carbohydrates and nucleic acids — structure and reactions (LibreTexts)",
+        "url": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)/25%3A_Carbohydrates_and_Nucleic_Acids",
+        "source": "Chemistry LibreTexts",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Detailed open-chain/cyclic glucose, anomers, mutarotation and glycosidic bonds — deeper than NCERT for tricky JEE Advanced framing."
+      },
+      {
+        "title": "Amino acids, peptides and proteins (LibreTexts)",
+        "url": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)/24%3A_Amino_Acids_Peptides_and_Proteins",
+        "source": "Chemistry LibreTexts",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Zwitterions, isoelectric point, peptide bond and protein structure with worked reasoning useful for assertion-reason questions."
+      },
+      {
+        "title": "Synthetic polymers and polymerization (LibreTexts)",
+        "url": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Polymers",
+        "source": "Chemistry LibreTexts",
+        "type": "Topic page",
+        "level": "JEE Main",
+        "note": "Addition vs condensation mechanisms with monomer-to-polymer mapping — match monomers to nylon, terylene, bakelite."
+      },
+      {
+        "title": "ChemGuide — carbohydrate and amino-acid chemistry notes",
+        "url": "https://www.chemguide.co.uk/",
+        "source": "ChemGuide",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Clear, exam-level prose on sugar reactions, zwitterions and protein structure; ideal first-read before harder problems."
+      },
+      {
+        "title": "Master Organic Chemistry — carbohydrates topic index",
+        "url": "https://www.masterorganicchemistry.com/2017/11/03/introduction-to-carbohydrates/",
+        "source": "Master Organic Chemistry",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Step-by-step Fischer-to-Haworth conversions, anomers, epimers and mutarotation — strongest visual treatment for stereochemistry-heavy carbohydrate questions."
+      },
+      {
+        "title": "Master Organic Chemistry — amino acids and peptides",
+        "url": "https://www.masterorganicchemistry.com/2021/04/07/the-amino-acids-quiz/",
+        "source": "Master Organic Chemistry",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Amino-acid side chains, charge at given pH and peptide-bond formation drilled with quizzes."
+      },
+      {
+        "title": "MIT OCW 5.111 Principles of Chemical Science",
+        "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/",
+        "source": "MIT OpenCourseWare",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Free university lectures and problem sets covering bonding and biomolecular structure for students wanting rigor beyond NCERT."
+      },
+      {
+        "title": "Khan Academy — biomolecules (carbohydrates, proteins, nucleic acids)",
+        "url": "https://www.khanacademy.org/search?page_search_query=carbohydrates%20proteins%20nucleic%20acids%20structure",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Short conceptual videos and practice for first-pass understanding of biomolecule structure and function."
+      },
+      {
+        "title": "Khan Academy — polymers and polymerization",
+        "url": "https://www.khanacademy.org/search?page_search_query=addition%20and%20condensation%20polymers",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Visual walkthroughs of chain-growth vs step-growth polymerization to lock in the addition/condensation distinction."
+      },
+      {
+        "title": "PubChem — verify monosaccharide, amino-acid and monomer structures",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/#query=D-glucose%20structure",
+        "source": "PubChem",
+        "type": "Tool",
+        "level": "JEE Advanced",
+        "note": "Authoritative 2D/3D structures and IUPAC names; swap the query to verify any monosaccharide, amino acid, vitamin or monomer structure."
+      },
+      {
+        "title": "Wikipedia — carbohydrate, protein, nucleic acid and polymer overviews",
+        "url": "https://en.wikipedia.org/w/index.php?search=glycosidic%20bond%20reducing%20sugar%20mutarotation",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Broad, well-cited overviews for cross-checking definitions of glycosidic bonds, denaturation, copolymers and vitamin classes."
+      },
+      {
+        "title": "Chemistry StackExchange — biomolecules conceptual Q&A search",
+        "url": "https://chemistry.stackexchange.com/search?q=mutarotation%20glucose%20anomer",
+        "source": "Chemistry StackExchange",
+        "type": "Search",
+        "level": "JEE Advanced",
+        "note": "Expert explanations of subtle points (mutarotation mechanism, why a sugar is reducing) that resolve exam ambiguities."
+      },
+      {
+        "title": "Chemistry StackExchange — polymer classification Q&A search",
+        "url": "https://chemistry.stackexchange.com/search?q=addition%20vs%20condensation%20polymer%20nylon%20bakelite",
+        "source": "Chemistry StackExchange",
+        "type": "Search",
+        "level": "JEE Advanced",
+        "note": "Clears confusion on classifying borderline polymers and naming monomers for nylon-6, nylon-6,6, terylene and bakelite."
+      },
+      {
+        "title": "Brilliant — organic chemistry and biochemistry courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "JEE Main",
+        "note": "Interactive problem-driven lessons for building intuition on biomolecule structure and reactivity."
+      },
+      {
+        "title": "Wolfram Alpha — molecular formula and property lookups",
+        "url": "https://www.wolframalpha.com/input?i=molecular%20formula%20of%20glucose",
+        "source": "Wolfram Alpha",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Quick verification of molecular formulae and molar masses for sugars, amino acids and monomers in numerical problems."
+      },
+      {
+        "title": "Khan Academy — biology of vitamins, enzymes and hormones",
+        "url": "https://www.khanacademy.org/search?page_search_query=vitamins%20enzymes%20hormones%20function",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Concise videos on vitamin classes, enzyme catalysis and hormone roles — fills the small NCERT-only topics quickly."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Glucose open-chain vs cyclic (Haworth) structure problems",
+        "query": "https://www.google.com/search?q=glucose+open+chain+and+cyclic+Haworth+structure+problems+with+solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Mutarotation and anomers of glucose explained",
+        "query": "https://chemistry.stackexchange.com/search?q=mutarotation+anomers+alpha+beta+glucose",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Reducing vs non-reducing sugars (Tollens/Fehling)",
+        "query": "https://www.google.com/search?q=reducing+and+non+reducing+sugars+Tollens+Fehling+problems+with+solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Glycosidic linkage in sucrose, maltose and lactose",
+        "query": "https://www.youtube.com/results?search_query=glycosidic+linkage+sucrose+maltose+lactose+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Epimers, anomers and diastereomers of monosaccharides",
+        "query": "https://chemistry.stackexchange.com/search?q=epimer+anomer+monosaccharide+difference",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Osazone formation and sugar identification",
+        "query": "https://www.google.com/search?q=osazone+formation+sugars+mechanism+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Starch vs cellulose vs glycogen structure",
+        "query": "https://www.youtube.com/results?search_query=starch+cellulose+glycogen+structure+difference+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Carbohydrates previous year questions",
+        "query": "https://www.google.com/search?q=carbohydrates+chemistry+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Amino acids: zwitterion and isoelectric point problems",
+        "query": "https://www.google.com/search?q=amino+acid+zwitterion+isoelectric+point+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Charge of amino acid at given pH (titration)",
+        "query": "https://chemistry.stackexchange.com/search?q=amino+acid+charge+at+pH+isoelectric+point+titration",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Peptide bond formation and naming peptides",
+        "query": "https://www.youtube.com/results?search_query=peptide+bond+formation+naming+dipeptide+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Protein structure: primary to quaternary and denaturation",
+        "query": "https://www.google.com/search?q=protein+primary+secondary+tertiary+quaternary+structure+denaturation+problems+with+solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Alpha-helix vs beta-pleated sheet hydrogen bonding",
+        "query": "https://chemistry.stackexchange.com/search?q=alpha+helix+beta+pleated+sheet+hydrogen+bonding+protein",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Proteins and amino acids previous year questions",
+        "query": "https://www.google.com/search?q=proteins+amino+acids+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "DNA vs RNA structure and nucleotide components",
+        "query": "https://www.google.com/search?q=DNA+RNA+structure+nucleotide+nucleoside+difference+problems+with+solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Base pairing and phosphodiester linkage in nucleic acids",
+        "query": "https://chemistry.stackexchange.com/search?q=nucleic+acid+base+pairing+phosphodiester+linkage",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Nucleic acids JEE questions and answers",
+        "query": "https://www.youtube.com/results?search_query=nucleic+acids+DNA+RNA+JEE+questions",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Vitamins classification and deficiency diseases",
+        "query": "https://www.google.com/search?q=vitamins+fat+soluble+water+soluble+deficiency+diseases+problems+with+solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Fat-soluble vs water-soluble vitamins concept questions",
+        "query": "https://chemistry.stackexchange.com/search?q=fat+soluble+water+soluble+vitamins+difference",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Enzymes: nature, specificity and catalytic action",
+        "query": "https://www.youtube.com/results?search_query=enzymes+catalysis+specificity+biomolecules+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Biomolecules full chapter previous year questions",
+        "query": "https://www.google.com/search?q=biomolecules+chemistry+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Classification of polymers (thermoplastic vs thermosetting)",
+        "query": "https://www.google.com/search?q=classification+of+polymers+thermoplastic+thermosetting+problems+with+solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Addition vs condensation polymerization mechanism",
+        "query": "https://chemistry.stackexchange.com/search?q=addition+vs+condensation+polymerization+mechanism+difference",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Match the monomer to the polymer (nylon, terylene, bakelite)",
+        "query": "https://www.google.com/search?q=match+monomer+to+polymer+nylon+terylene+bakelite+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Nylon-6 vs nylon-6,6 monomers and structures",
+        "query": "https://www.youtube.com/results?search_query=nylon+6+vs+nylon+66+monomers+structure+JEE",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "mse"
+        ]
+      },
+      {
+        "label": "Natural and synthetic rubber, vulcanization",
+        "query": "https://www.google.com/search?q=natural+synthetic+rubber+vulcanization+isoprene+problems+with+solutions",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "mse"
+        ]
+      },
+      {
+        "label": "Copolymers and biodegradable polymers (PHBV, nylon-2-nylon-6)",
+        "query": "https://chemistry.stackexchange.com/search?q=copolymer+biodegradable+polymer+PHBV+nylon-2-nylon-6",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Polymers chapter previous year questions",
+        "query": "https://www.google.com/search?q=polymers+chemistry+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Carbohydrate stereochemistry hardest in-syllabus problems",
+        "query": "https://www.google.com/search?q=carbohydrate+stereochemistry+Fischer+Haworth+conversion+hard+problems+with+solutions",
+        "level": "Olympiad",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Glucose chemical reactions and structure proof",
+        "query": "https://chemistry.stackexchange.com/search?q=glucose+structure+determination+chemical+reactions",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Biomolecules assertion-reason and matrix-match questions",
+        "query": "https://www.google.com/search?q=biomolecules+assertion+reason+matrix+match+JEE+Advanced+previous+year+questions+pdf",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Polymers numerical: degree of polymerization and molar mass",
+        "query": "https://www.google.com/search?q=degree+of+polymerization+number+average+molar+mass+polymer+problems+with+solutions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Biomolecules and polymers full revision marathon",
+        "query": "https://www.youtube.com/results?search_query=biomolecules+and+polymers+full+revision+one+shot+JEE",
+        "level": "Mixed",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Practical Organic Chemistry",
+    "slug": "practical-organic",
+    "subject": "Chemistry",
+    "group": "Organic Chemistry",
+    "blurb": "Everything students need to master qualitative organic analysis, element and functional-group detection, distinguishing chemical tests, purification techniques, and quantitative estimation as tested in JEE Advanced.",
+    "jeeWeight": "Medium",
+    "subtopics": [
+      "Detection of carbon and hydrogen",
+      "Lassaigne's sodium fusion test for N, S, halogens and phosphorus",
+      "Detection of nitrogen, sulphur and halogens in the fusion extract",
+      "Detection of the hydroxyl group (alcohol vs phenol)",
+      "Detection of aldehyde and ketone (carbonyl) groups",
+      "Detection of carboxylic acid and ester groups",
+      "Detection of amino groups (primary, secondary, tertiary)",
+      "Detection of unsaturation (C=C / C≡C)",
+      "Distinguishing chemical tests between functional groups",
+      "Complete qualitative organic analysis scheme",
+      "Purification by crystallisation and fractional crystallisation",
+      "Purification by simple, fractional and steam distillation",
+      "Purification by sublimation and differential solvent extraction",
+      "Chromatography (column, TLC, paper) and Rf values",
+      "Quantitative estimation (Kjeldahl, Dumas, Carius, Liebig)"
+    ],
+    "anchors": [
+      {
+        "title": "JEE Advanced Official Past Papers Archive",
+        "url": "https://jeeadv.ac.in/archive.html",
+        "source": "jeeadv.ac.in",
+        "type": "Past papers",
+        "level": "JEE Advanced",
+        "note": "Authentic question papers; search past years for qualitative-analysis and distinguishing-test questions."
+      },
+      {
+        "title": "NCERT Class 11 Chemistry: Organic Chemistry - Basic Principles & Techniques",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "ncert.nic.in",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Covers purification, qualitative and quantitative analysis - the syllabus baseline for this topic."
+      },
+      {
+        "title": "Master Organic Chemistry - Functional Group Reactivity",
+        "url": "https://www.masterorganicchemistry.com/",
+        "source": "masterorganicchemistry.com",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Clear functional-group chemistry; use to understand why each distinguishing test works mechanistically."
+      },
+      {
+        "title": "ChemGuide - Tests for Organic Functional Groups",
+        "url": "https://www.chemguide.co.uk/",
+        "source": "chemguide.co.uk",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "JEE-level notes on tests for -OH, -CHO, C=C and halogenoalkanes; browse the analysis and tests sections."
+      },
+      {
+        "title": "Chemistry LibreTexts - Qualitative Analysis of Organic Compounds",
+        "url": "https://chem.libretexts.org/Bookshelves/Organic_Chemistry",
+        "source": "chem.libretexts.org",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Detailed lab procedures and theory for qualitative organic analysis and the sodium fusion test."
+      },
+      {
+        "title": "Wikipedia - Sodium Fusion Test (Lassaigne's Test)",
+        "url": "https://en.wikipedia.org/wiki/Sodium_fusion_test",
+        "source": "wikipedia.org",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Full chemistry of detecting N, S and halogens via sodium fusion - core JEE exam content."
+      },
+      {
+        "title": "Wikipedia - Tollens' Reagent",
+        "url": "https://en.wikipedia.org/wiki/Tollens%27_reagent",
+        "source": "wikipedia.org",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Silver-mirror carbonyl test with equations - frequently asked in JEE Advanced reasoning questions."
+      },
+      {
+        "title": "Wikipedia - Iodoform Reaction",
+        "url": "https://en.wikipedia.org/wiki/Iodoform",
+        "source": "wikipedia.org",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Which methyl carbonyl and CH3CH(OH)- compounds give a positive iodoform test."
+      },
+      {
+        "title": "Wikipedia - Thin-Layer Chromatography",
+        "url": "https://en.wikipedia.org/wiki/Thin-layer_chromatography",
+        "source": "wikipedia.org",
+        "type": "Reference",
+        "level": "JEE Main",
+        "note": "Separation theory, Rf calculation, and adsorption vs partition chromatography."
+      },
+      {
+        "title": "Khan Academy - Organic Chemistry",
+        "url": "https://www.khanacademy.org/science/organic-chemistry",
+        "source": "khanacademy.org",
+        "type": "Video",
+        "level": "JEE Main",
+        "note": "Video walkthroughs of functional groups, identification, and separation techniques - a conceptual primer."
+      },
+      {
+        "title": "PubChem - 2,4-Dinitrophenylhydrazine (reagent lookup)",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/compound/2_4-dinitrophenylhydrazine",
+        "source": "pubchem.ncbi.nlm.nih.gov",
+        "type": "Tool",
+        "level": "JEE Advanced",
+        "note": "Model entry for looking up structures and properties of qualitative-analysis reagents (DNP, Fehling, Tollens)."
+      },
+      {
+        "title": "Wikipedia - Hinsberg Test",
+        "url": "https://en.wikipedia.org/wiki/Hinsberg_test",
+        "source": "wikipedia.org",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "How the Hinsberg reagent distinguishes primary, secondary and tertiary amines."
+      },
+      {
+        "title": "MIT OCW 5.111 Principles of Chemical Science",
+        "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/",
+        "source": "ocw.mit.edu",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Rigorous acid-base and oxidation chemistry underpinning organic tests."
+      },
+      {
+        "title": "Brilliant - Chemistry Courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "brilliant.org",
+        "type": "Course",
+        "level": "JEE Main",
+        "note": "Interactive problem-driven chemistry to build functional-group intuition."
+      },
+      {
+        "title": "Wolfram Alpha - Molecular & Reagent Computation",
+        "url": "https://www.wolframalpha.com/",
+        "source": "wolframalpha.com",
+        "type": "Tool",
+        "level": "JEE Main",
+        "note": "Quick lookups of molecular formulae, masses and properties of analysis reagents for estimation numericals."
+      },
+      {
+        "title": "Wikipedia - Kjeldahl Method",
+        "url": "https://en.wikipedia.org/wiki/Kjeldahl_method",
+        "source": "wikipedia.org",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Nitrogen estimation with the back-titration calculation - a numerical JEE favourite; pair with Dumas/Carius/Liebig."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Lassaigne's test for nitrogen, sulphur and halogens",
+        "query": "Lassaigne test detection nitrogen sulphur halogen organic compound",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Sodium fusion extract preparation and reactions",
+        "query": "sodium fusion extract preparation Prussian blue reaction",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Detection of carbon and hydrogen by copper oxide",
+        "query": "detection carbon hydrogen copper oxide test organic compound",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Why nitrogen and sulphur together give a blood-red colour",
+        "query": "nitrogen sulphur together blood red sodium thiocyanate Lassaigne",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Detection of halogens: silver nitrate and Beilstein test",
+        "query": "detection halogen organic compound silver nitrate Beilstein test",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Distinguish aldehyde from ketone (Tollens, Fehling)",
+        "query": "distinguish aldehyde ketone Tollens Fehling test",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Iodoform test: which compounds give it",
+        "query": "iodoform test positive methyl ketone ethanol acetaldehyde",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "2,4-DNP (Brady's reagent) test for carbonyl groups",
+        "query": "2 4 DNP Brady reagent test aldehyde ketone carbonyl",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Distinguish alcohol from phenol (FeCl3, ceric ammonium nitrate)",
+        "query": "distinguish alcohol phenol ferric chloride ceric ammonium nitrate test",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Lucas test for primary, secondary, tertiary alcohols",
+        "query": "Lucas test primary secondary tertiary alcohol distinguish",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Test for carboxylic acid: sodium bicarbonate effervescence",
+        "query": "test carboxylic acid sodium bicarbonate effervescence distinguish phenol",
+        "level": "JEE Main",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Distinguish primary, secondary, tertiary amines (Hinsberg)",
+        "query": "distinguish primary secondary tertiary amine Hinsberg test",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Carbylamine (isocyanide) test for primary amines",
+        "query": "carbylamine isocyanide test primary amine detection",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Azo-dye coupling test for aromatic primary amines",
+        "query": "azo dye test diazotization aromatic primary amine",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Test for unsaturation: bromine water and Baeyer's reagent",
+        "query": "test unsaturation bromine water Baeyer reagent alkene alkyne",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Distinguish a terminal alkyne (ammoniacal AgNO3 / Cu2Cl2)",
+        "query": "distinguish terminal alkyne ammoniacal silver nitrate cuprous chloride test",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Complete qualitative organic analysis scheme",
+        "query": "qualitative organic analysis scheme functional group identification",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Distinguishing-test practice problems for functional groups",
+        "query": "distinguishing chemical tests organic compounds practice problems",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "youtube",
+          "cse"
+        ]
+      },
+      {
+        "label": "Purification by crystallisation and fractional crystallisation",
+        "query": "purification organic compound crystallisation fractional crystallisation",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Simple, fractional and steam distillation principles",
+        "query": "simple fractional steam distillation organic compound separation",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Steam distillation: which compounds and why",
+        "query": "steam distillation immiscible volatile compound aniline nitrobenzene",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Sublimation and differential extraction purification",
+        "query": "purification sublimation solvent extraction organic compound",
+        "level": "JEE Main",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Column and thin-layer chromatography with Rf calculation",
+        "query": "column chromatography TLC Rf value calculation separation",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Adsorption vs partition chromatography",
+        "query": "adsorption chromatography partition chromatography difference principle",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Kjeldahl method: nitrogen estimation numericals",
+        "query": "Kjeldahl method nitrogen estimation calculation percentage",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Carius method: halogen and sulphur estimation",
+        "query": "Carius method halogen sulphur estimation calculation",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Dumas method: nitrogen estimation by gas volume",
+        "query": "Dumas method nitrogen estimation volume calculation",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Liebig combustion: carbon and hydrogen estimation",
+        "query": "Liebig combustion method carbon hydrogen estimation calculation",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google"
+        ]
+      },
+      {
+        "label": "Estimation of phosphorus and oxygen in organic compounds",
+        "query": "estimation phosphorus oxygen organic compound percentage calculation",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Practical organic chemistry previous-year questions",
+        "query": "practical organic chemistry qualitative analysis previous year",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google"
+        ]
+      },
+      {
+        "label": "Distinguishing-test PYQs (functional groups)",
+        "query": "distinguishing tests functional groups organic previous year",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Element and functional-group detection PYQs",
+        "query": "detection elements functional groups organic compound previous year",
+        "level": "JEE Advanced",
+        "sources": [
+          "pyq",
+          "google",
+          "cse"
+        ]
+      },
+      {
+        "label": "Hardest mixed-functional qualitative analysis problems",
+        "query": "qualitative organic analysis multiple functional group identification hard",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Detection of esters: hydroxamic acid and hydrolysis tests",
+        "query": "detection ester group hydroxamic acid test ester hydrolysis organic",
+        "level": "JEE Advanced",
+        "sources": [
+          "cse",
+          "google",
+          "youtube"
         ]
       }
     ]

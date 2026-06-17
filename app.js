@@ -21,15 +21,19 @@
      Every seed becomes a LIVE search on a major platform — these URLs
      cannot 404, and each surfaces dozens-to-hundreds of solved problems. */
   const SOURCE_META = {
-    mse:     { name: "Math StackExchange", type: "Problem set", note: "Hundreds of fully-worked solutions — sort by votes for the cleanest." },
-    aops:    { name: "AoPS",               type: "Problem set", note: "Contest & Olympiad-level discussion threads with worked solutions." },
-    youtube: { name: "YouTube",            type: "Video",       note: "Lectures and step-by-step video walkthroughs." },
-    google:  { name: "Web",                type: "Search",      note: "Worksheets, notes and assorted problem sets across the web." },
-    pyq:     { name: "PYQ Papers",         type: "Past papers", note: "Previous-year JEE question PDFs, chapter-wise." },
+    mse:     { name: "Math StackExchange",    type: "Problem set", note: "Hundreds of fully-worked solutions — sort by votes for the cleanest." },
+    pse:     { name: "Physics StackExchange", type: "Problem set", note: "Conceptual physics Q&A with detailed expert answers." },
+    cse:     { name: "Chemistry StackExchange",type: "Problem set", note: "Detailed chemistry Q&A — mechanisms, reasoning, worked steps." },
+    aops:    { name: "AoPS",                  type: "Problem set", note: "Contest & Olympiad-level discussion threads with worked solutions." },
+    youtube: { name: "YouTube",               type: "Video",       note: "Lectures and step-by-step video walkthroughs." },
+    google:  { name: "Web",                   type: "Search",      note: "Worksheets, notes and assorted problem sets across the web." },
+    pyq:     { name: "PYQ Papers",            type: "Past papers", note: "Previous-year JEE question PDFs, chapter-wise." },
   };
   function buildUrl(src, q) {
     switch (src) {
       case "mse":     return "https://math.stackexchange.com/search?q=" + enc(q);
+      case "pse":     return "https://physics.stackexchange.com/search?q=" + enc(q);
+      case "cse":     return "https://chemistry.stackexchange.com/search?q=" + enc(q);
       case "aops":    return "https://www.google.com/search?q=" + enc("site:artofproblemsolving.com " + q);
       case "youtube": return "https://www.youtube.com/results?search_query=" + enc(q + " JEE");
       case "google":  return "https://www.google.com/search?q=" + enc(q + " problems with solutions");
@@ -38,16 +42,31 @@
     }
   }
 
+  // subjects + their teaching groups (controls home tabs, ordering, accent colour)
+  const SUBJECTS = [
+    { key: "Mathematics", glyph: "∫", accent: "var(--accent)",   groups: ["Algebra", "Trigonometry", "Calculus", "Coordinate Geometry", "Vectors & 3D"] },
+    { key: "Physics",     glyph: "↯", accent: "var(--sky)",      groups: ["General Physics", "Mechanics", "Waves & Thermal", "Electromagnetism", "Optics & Modern"] },
+    { key: "Chemistry",   glyph: "⚗", accent: "var(--accent-2)", groups: ["Physical Chemistry", "Inorganic Chemistry", "Organic Chemistry"] },
+  ];
+  const subjectMeta = (k) => SUBJECTS.find((s) => s.key === k) || SUBJECTS[0];
+
   /* ---------------- the teacher's own resources + universal tools ---------------- */
-  const AI_STUDIO = {
-    title: "Generate unlimited custom problems with AI",
-    url: "https://yosoyun.github.io/math-prompt-studio/",
-    source: "Maths Prompt Studio",
-    type: "Tool",
-    level: "Mixed",
-    note: "Indrajeet's own free prompt library — paste a prompt into ChatGPT/Claude to instantly create fresh, made-to-order practice on this exact topic.",
-    feature: true,
-  };
+  function getStudio(subject) {
+    if (subject === "Mathematics") return {
+      title: "Generate unlimited custom problems with AI",
+      url: "https://yosoyun.github.io/math-prompt-studio/",
+      source: "Maths Prompt Studio", type: "Tool", level: "Mixed",
+      note: "Indrajeet's own free prompt library — paste a prompt into ChatGPT/Claude to instantly create fresh, made-to-order practice on this exact topic.",
+      feature: true,
+    };
+    return {
+      title: "Generate unlimited custom problems with AI",
+      url: "https://github.com/Yosoyun/ai-prompt-library-for-teachers",
+      source: "AI Prompt Library", type: "Tool", level: "Mixed",
+      note: "Indrajeet's free library of 200+ classroom AI prompts — paste one into ChatGPT/Claude to instantly create fresh practice for this topic.",
+      feature: true,
+    };
+  }
   const TEACHER_EXTRAS = {
     "limits-continuity-differentiability": [{
       title: "Limits Masterbook — 100 advanced problems", url: "https://github.com/Yosoyun/limits-masterbook",
@@ -65,6 +84,7 @@
   };
 
   const FOOTER_WORKS = [
+    { name: "ALLEN Resource Hub", desc: "Every official ALLEN channel & link, in one place", url: "https://yosoyun.github.io/allen-resource-hub/" },
     { name: "Maths Prompt Studio", desc: "500+ free AI prompts for maths teachers", url: "https://yosoyun.github.io/math-prompt-studio/" },
     { name: "AI Prompt Library for Teachers", desc: "200+ ready classroom prompts", url: "https://github.com/Yosoyun/ai-prompt-library-for-teachers" },
     { name: "Limits Masterbook", desc: "100 advanced limit problems, multi-method", url: "https://github.com/Yosoyun/limits-masterbook" },
@@ -76,7 +96,7 @@
   /* ---------------- expand a chapter into its full resource list ---------------- */
   function expandChapter(ch) {
     const list = [];
-    list.push(AI_STUDIO);
+    list.push(getStudio(ch.subject));
     (TEACHER_EXTRAS[ch.slug] || []).forEach((r) => list.push(r));
     (ch.anchors || []).forEach((a) => list.push(a));
     (ch.seeds || []).forEach((seed) => {
@@ -100,26 +120,98 @@
   DATA.forEach((ch) => { ch._res = expandChapter(ch); ch._count = ch._res.length; });
   const TOTAL_LINKS = DATA.reduce((n, ch) => n + ch._count, 0);
 
-  const GROUP_ORDER = ["Algebra", "Trigonometry", "Calculus", "Coordinate Geometry", "Vectors & 3D"];
+  // active subject (persisted across visits)
+  let activeSubject = localStorage.getItem("atlas-subject");
+  const subjectsPresent = SUBJECTS.map((s) => s.key).filter((k) => DATA.some((c) => c.subject === k));
+  if (!subjectsPresent.includes(activeSubject)) activeSubject = subjectsPresent[0] || "Mathematics";
+  const chaptersOf = (key) => DATA.filter((c) => c.subject === key);
 
-  /* ---------------- views ---------------- */
+  /* ---------------- home ---------------- */
   function renderHome() {
-    document.title = "Problem Atlas — JEE Advanced Mathematics";
-    const total = TOTAL_LINKS ? TOTAL_LINKS.toLocaleString() : "2,700";
-    const chCount = DATA.length || 27;
+    document.title = "Problem Atlas — JEE Advanced (Maths · Physics · Chemistry)";
+    const total = TOTAL_LINKS ? TOTAL_LINKS.toLocaleString() : "8,000";
+    const chCount = DATA.length;
 
+    const tabsHtml = subjectsPresent.map((k) => {
+      const sm = subjectMeta(k);
+      return `<button class="subj-tab" data-subject="${esc(k)}" type="button"><span class="subj-glyph" aria-hidden="true">${sm.glyph}</span><span>${esc(k)}</span><span class="subj-n">${chaptersOf(k).length}</span></button>`;
+    }).join("");
+
+    app.innerHTML = `
+      <section class="hero wrap">
+        <span class="eyebrow">● Free · live · always-working links</span>
+        <h1>The world's best JEE Advanced problems, <em>mapped chapter&nbsp;by&nbsp;chapter.</em></h1>
+        <p class="lede">A curated atlas of brilliant, strictly in-syllabus problems across <strong>Maths, Physics&nbsp;&amp; Chemistry</strong> for <strong>JEE&nbsp;Advanced</strong> — pulling the best of the Stack&nbsp;Exchanges, AoPS, MIT&nbsp;OCW, Feynman&nbsp;Lectures, LibreTexts, NCERT, Brilliant and past papers into one place. Around <strong>100 resources per chapter</strong>, every link guaranteed live.</p>
+        <div class="hero-search">
+          <span class="s-ico" aria-hidden="true">⌕</span>
+          <input id="homeSearch" type="search" placeholder="Search chapters — e.g. limits, rotation, electrochemistry…" aria-label="Search chapters" autocomplete="off" />
+          <span class="s-hint">press /</span>
+        </div>
+        <div class="hero-stats">
+          <div class="stat"><span class="num">${chCount}</span><span class="lbl">Chapters</span></div>
+          <div class="stat"><span class="num">${total}<span class="unit">+</span></span><span class="lbl">Curated links</span></div>
+          <div class="stat"><span class="num">100<span class="unit">%</span></span><span class="lbl">Live, no rot</span></div>
+          <div class="stat"><span class="num">0<span class="unit">₹</span></span><span class="lbl">Forever free</span></div>
+        </div>
+      </section>
+
+      <section class="guide wrap" id="guide">
+        <div class="section-head">
+          <span class="kicker">Start here</span>
+          <h2>How to use this — in 30 seconds</h2>
+          <p class="sub">No account, no install. Built for teachers who just want great questions, fast.</p>
+        </div>
+        <div class="guide-grid">
+          <div class="step"><span class="n">STEP 01</span><h3>Pick a chapter</h3><p>Tap any chapter card below. Use the search box if you know what you want.</p></div>
+          <div class="step"><span class="n">STEP 02</span><h3>Filter by level</h3><p>Inside a chapter, filter to <em>JEE Main</em>, <em>JEE Advanced</em>, or <em>Olympiad</em> difficulty — and by source.</p></div>
+          <div class="step"><span class="n">STEP 03</span><h3>Open or copy</h3><p>Hit <strong>Open</strong> to view live problems with solutions, or <strong>⧉</strong> to copy a link straight into your worksheet or WhatsApp.</p></div>
+          <div class="step"><span class="n">STEP 04</span><h3>Need more?</h3><p>Each chapter links to an <strong>AI prompt library</strong> — generate unlimited fresh, made-to-order problems in one click.</p></div>
+        </div>
+        <div class="callout">
+          <span class="c-ico" aria-hidden="true">✦</span>
+          <p><strong>Why these links never break:</strong> instead of fragile single-problem pages (which is why old Brilliant lists died), every entry is a live topic search or an official archive. One link = an endless, always-fresh stream of in-syllabus problems with full solutions.</p>
+        </div>
+      </section>
+
+      <section class="chapters wrap">
+        <div class="section-head">
+          <span class="kicker">The Atlas</span>
+          <h2>Every JEE Advanced chapter</h2>
+          <p class="sub" id="chapterCountSub"></p>
+        </div>
+        <div class="subj-tabs" role="tablist" aria-label="Choose subject">${tabsHtml}</div>
+        <div id="chapterGroups"></div>
+      </section>
+    `;
+
+    const search = document.getElementById("homeSearch");
+    if (search) search.addEventListener("input", () => applyHomeSearch(search.value));
+    app.querySelectorAll(".subj-tab").forEach((t) => t.addEventListener("click", () => switchSubject(t.dataset.subject)));
+    renderSubject(activeSubject);
+    window.scrollTo(0, 0);
+  }
+
+  function switchSubject(key) {
+    activeSubject = key;
+    localStorage.setItem("atlas-subject", key);
+    renderSubject(key);
+  }
+
+  function renderSubject(key) {
+    const sm = subjectMeta(key);
+    const chapters = chaptersOf(key);
     const groups = {};
-    DATA.forEach((ch) => { (groups[ch.group] = groups[ch.group] || []).push(ch); });
-    const orderedGroups = [
-      ...GROUP_ORDER.filter((g) => groups[g]),
-      ...Object.keys(groups).filter((g) => !GROUP_ORDER.includes(g)),
+    chapters.forEach((ch) => { (groups[ch.group] = groups[ch.group] || []).push(ch); });
+    const ordered = [
+      ...sm.groups.filter((g) => groups[g]),
+      ...Object.keys(groups).filter((g) => !sm.groups.includes(g)),
     ];
 
     let n = 0;
-    const groupsHtml = orderedGroups.map((g) => {
+    const html = ordered.map((g) => {
       const cards = groups[g].map((ch) => {
         n += 1;
-        const delay = Math.min(n * 0.03, 0.5);
+        const delay = Math.min(n * 0.022, 0.45);
         const chips = (ch.subtopics || []).slice(0, 3).map((s) => `<span class="chip">${esc(s)}</span>`).join("");
         return `
           <article class="ch-card" data-slug="${esc(ch.slug)}" data-search="${esc((ch.chapter + " " + ch.group + " " + (ch.subtopics || []).join(" ") + " " + (ch.blurb || "")).toLowerCase())}" style="animation-delay:${delay}s" tabindex="0" role="link" aria-label="Open ${esc(ch.chapter)}">
@@ -147,56 +239,19 @@
         </section>`;
     }).join("");
 
-    app.innerHTML = `
-      <section class="hero wrap">
-        <span class="eyebrow">● Free · live · always-working links</span>
-        <h1>The world's best maths problems, <em>mapped chapter&nbsp;by&nbsp;chapter.</em></h1>
-        <p class="lede">A curated atlas of brilliant, strictly in-syllabus problems for <strong>JEE&nbsp;Advanced</strong> — pulling the best of Math&nbsp;StackExchange, Art&nbsp;of&nbsp;Problem&nbsp;Solving, MIT&nbsp;OCW, Paul's&nbsp;Notes, Brilliant and past papers into one place. Around <strong>100 resources per chapter</strong>, every link guaranteed live.</p>
-        <div class="hero-search">
-          <span class="s-ico" aria-hidden="true">⌕</span>
-          <input id="homeSearch" type="search" placeholder="Search chapters — e.g. limits, conics, probability…" aria-label="Search chapters" autocomplete="off" />
-          <span class="s-hint">press /</span>
-        </div>
-        <div class="hero-stats">
-          <div class="stat"><span class="num">${chCount}</span><span class="lbl">Chapters</span></div>
-          <div class="stat"><span class="num">${total}<span class="unit">+</span></span><span class="lbl">Curated links</span></div>
-          <div class="stat"><span class="num">100<span class="unit">%</span></span><span class="lbl">Live, no rot</span></div>
-          <div class="stat"><span class="num">0<span class="unit">₹</span></span><span class="lbl">Forever free</span></div>
-        </div>
-      </section>
+    const container = document.getElementById("chapterGroups");
+    container.style.setProperty("--subj", sm.accent);
+    container.innerHTML = html || emptyState("Resources are loading…");
 
-      <section class="guide wrap" id="guide">
-        <div class="section-head">
-          <span class="kicker">Start here</span>
-          <h2>How to use this — in 30 seconds</h2>
-          <p class="sub">No account, no install. Built for teachers who just want great questions, fast.</p>
-        </div>
-        <div class="guide-grid">
-          <div class="step"><span class="n">STEP 01</span><h3>Pick a chapter</h3><p>Tap any chapter card below. Use the search box if you know what you want.</p></div>
-          <div class="step"><span class="n">STEP 02</span><h3>Filter by level</h3><p>Inside a chapter, filter to <em>JEE Main</em>, <em>JEE Advanced</em>, or <em>Olympiad</em> difficulty — and by source.</p></div>
-          <div class="step"><span class="n">STEP 03</span><h3>Open or copy</h3><p>Hit <strong>Open</strong> to view live problems with solutions, or <strong>⧉</strong> to copy a link straight into your worksheet or WhatsApp.</p></div>
-          <div class="step"><span class="n">STEP 04</span><h3>Need more?</h3><p>Each chapter links to <strong>Maths Prompt Studio</strong> — generate unlimited fresh problems with AI in one click.</p></div>
-        </div>
-        <div class="callout">
-          <span class="c-ico" aria-hidden="true">✦</span>
-          <p><strong>Why these links never break:</strong> instead of fragile single-problem pages (which is why old Brilliant lists died), every entry is a live topic search or an official archive. One link = an endless, always-fresh stream of in-syllabus problems with full solutions.</p>
-        </div>
-      </section>
+    const tabsWrap = app.querySelector(".subj-tabs");
+    if (tabsWrap) tabsWrap.style.setProperty("--subj", sm.accent);
+    app.querySelectorAll(".subj-tab").forEach((t) => t.classList.toggle("active", t.dataset.subject === key));
+    const sub = document.getElementById("chapterCountSub");
+    if (sub) sub.textContent = `${chapters.length} ${key} chapters · grouped the way you teach them.`;
 
-      <section class="chapters wrap">
-        <div class="section-head">
-          <span class="kicker">The Atlas</span>
-          <h2>Every JEE Advanced Maths chapter</h2>
-          <p class="sub" id="chapterCountSub">${chCount} chapters · grouped the way you teach them.</p>
-        </div>
-        <div id="chapterGroups">${groupsHtml || emptyState("Resources are loading…")}</div>
-      </section>
-    `;
-
-    const search = document.getElementById("homeSearch");
-    if (search) search.addEventListener("input", () => applyHomeSearch(search.value));
     bindCardNav();
-    window.scrollTo(0, 0);
+    const search = document.getElementById("homeSearch");
+    if (search && search.value.trim()) applyHomeSearch(search.value);
   }
 
   function applyHomeSearch(q) {
@@ -225,7 +280,11 @@
     const ch = DATA.find((c) => c.slug === slug);
     if (!ch) { renderHome(); return; }
     document.title = ch.chapter + " — Problem Atlas";
-    const idx = DATA.indexOf(ch) + 1;
+    activeSubject = ch.subject || activeSubject;
+    if (subjectsPresent.includes(activeSubject)) localStorage.setItem("atlas-subject", activeSubject);
+    const subjCh = chaptersOf(ch.subject);
+    const idx = (subjCh.indexOf(ch) + 1) || (DATA.indexOf(ch) + 1);
+    const subjAccent = subjectMeta(ch.subject).accent;
 
     const res = ch._res;
     const facets = { source: count(res, "source"), type: count(res, "type"), level: count(res, "level") };
@@ -234,7 +293,7 @@
     const subs = (ch.subtopics || []).map((s) => `<span class="chip">${esc(s)}</span>`).join("");
 
     app.innerHTML = `
-      <section class="detail wrap">
+      <section class="detail wrap" style="--subj:${subjAccent}">
         <a class="crumb" href="#/">← All chapters</a>
         <div class="detail-head">
           <span class="d-index">${String(idx).padStart(2, "0")}</span>
@@ -244,6 +303,7 @@
             <div class="sub-list">${subs}</div>
           </div>
           <div class="detail-meta">
+            <div class="mrow"><span class="k">Subject</span><span class="v">${esc(ch.subject || "—")}</span></div>
             <div class="mrow"><span class="k">Group</span><span class="v">${esc(ch.group)}</span></div>
             <div class="mrow"><span class="k">JEE weight</span><span class="v">${esc(ch.jeeWeight || "—")}</span></div>
             <div class="mrow"><span class="k">Resources</span><span class="v">${res.length}</span></div>
