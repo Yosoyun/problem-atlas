@@ -1,9 +1,9 @@
 /* =========================================================================
-   PROBLEM ATLAS — application engine (JEE · NEET · Olympiad · Foundation)
+   PROBLEM ATLAS — application engine (worldwide: school → Olympiad)
    - hash router (home / chapter)
-   - expands durable "seeds" into live, always-working searches
-   - per-chapter multi-exam + PDF + Reddit + tool shortcuts
-   - multilayered chapter view: resources grouped into clear sections
+   - durable seed searches + per-chapter trusted-source shortcuts
+   - tabbed chapter view (jump straight to a section, no long scroll)
+   - only world-renowned & government sources; multi-exam, multi-tag
    ========================================================================= */
 (function () {
   "use strict";
@@ -16,7 +16,7 @@
       ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c])
     );
   const enc = (s) => encodeURIComponent(s);
-  const qp = (s) => encodeURIComponent(s).replace(/%20/g, "+"); // '+' = native search-engine spacing
+  const qp = (s) => encodeURIComponent(s).replace(/%20/g, "+");
 
   /* ---------------- subjects ---------------- */
   const SUBJECTS = [
@@ -26,7 +26,15 @@
     { key: "Biology",     glyph: "❀", accent: "var(--leaf)",     groups: ["Diversity & Cell Biology", "Plant Physiology & Anatomy", "Human Physiology", "Reproduction", "Genetics & Evolution", "Biology in Human Welfare & Biotech", "Ecology"] },
   ];
   const subjectMeta = (k) => SUBJECTS.find((s) => s.key === k) || SUBJECTS[0];
-  const examTag = (subj) => (subj === "Biology" ? "NEET" : "JEE");
+  const SUBJ_WORD = { Mathematics: "mathematics", Physics: "physics", Chemistry: "chemistry", Biology: "biology" };
+
+  /* universal difficulty levels (global) */
+  const LEVEL_MAP = {
+    Foundation: "Foundation", "JEE Main": "Standard", NEET: "Standard", Mixed: "Mixed",
+    "JEE Advanced": "Advanced", Olympiad: "Olympiad", Standard: "Standard", Advanced: "Advanced",
+  };
+  const normLevel = (l) => LEVEL_MAP[l] || l || "Mixed";
+  const LEVEL_ORDER = ["Foundation", "Standard", "Advanced", "Olympiad", "Mixed"];
 
   /* ---------------- durable link builders ---------------- */
   const SOURCE_META = {
@@ -36,49 +44,47 @@
     bio:     { name: "Biology StackExchange",  type: "Problem set", note: "Biology Q&A with expert explanations." },
     aops:    { name: "AoPS",                   type: "Problem set", note: "Contest & Olympiad-level threads with worked solutions." },
     youtube: { name: "YouTube",                type: "Video",       note: "Lectures and step-by-step video walkthroughs." },
-    google:  { name: "Web",                    type: "Search",      note: "Worksheets, notes and assorted problem sets across the web." },
-    pyq:     { name: "PYQ Papers",             type: "Past papers", note: "Previous-year question PDFs, chapter-wise." },
+    google:  { name: "Web",                    type: "Search",      note: "Problem sets and worked solutions from the open web." },
+    pyq:     { name: "Past papers",            type: "Past papers", note: "Previous-year exam question PDFs, chapter-wise." },
   };
   function buildUrl(src, q, subject) {
-    const t = examTag(subject);
     switch (src) {
       case "mse":     return "https://math.stackexchange.com/search?q=" + qp(q);
       case "pse":     return "https://physics.stackexchange.com/search?q=" + qp(q);
       case "cse":     return "https://chemistry.stackexchange.com/search?q=" + qp(q);
       case "bio":     return "https://biology.stackexchange.com/search?q=" + qp(q);
       case "aops":    return "https://www.google.com/search?q=" + qp("site:artofproblemsolving.com " + q);
-      case "youtube": return "https://www.youtube.com/results?search_query=" + qp(q + " " + t);
-      case "google":  return "https://www.google.com/search?q=" + qp(q + " questions with solutions");
-      case "pyq":     return "https://www.google.com/search?q=" + qp(q + " " + t + " previous year questions");
-      case "reddit":  return "https://www.reddit.com/search/?q=" + qp(q);
+      case "youtube": return "https://www.youtube.com/results?search_query=" + qp(q + " lecture");
+      case "ytq":     return "https://www.youtube.com/results?search_query=" + qp(q);
+      case "google":  return "https://www.google.com/search?q=" + qp(q + " solved problems with solutions");
+      case "pyq":     return "https://www.google.com/search?q=" + qp(q + " past exam questions with solutions");
+      case "reddit":  return "https://www.reddit.com/search/?q=" + qp(q) + "&sort=top&t=all";
       case "wolfram": return "https://www.wolframalpha.com/input?i=" + enc(q);
-      case "gpdf":    return "https://www.google.com/search?q=" + qp(q + " filetype:pdf");
       case "graw":    return "https://www.google.com/search?q=" + qp(q);
       default:        return "https://www.google.com/search?q=" + qp(q);
     }
   }
 
-  /* ---------------- resource categories (the "layers") ---------------- */
+  /* ---------------- resource categories (the tabs) ---------------- */
   const CATS = [
-    { key: "Past Papers & PDFs",    icon: "📄", blurb: "Official archives, exam-wise previous-year papers and downloadable PDFs." },
-    { key: "Problems & Solutions",  icon: "✏️", blurb: "Worked problems from Stack Exchange, AoPS, Brilliant and the web." },
-    { key: "Video Lectures",        icon: "🎥", blurb: "YouTube lectures and step-by-step walkthroughs." },
-    { key: "Theory & Notes",        icon: "📚", blurb: "Concept notes, references and free textbooks (NCERT, LibreTexts, MIT…)." },
-    { key: "Community",             icon: "💬", blurb: "Reddit threads where students discuss this exact topic." },
-    { key: "Tools",                 icon: "🧮", blurb: "Calculators, graphing and interactive simulations." },
+    { key: "Papers, PDFs & Slides", icon: "📄", blurb: "Past papers, lecture notes, problem-set PDFs and slide decks — from trusted sources only." },
+    { key: "Problems & Solutions",  icon: "✏️", blurb: "Worked problems from Stack Exchange, AoPS, Brilliant and university sets." },
+    { key: "Video Lectures",        icon: "🎥", blurb: "Hand-picked, world-renowned channels (MIT, 3Blue1Brown, Khan…) — no random uploads." },
+    { key: "Theory & Notes",        icon: "📚", blurb: "Concept notes & free textbooks — NCERT, MIT OCW, LibreTexts, OpenStax, Feynman." },
+    { key: "Community",             icon: "💬", blurb: "Top-voted threads from serious study communities." },
+    { key: "Tools",                 icon: "🧮", blurb: "Free interactive tools — graph, compute, simulate, visualise." },
   ];
   function categorize(r) {
     if (r.cat) return r.cat;
     const s = r.source || "", t = r.type || "";
     if (s === "YouTube") return "Video Lectures";
     if (/Reddit/i.test(s)) return "Community";
-    if (t === "Tool" || /Wolfram Alpha|Desmos|GeoGebra|PhET/i.test(s)) return "Tools";
-    if (t === "Past papers") return "Past Papers & PDFs";
+    if (t === "Tool" || /Wolfram Alpha|Desmos|GeoGebra|PhET|MolView|BioInteractive/i.test(s)) return "Tools";
+    if (t === "Past papers" || /Slides|PPT/i.test(s)) return "Papers, PDFs & Slides";
     if (t === "Problem set" || /StackExchange|AoPS|Brilliant/i.test(s)) return "Problems & Solutions";
     if (t === "Search") return "Problems & Solutions";
     return "Theory & Notes";
   }
-  const LEVEL_ORDER = ["Foundation", "JEE Main", "NEET", "JEE Advanced", "Olympiad", "Mixed"];
 
   /* ---------------- AI studio + teacher resources ---------------- */
   function getStudio(subject) {
@@ -90,7 +96,7 @@
     return {
       title: "Generate unlimited custom problems with AI", url: "https://github.com/Yosoyun/ai-prompt-library-for-teachers",
       source: "AI Prompt Library", type: "Tool", level: "Mixed", feature: true,
-      note: "Indrajeet's free library of 200+ classroom AI prompts — paste one into ChatGPT/Claude to instantly create fresh practice for this topic.",
+      note: "Indrajeet's free library of 200+ classroom AI prompts — paste one into ChatGPT/Claude to create fresh practice for this topic.",
     };
   }
   const TEACHER_EXTRAS = {
@@ -109,48 +115,108 @@
     { name: "All projects on GitHub", desc: "github.com/Yosoyun", url: "https://github.com/Yosoyun" },
   ];
 
-  /* ---------------- per-chapter generated shortcuts ---------------- */
-  function subjectExams(subject) {
-    if (subject === "Mathematics") return ["Foundation", "JEE Main", "JEE Advanced", "Olympiad"];
-    if (subject === "Physics" || subject === "Chemistry") return ["Foundation", "JEE Main", "NEET", "JEE Advanced", "Olympiad"];
-    if (subject === "Biology") return ["Foundation", "NEET", "Olympiad"];
-    return ["JEE Main", "JEE Advanced"];
-  }
-  const SUBREDDITS = {
-    Mathematics: ["JEENEETards", "learnmath"],
-    Physics: ["JEENEETards", "PhysicsStudents"],
-    Chemistry: ["JEENEETards", "chemhelp"],
-    Biology: ["NEET", "JEENEETards"],
-  };
-  const SUBJ_WORD = { Mathematics: "maths", Physics: "physics", Chemistry: "chemistry", Biology: "biology" };
-  // clean, searchable topic key — drop "(parentheticals)" and "&" that wreck Google relevance
+  /* ---------------- per-chapter generated shortcuts (trusted, global) ---------------- */
+  // clean, searchable topic key — drop "(parentheticals)" and "&" that wreck relevance
   function topicKey(ch) {
     return ch.chapter.replace(/\([^)]*\)/g, " ").replace(/&/g, " and ").replace(/\s+/g, " ").trim();
   }
+  // exam shortcuts span the world, mapped to universal levels
+  function examShortcuts(subject, key, sw) {
+    const M = {
+      Mathematics: [
+        ["School & Foundation", "Foundation", key + " " + sw + " basics concepts questions"],
+        ["SAT / AP / A-Level", "Standard", key + " " + sw + " SAT AP A-level practice questions"],
+        ["JEE (Main & Advanced)", "Advanced", key + " " + sw + " JEE advanced previous year questions"],
+        ["IB HL / University", "Advanced", key + " " + sw + " university problem set"],
+        ["Olympiad (IMO / Putnam)", "Olympiad", key + " " + sw + " olympiad putnam problems"],
+      ],
+      Physics: [
+        ["School & Foundation", "Foundation", key + " physics basics concepts questions"],
+        ["AP / A-Level / IB", "Standard", key + " physics AP A-level IB questions"],
+        ["JEE / NEET", "Advanced", key + " physics JEE NEET previous year questions"],
+        ["JEE Advanced / University", "Advanced", key + " physics JEE advanced problems"],
+        ["Olympiad (IPhO)", "Olympiad", key + " physics olympiad IPhO problems"],
+      ],
+      Chemistry: [
+        ["School & Foundation", "Foundation", key + " chemistry basics concepts questions"],
+        ["AP / A-Level / IB", "Standard", key + " chemistry AP A-level IB questions"],
+        ["JEE / NEET", "Advanced", key + " chemistry JEE NEET previous year questions"],
+        ["JEE Advanced / University", "Advanced", key + " chemistry JEE advanced problems"],
+        ["Olympiad (IChO)", "Olympiad", key + " chemistry olympiad IChO problems"],
+      ],
+      Biology: [
+        ["School & Foundation", "Foundation", key + " biology basics concepts questions"],
+        ["AP / A-Level / IB", "Standard", key + " biology AP A-level IB questions"],
+        ["NEET / MCAT", "Advanced", key + " biology NEET MCAT previous year questions"],
+        ["Olympiad (IBO)", "Olympiad", key + " biology olympiad IBO problems"],
+      ],
+    };
+    return M[subject] || M.Mathematics;
+  }
+  const CHANNELS = {
+    Mathematics: ["3Blue1Brown", "MIT OpenCourseWare", "Khan Academy", "blackpenredpen"],
+    Physics: ["MIT OpenCourseWare", "Khan Academy", "Physics Explained", "Professor Dave Explains"],
+    Chemistry: ["Professor Dave Explains", "Khan Academy", "Tyler DeWitt", "NileRed"],
+    Biology: ["Amoeba Sisters", "Khan Academy", "Professor Dave Explains", "Ninja Nerd"],
+  };
+  // serious study communities only (NOT meme subs)
+  const SUBREDDITS = {
+    Mathematics: ["JEE", "learnmath"], Physics: ["JEE", "PhysicsStudents"],
+    Chemistry: ["JEE", "chemhelp"], Biology: ["NEET", "biology"],
+  };
+  const TRUSTED = "(site:ocw.mit.edu OR site:libretexts.org OR site:openstax.org OR site:khanacademy.org OR site:ncert.nic.in OR site:nptel.ac.in OR site:artofproblemsolving.com)";
+
+  function tool(title, url, note) { return { title, url, source: title.split(" — ").pop(), type: "Tool", level: "Mixed", note, cat: "Tools" }; }
+  function chapterTools(ch) {
+    const k = topicKey(ch), subj = ch.subject;
+    if (subj === "Mathematics") return [
+      tool(ch.chapter + " — Desmos", "https://www.desmos.com/calculator", "Free graphing calculator — plot and explore visually."),
+      tool(ch.chapter + " — GeoGebra", "https://www.geogebra.org/classic", "Free geometry/algebra/calculus drawing & exploration."),
+      tool(ch.chapter + " — Wolfram Alpha", "https://www.wolframalpha.com/input?i=" + enc(k), "Compute, solve and plot step-by-step."),
+    ];
+    if (subj === "Physics") return [
+      tool(ch.chapter + " — PhET simulations", "https://phet.colorado.edu/en/simulations/filter?subjects=physics&type=html", "Interactive physics simulations (Univ. of Colorado)."),
+      tool(ch.chapter + " — GeoGebra", "https://www.geogebra.org/classic", "Draw and explore graphs and vectors."),
+      tool(ch.chapter + " — Wolfram Alpha", "https://www.wolframalpha.com/input?i=" + enc(k), "Compute and verify physics problems."),
+    ];
+    if (subj === "Chemistry") return [
+      tool(ch.chapter + " — PhET simulations", "https://phet.colorado.edu/en/simulations/filter?subjects=chemistry&type=html", "Interactive chemistry simulations (Univ. of Colorado)."),
+      tool(ch.chapter + " — MolView (3D molecules)", "https://molview.org/", "Free 3D molecule & structure viewer."),
+      tool(ch.chapter + " — PubChem", "https://pubchem.ncbi.nlm.nih.gov/#query=" + qp(k), "Official NIH chemical database (structures, properties)."),
+    ];
+    return [
+      tool(ch.chapter + " — HHMI BioInteractive", "https://www.biointeractive.org/", "Free, world-class biology animations & interactives (HHMI)."),
+      tool(ch.chapter + " — PhET simulations", "https://phet.colorado.edu/en/simulations/filter?subjects=biology&type=html", "Interactive biology simulations (Univ. of Colorado)."),
+    ];
+  }
+
   function chapterShortcuts(ch) {
-    const name = ch.chapter, subj = ch.subject, key = topicKey(ch), sw = SUBJ_WORD[subj] || "", ex = examTag(subj), out = [];
-    const examLabel = { Foundation: "Foundation (Class 9–10)", "JEE Main": "JEE Main", NEET: "NEET", "JEE Advanced": "JEE Advanced", Olympiad: "Olympiad" };
-    subjectExams(subj).forEach((e) => {
-      let q, note, cat;
-      if (e === "Foundation") { q = key + " " + sw + " class 9 10 foundation questions"; note = "Foundation-level basics & NTSE/KVPY-style questions."; cat = "Past Papers & PDFs"; }
-      else if (e === "Olympiad") { q = key + " " + sw + " olympiad problems with solutions"; note = "Olympiad-level problems on this topic."; cat = "Problems & Solutions"; }
-      else { q = key + " " + e + " " + sw + " previous year questions with solutions"; note = e + " previous-year questions on this chapter."; cat = "Past Papers & PDFs"; }
-      out.push({ title: name + " — " + examLabel[e] + " questions", url: buildUrl("graw", q, subj), source: "Google", type: e === "Olympiad" ? "Problem set" : "Search", level: e, note, cat });
+    const name = ch.chapter, subj = ch.subject, key = topicKey(ch), sw = SUBJ_WORD[subj] || "", out = [];
+
+    // exam-wise question shortcuts (global)
+    examShortcuts(subj, key, sw).forEach(([label, lvl, q]) => {
+      out.push({ title: name + " — " + label + " questions", url: buildUrl("graw", q + " with solutions", subj), source: "Google", type: lvl === "Olympiad" ? "Problem set" : "Search", level: lvl, note: label + " practice & past questions for this chapter.", cat: lvl === "Olympiad" ? "Problems & Solutions" : "Papers, PDFs & Slides" });
     });
+
+    // PDFs & slides — trusted/renowned/government sources only
     const isBio = subj === "Biology";
     const pdfs = [
-      { q: key + " " + sw + " NCERT chapter filetype:pdf", t: name + " — NCERT chapter (PDF)", n: "Official NCERT chapter PDF — the syllabus baseline." },
-      { q: key + " " + sw + " notes pdf (site:ncert.nic.in OR site:byjus.com OR site:vedantu.com OR site:selfstudys.com OR site:learncbse.in)", t: name + " — notes from trusted sites (PDF)", n: "PDF notes from NCERT, BYJU'S, Vedantu & other known sources." },
-      { q: key + " " + sw + (isBio ? " labelled diagrams pdf" : " formula sheet short notes pdf"), t: name + " — " + (isBio ? "labelled diagrams" : "formula sheet") + " (PDF)", n: (isBio ? "Clear labelled diagrams" : "Formula / short-revision sheet") + " as PDF." },
-      { q: key + " " + ex + " chapter wise previous year questions pdf", t: name + " — chapter-wise PYQ (PDF)", n: "Previous-year question compilations for this chapter (PDF)." },
-      { q: key + " " + sw + " daily practice problems dpp pdf with solutions", t: name + " — DPP / practice sheet (PDF)", n: "Daily-practice-problem (DPP) sheets with answers (PDF)." },
+      { q: key + " " + sw + " lecture notes filetype:pdf " + TRUSTED, t: name + " — lecture notes (trusted sources, PDF)", n: "PDF notes from MIT OCW, LibreTexts, OpenStax, NCERT, NPTEL, Khan & AoPS." },
+      { q: key + " " + sw + " NCERT chapter filetype:pdf", t: name + " — NCERT chapter (PDF)", n: "Official NCERT chapter PDF — Government of India." },
+      { q: key + " " + sw + " problem set with solutions filetype:pdf " + TRUSTED, t: name + " — problem set (trusted, PDF)", n: "University & Olympiad problem sets with solutions (PDF)." },
+      { q: key + " " + sw + (isBio ? " labelled diagram filetype:pdf" : " formula sheet filetype:pdf") + " -byjus -vedantu", t: name + " — " + (isBio ? "labelled diagrams" : "formula sheet") + " (PDF)", n: (isBio ? "Clear labelled diagrams" : "Formula / quick-revision sheet") + " (PDF, junk filtered out)." },
+      { q: key + " " + sw + " lecture slides filetype:ppt OR filetype:pptx", t: name + " — lecture slides (PPT)", n: "Lecture slide decks (PPT / PPTX) on this topic." },
     ];
-    pdfs.forEach((p) => out.push({ title: p.t, url: buildUrl("graw", p.q, subj), source: "PDF Search", type: "Past papers", level: "Mixed", note: p.n, cat: "Past Papers & PDFs" }));
-    (SUBREDDITS[subj] || ["JEENEETards"]).forEach((sr) => {
-      out.push({ title: name + " — r/" + sr, url: "https://www.reddit.com/r/" + sr + "/search/?q=" + qp(key) + "&restrict_sr=1&sort=relevance", source: "Reddit", type: "Reference", level: "Mixed", note: "Student discussions, doubts and tips on r/" + sr + ".", cat: "Community" });
-    });
-    out.push({ title: name + " — Reddit (all)", url: buildUrl("reddit", key, subj), source: "Reddit", type: "Reference", level: "Mixed", note: "Every Reddit thread mentioning this topic.", cat: "Community" });
-    if (!isBio) out.push({ title: name + " — Wolfram Alpha", url: buildUrl("wolfram", key, subj), source: "Wolfram Alpha", type: "Tool", level: "Mixed", note: "Compute, plot and verify problems instantly.", cat: "Tools" });
+    pdfs.forEach((p) => out.push({ title: p.t, url: buildUrl("graw", p.q, subj), source: "PDF / Slides", type: "Past papers", level: "Mixed", note: p.n, cat: "Papers, PDFs & Slides" }));
+
+    // videos — renowned channels only
+    (CHANNELS[subj] || []).forEach((cn) => out.push({ title: name + " — " + cn, url: buildUrl("ytq", key + " " + sw + " " + cn, subj), source: "YouTube", type: "Video", level: "Mixed", note: "Lecture / explainer by " + cn + " (renowned).", cat: "Video Lectures" }));
+
+    // community — serious subs, top-sorted
+    (SUBREDDITS[subj] || ["JEE"]).forEach((sr) => out.push({ title: name + " — r/" + sr, url: "https://www.reddit.com/r/" + sr + "/search/?q=" + qp(key) + "&restrict_sr=1&sort=top&t=all", source: "Reddit", type: "Reference", level: "Mixed", note: "Top-voted discussions & resource recommendations in r/" + sr + ".", cat: "Community" }));
+
+    // tools
+    chapterTools(ch).forEach((t) => out.push(t));
     return out;
   }
 
@@ -158,13 +224,13 @@
   function expandChapter(ch) {
     const list = [];
     list.push(getStudio(ch.subject));
-    (TEACHER_EXTRAS[ch.slug] || []).forEach((r) => list.push({ ...r, cat: categorize(r) }));
-    chapterShortcuts(ch).forEach((r) => list.push(r));
-    (ch.anchors || []).forEach((a) => list.push({ ...a, cat: categorize(a) }));
+    (TEACHER_EXTRAS[ch.slug] || []).forEach((r) => list.push({ ...r, level: normLevel(r.level), cat: categorize(r) }));
+    chapterShortcuts(ch).forEach((r) => list.push({ ...r, level: normLevel(r.level) }));
+    (ch.anchors || []).forEach((a) => list.push({ ...a, level: normLevel(a.level), cat: categorize(a) }));
     (ch.seeds || []).forEach((seed) => {
       (seed.sources || []).forEach((src) => {
         const m = SOURCE_META[src] || SOURCE_META.google;
-        const r = { title: seed.label, url: buildUrl(src, seed.query, ch.subject), source: m.name, type: m.type, level: seed.level || "Mixed", note: m.note, query: seed.query };
+        const r = { title: seed.label, url: buildUrl(src, seed.query, ch.subject), source: m.name, type: m.type, level: normLevel(seed.level), note: m.note, query: seed.query };
         r.cat = categorize(r);
         list.push(r);
       });
@@ -182,8 +248,8 @@
 
   /* ---------------- home ---------------- */
   function renderHome() {
-    document.title = "Problem Atlas — JEE · NEET · Olympiad · Foundation";
-    const total = TOTAL_LINKS ? TOTAL_LINKS.toLocaleString() : "11,000";
+    document.title = "Problem Atlas — world-class problems & resources, chapter by chapter";
+    const total = TOTAL_LINKS ? TOTAL_LINKS.toLocaleString() : "14,000";
     const chCount = DATA.length;
 
     const tabsHtml = subjectsPresent.map((k) => {
@@ -193,9 +259,9 @@
 
     app.innerHTML = `
       <section class="hero wrap">
-        <span class="eyebrow">● Free · live · always-working links</span>
-        <h1>The world's best problems for <em>JEE, NEET &amp; Olympiad</em> — mapped chapter by chapter.</h1>
-        <p class="lede">A curated atlas of brilliant, strictly in-syllabus problems across <strong>Maths, Physics, Chemistry &amp; Biology</strong> — for <strong>JEE&nbsp;(Main&nbsp;&amp;&nbsp;Advanced), NEET, Olympiads</strong> and <strong>Foundation</strong>. Pulling the best of the Stack&nbsp;Exchanges, AoPS, Reddit, Wolfram, MIT&nbsp;OCW, NCERT, Feynman, LibreTexts, Brilliant and past-paper PDFs into one place — around <strong>100+ resources per chapter</strong>, every link guaranteed live.</p>
+        <span class="eyebrow">● Free · trusted sources only · for learners everywhere</span>
+        <h1>The world's best problems &amp; resources, <em>mapped chapter by chapter.</em></h1>
+        <p class="lede">A curated atlas for <strong>Maths, Physics, Chemistry &amp; Biology</strong> — from school basics to Olympiad. Every chapter pulls the best of <strong>MIT&nbsp;OCW, the Stack&nbsp;Exchanges, AoPS, 3Blue1Brown, Khan&nbsp;Academy, NCERT, LibreTexts, OpenStax, Feynman</strong> and official archives. Tagged for <strong>JEE, NEET, SAT, AP, A-Level, IB &amp; Olympiads</strong>. Around <strong>100+ trusted resources per chapter</strong> — no random sites, every link live.</p>
         <div class="hero-search">
           <span class="s-ico" aria-hidden="true">⌕</span>
           <input id="homeSearch" type="search" placeholder="Search chapters — e.g. limits, rotation, genetics, electrochemistry…" aria-label="Search chapters" autocomplete="off" />
@@ -204,7 +270,7 @@
         <div class="hero-stats">
           <div class="stat"><span class="num">${chCount}</span><span class="lbl">Chapters</span></div>
           <div class="stat"><span class="num">${total}<span class="unit">+</span></span><span class="lbl">Curated links</span></div>
-          <div class="stat"><span class="num">5</span><span class="lbl">Exams covered</span></div>
+          <div class="stat"><span class="num">100<span class="unit">%</span></span><span class="lbl">Trusted only</span></div>
           <div class="stat"><span class="num">0<span class="unit">₹</span></span><span class="lbl">Forever free</span></div>
         </div>
       </section>
@@ -217,20 +283,20 @@
         </div>
         <div class="guide-grid">
           <div class="step"><span class="n">STEP 01</span><h3>Pick subject &amp; chapter</h3><p>Choose Maths / Physics / Chemistry / Biology, then tap a chapter — or just search.</p></div>
-          <div class="step"><span class="n">STEP 02</span><h3>Filter by exam</h3><p>Inside a chapter, filter to <em>Foundation</em>, <em>JEE&nbsp;Main</em>, <em>NEET</em>, <em>JEE&nbsp;Advanced</em> or <em>Olympiad</em>.</p></div>
-          <div class="step"><span class="n">STEP 03</span><h3>Jump to a layer</h3><p>Each chapter is split into sections — <strong>PDFs</strong>, <strong>Problems</strong>, <strong>Videos</strong>, <strong>Theory</strong>, <strong>Community</strong>, <strong>Tools</strong>. Open or <strong>⧉</strong> copy any link.</p></div>
-          <div class="step"><span class="n">STEP 04</span><h3>Need more?</h3><p>Every chapter links to an <strong>AI prompt library</strong> — generate unlimited fresh, made-to-order problems in one click.</p></div>
+          <div class="step"><span class="n">STEP 02</span><h3>Tap a section tab</h3><p>Inside a chapter, tap <strong>PDFs</strong>, <strong>Problems</strong>, <strong>Videos</strong>, <strong>Theory</strong>, <strong>Community</strong> or <strong>Tools</strong> — it jumps you straight there, no scrolling.</p></div>
+          <div class="step"><span class="n">STEP 03</span><h3>Filter by level</h3><p>Narrow to <em>Foundation</em>, <em>Standard</em>, <em>Advanced</em> or <em>Olympiad</em>. Open or <strong>⧉</strong> copy any link.</p></div>
+          <div class="step"><span class="n">STEP 04</span><h3>Need more?</h3><p>Every chapter links to an <strong>AI prompt library</strong> — generate unlimited fresh problems in one click.</p></div>
         </div>
         <div class="callout">
           <span class="c-ico" aria-hidden="true">✦</span>
-          <p><strong>Why these links never break:</strong> instead of fragile single-problem pages (which is why old Brilliant lists died), every entry is a live topic search or an official archive. One link = an endless, always-fresh stream of in-syllabus problems with full solutions.</p>
+          <p><strong>Only sources you can trust:</strong> universities (MIT, Stanford-grade), the Stack Exchanges, AoPS, government textbooks (NCERT/NPTEL) and renowned creators. No random coaching sites, no junk — and every link is a live search or official page, so nothing ever rots.</p>
         </div>
       </section>
 
       <section class="chapters wrap">
         <div class="section-head">
           <span class="kicker">The Atlas</span>
-          <h2>Every chapter, every exam</h2>
+          <h2>Every chapter, every level</h2>
           <p class="sub" id="chapterCountSub"></p>
         </div>
         <div class="subj-tabs" role="tablist" aria-label="Choose subject">${tabsHtml}</div>
@@ -245,11 +311,7 @@
     window.scrollTo(0, 0);
   }
 
-  function switchSubject(key) {
-    activeSubject = key;
-    localStorage.setItem("atlas-subject", key);
-    renderSubject(key);
-  }
+  function switchSubject(key) { activeSubject = key; localStorage.setItem("atlas-subject", key); renderSubject(key); }
 
   function renderSubject(key) {
     const sm = subjectMeta(key);
@@ -279,13 +341,11 @@
     const container = document.getElementById("chapterGroups");
     container.style.setProperty("--subj", sm.accent);
     container.innerHTML = html || emptyState("Resources are loading…");
-
     const tabsWrap = app.querySelector(".subj-tabs");
     if (tabsWrap) tabsWrap.style.setProperty("--subj", sm.accent);
     app.querySelectorAll(".subj-tab").forEach((t) => t.classList.toggle("active", t.dataset.subject === key));
     const sub = document.getElementById("chapterCountSub");
     if (sub) sub.textContent = `${chapters.length} ${key} chapters · grouped the way you teach them.`;
-
     bindCardNav();
     const search = document.getElementById("homeSearch");
     if (search && search.value.trim()) applyHomeSearch(search.value);
@@ -307,7 +367,7 @@
     });
   }
 
-  /* ---------------- chapter detail (multilayered) ---------------- */
+  /* ---------------- chapter detail (tabbed — jump straight to a section) ---------------- */
   let detailState = null;
 
   function renderChapter(slug) {
@@ -323,13 +383,10 @@
     const res = ch._res.filter((r) => !r.feature);
     const feature = ch._res.find((r) => r.feature);
     const levels = LEVEL_ORDER.filter((l) => res.some((r) => r.level === l));
-    detailState = { ch, res, levels: new Set(), term: "" };
+    detailState = { ch, res, levels: new Set(), term: "", activeCat: "All" };
 
     const subs = (ch.subtopics || []).map((s) => `<span class="chip">${esc(s)}</span>`).join("");
-    const levelPills = levels.map((l) => {
-      const c = res.filter((r) => r.level === l).length;
-      return `<button class="pill" data-level="${esc(l)}">${esc(l)}<span class="pc">${c}</span></button>`;
-    }).join("");
+    const levelPills = levels.map((l) => `<button class="pill" data-level="${esc(l)}">${esc(l)}<span class="pc">${res.filter((r) => r.level === l).length}</span></button>`).join("");
 
     app.innerHTML = `
       <section class="detail wrap" style="--subj:${subjAccent}">
@@ -349,27 +406,19 @@
           </div>
         </div>
 
-        ${feature ? `
-        <article class="feature" style="margin-top:24px">
-          <span class="f-ico" aria-hidden="true">∑</span>
-          <div style="flex:1"><h4>${esc(feature.title)}</h4><p>${esc(feature.note)}</p></div>
-          <a class="btn primary" href="${esc(feature.url)}" target="_blank" rel="noopener noreferrer">Open ↗</a>
-        </article>` : ""}
+        ${feature ? `<article class="feature" style="margin-top:24px"><span class="f-ico" aria-hidden="true">∑</span><div style="flex:1"><h4>${esc(feature.title)}</h4><p>${esc(feature.note)}</p></div><a class="btn primary" href="${esc(feature.url)}" target="_blank" rel="noopener noreferrer">Open ↗</a></article>` : ""}
 
         <div class="toolbar">
           <div class="toolbar-row">
-            <div class="filter-search"><span class="s-ico" aria-hidden="true">⌕</span>
-              <input id="detailSearch" type="search" placeholder="Filter within this chapter…" aria-label="Filter resources" autocomplete="off" /></div>
-            <button class="btn" id="copyAll" type="button">⧉ Copy all visible links</button>
+            <div class="filter-search"><span class="s-ico" aria-hidden="true">⌕</span><input id="detailSearch" type="search" placeholder="Filter within this chapter…" aria-label="Filter resources" autocomplete="off" /></div>
+            <button class="btn" id="copyAll" type="button">⧉ Copy visible links</button>
             <button class="btn" id="clearFilters" type="button">Reset</button>
           </div>
-          <div class="facets"><div class="facet-row"><span class="f-label">Exam</span>${levelPills}</div></div>
+          ${levelPills ? `<div class="facets"><div class="facet-row"><span class="f-label">Level</span>${levelPills}</div></div>` : ""}
         </div>
 
-        <div class="result-meta">
-          <span id="resultCount"><b>${res.length}</b> resources</span>
-          <span class="cat-nav" id="catNav"></span>
-        </div>
+        <div class="cat-tabs" id="catTabs" role="tablist" aria-label="Resource sections"></div>
+        <div class="result-meta"><span id="resultCount"></span></div>
         <div id="sections"></div>
       </section>
     `;
@@ -382,70 +431,60 @@
     window.scrollTo(0, 0);
   }
 
-  function filteredResources() {
-    const { res, levels, term } = detailState;
-    return res.filter((r) => {
-      if (levels.size && !levels.has(r.level)) return false;
-      if (term) { const hay = (r.title + " " + r.note + " " + r.source + " " + r.type + " " + (r.query || "")).toLowerCase(); if (!hay.includes(term)) return false; }
-      return true;
-    });
+  function passLevelTerm(r) {
+    const { levels, term } = detailState;
+    if (levels.size && !levels.has(r.level)) return false;
+    if (term) { const hay = (r.title + " " + r.note + " " + r.source + " " + r.type + " " + (r.query || "")).toLowerCase(); if (!hay.includes(term)) return false; }
+    return true;
   }
 
   function applyDetailFilters() {
-    const filtered = filteredResources();
-    document.getElementById("resultCount").innerHTML = `<b>${filtered.length}</b> of ${detailState.res.length} resources`;
-
+    const base = detailState.res.filter(passLevelTerm);
     const byCat = {};
-    filtered.forEach((r) => { (byCat[r.cat] = byCat[r.cat] || []).push(r); });
+    base.forEach((r) => { (byCat[r.cat] = byCat[r.cat] || []).push(r); });
+    const presentCats = CATS.filter((c) => byCat[c.key]);
+    if (!presentCats.some((c) => c.key === detailState.activeCat) && detailState.activeCat !== "All") detailState.activeCat = "All";
 
-    const nav = CATS.filter((c) => byCat[c.key]).map((c, i) =>
-      `<a class="cat-chip" href="#sec-${i}" data-i="${i}">${c.icon} ${esc(c.key)}<b>${byCat[c.key].length}</b></a>`
-    ).join("");
-    document.getElementById("catNav").innerHTML = nav;
+    // tabs
+    const tabsHtml = [`<button class="cat-tab${detailState.activeCat === "All" ? " active" : ""}" data-cat="All" type="button">All<span class="ct-n">${base.length}</span></button>`]
+      .concat(presentCats.map((c) => `<button class="cat-tab${detailState.activeCat === c.key ? " active" : ""}" data-cat="${esc(c.key)}" type="button"><span class="ct-ico" aria-hidden="true">${c.icon}</span>${esc(c.key)}<span class="ct-n">${byCat[c.key].length}</span></button>`)).join("");
+    document.getElementById("catTabs").innerHTML = tabsHtml;
+    document.querySelectorAll(".cat-tab").forEach((t) => t.addEventListener("click", () => { detailState.activeCat = t.dataset.cat; applyDetailFilters(); document.getElementById("catTabs").scrollIntoView({ behavior: "smooth", block: "start" }); }));
+
+    document.getElementById("resultCount").innerHTML = `<b>${base.length}</b> of ${detailState.res.length} resources · showing <b>${detailState.activeCat}</b>`;
 
     const sectionsEl = document.getElementById("sections");
-    if (!filtered.length) { sectionsEl.innerHTML = emptyState("No matches — try clearing the exam filter."); return; }
+    if (!base.length) { sectionsEl.innerHTML = emptyState("No matches — try clearing the level filter."); return; }
+
+    const renderCards = (items) => items.map((r, j) => {
+      const delay = Math.min(j * 0.008, 0.25);
+      const lvlClass = "lvl " + String(r.level || "Mixed").replace(/\s+/g, "-");
+      return `<article class="res" style="animation-delay:${delay}s"><div class="res-badges"><span class="badge src">${esc(r.source)}</span><span class="badge">${esc(r.type)}</span><span class="${lvlClass}">${esc(r.level || "Mixed")}</span></div><h4>${esc(r.title)}</h4><p>${esc(r.note)}</p><div class="res-actions"><a class="res-open" href="${esc(r.url)}" target="_blank" rel="noopener noreferrer">Open ↗</a><button class="res-copy" type="button" title="Copy link" data-url="${esc(r.url)}" aria-label="Copy link">⧉</button></div></article>`;
+    }).join("");
 
     let html = "";
-    CATS.forEach((c, i) => {
-      const items = byCat[c.key];
-      if (!items || !items.length) return;
-      const cards = items.map((r, j) => {
-        const delay = Math.min(j * 0.01, 0.3);
-        const lvlClass = "lvl " + String(r.level || "Mixed").replace(/\s+/g, "-");
-        return `
-          <article class="res" style="animation-delay:${delay}s">
-            <div class="res-badges"><span class="badge src">${esc(r.source)}</span><span class="badge">${esc(r.type)}</span><span class="${lvlClass}">${esc(r.level || "Mixed")}</span></div>
-            <h4>${esc(r.title)}</h4>
-            <p>${esc(r.note)}</p>
-            <div class="res-actions">
-              <a class="res-open" href="${esc(r.url)}" target="_blank" rel="noopener noreferrer">Open ↗</a>
-              <button class="res-copy" type="button" title="Copy link" data-url="${esc(r.url)}" aria-label="Copy link">⧉</button>
-            </div>
-          </article>`;
-      }).join("");
-      html += `
-        <section class="cat-section" id="sec-${i}">
-          <div class="cat-head"><span class="cat-ico" aria-hidden="true">${c.icon}</span><h3>${esc(c.key)}</h3><span class="cat-count">${items.length}</span><span class="cat-line"></span></div>
-          <p class="cat-blurb">${esc(c.blurb)}</p>
-          <div class="res-grid">${cards}</div>
-        </section>`;
-    });
+    if (detailState.activeCat === "All") {
+      presentCats.forEach((c) => {
+        html += `<section class="cat-section"><div class="cat-head"><span class="cat-ico" aria-hidden="true">${c.icon}</span><h3>${esc(c.key)}</h3><span class="cat-count">${byCat[c.key].length}</span><span class="cat-line"></span></div><p class="cat-blurb">${esc(c.blurb)}</p><div class="res-grid">${renderCards(byCat[c.key])}</div></section>`;
+      });
+    } else {
+      const c = CATS.find((x) => x.key === detailState.activeCat);
+      html = `<section class="cat-section"><p class="cat-blurb" style="margin-top:18px">${esc(c ? c.blurb : "")}</p><div class="res-grid">${renderCards(byCat[detailState.activeCat] || [])}</div></section>`;
+    }
     sectionsEl.innerHTML = html;
     sectionsEl.querySelectorAll(".res-copy").forEach((b) => b.addEventListener("click", () => copyText(b.dataset.url, "Link copied")));
-    document.querySelectorAll(".cat-chip").forEach((a) => a.addEventListener("click", (e) => { e.preventDefault(); const el = document.getElementById("sec-" + a.dataset.i); if (el) el.scrollIntoView({ behavior: "smooth", block: "start" }); }));
   }
 
   function clearFilters() {
-    detailState.term = ""; detailState.levels.clear();
+    detailState.term = ""; detailState.levels.clear(); detailState.activeCat = "All";
     app.querySelectorAll(".pill.active").forEach((p) => p.classList.remove("active"));
     const ds = document.getElementById("detailSearch"); if (ds) ds.value = "";
     applyDetailFilters();
   }
   function copyAllVisible() {
-    const list = filteredResources();
-    const text = list.map((r) => `${r.title} (${r.source}) — ${r.url}`).join("\n");
-    copyText(text, `Copied ${list.length} links`);
+    let list = detailState.res.filter(passLevelTerm);
+    if (detailState.activeCat !== "All") list = list.filter((r) => r.cat === detailState.activeCat);
+    copyText(list.map((r) => `${r.title} (${r.source}) — ${r.url}`).join("\n"), `Copied ${list.length} links`);
   }
   function emptyState(msg) { return `<div class="empty"><div class="e-ico">∅</div><p>${esc(msg)}</p></div>`; }
 
@@ -484,11 +523,8 @@
       if (kind === "feedback") return;
       a.addEventListener("click", (e) => {
         if (kind === "home") { e.preventDefault(); location.hash = "#/"; }
-        else if (kind === "guide") {
-          e.preventDefault();
-          const goScroll = () => { const el = document.getElementById("guide"); if (el) el.scrollIntoView({ behavior: "smooth" }); };
-          if (location.hash.startsWith("#/chapter")) { location.hash = "#/"; setTimeout(goScroll, 60); } else goScroll();
-        } else if (kind === "about") { e.preventDefault(); document.getElementById("about").scrollIntoView({ behavior: "smooth" }); }
+        else if (kind === "guide") { e.preventDefault(); const goScroll = () => { const el = document.getElementById("guide"); if (el) el.scrollIntoView({ behavior: "smooth" }); }; if (location.hash.startsWith("#/chapter")) { location.hash = "#/"; setTimeout(goScroll, 60); } else goScroll(); }
+        else if (kind === "about") { e.preventDefault(); document.getElementById("about").scrollIntoView({ behavior: "smooth" }); }
       });
     });
     document.addEventListener("keydown", (e) => {

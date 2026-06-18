@@ -340,10 +340,9 @@ img { max-width: 100%; display: block; }
 .badge { font-family: var(--mono); font-size: 10.5px; letter-spacing: .04em; padding: 4px 9px; border-radius: 7px; border: 1px solid var(--line-strong); color: var(--ink-soft); white-space: nowrap; }
 .badge.src { color: var(--ink); border-color: var(--line-strong); background: var(--surface-3); }
 .lvl { font-family: var(--mono); font-size: 10px; letter-spacing: .06em; text-transform: uppercase; padding: 3px 8px; border-radius: 100px; margin-left: auto; }
-.lvl.Foundation { color: var(--ink-soft); border: 1px solid var(--line-strong); }
-.lvl.JEE-Main   { color: var(--accent-2); border: 1px solid color-mix(in srgb, var(--accent-2) 45%, transparent); }
-.lvl.NEET       { color: var(--leaf); border: 1px solid color-mix(in srgb, var(--leaf) 48%, transparent); background: color-mix(in srgb, var(--leaf) 9%, transparent); }
-.lvl.JEE-Advanced { color: var(--accent); border: 1px solid color-mix(in srgb, var(--accent) 50%, transparent); background: color-mix(in srgb, var(--accent) 9%, transparent); }
+.lvl.Foundation { color: var(--leaf); border: 1px solid color-mix(in srgb, var(--leaf) 45%, transparent); }
+.lvl.Standard   { color: var(--accent-2); border: 1px solid color-mix(in srgb, var(--accent-2) 45%, transparent); }
+.lvl.Advanced   { color: var(--accent); border: 1px solid color-mix(in srgb, var(--accent) 50%, transparent); background: color-mix(in srgb, var(--accent) 9%, transparent); }
 .lvl.Olympiad   { color: var(--accent-3); border: 1px solid color-mix(in srgb, var(--accent-3) 50%, transparent); }
 .lvl.Mixed      { color: var(--sky); border: 1px solid color-mix(in srgb, var(--sky) 45%, transparent); }
 .res h4 { font-family: var(--sans); font-weight: 700; font-size: 15.5px; line-height: 1.3; }
@@ -366,6 +365,27 @@ img { max-width: 100%; display: block; }
 
 .empty { text-align: center; padding: 60px 20px; color: var(--ink-faint); }
 .empty .e-ico { font-size: 40px; color: var(--accent); font-family: var(--serif); }
+
+/* ---------- Section tabs (jump straight to a section, no scroll) ---------- */
+.detail .toolbar { position: static; top: auto; }
+.cat-tabs {
+  display: flex; gap: 8px; overflow-x: auto; padding: 8px 0 10px; margin: 18px 0 2px;
+  position: sticky; top: 60px; z-index: 18;
+  background: linear-gradient(var(--bg) 72%, transparent);
+  -webkit-overflow-scrolling: touch; scrollbar-width: none;
+}
+.cat-tabs::-webkit-scrollbar { display: none; }
+.cat-tab {
+  display: inline-flex; align-items: center; gap: 7px; white-space: nowrap; flex: 0 0 auto;
+  font-size: 13.5px; font-weight: 700; color: var(--ink-soft);
+  border: 1px solid var(--line-strong); background: var(--surface); border-radius: 100px;
+  padding: 9px 16px; cursor: pointer; transition: transform .14s, border-color .18s, background .18s, color .18s;
+}
+.cat-tab:hover { color: var(--ink); border-color: var(--subj, var(--accent)); transform: translateY(-1px); }
+.cat-tab.active { background: var(--subj, var(--accent)); color: var(--bg); border-color: var(--subj, var(--accent)); box-shadow: 0 8px 22px -12px var(--subj, var(--accent)); }
+.cat-tab .ct-ico { font-size: 15px; }
+.cat-tab .ct-n { font-family: var(--mono); font-size: 10px; opacity: .7; }
+.cat-tab.active .ct-n { opacity: .9; }
 
 /* ---------- Category sections (the layers) ---------- */
 .cat-nav { display: flex; flex-wrap: wrap; gap: 7px; justify-content: flex-end; }
