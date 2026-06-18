@@ -112,7 +112,6 @@
     { name: "Limits Masterbook", desc: "100 advanced limit problems, multi-method", url: "https://yosoyun.github.io/limits-masterbook/" },
     { name: "Ranker Masterbooks", desc: "Inverse-trig & limits, 200+ problems", url: "https://yosoyun.github.io/ranker-masterbooks/" },
     { name: "Andreescu Library", desc: "Guide to Titu Andreescu's books", url: "https://yosoyun.github.io/andreescu-library/" },
-    { name: "All projects on GitHub", desc: "github.com/Yosoyun", url: "https://github.com/Yosoyun" },
   ];
 
   /* ---------------- per-chapter generated shortcuts (trusted, global) ---------------- */
@@ -192,6 +191,7 @@
     const name = ch.chapter, subj = ch.subject, key = topicKey(ch), sw = SUBJ_WORD[subj] || "", out = [];
     const g = (q) => buildUrl("graw", q, subj);
     const libre = LIBRE[subj];
+    const TOP_UNI = "(site:mit.edu OR site:stanford.edu OR site:harvard.edu OR site:berkeley.edu OR site:princeton.edu OR site:caltech.edu OR site:cam.ac.uk OR site:ox.ac.uk OR site:cmu.edu OR site:yale.edu OR site:columbia.edu OR site:ucla.edu OR site:ethz.ch OR site:ucl.ac.uk OR site:utoronto.ca)";
 
     // ---- Theory & Notes (direct pages) ----
     out.push({ title: name + " — Wikipedia article", url: "https://en.wikipedia.org/w/index.php?title=Special:Search&search=" + qp(key) + "&go=Go", source: "Wikipedia", type: "Reference", level: "Standard", note: "Jumps straight to the encyclopedia article for this topic.", cat: "Theory & Notes" });
@@ -201,6 +201,7 @@
     // ---- Papers & PDFs (trusted/official; returns this exact topic) ----
     out.push({ title: name + " — NCERT chapter (PDF, Govt.)", url: g(key + " " + sw + " NCERT filetype:pdf site:ncert.nic.in"), source: "NCERT", type: "Past papers", level: "Standard", note: "Official NCERT chapter PDF — Government of India.", cat: "Papers, PDFs & Slides" });
     out.push({ title: name + " — MIT OpenCourseWare", url: "https://ocw.mit.edu/search/?q=" + qp(key + " " + sw), source: "MIT OCW", type: "Course", level: "Advanced", note: "MIT courses: notes, problem sets & exams with solutions.", cat: "Papers, PDFs & Slides" });
+    out.push({ title: name + " — top universities (PDF)", url: g(key + " " + sw + " " + TOP_UNI + " filetype:pdf"), source: "Top universities", type: "Past papers", level: "Advanced", note: "Lecture notes & PDFs from MIT, Stanford, Harvard, Oxford, Cambridge, Berkeley, Princeton, ETH & more.", cat: "Papers, PDFs & Slides" });
     out.push({ title: name + " — problem sets w/ solutions (PDF · universities)", url: g(key + " " + sw + " problem set with solutions filetype:pdf (site:ocw.mit.edu OR site:nptel.ac.in OR site:" + libre + ")"), source: "PDF · universities", type: "Past papers", level: "Advanced", note: "Problem-set & exam PDFs from MIT, NPTEL & LibreTexts only.", cat: "Papers, PDFs & Slides" });
 
     // ---- Video Lectures (topic playlists & lessons, not channel-locked) ----
