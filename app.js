@@ -166,56 +166,59 @@
   };
   const TRUSTED = "(site:ocw.mit.edu OR site:libretexts.org OR site:openstax.org OR site:khanacademy.org OR site:ncert.nic.in OR site:nptel.ac.in OR site:artofproblemsolving.com)";
 
+  const LIBRE = { Mathematics: "math.libretexts.org", Physics: "phys.libretexts.org", Chemistry: "chem.libretexts.org", Biology: "bio.libretexts.org" };
   function tool(title, url, note) { return { title, url, source: title.split(" — ").pop(), type: "Tool", level: "Mixed", note, cat: "Tools" }; }
   function chapterTools(ch) {
-    const k = topicKey(ch), subj = ch.subject;
-    if (subj === "Mathematics") return [
-      tool(ch.chapter + " — Desmos", "https://www.desmos.com/calculator", "Free graphing calculator — plot and explore visually."),
-      tool(ch.chapter + " — GeoGebra", "https://www.geogebra.org/classic", "Free geometry/algebra/calculus drawing & exploration."),
-      tool(ch.chapter + " — Wolfram Alpha", "https://www.wolframalpha.com/input?i=" + enc(k), "Compute, solve and plot step-by-step."),
-    ];
-    if (subj === "Physics") return [
-      tool(ch.chapter + " — PhET simulations", "https://phet.colorado.edu/en/simulations/filter?subjects=physics&type=html", "Interactive physics simulations (Univ. of Colorado)."),
-      tool(ch.chapter + " — GeoGebra", "https://www.geogebra.org/classic", "Draw and explore graphs and vectors."),
-      tool(ch.chapter + " — Wolfram Alpha", "https://www.wolframalpha.com/input?i=" + enc(k), "Compute and verify physics problems."),
-    ];
-    if (subj === "Chemistry") return [
-      tool(ch.chapter + " — PhET simulations", "https://phet.colorado.edu/en/simulations/filter?subjects=chemistry&type=html", "Interactive chemistry simulations (Univ. of Colorado)."),
-      tool(ch.chapter + " — MolView (3D molecules)", "https://molview.org/", "Free 3D molecule & structure viewer."),
-      tool(ch.chapter + " — PubChem", "https://pubchem.ncbi.nlm.nih.gov/#query=" + qp(k), "Official NIH chemical database (structures, properties)."),
-    ];
-    return [
-      tool(ch.chapter + " — HHMI BioInteractive", "https://www.biointeractive.org/", "Free, world-class biology animations & interactives (HHMI)."),
-      tool(ch.chapter + " — PhET simulations", "https://phet.colorado.edu/en/simulations/filter?subjects=biology&type=html", "Interactive biology simulations (Univ. of Colorado)."),
-    ];
+    const k = topicKey(ch), subj = ch.subject, out = [];
+    if (subj === "Mathematics" || subj === "Physics")
+      out.push(tool(ch.chapter + " — GeoGebra interactive applets", "https://www.geogebra.org/search/" + enc(k), "Ready-made interactive applets — explore live & project in class."));
+    if (subj === "Mathematics") {
+      out.push(tool(ch.chapter + " — Desmos graphing", "https://www.desmos.com/calculator", "Free graphing calculator — plot & explore live."));
+      out.push(tool(ch.chapter + " — Wolfram Alpha", "https://www.wolframalpha.com/input?i=" + enc(k), "Compute, solve & plot step-by-step."));
+    } else if (subj === "Physics") {
+      out.push(tool(ch.chapter + " — PhET simulations", "https://phet.colorado.edu/en/simulations/filter?subjects=physics&type=html", "Interactive physics simulations (Univ. of Colorado)."));
+      out.push(tool(ch.chapter + " — Wolfram Alpha", "https://www.wolframalpha.com/input?i=" + enc(k), "Compute & verify physics problems."));
+    } else if (subj === "Chemistry") {
+      out.push(tool(ch.chapter + " — PhET simulations", "https://phet.colorado.edu/en/simulations/filter?subjects=chemistry&type=html", "Interactive chemistry simulations (Univ. of Colorado)."));
+      out.push(tool(ch.chapter + " — MolView (3D molecules)", "https://molview.org/", "Free 3D molecule & structure viewer."));
+      out.push(tool(ch.chapter + " — PubChem", "https://pubchem.ncbi.nlm.nih.gov/#query=" + qp(k), "Official NIH chemical database (structures, properties)."));
+    } else {
+      out.push(tool(ch.chapter + " — HHMI BioInteractive", "https://www.biointeractive.org/", "World-class free biology animations & interactives (HHMI)."));
+      out.push(tool(ch.chapter + " — PhET simulations", "https://phet.colorado.edu/en/simulations/filter?subjects=biology&type=html", "Interactive biology simulations (Univ. of Colorado)."));
+    }
+    return out;
   }
 
+  // every shortcut is scoped to ONE renowned source — uniformly premium, no mixed Google
   function chapterShortcuts(ch) {
     const name = ch.chapter, subj = ch.subject, key = topicKey(ch), sw = SUBJ_WORD[subj] || "", out = [];
+    const g = (q) => buildUrl("graw", q, subj);
+    const libre = LIBRE[subj];
 
-    // exam-wise question shortcuts (global)
-    examShortcuts(subj, key, sw).forEach(([label, lvl, q]) => {
-      out.push({ title: name + " — " + label + " questions", url: buildUrl("graw", q + " with solutions", subj), source: "Google", type: lvl === "Olympiad" ? "Problem set" : "Search", level: lvl, note: label + " practice & past questions for this chapter.", cat: lvl === "Olympiad" ? "Problems & Solutions" : "Papers, PDFs & Slides" });
-    });
+    // ---- Papers, PDFs & Slides (single renowned/official source each) ----
+    out.push({ title: name + " — NCERT chapter (PDF, Govt.)", url: g(key + " " + sw + " NCERT filetype:pdf site:ncert.nic.in"), source: "NCERT", type: "Past papers", level: "Standard", note: "Official NCERT chapter PDF — Government of India.", cat: "Papers, PDFs & Slides" });
+    out.push({ title: name + " — MIT OpenCourseWare", url: "https://ocw.mit.edu/search/?q=" + qp(key + " " + sw), source: "MIT OCW", type: "Course", level: "Advanced", note: "MIT courses: lecture notes, problem sets & exams (with solutions).", cat: "Papers, PDFs & Slides" });
+    out.push({ title: name + " — LibreTexts chapter", url: g(key + " site:" + libre), source: "LibreTexts", type: "Reference", level: "Standard", note: "Free, peer-reviewed open textbook chapter.", cat: "Papers, PDFs & Slides" });
+    out.push({ title: name + " — OpenStax textbook", url: g(key + " " + sw + " site:openstax.org"), source: "OpenStax", type: "Reference", level: "Standard", note: "Free university textbook section (Rice University).", cat: "Papers, PDFs & Slides" });
+    out.push({ title: name + " — problem sets w/ solutions (PDF · top universities)", url: g(key + " " + sw + " problem set solutions filetype:pdf (site:ocw.mit.edu OR site:nptel.ac.in OR site:artofproblemsolving.com OR site:" + libre + ")"), source: "PDF · universities", type: "Past papers", level: "Advanced", note: "Problem-set & exam PDFs from MIT, NPTEL, AoPS & LibreTexts only.", cat: "Papers, PDFs & Slides" });
+    out.push({ title: name + " — lecture slides (PPT · .edu)", url: g(key + " " + sw + " lecture slides filetype:ppt (site:edu OR site:ac.uk OR site:ac.in)"), source: "Slides · .edu", type: "Past papers", level: "Mixed", note: "University lecture slide decks (PPT) from academic sites only.", cat: "Papers, PDFs & Slides" });
 
-    // PDFs & slides — trusted/renowned/government sources only
-    const isBio = subj === "Biology";
-    const pdfs = [
-      { q: key + " " + sw + " lecture notes filetype:pdf " + TRUSTED, t: name + " — lecture notes (trusted sources, PDF)", n: "PDF notes from MIT OCW, LibreTexts, OpenStax, NCERT, NPTEL, Khan & AoPS." },
-      { q: key + " " + sw + " NCERT chapter filetype:pdf", t: name + " — NCERT chapter (PDF)", n: "Official NCERT chapter PDF — Government of India." },
-      { q: key + " " + sw + " problem set with solutions filetype:pdf " + TRUSTED, t: name + " — problem set (trusted, PDF)", n: "University & Olympiad problem sets with solutions (PDF)." },
-      { q: key + " " + sw + (isBio ? " labelled diagram filetype:pdf" : " formula sheet filetype:pdf") + " -byjus -vedantu", t: name + " — " + (isBio ? "labelled diagrams" : "formula sheet") + " (PDF)", n: (isBio ? "Clear labelled diagrams" : "Formula / quick-revision sheet") + " (PDF, junk filtered out)." },
-      { q: key + " " + sw + " lecture slides filetype:ppt OR filetype:pptx", t: name + " — lecture slides (PPT)", n: "Lecture slide decks (PPT / PPTX) on this topic." },
-    ];
-    pdfs.forEach((p) => out.push({ title: p.t, url: buildUrl("graw", p.q, subj), source: "PDF / Slides", type: "Past papers", level: "Mixed", note: p.n, cat: "Papers, PDFs & Slides" }));
+    // ---- Problems & Solutions (premium) ----
+    out.push({ title: name + " — Art of Problem Solving (Wiki)", url: "https://artofproblemsolving.com/wiki/index.php?search=" + qp(key), source: "AoPS", type: "Problem set", level: "Olympiad", note: "AoPS Wiki: concept pages and contest problems with solutions.", cat: "Problems & Solutions" });
+    out.push({ title: name + " — Brilliant interactive courses", url: "https://brilliant.org/courses/", source: "Brilliant", type: "Course", level: "Standard", note: "Interactive, guided problem-solving lessons.", cat: "Problems & Solutions" });
+    if (subj === "Mathematics") out.push({ title: name + " — Olympiad & contest archive (AoPS)", url: "https://artofproblemsolving.com/community/c13_contests", source: "AoPS Contests", type: "Problem set", level: "Olympiad", note: "IMO & national-olympiad problem archive with discussion.", cat: "Problems & Solutions" });
 
-    // videos — renowned channels only
-    (CHANNELS[subj] || []).forEach((cn) => out.push({ title: name + " — " + cn, url: buildUrl("ytq", key + " " + sw + " " + cn, subj), source: "YouTube", type: "Video", level: "Mixed", note: "Lecture / explainer by " + cn + " (renowned).", cat: "Video Lectures" }));
+    // ---- Video Lectures (renowned channels, PLAYLISTS stacked) ----
+    (CHANNELS[subj] || []).forEach((cn) => out.push({ title: name + " — " + cn + " (playlists)", url: "https://www.youtube.com/results?search_query=" + qp(key + " " + sw + " " + cn) + "&sp=EgIQAw%3D%3D", source: "YouTube", type: "Video", level: "Mixed", note: "Course playlists by " + cn + " (renowned) on this topic.", cat: "Video Lectures" }));
 
-    // community — serious subs, top-sorted
+    // ---- Theory & Notes (premium) ----
+    out.push({ title: name + " — Khan Academy", url: "https://www.khanacademy.org/search?page_search_query=" + qp(key + " " + sw), source: "Khan Academy", type: "Course", level: "Standard", note: "Free lessons, articles and practice.", cat: "Theory & Notes" });
+    if (subj === "Mathematics") out.push({ title: name + " — BetterExplained (intuition)", url: g(key + " site:betterexplained.com"), source: "BetterExplained", type: "Reference", level: "Standard", note: "Renowned intuitive, aha-moment explanations.", cat: "Theory & Notes" });
+
+    // ---- Community (serious subs, top-sorted) ----
     (SUBREDDITS[subj] || ["JEE"]).forEach((sr) => out.push({ title: name + " — r/" + sr, url: "https://www.reddit.com/r/" + sr + "/search/?q=" + qp(key) + "&restrict_sr=1&sort=top&t=all", source: "Reddit", type: "Reference", level: "Mixed", note: "Top-voted discussions & resource recommendations in r/" + sr + ".", cat: "Community" }));
 
-    // tools
+    // ---- Tools ----
     chapterTools(ch).forEach((t) => out.push(t));
     return out;
   }
@@ -229,13 +232,23 @@
     (ch.anchors || []).forEach((a) => list.push({ ...a, level: normLevel(a.level), cat: categorize(a) }));
     (ch.seeds || []).forEach((seed) => {
       (seed.sources || []).forEach((src) => {
+        // keep only premium Q&A sources; drop mixed-quality web & random-video searches
+        if (src === "google" || src === "pyq" || src === "youtube") return;
         const m = SOURCE_META[src] || SOURCE_META.google;
         const r = { title: seed.label, url: buildUrl(src, seed.query, ch.subject), source: m.name, type: m.type, level: normLevel(seed.level), note: m.note, query: seed.query };
         r.cat = categorize(r);
         list.push(r);
       });
     });
-    return list;
+    // dedupe: exact URL, and at most one Tool per host
+    const hostOf = (u) => { try { return new URL(u).hostname.replace(/^www\./, ""); } catch (e) { return u; } };
+    const seenUrl = new Set(), seenTool = new Set(), final = [];
+    list.forEach((r) => {
+      if (seenUrl.has(r.url)) return;
+      if (r.cat === "Tools" && !r.feature) { const h = hostOf(r.url); if (seenTool.has(h)) return; seenTool.add(h); }
+      seenUrl.add(r.url); final.push(r);
+    });
+    return final;
   }
 
   DATA.forEach((ch) => { ch._res = expandChapter(ch); ch._count = ch._res.length; });
