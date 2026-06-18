@@ -122,29 +122,35 @@
     Chemistry: ["JEENEETards", "chemhelp"],
     Biology: ["NEET", "JEENEETards"],
   };
+  const SUBJ_WORD = { Mathematics: "maths", Physics: "physics", Chemistry: "chemistry", Biology: "biology" };
+  // clean, searchable topic key — drop "(parentheticals)" and "&" that wreck Google relevance
+  function topicKey(ch) {
+    return ch.chapter.replace(/\([^)]*\)/g, " ").replace(/&/g, " and ").replace(/\s+/g, " ").trim();
+  }
   function chapterShortcuts(ch) {
-    const name = ch.chapter, subj = ch.subject, out = [];
+    const name = ch.chapter, subj = ch.subject, key = topicKey(ch), sw = SUBJ_WORD[subj] || "", ex = examTag(subj), out = [];
     const examLabel = { Foundation: "Foundation (Class 9–10)", "JEE Main": "JEE Main", NEET: "NEET", "JEE Advanced": "JEE Advanced", Olympiad: "Olympiad" };
-    subjectExams(subj).forEach((ex) => {
+    subjectExams(subj).forEach((e) => {
       let q, note, cat;
-      if (ex === "Foundation") { q = name + " class 9 10 foundation concepts questions"; note = "Foundation-level basics & NTSE/KVPY-style questions."; cat = "Past Papers & PDFs"; }
-      else if (ex === "Olympiad") { q = name + " " + subj + " olympiad problems"; note = "Olympiad-level problems on this topic."; cat = "Problems & Solutions"; }
-      else { q = name + " " + ex + " previous year questions with solutions"; note = ex + " previous-year questions on this chapter."; cat = "Past Papers & PDFs"; }
-      out.push({ title: name + " — " + examLabel[ex] + " questions", url: buildUrl("graw", q, subj), source: "Google", type: ex === "Olympiad" ? "Problem set" : "Search", level: ex, note, cat });
+      if (e === "Foundation") { q = key + " " + sw + " class 9 10 foundation questions"; note = "Foundation-level basics & NTSE/KVPY-style questions."; cat = "Past Papers & PDFs"; }
+      else if (e === "Olympiad") { q = key + " " + sw + " olympiad problems with solutions"; note = "Olympiad-level problems on this topic."; cat = "Problems & Solutions"; }
+      else { q = key + " " + e + " " + sw + " previous year questions with solutions"; note = e + " previous-year questions on this chapter."; cat = "Past Papers & PDFs"; }
+      out.push({ title: name + " — " + examLabel[e] + " questions", url: buildUrl("graw", q, subj), source: "Google", type: e === "Olympiad" ? "Problem set" : "Search", level: e, note, cat });
     });
     const isBio = subj === "Biology";
     const pdfs = [
-      { q: name + " NCERT", t: name + " — NCERT chapter (PDF)", n: "NCERT chapter as a downloadable PDF — the syllabus baseline." },
-      { q: name + " " + subj + " notes", t: name + " — notes (PDF)", n: "Concise teacher/coaching notes as downloadable PDFs." },
-      { q: name + " " + (isBio ? "labelled diagrams" : "formula sheet"), t: name + " — " + (isBio ? "labelled diagrams" : "formula sheet") + " (PDF)", n: (isBio ? "Clear labelled diagrams" : "Formula / short-notes sheet") + " as PDF." },
-      { q: name + " topic wise previous year questions", t: name + " — topic-wise PYQ (PDF)", n: "Chapter-wise previous-year question compilations (PDF)." },
+      { q: key + " " + sw + " NCERT chapter filetype:pdf", t: name + " — NCERT chapter (PDF)", n: "Official NCERT chapter PDF — the syllabus baseline." },
+      { q: key + " " + sw + " notes pdf (site:ncert.nic.in OR site:byjus.com OR site:vedantu.com OR site:selfstudys.com OR site:learncbse.in)", t: name + " — notes from trusted sites (PDF)", n: "PDF notes from NCERT, BYJU'S, Vedantu & other known sources." },
+      { q: key + " " + sw + (isBio ? " labelled diagrams pdf" : " formula sheet short notes pdf"), t: name + " — " + (isBio ? "labelled diagrams" : "formula sheet") + " (PDF)", n: (isBio ? "Clear labelled diagrams" : "Formula / short-revision sheet") + " as PDF." },
+      { q: key + " " + ex + " chapter wise previous year questions pdf", t: name + " — chapter-wise PYQ (PDF)", n: "Previous-year question compilations for this chapter (PDF)." },
+      { q: key + " " + sw + " daily practice problems dpp pdf with solutions", t: name + " — DPP / practice sheet (PDF)", n: "Daily-practice-problem (DPP) sheets with answers (PDF)." },
     ];
-    pdfs.forEach((p) => out.push({ title: p.t, url: buildUrl("gpdf", p.q, subj), source: "PDF Search", type: "Past papers", level: "Mixed", note: p.n, cat: "Past Papers & PDFs" }));
+    pdfs.forEach((p) => out.push({ title: p.t, url: buildUrl("graw", p.q, subj), source: "PDF Search", type: "Past papers", level: "Mixed", note: p.n, cat: "Past Papers & PDFs" }));
     (SUBREDDITS[subj] || ["JEENEETards"]).forEach((sr) => {
-      out.push({ title: name + " — r/" + sr, url: "https://www.reddit.com/r/" + sr + "/search/?q=" + qp(name) + "&restrict_sr=1&sort=relevance", source: "Reddit", type: "Reference", level: "Mixed", note: "Student discussions, doubts and tips on r/" + sr + ".", cat: "Community" });
+      out.push({ title: name + " — r/" + sr, url: "https://www.reddit.com/r/" + sr + "/search/?q=" + qp(key) + "&restrict_sr=1&sort=relevance", source: "Reddit", type: "Reference", level: "Mixed", note: "Student discussions, doubts and tips on r/" + sr + ".", cat: "Community" });
     });
-    out.push({ title: name + " — Reddit (all)", url: buildUrl("reddit", name, subj), source: "Reddit", type: "Reference", level: "Mixed", note: "Every Reddit thread mentioning this topic.", cat: "Community" });
-    if (!isBio) out.push({ title: name + " — Wolfram Alpha", url: buildUrl("wolfram", name, subj), source: "Wolfram Alpha", type: "Tool", level: "Mixed", note: "Compute, plot and verify problems instantly.", cat: "Tools" });
+    out.push({ title: name + " — Reddit (all)", url: buildUrl("reddit", key, subj), source: "Reddit", type: "Reference", level: "Mixed", note: "Every Reddit thread mentioning this topic.", cat: "Community" });
+    if (!isBio) out.push({ title: name + " — Wolfram Alpha", url: buildUrl("wolfram", key, subj), source: "Wolfram Alpha", type: "Tool", level: "Mixed", note: "Compute, plot and verify problems instantly.", cat: "Tools" });
     return out;
   }
 
