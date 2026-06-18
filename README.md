@@ -96,11 +96,11 @@ Problems, ideas, or appreciation — all genuinely welcome. Every note helps thi
 - ☎️ **+91 80729 65053**
 
 ### More free tools from the same teacher
-- **[ALLEN Resource Hub](https://yosoyun.github.io/allen-resource-hub/)** — every official ALLEN channel & link, in one place
 - **[Maths Prompt Studio](https://yosoyun.github.io/math-prompt-studio/)** — 500+ AI prompts for maths teachers
-- **[AI Prompt Library for Teachers](https://github.com/Yosoyun/ai-prompt-library-for-teachers)** — 200+ classroom prompts
-- **[Limits Masterbook](https://github.com/Yosoyun/limits-masterbook)** — 100 advanced limit problems, multiple methods
-- **[Ranker Masterbooks](https://github.com/Yosoyun/ranker-masterbooks)** — inverse-trig & limits, 200+ problems
+- **[AI Prompt Library for Teachers](https://yosoyun.github.io/ai-prompt-library-for-teachers/)** — 200+ classroom prompts
+- **[Limits Masterbook](https://yosoyun.github.io/limits-masterbook/)** — 100 advanced limit problems, multiple methods
+- **[Ranker Masterbooks](https://yosoyun.github.io/ranker-masterbooks/)** — inverse-trig & limits, 200+ problems
+- **[Andreescu Library](https://yosoyun.github.io/andreescu-library/)** — guide to Titu Andreescu's books
 - **[All projects on GitHub](https://github.com/Yosoyun)**
 
 ---

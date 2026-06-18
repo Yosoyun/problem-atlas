@@ -94,24 +94,24 @@
       note: "Indrajeet's own free prompt library — paste a prompt into ChatGPT/Claude to instantly create fresh practice on this exact topic.",
     };
     return {
-      title: "Generate unlimited custom problems with AI", url: "https://github.com/Yosoyun/ai-prompt-library-for-teachers",
+      title: "Generate unlimited custom problems with AI", url: "https://yosoyun.github.io/ai-prompt-library-for-teachers/",
       source: "AI Prompt Library", type: "Tool", level: "Mixed", feature: true,
       note: "Indrajeet's free library of 200+ classroom AI prompts — paste one into ChatGPT/Claude to create fresh practice for this topic.",
     };
   }
   const TEACHER_EXTRAS = {
-    "limits-continuity-differentiability": [{ title: "Limits Masterbook — 100 advanced problems", url: "https://github.com/Yosoyun/limits-masterbook", source: "Indrajeet's Masterbook", type: "Problem set", level: "Olympiad", note: "100 advanced limit problems with multiple methods, Python-verified — by Indrajeet himself." }],
-    "inverse-trigonometry": [{ title: "Inverse-Trig Masterbook (Ranker series)", url: "https://github.com/Yosoyun/ranker-masterbooks", source: "Indrajeet's Masterbook", type: "Problem set", level: "Olympiad", note: "200+ original competitive inverse-trigonometry problems with verified solutions." }],
-    "permutations-combinations": [{ title: "Andreescu Library — counting & combinatorics", url: "https://github.com/Yosoyun/andreescu-library", source: "Olympiad Library", type: "Reference", level: "Olympiad", note: "A guide to Titu Andreescu's combinatorics books for the Olympiad bridge." }],
-    "sequences-series": [{ title: "Andreescu Library — inequalities & series", url: "https://github.com/Yosoyun/andreescu-library", source: "Olympiad Library", type: "Reference", level: "Olympiad", note: "Curated guide to Andreescu's books on sequences, series and inequalities." }],
-    "complex-numbers": [{ title: "Andreescu Library — complex numbers", url: "https://github.com/Yosoyun/andreescu-library", source: "Olympiad Library", type: "Reference", level: "Olympiad", note: "Guide to Andreescu's classic 'Complex Numbers from A to Z'." }],
+    "limits-continuity-differentiability": [{ title: "Limits Masterbook — 100 advanced problems", url: "https://yosoyun.github.io/limits-masterbook/", source: "Indrajeet's Masterbook", type: "Problem set", level: "Olympiad", note: "100 advanced limit problems with multiple methods, Python-verified — by Indrajeet himself." }],
+    "inverse-trigonometry": [{ title: "Inverse-Trig Masterbook (Ranker series)", url: "https://yosoyun.github.io/ranker-masterbooks/", source: "Indrajeet's Masterbook", type: "Problem set", level: "Olympiad", note: "200+ original competitive inverse-trigonometry problems with verified solutions." }],
+    "permutations-combinations": [{ title: "Andreescu Library — counting & combinatorics", url: "https://yosoyun.github.io/andreescu-library/", source: "Olympiad Library", type: "Reference", level: "Olympiad", note: "A guide to Titu Andreescu's combinatorics books for the Olympiad bridge." }],
+    "sequences-series": [{ title: "Andreescu Library — inequalities & series", url: "https://yosoyun.github.io/andreescu-library/", source: "Olympiad Library", type: "Reference", level: "Olympiad", note: "Curated guide to Andreescu's books on sequences, series and inequalities." }],
+    "complex-numbers": [{ title: "Andreescu Library — complex numbers", url: "https://yosoyun.github.io/andreescu-library/", source: "Olympiad Library", type: "Reference", level: "Olympiad", note: "Guide to Andreescu's classic 'Complex Numbers from A to Z'." }],
   };
   const FOOTER_WORKS = [
     { name: "Maths Prompt Studio", desc: "500+ free AI prompts for maths teachers", url: "https://yosoyun.github.io/math-prompt-studio/" },
-    { name: "AI Prompt Library for Teachers", desc: "200+ ready classroom prompts", url: "https://github.com/Yosoyun/ai-prompt-library-for-teachers" },
-    { name: "Limits Masterbook", desc: "100 advanced limit problems, multi-method", url: "https://github.com/Yosoyun/limits-masterbook" },
-    { name: "Ranker Masterbooks", desc: "Inverse-trig & limits, 200+ problems", url: "https://github.com/Yosoyun/ranker-masterbooks" },
-    { name: "Andreescu Library", desc: "Guide to Titu Andreescu's books", url: "https://github.com/Yosoyun/andreescu-library" },
+    { name: "AI Prompt Library for Teachers", desc: "200+ ready classroom prompts", url: "https://yosoyun.github.io/ai-prompt-library-for-teachers/" },
+    { name: "Limits Masterbook", desc: "100 advanced limit problems, multi-method", url: "https://yosoyun.github.io/limits-masterbook/" },
+    { name: "Ranker Masterbooks", desc: "Inverse-trig & limits, 200+ problems", url: "https://yosoyun.github.io/ranker-masterbooks/" },
+    { name: "Andreescu Library", desc: "Guide to Titu Andreescu's books", url: "https://yosoyun.github.io/andreescu-library/" },
     { name: "All projects on GitHub", desc: "github.com/Yosoyun", url: "https://github.com/Yosoyun" },
   ];
 
