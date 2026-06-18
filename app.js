@@ -192,16 +192,25 @@
     const g = (q) => buildUrl("graw", q, subj);
     const libre = LIBRE[subj];
     const TOP_UNI = "(site:mit.edu OR site:stanford.edu OR site:harvard.edu OR site:berkeley.edu OR site:princeton.edu OR site:caltech.edu OR site:cam.ac.uk OR site:ox.ac.uk OR site:cmu.edu OR site:yale.edu OR site:columbia.edu OR site:ucla.edu OR site:ethz.ch OR site:ucl.ac.uk OR site:utoronto.ca)";
+    const SPECIALISTS = {
+      Mathematics: { sites: "(site:mathworld.wolfram.com OR site:artofproblemsolving.com OR site:tutorial.math.lamar.edu OR site:brilliant.org OR site:cut-the-knot.org)", names: "MathWorld, AoPS, Paul's Notes, Brilliant & Cut-the-Knot" },
+      Physics: { sites: "(site:hyperphysics.phy-astr.gsu.edu OR site:feynmanlectures.caltech.edu OR site:physicsclassroom.com OR site:physics.stackexchange.com OR site:phys.libretexts.org)", names: "HyperPhysics, Feynman Lectures, Physics Classroom & LibreTexts" },
+      Chemistry: { sites: "(site:chem.libretexts.org OR site:masterorganicchemistry.com OR site:chemguide.co.uk OR site:pubchem.ncbi.nlm.nih.gov OR site:rsc.org)", names: "LibreTexts, Master Organic Chemistry, ChemGuide & RSC" },
+      Biology: { sites: "(site:bio.libretexts.org OR site:biointeractive.org OR site:khanacademy.org OR site:ncbi.nlm.nih.gov OR site:biologyonline.com)", names: "LibreTexts, HHMI BioInteractive, NCBI & Biology Online" },
+    };
+    const spec = SPECIALISTS[subj] || SPECIALISTS.Mathematics;
 
     // ---- Theory & Notes (direct pages) ----
     out.push({ title: name + " — Wikipedia article", url: "https://en.wikipedia.org/w/index.php?title=Special:Search&search=" + qp(key) + "&go=Go", source: "Wikipedia", type: "Reference", level: "Standard", note: "Jumps straight to the encyclopedia article for this topic.", cat: "Theory & Notes" });
     out.push({ title: name + " — Khan Academy", url: "https://www.khanacademy.org/search?page_search_query=" + qp(key + " " + sw), source: "Khan Academy", type: "Course", level: "Standard", note: "Free lessons, articles and practice on this topic.", cat: "Theory & Notes" });
     out.push({ title: name + " — LibreTexts", url: g(key + " site:" + libre), source: "LibreTexts", type: "Reference", level: "Standard", note: "Free, peer-reviewed open-textbook section.", cat: "Theory & Notes" });
+    out.push({ title: name + " — specialist sites", url: g(key + " " + spec.sites), source: "Specialist sites", type: "Reference", level: "Advanced", note: "The best subject-specialist sites — " + spec.names + ".", cat: "Theory & Notes" });
 
     // ---- Papers & PDFs (trusted/official; returns this exact topic) ----
     out.push({ title: name + " — NCERT chapter (PDF, Govt.)", url: g(key + " " + sw + " NCERT filetype:pdf site:ncert.nic.in"), source: "NCERT", type: "Past papers", level: "Standard", note: "Official NCERT chapter PDF — Government of India.", cat: "Papers, PDFs & Slides" });
     out.push({ title: name + " — MIT OpenCourseWare", url: "https://ocw.mit.edu/search/?q=" + qp(key + " " + sw), source: "MIT OCW", type: "Course", level: "Advanced", note: "MIT courses: notes, problem sets & exams with solutions.", cat: "Papers, PDFs & Slides" });
     out.push({ title: name + " — top universities (PDF)", url: g(key + " " + sw + " " + TOP_UNI + " filetype:pdf"), source: "Top universities", type: "Past papers", level: "Advanced", note: "Lecture notes & PDFs from MIT, Stanford, Harvard, Oxford, Cambridge, Berkeley, Princeton, ETH & more.", cat: "Papers, PDFs & Slides" });
+    out.push({ title: name + " — university lecture notes (.edu)", url: g(key + " " + sw + " (intitle:notes OR intitle:lecture OR intitle:fundamentals) filetype:pdf site:edu"), source: "Lecture notes · .edu", type: "Past papers", level: "Standard", note: "PDFs titled as notes/lectures on this topic, from .edu universities only.", cat: "Papers, PDFs & Slides" });
     out.push({ title: name + " — problem sets w/ solutions (PDF · universities)", url: g(key + " " + sw + " problem set with solutions filetype:pdf (site:ocw.mit.edu OR site:nptel.ac.in OR site:" + libre + ")"), source: "PDF · universities", type: "Past papers", level: "Advanced", note: "Problem-set & exam PDFs from MIT, NPTEL & LibreTexts only.", cat: "Papers, PDFs & Slides" });
 
     // ---- Video Lectures (topic playlists & lessons, not channel-locked) ----
