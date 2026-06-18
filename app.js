@@ -173,11 +173,9 @@
     if (subj === "Mathematics" || subj === "Physics")
       out.push(tool(ch.chapter + " — GeoGebra interactive applets", "https://www.geogebra.org/search/" + enc(k), "Ready-made interactive applets — explore live & project in class."));
     if (subj === "Mathematics") {
-      out.push(tool(ch.chapter + " — Desmos graphing", "https://www.desmos.com/calculator", "Free graphing calculator — plot & explore live."));
-      out.push(tool(ch.chapter + " — Wolfram Alpha", "https://www.wolframalpha.com/input?i=" + enc(k), "Compute, solve & plot step-by-step."));
+      out.push(tool(ch.chapter + " — PhET maths simulations", "https://phet.colorado.edu/en/simulations/filter?subjects=math&type=html", "Interactive maths simulations (Univ. of Colorado)."));
     } else if (subj === "Physics") {
       out.push(tool(ch.chapter + " — PhET simulations", "https://phet.colorado.edu/en/simulations/filter?subjects=physics&type=html", "Interactive physics simulations (Univ. of Colorado)."));
-      out.push(tool(ch.chapter + " — Wolfram Alpha", "https://www.wolframalpha.com/input?i=" + enc(k), "Compute & verify physics problems."));
     } else if (subj === "Chemistry") {
       out.push(tool(ch.chapter + " — PhET simulations", "https://phet.colorado.edu/en/simulations/filter?subjects=chemistry&type=html", "Interactive chemistry simulations (Univ. of Colorado)."));
       out.push(tool(ch.chapter + " — MolView (3D molecules)", "https://molview.org/", "Free 3D molecule & structure viewer."));
@@ -189,31 +187,25 @@
     return out;
   }
 
-  // every shortcut is scoped to ONE renowned source — uniformly premium, no mixed Google
+  // ONLY links that land on real, on-topic content — no generic/computational/mismatched deadends
   function chapterShortcuts(ch) {
     const name = ch.chapter, subj = ch.subject, key = topicKey(ch), sw = SUBJ_WORD[subj] || "", out = [];
     const g = (q) => buildUrl("graw", q, subj);
     const libre = LIBRE[subj];
 
-    // ---- Papers, PDFs & Slides (single renowned/official source each) ----
+    // ---- Theory & Notes (direct pages) ----
+    out.push({ title: name + " — Wikipedia article", url: "https://en.wikipedia.org/w/index.php?title=Special:Search&search=" + qp(key) + "&go=Go", source: "Wikipedia", type: "Reference", level: "Standard", note: "Jumps straight to the encyclopedia article for this topic.", cat: "Theory & Notes" });
+    out.push({ title: name + " — Khan Academy", url: "https://www.khanacademy.org/search?page_search_query=" + qp(key + " " + sw), source: "Khan Academy", type: "Course", level: "Standard", note: "Free lessons, articles and practice on this topic.", cat: "Theory & Notes" });
+    out.push({ title: name + " — LibreTexts", url: g(key + " site:" + libre), source: "LibreTexts", type: "Reference", level: "Standard", note: "Free, peer-reviewed open-textbook section.", cat: "Theory & Notes" });
+
+    // ---- Papers & PDFs (trusted/official; returns this exact topic) ----
     out.push({ title: name + " — NCERT chapter (PDF, Govt.)", url: g(key + " " + sw + " NCERT filetype:pdf site:ncert.nic.in"), source: "NCERT", type: "Past papers", level: "Standard", note: "Official NCERT chapter PDF — Government of India.", cat: "Papers, PDFs & Slides" });
-    out.push({ title: name + " — MIT OpenCourseWare", url: "https://ocw.mit.edu/search/?q=" + qp(key + " " + sw), source: "MIT OCW", type: "Course", level: "Advanced", note: "MIT courses: lecture notes, problem sets & exams (with solutions).", cat: "Papers, PDFs & Slides" });
-    out.push({ title: name + " — LibreTexts chapter", url: g(key + " site:" + libre), source: "LibreTexts", type: "Reference", level: "Standard", note: "Free, peer-reviewed open textbook chapter.", cat: "Papers, PDFs & Slides" });
-    out.push({ title: name + " — OpenStax textbook", url: g(key + " " + sw + " site:openstax.org"), source: "OpenStax", type: "Reference", level: "Standard", note: "Free university textbook section (Rice University).", cat: "Papers, PDFs & Slides" });
-    out.push({ title: name + " — problem sets w/ solutions (PDF · top universities)", url: g(key + " " + sw + " problem set solutions filetype:pdf (site:ocw.mit.edu OR site:nptel.ac.in OR site:artofproblemsolving.com OR site:" + libre + ")"), source: "PDF · universities", type: "Past papers", level: "Advanced", note: "Problem-set & exam PDFs from MIT, NPTEL, AoPS & LibreTexts only.", cat: "Papers, PDFs & Slides" });
-    out.push({ title: name + " — lecture slides (PPT · .edu)", url: g(key + " " + sw + " lecture slides filetype:ppt (site:edu OR site:ac.uk OR site:ac.in)"), source: "Slides · .edu", type: "Past papers", level: "Mixed", note: "University lecture slide decks (PPT) from academic sites only.", cat: "Papers, PDFs & Slides" });
+    out.push({ title: name + " — MIT OpenCourseWare", url: "https://ocw.mit.edu/search/?q=" + qp(key + " " + sw), source: "MIT OCW", type: "Course", level: "Advanced", note: "MIT courses: notes, problem sets & exams with solutions.", cat: "Papers, PDFs & Slides" });
+    out.push({ title: name + " — problem sets w/ solutions (PDF · universities)", url: g(key + " " + sw + " problem set with solutions filetype:pdf (site:ocw.mit.edu OR site:nptel.ac.in OR site:" + libre + ")"), source: "PDF · universities", type: "Past papers", level: "Advanced", note: "Problem-set & exam PDFs from MIT, NPTEL & LibreTexts only.", cat: "Papers, PDFs & Slides" });
 
-    // ---- Problems & Solutions (premium) ----
-    out.push({ title: name + " — Art of Problem Solving (Wiki)", url: "https://artofproblemsolving.com/wiki/index.php?search=" + qp(key), source: "AoPS", type: "Problem set", level: "Olympiad", note: "AoPS Wiki: concept pages and contest problems with solutions.", cat: "Problems & Solutions" });
-    out.push({ title: name + " — Brilliant interactive courses", url: "https://brilliant.org/courses/", source: "Brilliant", type: "Course", level: "Standard", note: "Interactive, guided problem-solving lessons.", cat: "Problems & Solutions" });
-    if (subj === "Mathematics") out.push({ title: name + " — Olympiad & contest archive (AoPS)", url: "https://artofproblemsolving.com/community/c13_contests", source: "AoPS Contests", type: "Problem set", level: "Olympiad", note: "IMO & national-olympiad problem archive with discussion.", cat: "Problems & Solutions" });
-
-    // ---- Video Lectures (renowned channels, PLAYLISTS stacked) ----
-    (CHANNELS[subj] || []).forEach((cn) => out.push({ title: name + " — " + cn + " (playlists)", url: "https://www.youtube.com/results?search_query=" + qp(key + " " + sw + " " + cn) + "&sp=EgIQAw%3D%3D", source: "YouTube", type: "Video", level: "Mixed", note: "Course playlists by " + cn + " (renowned) on this topic.", cat: "Video Lectures" }));
-
-    // ---- Theory & Notes (premium) ----
-    out.push({ title: name + " — Khan Academy", url: "https://www.khanacademy.org/search?page_search_query=" + qp(key + " " + sw), source: "Khan Academy", type: "Course", level: "Standard", note: "Free lessons, articles and practice.", cat: "Theory & Notes" });
-    if (subj === "Mathematics") out.push({ title: name + " — BetterExplained (intuition)", url: g(key + " site:betterexplained.com"), source: "BetterExplained", type: "Reference", level: "Standard", note: "Renowned intuitive, aha-moment explanations.", cat: "Theory & Notes" });
+    // ---- Video Lectures (topic playlists & lessons, not channel-locked) ----
+    out.push({ title: name + " — full-course playlists", url: "https://www.youtube.com/results?search_query=" + qp(key + " " + sw + " full course") + "&sp=EgIQAw%3D%3D", source: "YouTube", type: "Video", level: "Mixed", note: "Complete course playlists on this exact topic.", cat: "Video Lectures" });
+    out.push({ title: name + " — video lessons", url: "https://www.youtube.com/results?search_query=" + qp(key + " " + sw + " lecture"), source: "YouTube", type: "Video", level: "Mixed", note: "Top video lessons on this topic.", cat: "Video Lectures" });
 
     // ---- Community (serious subs, top-sorted) ----
     (SUBREDDITS[subj] || ["JEE"]).forEach((sr) => out.push({ title: name + " — r/" + sr, url: "https://www.reddit.com/r/" + sr + "/search/?q=" + qp(key) + "&restrict_sr=1&sort=top&t=all", source: "Reddit", type: "Reference", level: "Mixed", note: "Top-voted discussions & resource recommendations in r/" + sr + ".", cat: "Community" }));
@@ -223,13 +215,17 @@
     return out;
   }
 
+  // generic landing pages that don't open the specific topic — drop these from curated anchors
+  const DEADEND_HOSTS = ["brilliant.org/courses", "artofproblemsolving.com/online", "artofproblemsolving.com/community", "wolframalpha.com", "desmos.com", "geogebra.org/classic", "geogebra.org/calculator", "nptel.ac.in/courses", "jeemain.nta.nic.in", "neet.nta.nic.in", "pubmed.ncbi.nlm.nih.gov/?term="];
+  const isDeadend = (u) => DEADEND_HOSTS.some((d) => (u || "").includes(d));
+
   /* ---------------- expand a chapter into its full resource list ---------------- */
   function expandChapter(ch) {
     const list = [];
     list.push(getStudio(ch.subject));
     (TEACHER_EXTRAS[ch.slug] || []).forEach((r) => list.push({ ...r, level: normLevel(r.level), cat: categorize(r) }));
     chapterShortcuts(ch).forEach((r) => list.push({ ...r, level: normLevel(r.level) }));
-    (ch.anchors || []).forEach((a) => list.push({ ...a, level: normLevel(a.level), cat: categorize(a) }));
+    (ch.anchors || []).forEach((a) => { if (isDeadend(a.url)) return; list.push({ ...a, level: normLevel(a.level), cat: categorize(a) }); });
     (ch.seeds || []).forEach((seed) => {
       (seed.sources || []).forEach((src) => {
         // keep only premium Q&A sources; drop mixed-quality web & random-video searches
