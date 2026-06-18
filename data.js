@@ -25320,7 +25320,7 @@ window.ATLAS_DATA = [
     "seeds": [
       {
         "label": "Mole concept & Avogadro number basics",
-        "query": "https://www.youtube.com/results?search_query=mole+concept+avogadro+number+JEE",
+        "query": "mole concept avogadro number",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -25330,7 +25330,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Molar mass & gram-atom calculations",
-        "query": "https://www.google.com/search?q=molar+mass+gram+atom+mole+calculation+problems+with+solutions",
+        "query": "molar mass gram atom mole calculation",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -25340,7 +25340,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Empirical vs molecular formula problems",
-        "query": "https://www.google.com/search?q=empirical+and+molecular+formula+problems+with+solutions",
+        "query": "empirical and molecular formula",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -25350,7 +25350,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Percentage composition by mass",
-        "query": "https://www.youtube.com/results?search_query=percentage+composition+by+mass+chemistry+JEE",
+        "query": "percentage composition by mass chemistry",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -25360,7 +25360,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Combustion analysis (CHNO) problems",
-        "query": "https://www.google.com/search?q=combustion+analysis+empirical+formula+problems+with+solutions",
+        "query": "combustion analysis empirical formula",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -25370,7 +25370,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Balancing chemical equations practice",
-        "query": "https://www.youtube.com/results?search_query=balancing+chemical+equations+stoichiometry+JEE",
+        "query": "balancing chemical equations stoichiometry",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -25380,7 +25380,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Stoichiometry mole ratio problems",
-        "query": "https://www.google.com/search?q=stoichiometry+mole+ratio+problems+with+solutions",
+        "query": "stoichiometry mole ratio",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -25390,7 +25390,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Limiting reagent solved problems",
-        "query": "https://www.google.com/search?q=limiting+reagent+problems+with+solutions",
+        "query": "limiting reagent",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -25400,7 +25400,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Limiting reagent JEE Advanced lecture",
-        "query": "https://www.youtube.com/results?search_query=limiting+reagent+excess+reagent+JEE",
+        "query": "limiting reagent excess reagent",
         "level": "JEE Advanced",
         "sources": [
           "youtube",
@@ -25410,7 +25410,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Percentage yield & theoretical yield",
-        "query": "https://www.google.com/search?q=percentage+yield+theoretical+yield+stoichiometry+problems+with+solutions",
+        "query": "percentage yield theoretical yield stoichiometry",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -25420,7 +25420,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Molarity calculations & dilution",
-        "query": "https://www.youtube.com/results?search_query=molarity+dilution+calculation+JEE",
+        "query": "molarity dilution calculation",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -25430,7 +25430,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Molality–molarity interconversion (density)",
-        "query": "https://www.google.com/search?q=molarity+molality+interconversion+density+problems+with+solutions",
+        "query": "molarity molality interconversion density",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -25440,7 +25440,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Mole fraction problems",
-        "query": "https://www.google.com/search?q=mole+fraction+calculation+problems+with+solutions",
+        "query": "mole fraction calculation",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -25450,7 +25450,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "ppm and mass percent concentration",
-        "query": "https://www.google.com/search?q=ppm+mass+percent+concentration+problems+with+solutions",
+        "query": "ppm mass percent concentration",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -25460,7 +25460,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Equivalent weight & n-factor concept",
-        "query": "https://www.youtube.com/results?search_query=equivalent+weight+n+factor+concept+JEE",
+        "query": "equivalent weight n factor concept",
         "level": "JEE Advanced",
         "sources": [
           "youtube",
@@ -25470,7 +25470,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Normality & equivalent concept problems",
-        "query": "https://www.google.com/search?q=normality+equivalent+concept+problems+with+solutions",
+        "query": "normality equivalent concept",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -25480,7 +25480,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Law of equivalence in titration",
-        "query": "https://www.google.com/search?q=law+of+equivalence+titration+problems+with+solutions",
+        "query": "law of equivalence titration",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -25490,7 +25490,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Redox n-factor in KMnO4 / K2Cr2O7 reactions",
-        "query": "https://www.google.com/search?q=n+factor+KMnO4+K2Cr2O7+equivalent+redox+problems+with+solutions",
+        "query": "n factor KMnO4 K2Cr2O7 equivalent redox",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -25500,7 +25500,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Eudiometry gaseous-volume problems",
-        "query": "https://www.google.com/search?q=eudiometry+gas+volume+stoichiometry+problems+with+solutions",
+        "query": "eudiometry gas volume stoichiometry",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -25510,7 +25510,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Hardest mole concept numericals",
-        "query": "https://www.youtube.com/results?search_query=tough+mole+concept+numericals+JEE+Advanced",
+        "query": "tough mole concept numericals",
         "level": "JEE Advanced",
         "sources": [
           "youtube",
@@ -25520,7 +25520,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Average atomic mass & isotope abundance",
-        "query": "https://www.google.com/search?q=average+atomic+mass+isotope+abundance+problems+with+solutions",
+        "query": "average atomic mass isotope abundance",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -25530,7 +25530,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Mole concept full chapter one-shot",
-        "query": "https://www.youtube.com/results?search_query=mole+concept+stoichiometry+one+shot+JEE",
+        "query": "mole concept stoichiometry one shot",
         "level": "Mixed",
         "sources": [
           "youtube",
@@ -25539,7 +25539,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Concentration terms full lecture",
-        "query": "https://www.youtube.com/results?search_query=concentration+terms+molarity+molality+normality+JEE",
+        "query": "concentration terms molarity molality normality",
         "level": "JEE Advanced",
         "sources": [
           "youtube",
@@ -25549,7 +25549,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Gravimetric analysis stoichiometry",
-        "query": "https://www.google.com/search?q=gravimetric+analysis+stoichiometry+problems+with+solutions",
+        "query": "gravimetric analysis stoichiometry",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -25559,7 +25559,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Mixture & double-titration equivalent problems",
-        "query": "https://www.google.com/search?q=double+titration+mixture+equivalent+NaOH+Na2CO3+problems+with+solutions",
+        "query": "double titration mixture equivalent NaOH Na2CO3",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -25569,7 +25569,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Mole concept conceptual subtleties Q&A",
-        "query": "https://www.google.com/search?q=mole+concept+conceptual+questions+JEE+Advanced",
+        "query": "mole concept conceptual questions",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -25579,7 +25579,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Mole concept & stoichiometry PYQ pdf",
-        "query": "https://www.google.com/search?q=mole+concept+stoichiometry+JEE+Advanced+previous+year+questions+pdf",
+        "query": "mole concept stoichiometry",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -25588,7 +25588,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Limiting reagent & yield PYQ pdf",
-        "query": "https://www.google.com/search?q=stoichiometry+limiting+reagent+JEE+Advanced+previous+year+questions+pdf",
+        "query": "stoichiometry limiting reagent",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -25597,7 +25597,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Equivalent concept & normality PYQ pdf",
-        "query": "https://www.google.com/search?q=equivalent+concept+normality+JEE+Advanced+previous+year+questions+pdf",
+        "query": "equivalent concept normality",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -25606,7 +25606,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Concentration terms PYQ pdf",
-        "query": "https://www.google.com/search?q=mole+fraction+molarity+molality+JEE+Advanced+previous+year+questions+pdf",
+        "query": "mole fraction molarity molality",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -25615,7 +25615,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Empirical/molecular formula PYQ pdf",
-        "query": "https://www.google.com/search?q=empirical+molecular+formula+JEE+Advanced+previous+year+questions+pdf",
+        "query": "empirical molecular formula",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -27241,7 +27241,7 @@ window.ATLAS_DATA = [
     "seeds": [
       {
         "label": "First law of thermodynamics numericals",
-        "query": "https://www.google.com/search?q=first%20law%20of%20thermodynamics%20chemistry%20problems%20with%20solutions",
+        "query": "first law of thermodynamics chemistry",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -27251,7 +27251,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Internal energy change (delta U) problems",
-        "query": "https://chemistry.stackexchange.com/search?q=internal%20energy%20change%20delta%20U%20first%20law",
+        "query": "internal energy change delta U first law",
         "level": "JEE Main",
         "sources": [
           "cse",
@@ -27261,7 +27261,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Work done in isothermal vs adiabatic process",
-        "query": "https://www.youtube.com/results?search_query=isothermal%20adiabatic%20work%20done%20chemistry%20JEE",
+        "query": "isothermal adiabatic work done chemistry",
         "level": "JEE Advanced",
         "sources": [
           "youtube",
@@ -27271,7 +27271,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "IUPAC sign convention of work and heat",
-        "query": "https://chemistry.stackexchange.com/search?q=sign%20convention%20work%20heat%20IUPAC%20thermodynamics",
+        "query": "sign convention work heat IUPAC thermodynamics",
         "level": "JEE Main",
         "sources": [
           "cse",
@@ -27280,7 +27280,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Enthalpy and Cp - Cv relation",
-        "query": "https://www.google.com/search?q=Cp%20Cv%20relation%20enthalpy%20chemistry%20problems%20with%20solutions",
+        "query": "Cp Cv relation enthalpy chemistry",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -27290,7 +27290,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Hess's law problems with solutions",
-        "query": "https://www.google.com/search?q=Hess%20law%20problems%20with%20solutions%20enthalpy%20of%20formation",
+        "query": "Hess law problems with solutions enthalpy of formation",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -27300,7 +27300,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Hess's law tricky JEE problems",
-        "query": "https://www.youtube.com/results?search_query=Hess%20law%20enthalpy%20cycle%20JEE%20problems",
+        "query": "Hess law enthalpy cycle JEE problems",
         "level": "JEE Advanced",
         "sources": [
           "youtube",
@@ -27309,7 +27309,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Bond enthalpy reaction enthalpy estimation",
-        "query": "https://www.google.com/search?q=bond%20enthalpy%20reaction%20enthalpy%20calculation%20problems%20with%20solutions",
+        "query": "bond enthalpy reaction enthalpy calculation",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -27319,7 +27319,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Average bond enthalpy vs bond dissociation energy",
-        "query": "https://chemistry.stackexchange.com/search?q=average%20bond%20enthalpy%20vs%20bond%20dissociation%20energy",
+        "query": "average bond enthalpy vs bond dissociation energy",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -27328,7 +27328,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Standard enthalpy of formation problems",
-        "query": "https://www.google.com/search?q=standard%20enthalpy%20of%20formation%20problems%20with%20solutions%20chemistry",
+        "query": "standard enthalpy of formation problems with solutions chemistry",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -27338,7 +27338,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Enthalpy of combustion and bomb calorimetry",
-        "query": "https://www.youtube.com/results?search_query=enthalpy%20of%20combustion%20bomb%20calorimeter%20JEE",
+        "query": "enthalpy of combustion bomb calorimeter",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -27348,7 +27348,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Enthalpy of neutralization: strong vs weak acid",
-        "query": "https://chemistry.stackexchange.com/search?q=enthalpy%20of%20neutralization%20weak%20acid%20strong%20base",
+        "query": "enthalpy of neutralization weak acid strong base",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -27358,7 +27358,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Calorimetry and heat capacity numericals",
-        "query": "https://www.google.com/search?q=calorimetry%20heat%20capacity%20chemistry%20problems%20with%20solutions",
+        "query": "calorimetry heat capacity chemistry",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -27367,7 +27367,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Entropy change calculations",
-        "query": "https://www.google.com/search?q=entropy%20change%20calculation%20chemistry%20problems%20with%20solutions",
+        "query": "entropy change calculation chemistry",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -27377,7 +27377,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Entropy of mixing and the second law",
-        "query": "https://chemistry.stackexchange.com/search?q=entropy%20of%20mixing%20second%20law%20thermodynamics",
+        "query": "entropy of mixing second law thermodynamics",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -27387,7 +27387,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Gibbs free energy spontaneity problems",
-        "query": "https://www.google.com/search?q=Gibbs%20free%20energy%20spontaneity%20problems%20with%20solutions%20chemistry",
+        "query": "Gibbs free energy spontaneity problems with solutions chemistry",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -27397,7 +27397,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Gibbs energy and equilibrium constant (dG = -RT lnK)",
-        "query": "https://www.youtube.com/results?search_query=Gibbs%20free%20energy%20equilibrium%20constant%20JEE",
+        "query": "Gibbs free energy equilibrium constant",
         "level": "JEE Advanced",
         "sources": [
           "youtube",
@@ -27407,7 +27407,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Temperature at which a reaction turns spontaneous",
-        "query": "https://chemistry.stackexchange.com/search?q=temperature%20reaction%20spontaneous%20delta%20G%20delta%20H%20delta%20S",
+        "query": "temperature reaction spontaneous delta G delta H delta S",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -27417,7 +27417,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Born-Haber cycle problems",
-        "query": "https://www.google.com/search?q=Born%20Haber%20cycle%20lattice%20enthalpy%20problems%20with%20solutions",
+        "query": "Born Haber cycle lattice enthalpy",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -27427,7 +27427,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Lattice enthalpy calculation walkthrough",
-        "query": "https://www.youtube.com/results?search_query=Born%20Haber%20cycle%20lattice%20enthalpy%20JEE",
+        "query": "Born Haber cycle lattice enthalpy",
         "level": "JEE Advanced",
         "sources": [
           "youtube",
@@ -27436,7 +27436,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Reversible vs irreversible process thermodynamics",
-        "query": "https://www.youtube.com/results?search_query=reversible%20irreversible%20process%20thermodynamics%20chemistry%20JEE",
+        "query": "reversible irreversible process thermodynamics chemistry",
         "level": "JEE Advanced",
         "sources": [
           "youtube",
@@ -27446,7 +27446,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Adiabatic process gamma (PV^gamma) relations",
-        "query": "https://chemistry.stackexchange.com/search?q=adiabatic%20process%20PV%20gamma%20work%20done",
+        "query": "adiabatic process PV gamma work done",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -27456,7 +27456,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Thermodynamics JEE Advanced PYQ pdf",
-        "query": "https://www.google.com/search?q=chemical%20thermodynamics%20JEE%20Advanced%20previous%20year%20questions%20pdf",
+        "query": "chemical thermodynamics",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -27465,7 +27465,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Thermochemistry JEE Main PYQ pdf",
-        "query": "https://www.google.com/search?q=thermochemistry%20JEE%20Main%20previous%20year%20questions%20pdf",
+        "query": "thermochemistry",
         "level": "JEE Main",
         "sources": [
           "pyq",
@@ -27474,7 +27474,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Hess's law JEE Advanced PYQ",
-        "query": "https://www.google.com/search?q=Hess%20law%20JEE%20Advanced%20previous%20year%20questions%20pdf",
+        "query": "Hess law",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -27483,7 +27483,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Gibbs free energy JEE Advanced PYQ",
-        "query": "https://www.google.com/search?q=Gibbs%20free%20energy%20JEE%20Advanced%20previous%20year%20questions%20pdf",
+        "query": "Gibbs free energy",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -27492,7 +27492,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Entropy JEE Advanced PYQ pdf",
-        "query": "https://www.google.com/search?q=entropy%20JEE%20Advanced%20previous%20year%20questions%20pdf",
+        "query": "entropy",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -27501,7 +27501,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Bond enthalpy JEE PYQ",
-        "query": "https://www.google.com/search?q=bond%20enthalpy%20JEE%20Advanced%20previous%20year%20questions%20pdf",
+        "query": "bond enthalpy",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -27510,7 +27510,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "State function vs path function concept",
-        "query": "https://chemistry.stackexchange.com/search?q=state%20function%20vs%20path%20function%20thermodynamics",
+        "query": "state function vs path function thermodynamics",
         "level": "JEE Main",
         "sources": [
           "cse",
@@ -27520,7 +27520,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Spontaneity and entropy of the universe",
-        "query": "https://www.youtube.com/results?search_query=entropy%20of%20universe%20spontaneity%20thermodynamics%20JEE",
+        "query": "entropy of universe spontaneity thermodynamics",
         "level": "JEE Advanced",
         "sources": [
           "youtube",
@@ -27530,7 +27530,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Thermodynamics full chapter JEE problem session",
-        "query": "https://www.youtube.com/results?search_query=chemical%20thermodynamics%20full%20chapter%20JEE%20Advanced%20problems",
+        "query": "chemical thermodynamics full chapter JEE Advanced problems",
         "level": "Mixed",
         "sources": [
           "youtube",
@@ -27539,7 +27539,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Kirchhoff's equation: enthalpy temperature dependence",
-        "query": "https://chemistry.stackexchange.com/search?q=Kirchhoff%20equation%20enthalpy%20temperature%20dependence",
+        "query": "Kirchhoff equation enthalpy temperature dependence",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -27706,7 +27706,7 @@ window.ATLAS_DATA = [
     "seeds": [
       {
         "label": "Law of mass action and equilibrium constant expressions",
-        "query": "https://chemistry.stackexchange.com/search?q=law%20of%20mass%20action%20equilibrium%20constant%20expression",
+        "query": "law of mass action equilibrium constant expression",
         "level": "JEE Main",
         "sources": [
           "cse",
@@ -27715,7 +27715,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Writing Kc expressions for homogeneous and heterogeneous equilibria",
-        "query": "https://www.google.com/search?q=writing%20Kc%20expression%20heterogeneous%20equilibria%20problems%20with%20solutions",
+        "query": "writing Kc expression heterogeneous equilibria",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -27725,7 +27725,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Relation between Kp and Kc: derivation and problems",
-        "query": "https://www.youtube.com/results?search_query=relation+between+Kp+and+Kc+derivation+problems+JEE",
+        "query": "relation between Kp and Kc derivation problems",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -27734,7 +27734,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Kp = Kc(RT)^Delta-n numerical problems",
-        "query": "https://www.google.com/search?q=Kp%20Kc%20RT%20delta%20n%20numerical%20problems%20with%20solutions",
+        "query": "Kp Kc RT delta n numerical",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -27744,7 +27744,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Reaction quotient Q vs K direction prediction",
-        "query": "https://www.youtube.com/results?search_query=reaction+quotient+Q+vs+K+predict+direction+JEE",
+        "query": "reaction quotient Q vs K predict direction",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -27754,7 +27754,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Le Chatelier: effect of pressure, temperature and concentration",
-        "query": "https://www.youtube.com/results?search_query=Le+Chatelier+principle+pressure+temperature+concentration+JEE",
+        "query": "Le Chatelier principle pressure temperature concentration",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -27764,7 +27764,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Inert-gas addition at constant pressure vs constant volume",
-        "query": "https://chemistry.stackexchange.com/search?q=Le%20Chatelier%20inert%20gas%20constant%20pressure%20constant%20volume",
+        "query": "Le Chatelier inert gas constant pressure constant volume",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -27774,7 +27774,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Effect of inert gas on equilibrium: problems with solutions",
-        "query": "https://www.google.com/search?q=effect%20of%20inert%20gas%20on%20equilibrium%20problems%20with%20solutions",
+        "query": "effect of inert gas on equilibrium",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -27783,7 +27783,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Degree of dissociation: equilibrium numerical problems",
-        "query": "https://www.google.com/search?q=degree%20of%20dissociation%20equilibrium%20numerical%20problems%20with%20solutions",
+        "query": "degree of dissociation equilibrium numerical",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -27793,7 +27793,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Degree of dissociation from vapour density (PCl5, N2O4)",
-        "query": "https://www.youtube.com/results?search_query=degree+of+dissociation+vapour+density+method+PCl5+N2O4+JEE",
+        "query": "degree of dissociation vapour density method PCl5 N2O4",
         "level": "JEE Advanced",
         "sources": [
           "youtube",
@@ -27803,7 +27803,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "PCl5 dissociation: Kp and degree of dissociation",
-        "query": "https://chemistry.stackexchange.com/search?q=PCl5%20dissociation%20Kp%20degree%20of%20dissociation",
+        "query": "PCl5 dissociation Kp degree of dissociation",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -27813,7 +27813,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "N2O4 to 2NO2 equilibrium degree of dissociation problems",
-        "query": "https://www.google.com/search?q=N2O4%202NO2%20equilibrium%20degree%20of%20dissociation%20problem%20with%20solution",
+        "query": "N2O4 2NO2 equilibrium degree of dissociation problem with solution",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -27822,7 +27822,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "ICE table equilibrium calculations: worked examples",
-        "query": "https://www.youtube.com/results?search_query=ICE+table+equilibrium+calculation+worked+examples+JEE",
+        "query": "ICE table equilibrium calculation worked examples",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -27831,7 +27831,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Quadratic ICE equilibrium problems with solutions",
-        "query": "https://www.google.com/search?q=equilibrium%20ICE%20table%20quadratic%20problems%20with%20solutions",
+        "query": "equilibrium ICE table quadratic",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -27841,7 +27841,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Delta-G-deg = -RT ln K: free energy and equilibrium constant",
-        "query": "https://www.youtube.com/results?search_query=delta+G+equals+minus+RT+ln+K+equilibrium+constant+JEE",
+        "query": "delta G equals minus RT ln K equilibrium constant",
         "level": "JEE Advanced",
         "sources": [
           "youtube",
@@ -27851,7 +27851,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Gibbs free energy and equilibrium constant: conceptual Q&A",
-        "query": "https://chemistry.stackexchange.com/search?q=Gibbs%20free%20energy%20equilibrium%20constant%20relation",
+        "query": "Gibbs free energy equilibrium constant relation",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -27860,7 +27860,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Van't Hoff equation: temperature dependence of K problems",
-        "query": "https://www.google.com/search?q=Van%27t%20Hoff%20equation%20temperature%20dependence%20equilibrium%20constant%20problems%20with%20solutions",
+        "query": "Van't Hoff equation temperature dependence equilibrium constant",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -27870,7 +27870,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Temperature effect on exothermic vs endothermic equilibrium",
-        "query": "https://www.youtube.com/results?search_query=effect+of+temperature+exothermic+endothermic+equilibrium+constant+JEE",
+        "query": "effect of temperature exothermic endothermic equilibrium constant",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -27879,7 +27879,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Simultaneous and coupled equilibria with a common species",
-        "query": "https://chemistry.stackexchange.com/search?q=simultaneous%20equilibria%20common%20gas%20problem",
+        "query": "simultaneous equilibria common gas problem",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -27889,7 +27889,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Simultaneous equilibria: hard problems with solutions",
-        "query": "https://www.google.com/search?q=simultaneous%20equilibria%20common%20species%20advanced%20problems%20with%20solutions",
+        "query": "simultaneous equilibria common species advanced",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -27898,7 +27898,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Partial pressure, total pressure and Kp problems",
-        "query": "https://www.google.com/search?q=equilibrium%20partial%20pressure%20total%20pressure%20Kp%20problems%20with%20solutions",
+        "query": "equilibrium partial pressure total pressure Kp",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -27908,7 +27908,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Haber process: ammonia synthesis equilibrium and yield",
-        "query": "https://www.youtube.com/results?search_query=Haber+process+ammonia+synthesis+equilibrium+Le+Chatelier+JEE",
+        "query": "Haber process ammonia synthesis equilibrium Le Chatelier",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -27917,7 +27917,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Chemical equilibrium one-shot: full chapter revision",
-        "query": "https://www.youtube.com/results?search_query=chemical+equilibrium+one+shot+JEE+full+chapter",
+        "query": "chemical equilibrium one shot JEE full chapter",
         "level": "Mixed",
         "sources": [
           "youtube",
@@ -27926,7 +27926,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Chemical equilibrium JEE Advanced previous-year questions",
-        "query": "https://www.google.com/search?q=chemical%20equilibrium%20JEE%20Advanced%20previous%20year%20questions%20pdf",
+        "query": "chemical equilibrium",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -27936,7 +27936,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Equilibrium constant Kp/Kc JEE Advanced PYQ set",
-        "query": "https://www.google.com/search?q=equilibrium%20constant%20Kp%20Kc%20JEE%20Advanced%20previous%20year%20questions%20pdf",
+        "query": "equilibrium constant Kp Kc",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -27945,7 +27945,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Degree of dissociation JEE Advanced PYQ set",
-        "query": "https://www.google.com/search?q=degree%20of%20dissociation%20equilibrium%20JEE%20Advanced%20previous%20year%20questions%20pdf",
+        "query": "degree of dissociation equilibrium",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -27955,7 +27955,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Le Chatelier JEE Advanced PYQ set",
-        "query": "https://www.google.com/search?q=Le%20Chatelier%20principle%20JEE%20Advanced%20previous%20year%20questions%20pdf",
+        "query": "Le Chatelier principle",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -27964,7 +27964,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Chemical equilibrium JEE Main PYQ set",
-        "query": "https://www.google.com/search?q=chemical%20equilibrium%20JEE%20Main%20previous%20year%20questions%20pdf",
+        "query": "chemical equilibrium",
         "level": "JEE Main",
         "sources": [
           "pyq",
@@ -27974,7 +27974,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Reaction quotient and Le Chatelier: JEE numerical practice",
-        "query": "https://www.google.com/search?q=reaction%20quotient%20Le%20Chatelier%20JEE%20numerical%20practice%20problems%20with%20solutions",
+        "query": "reaction quotient Le Chatelier JEE numerical practice",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -27983,7 +27983,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Heterogeneous equilibria with pure solids and liquids",
-        "query": "https://chemistry.stackexchange.com/search?q=heterogeneous%20equilibrium%20pure%20solid%20liquid%20Kp",
+        "query": "heterogeneous equilibrium pure solid liquid Kp",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -27993,7 +27993,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Hardest in-syllabus multi-step equilibrium problems",
-        "query": "https://www.google.com/search?q=advanced%20chemical%20equilibrium%20multi%20step%20problems%20with%20solutions%20JEE",
+        "query": "advanced chemical equilibrium multi step",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -28003,7 +28003,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Vapour density and abnormal molar mass in dissociation",
-        "query": "https://chemistry.stackexchange.com/search?q=vapour%20density%20abnormal%20molar%20mass%20degree%20of%20dissociation",
+        "query": "vapour density abnormal molar mass degree of dissociation",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -28012,7 +28012,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Relative density change to find degree of dissociation",
-        "query": "https://www.google.com/search?q=relative%20density%20change%20degree%20of%20dissociation%20equilibrium%20problems%20with%20solutions",
+        "query": "relative density change degree of dissociation equilibrium",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -28021,7 +28021,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Equilibrium constant for combined and reversed reactions",
-        "query": "https://www.youtube.com/results?search_query=equilibrium+constant+reversed+added+reactions+Kp+JEE",
+        "query": "equilibrium constant reversed added reactions Kp",
         "level": "JEE Advanced",
         "sources": [
           "youtube",
@@ -31076,7 +31076,7 @@ window.ATLAS_DATA = [
     "seeds": [
       {
         "label": "Physisorption vs chemisorption: enthalpy, reversibility, temperature",
-        "query": "https://chemistry.stackexchange.com/search?q=physisorption+vs+chemisorption+difference",
+        "query": "physisorption vs chemisorption difference",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -31086,7 +31086,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Factors affecting adsorption of gases on solids",
-        "query": "https://www.youtube.com/results?search_query=factors+affecting+adsorption+of+gases+JEE",
+        "query": "factors affecting adsorption of gases",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -31096,7 +31096,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Freundlich adsorption isotherm: derivation and log-log plot",
-        "query": "https://www.youtube.com/results?search_query=Freundlich+adsorption+isotherm+derivation+JEE",
+        "query": "Freundlich adsorption isotherm derivation",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -31106,7 +31106,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Freundlich isotherm numerical problems with solutions",
-        "query": "https://www.google.com/search?q=Freundlich+adsorption+isotherm+numerical+problems+with+solutions",
+        "query": "Freundlich adsorption isotherm numerical",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -31116,7 +31116,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Langmuir adsorption isotherm: assumptions and saturation",
-        "query": "https://chemistry.stackexchange.com/search?q=Langmuir+adsorption+isotherm",
+        "query": "Langmuir adsorption isotherm",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -31126,7 +31126,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Adsorption isotherm log(x/m) vs log P graph questions",
-        "query": "https://www.google.com/search?q=adsorption+isotherm+log+x+m+vs+log+P+graph+questions+with+solutions",
+        "query": "adsorption isotherm log x m vs log P graph",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -31136,7 +31136,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Homogeneous vs heterogeneous catalysis with examples",
-        "query": "https://www.youtube.com/results?search_query=homogeneous+heterogeneous+catalysis+examples+JEE",
+        "query": "homogeneous heterogeneous catalysis examples",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -31146,7 +31146,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Adsorption theory of heterogeneous catalysis",
-        "query": "https://www.youtube.com/results?search_query=adsorption+theory+of+heterogeneous+catalysis+JEE",
+        "query": "adsorption theory of heterogeneous catalysis",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -31156,7 +31156,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Activity and selectivity of catalysts",
-        "query": "https://www.google.com/search?q=activity+and+selectivity+of+catalysts+surface+chemistry+JEE",
+        "query": "activity and selectivity of catalysts surface chemistry",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -31166,7 +31166,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Shape-selective catalysis by zeolites (ZSM-5)",
-        "query": "https://www.youtube.com/results?search_query=shape+selective+catalysis+zeolites+ZSM-5+JEE",
+        "query": "shape selective catalysis zeolites ZSM-5",
         "level": "JEE Advanced",
         "sources": [
           "youtube",
@@ -31176,7 +31176,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Enzyme catalysis: characteristics and lock-and-key mechanism",
-        "query": "https://www.youtube.com/results?search_query=enzyme+catalysis+characteristics+mechanism+JEE",
+        "query": "enzyme catalysis characteristics mechanism",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -31186,7 +31186,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Classification of colloids: lyophilic vs lyophobic",
-        "query": "https://www.youtube.com/results?search_query=classification+of+colloids+lyophilic+lyophobic+JEE",
+        "query": "classification of colloids lyophilic lyophobic",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -31196,7 +31196,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Multimolecular, macromolecular and associated colloids",
-        "query": "https://www.google.com/search?q=multimolecular+macromolecular+associated+colloids+questions+with+solutions",
+        "query": "multimolecular macromolecular associated colloids",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -31206,7 +31206,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Preparation of colloids: Bredig arc and peptization",
-        "query": "https://www.youtube.com/results?search_query=preparation+of+colloids+Bredig+arc+peptization+JEE",
+        "query": "preparation of colloids Bredig arc peptization",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -31216,7 +31216,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Purification of colloids: dialysis and electrodialysis",
-        "query": "https://chemistry.stackexchange.com/search?q=dialysis+purification+of+colloids",
+        "query": "dialysis purification of colloids",
         "level": "JEE Main",
         "sources": [
           "cse",
@@ -31225,7 +31225,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Tyndall effect: cause and conditions",
-        "query": "https://www.youtube.com/results?search_query=Tyndall+effect+colloids+JEE+chemistry",
+        "query": "Tyndall effect colloids JEE chemistry",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -31234,7 +31234,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Brownian motion in colloidal solutions",
-        "query": "https://chemistry.stackexchange.com/search?q=Brownian+motion+colloid",
+        "query": "Brownian motion colloid",
         "level": "JEE Main",
         "sources": [
           "cse",
@@ -31243,7 +31243,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Micelles, CMC and Kraft temperature",
-        "query": "https://www.youtube.com/results?search_query=micelle+formation+critical+micelle+concentration+JEE",
+        "query": "micelle formation critical micelle concentration",
         "level": "JEE Advanced",
         "sources": [
           "youtube",
@@ -31253,7 +31253,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Cleansing action of soap via micelle mechanism",
-        "query": "https://www.google.com/search?q=cleansing+action+of+soap+micelle+mechanism+JEE",
+        "query": "cleansing action of soap micelle mechanism",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -31262,7 +31262,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Emulsions: types and emulsifying agents",
-        "query": "https://www.youtube.com/results?search_query=emulsions+types+emulsifying+agents+JEE+chemistry",
+        "query": "emulsions types emulsifying agents JEE chemistry",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -31272,7 +31272,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Coagulation and the Hardy-Schulze rule",
-        "query": "https://www.youtube.com/results?search_query=coagulation+colloids+Hardy+Schulze+rule+JEE",
+        "query": "coagulation colloids Hardy Schulze rule",
         "level": "JEE Advanced",
         "sources": [
           "youtube",
@@ -31282,7 +31282,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Hardy-Schulze rule: flocculation value and coagulating power problems",
-        "query": "https://www.google.com/search?q=Hardy+Schulze+rule+flocculation+value+coagulating+power+problems+with+solutions",
+        "query": "Hardy Schulze rule flocculation value coagulating power",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -31292,7 +31292,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Electrophoresis and electro-osmosis in colloids",
-        "query": "https://chemistry.stackexchange.com/search?q=electrophoresis+colloid+charge",
+        "query": "electrophoresis colloid charge",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -31302,7 +31302,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Protective colloids and gold number",
-        "query": "https://www.google.com/search?q=protective+colloid+gold+number+problems+with+solutions",
+        "query": "protective colloid gold number",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -31312,7 +31312,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Surface chemistry full-chapter JEE problem session",
-        "query": "https://www.youtube.com/results?search_query=surface+chemistry+full+chapter+JEE+problems",
+        "query": "surface chemistry full chapter JEE problems",
         "level": "Mixed",
         "sources": [
           "youtube",
@@ -31321,7 +31321,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Surface chemistry assertion-reason questions",
-        "query": "https://www.google.com/search?q=surface+chemistry+assertion+reason+questions+with+solutions+JEE",
+        "query": "surface chemistry assertion reason",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -31331,7 +31331,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Surface chemistry JEE Advanced previous-year questions",
-        "query": "https://www.google.com/search?q=surface+chemistry+JEE+Advanced+previous+year+questions+pdf",
+        "query": "surface chemistry",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -31341,7 +31341,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Adsorption and catalysis JEE Advanced PYQ",
-        "query": "https://www.google.com/search?q=adsorption+catalysis+JEE+Advanced+previous+year+questions+pdf",
+        "query": "adsorption catalysis",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -31350,7 +31350,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Colloids and micelles JEE Advanced PYQ",
-        "query": "https://www.google.com/search?q=colloids+micelles+JEE+Advanced+previous+year+questions+pdf",
+        "query": "colloids micelles",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -31359,7 +31359,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Surface chemistry JEE Main previous-year questions",
-        "query": "https://www.google.com/search?q=surface+chemistry+JEE+Main+previous+year+questions+pdf",
+        "query": "surface chemistry",
         "level": "JEE Main",
         "sources": [
           "pyq",
@@ -31369,7 +31369,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Hardest in-syllabus surface chemistry mixed problems",
-        "query": "https://www.google.com/search?q=surface+chemistry+JEE+Advanced+hardest+problems+with+solutions",
+        "query": "surface chemistry JEE Advanced hardest",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -31583,7 +31583,7 @@ window.ATLAS_DATA = [
     "seeds": [
       {
         "label": "Modern periodic law and long-form table basics",
-        "query": "https://www.google.com/search?q=modern+periodic+table+classification+of+elements+problems+with+solutions",
+        "query": "modern periodic table classification of elements",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -31592,7 +31592,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "s, p, d, f block element identification practice",
-        "query": "https://www.google.com/search?q=s+p+d+f+block+element+classification+problems+with+solutions",
+        "query": "s p d f block element classification",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -31601,7 +31601,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Atomic radius trend across period and group",
-        "query": "https://www.youtube.com/results?search_query=atomic+radius+periodic+trend+JEE",
+        "query": "atomic radius periodic trend",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -31611,7 +31611,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Covalent vs van der Waals vs metallic radius",
-        "query": "https://chemistry.stackexchange.com/search?q=covalent+van+der+Waals+metallic+radius+difference",
+        "query": "covalent van der Waals metallic radius difference",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -31620,7 +31620,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Ionic radii of isoelectronic species ordering",
-        "query": "https://www.google.com/search?q=ionic+radii+isoelectronic+species+ordering+problems+with+solutions",
+        "query": "ionic radii isoelectronic species ordering",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -31629,7 +31629,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Isoelectronic species radius comparison concept",
-        "query": "https://chemistry.stackexchange.com/search?q=isoelectronic+species+ionic+radius+comparison",
+        "query": "isoelectronic species ionic radius comparison",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -31638,7 +31638,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Ionization enthalpy trend and exceptions",
-        "query": "https://www.youtube.com/results?search_query=ionization+enthalpy+trends+exceptions+JEE",
+        "query": "ionization enthalpy trends exceptions",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -31647,7 +31647,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Successive ionization energies and electronic config",
-        "query": "https://www.google.com/search?q=successive+ionization+energy+find+group+problems+with+solutions",
+        "query": "successive ionization energy find group",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -31657,7 +31657,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Why N has higher IE than O",
-        "query": "https://chemistry.stackexchange.com/search?q=nitrogen+higher+ionization+energy+than+oxygen",
+        "query": "nitrogen higher ionization energy than oxygen",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -31666,7 +31666,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Why Be has higher IE than B",
-        "query": "https://chemistry.stackexchange.com/search?q=beryllium+higher+ionization+energy+than+boron",
+        "query": "beryllium higher ionization energy than boron",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -31675,7 +31675,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Electron gain enthalpy periodic trend",
-        "query": "https://www.youtube.com/results?search_query=electron+gain+enthalpy+trend+JEE",
+        "query": "electron gain enthalpy trend",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -31684,7 +31684,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Why Cl has higher electron affinity than F",
-        "query": "https://chemistry.stackexchange.com/search?q=chlorine+electron+affinity+greater+than+fluorine+reason",
+        "query": "chlorine electron affinity greater than fluorine reason",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -31694,7 +31694,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Electronegativity Pauling and Mulliken scale problems",
-        "query": "https://www.google.com/search?q=electronegativity+Pauling+Mulliken+scale+problems+with+solutions",
+        "query": "electronegativity Pauling Mulliken scale",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -31704,7 +31704,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Electronegativity periodic trend lecture",
-        "query": "https://www.youtube.com/results?search_query=electronegativity+periodic+trend+JEE",
+        "query": "electronegativity periodic trend",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -31713,7 +31713,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Effective nuclear charge Slater rule calculation",
-        "query": "https://www.google.com/search?q=effective+nuclear+charge+Slater+rule+calculation+problems+with+solutions",
+        "query": "effective nuclear charge Slater rule calculation",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -31722,7 +31722,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Screening and shielding effect concept questions",
-        "query": "https://chemistry.stackexchange.com/search?q=shielding+screening+effect+effective+nuclear+charge",
+        "query": "shielding screening effect effective nuclear charge",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -31731,7 +31731,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Anomalous behaviour of second-period elements",
-        "query": "https://www.google.com/search?q=anomalous+behaviour+second+period+elements+problems+with+solutions",
+        "query": "anomalous behaviour second period elements",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -31740,7 +31740,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Anomalous properties of Li and Be explained",
-        "query": "https://chemistry.stackexchange.com/search?q=anomalous+behaviour+lithium+beryllium+reason",
+        "query": "anomalous behaviour lithium beryllium reason",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -31750,7 +31750,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Diagonal relationship Li-Mg, Be-Al, B-Si",
-        "query": "https://www.youtube.com/results?search_query=diagonal+relationship+lithium+magnesium+beryllium+aluminium+JEE",
+        "query": "diagonal relationship lithium magnesium beryllium aluminium",
         "level": "JEE Advanced",
         "sources": [
           "youtube",
@@ -31759,7 +31759,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Diagonal relationship charge-density reasoning",
-        "query": "https://chemistry.stackexchange.com/search?q=diagonal+relationship+charge+density+similarity",
+        "query": "diagonal relationship charge density similarity",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -31768,7 +31768,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Inert pair effect and oxidation states down a group",
-        "query": "https://www.google.com/search?q=inert+pair+effect+oxidation+state+problems+with+solutions",
+        "query": "inert pair effect oxidation state",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -31777,7 +31777,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Acidic, basic and amphoteric nature of oxides",
-        "query": "https://www.google.com/search?q=acidic+basic+amphoteric+oxides+periodic+trend+problems+with+solutions",
+        "query": "acidic basic amphoteric oxides periodic trend",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -31786,7 +31786,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Metallic vs non-metallic character variation",
-        "query": "https://www.youtube.com/results?search_query=metallic+nonmetallic+character+periodic+trend+JEE",
+        "query": "metallic nonmetallic character periodic trend",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -31796,7 +31796,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Lanthanoid contraction and its consequences",
-        "query": "https://www.google.com/search?q=lanthanoid+contraction+consequences+problems+with+solutions",
+        "query": "lanthanoid contraction consequences",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -31805,7 +31805,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Why 4d and 5d radii are nearly equal",
-        "query": "https://chemistry.stackexchange.com/search?q=lanthanide+contraction+4d+5d+atomic+radius+similar",
+        "query": "lanthanide contraction 4d 5d atomic radius similar",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -31814,7 +31814,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Periodicity in hydrides, halides and oxides",
-        "query": "https://www.google.com/search?q=periodicity+hydrides+oxides+halides+across+period+problems+with+solutions",
+        "query": "periodicity hydrides oxides halides across period",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -31823,7 +31823,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Variation of valency and reactivity across the table",
-        "query": "https://www.google.com/search?q=variation+of+valency+reactivity+periodic+table+problems+with+solutions",
+        "query": "variation of valency reactivity periodic table",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -31832,7 +31832,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Periodic table previous year questions",
-        "query": "https://www.google.com/search?q=periodic+table+periodicity+JEE+Advanced+previous+year+questions+pdf",
+        "query": "periodic table periodicity",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -31841,7 +31841,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Ionization enthalpy PYQ with solutions",
-        "query": "https://www.google.com/search?q=periodic+properties+ionization+enthalpy+JEE+Advanced+previous+year+questions+pdf",
+        "query": "periodic properties ionization enthalpy",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -31850,7 +31850,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Atomic and ionic radii PYQ",
-        "query": "https://www.google.com/search?q=atomic+ionic+radii+JEE+Advanced+previous+year+questions+pdf",
+        "query": "atomic ionic radii",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -31860,7 +31860,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Electronegativity and electron affinity PYQ",
-        "query": "https://www.google.com/search?q=electronegativity+electron+gain+enthalpy+JEE+Advanced+previous+year+questions+pdf",
+        "query": "electronegativity electron gain enthalpy",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -31869,7 +31869,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Assertion-reason and ordering-type periodicity PYQ",
-        "query": "https://www.google.com/search?q=periodic+properties+assertion+reason+ordering+JEE+Advanced+previous+year+questions+pdf",
+        "query": "periodic properties assertion reason ordering",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -31878,7 +31878,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Match-the-column and integer-type periodicity",
-        "query": "https://www.google.com/search?q=periodic+table+match+the+column+integer+type+problems+with+solutions",
+        "query": "periodic table match the column integer type",
         "level": "Mixed",
         "sources": [
           "google",
@@ -31887,7 +31887,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Full-chapter periodicity problem-solving marathon",
-        "query": "https://www.youtube.com/results?search_query=periodic+table+periodicity+full+chapter+problem+solving+JEE",
+        "query": "periodic table periodicity full chapter problem solving",
         "level": "Mixed",
         "sources": [
           "youtube",
@@ -31897,7 +31897,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Periodic classification one-shot revision",
-        "query": "https://www.youtube.com/results?search_query=classification+of+elements+periodicity+one+shot+JEE",
+        "query": "classification of elements periodicity one shot",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -31906,7 +31906,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Periodic trends ranking and ordering practice",
-        "query": "https://chemistry.stackexchange.com/search?q=periodic+trend+ranking+atomic+radius+ionization+energy+order",
+        "query": "periodic trend ranking atomic radius ionization energy order",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -32586,7 +32586,7 @@ window.ATLAS_DATA = [
     "seeds": [
       {
         "label": "Periodic trends across groups 13-18 explained",
-        "query": "https://www.youtube.com/results?search_query=p-block+periodic+trends+groups+13+to+18+JEE",
+        "query": "p-block periodic trends groups 13 to 18",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -32595,7 +32595,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Inert pair effect reasoning and oxidation-state stability",
-        "query": "https://www.google.com/search?q=inert+pair+effect+problems+with+solutions",
+        "query": "inert pair effect",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -32605,7 +32605,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Diborane structure and 3c-2e (banana) bonding",
-        "query": "https://chemistry.stackexchange.com/search?q=diborane+structure+banana+bond",
+        "query": "diborane structure banana bond",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -32615,7 +32615,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Borax and boric acid structure and chemistry",
-        "query": "https://www.google.com/search?q=borax+boric+acid+structure+problems+with+solutions",
+        "query": "borax boric acid structure",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -32624,7 +32624,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Boron family group 13 JEE Advanced practice",
-        "query": "https://www.youtube.com/results?search_query=boron+family+group+13+JEE+Advanced+questions",
+        "query": "boron family group 13 JEE Advanced questions",
         "level": "JEE Advanced",
         "sources": [
           "youtube",
@@ -32633,7 +32633,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Group 14 oxides, silicones and silicates",
-        "query": "https://www.google.com/search?q=group+14+carbon+family+silicones+silicates+problems+with+solutions",
+        "query": "group 14 carbon family silicones silicates",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -32642,7 +32642,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Allotropes of carbon: diamond, graphite, fullerene",
-        "query": "https://www.youtube.com/results?search_query=allotropes+of+carbon+diamond+graphite+JEE",
+        "query": "allotropes of carbon diamond graphite",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -32652,7 +32652,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Catenation tendency and anomalous behaviour of carbon",
-        "query": "https://chemistry.stackexchange.com/search?q=catenation+carbon+anomalous+behaviour",
+        "query": "catenation carbon anomalous behaviour",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -32661,7 +32661,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Tin and lead: +2 vs +4 stability down group 14",
-        "query": "https://www.google.com/search?q=tin+lead+group+14+oxidation+state+stability+problems+with+solutions",
+        "query": "tin lead group 14 oxidation state stability",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -32670,7 +32670,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Group 15 nitrogen family oxides and oxoacids",
-        "query": "https://www.google.com/search?q=group+15+nitrogen+oxoacids+oxides+problems+with+solutions",
+        "query": "group 15 nitrogen oxoacids oxides",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -32679,7 +32679,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Oxides of nitrogen: structures and bond orders",
-        "query": "https://chemistry.stackexchange.com/search?q=oxides+of+nitrogen+structure+N2O+NO+N2O5",
+        "query": "oxides of nitrogen structure N2O NO N2O5",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -32688,7 +32688,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Phosphorus halides PCl3 and PCl5 hydrolysis",
-        "query": "https://www.google.com/search?q=PCl5+PCl3+hydrolysis+structure+problems+with+solutions",
+        "query": "PCl5 PCl3 hydrolysis structure",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -32697,7 +32697,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Oxoacids of phosphorus: basicity and reducing nature",
-        "query": "https://chemistry.stackexchange.com/search?q=oxoacids+of+phosphorus+basicity+H3PO2+H3PO3",
+        "query": "oxoacids of phosphorus basicity H3PO2 H3PO3",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -32707,7 +32707,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Allotropes of phosphorus: white, red, black",
-        "query": "https://www.youtube.com/results?search_query=allotropes+of+phosphorus+white+red+black+JEE",
+        "query": "allotropes of phosphorus white red black",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -32716,7 +32716,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Group 16 oxygen family trends and oxides of sulphur",
-        "query": "https://www.google.com/search?q=group+16+oxygen+family+sulphur+oxides+problems+with+solutions",
+        "query": "group 16 oxygen family sulphur oxides",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -32725,7 +32725,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Ozone: structure, preparation and reactions",
-        "query": "https://www.youtube.com/results?search_query=ozone+O3+structure+reactions+JEE",
+        "query": "ozone O3 structure reactions",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -32735,7 +32735,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Oxoacids of sulphur: peroxo and thio structures",
-        "query": "https://chemistry.stackexchange.com/search?q=oxoacids+of+sulphur+structure+peroxo+thio",
+        "query": "oxoacids of sulphur structure peroxo thio",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -32744,7 +32744,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Sulphuric acid contact process and properties",
-        "query": "https://www.google.com/search?q=sulphuric+acid+contact+process+problems+with+solutions",
+        "query": "sulphuric acid contact process",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -32753,7 +32753,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Halogens group 17 oxidising power and reactions",
-        "query": "https://www.youtube.com/results?search_query=halogens+group+17+oxidising+power+JEE+Advanced",
+        "query": "halogens group 17 oxidising power",
         "level": "JEE Advanced",
         "sources": [
           "youtube",
@@ -32762,7 +32762,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Oxoacids of halogens: HOCl to HClO4 acid strength",
-        "query": "https://chemistry.stackexchange.com/search?q=oxoacids+of+halogens+acid+strength+HClO",
+        "query": "oxoacids of halogens acid strength HClO",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -32772,7 +32772,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Interhalogen compounds: structure and hybridization",
-        "query": "https://www.youtube.com/results?search_query=interhalogen+compounds+structure+hybridization+JEE",
+        "query": "interhalogen compounds structure hybridization",
         "level": "JEE Advanced",
         "sources": [
           "youtube",
@@ -32781,7 +32781,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Interhalogen shapes ICl3, IF7, BrF5 problems",
-        "query": "https://www.google.com/search?q=interhalogen+compounds+shapes+IF7+BrF5+problems+with+solutions",
+        "query": "interhalogen compounds shapes IF7 BrF5",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -32790,7 +32790,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Noble gases group 18 xenon chemistry",
-        "query": "https://www.youtube.com/results?search_query=noble+gases+xenon+fluorides+JEE+Advanced",
+        "query": "noble gases xenon fluorides",
         "level": "JEE Advanced",
         "sources": [
           "youtube",
@@ -32799,7 +32799,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Xenon fluorides XeF2/XeF4/XeF6 structure and hybridization",
-        "query": "https://chemistry.stackexchange.com/search?q=xenon+fluoride+structure+hybridization+XeF6",
+        "query": "xenon fluoride structure hybridization XeF6",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -32809,7 +32809,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Anomalous behaviour of first member and diagonal relationship",
-        "query": "https://www.google.com/search?q=anomalous+behaviour+first+element+diagonal+relationship+problems+with+solutions",
+        "query": "anomalous behaviour first element diagonal relationship",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -32818,7 +32818,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Back-bonding in BF3, B(OH)3 and silicones",
-        "query": "https://chemistry.stackexchange.com/search?q=back+bonding+BF3+boron+pi+bonding",
+        "query": "back bonding BF3 boron pi bonding",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -32828,7 +32828,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "p-Block full chapter one-shot revision",
-        "query": "https://www.youtube.com/results?search_query=p-block+elements+one+shot+JEE+Advanced",
+        "query": "p-block elements one shot",
         "level": "Mixed",
         "sources": [
           "youtube",
@@ -32837,7 +32837,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "p-Block JEE Advanced previous year questions",
-        "query": "https://www.google.com/search?q=p-block+elements+JEE+Advanced+previous+year+questions+pdf",
+        "query": "p-block elements",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -32847,7 +32847,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Group 13 boron and aluminium JEE PYQ",
-        "query": "https://www.google.com/search?q=group+13+boron+aluminium+JEE+Advanced+previous+year+questions+pdf",
+        "query": "group 13 boron aluminium",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -32856,7 +32856,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Nitrogen and phosphorus group 15 JEE PYQ",
-        "query": "https://www.google.com/search?q=nitrogen+phosphorus+group+15+JEE+Advanced+previous+year+questions+pdf",
+        "query": "nitrogen phosphorus group 15",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -32865,7 +32865,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Oxoacids structure JEE previous year questions",
-        "query": "https://www.google.com/search?q=oxoacids+of+sulphur+phosphorus+JEE+Advanced+previous+year+questions+pdf",
+        "query": "oxoacids of sulphur phosphorus",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -32874,7 +32874,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Interhalogens and noble gases JEE PYQ",
-        "query": "https://www.google.com/search?q=interhalogen+noble+gas+xenon+JEE+Advanced+previous+year+questions+pdf",
+        "query": "interhalogen noble gas xenon",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -32883,7 +32883,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Halogens group 17 JEE previous year questions",
-        "query": "https://www.google.com/search?q=halogens+group+17+JEE+Advanced+previous+year+questions+pdf",
+        "query": "halogens group 17",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -32892,7 +32892,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Hardest p-block reasoning and match-the-column",
-        "query": "https://www.google.com/search?q=p-block+match+the+column+assertion+reason+JEE+Advanced+problems+with+solutions",
+        "query": "p-block match the column assertion reason",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -35561,7 +35561,7 @@ window.ATLAS_DATA = [
     "seeds": [
       {
         "label": "Structural isomerism types (chain, position, functional)",
-        "query": "https://www.google.com/search?q=structural+isomerism+chain+position+functional+metamerism+problems+with+solutions",
+        "query": "structural isomerism chain position functional metamerism",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -35571,7 +35571,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Counting structural isomers of a molecular formula",
-        "query": "https://www.google.com/search?q=how+to+count+structural+isomers+C5H10+C4H8O+problems+with+solutions",
+        "query": "how to count structural isomers C5H10 C4H8O",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -35581,7 +35581,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Tautomerism and metamerism explained",
-        "query": "https://www.youtube.com/results?search_query=tautomerism+metamerism+isomerism+JEE",
+        "query": "tautomerism metamerism isomerism",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -35591,7 +35591,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Geometrical (cis-trans) isomerism basics and conditions",
-        "query": "https://www.youtube.com/results?search_query=geometrical+cis+trans+isomerism+conditions+JEE",
+        "query": "geometrical cis trans isomerism conditions",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -35601,7 +35601,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "E and Z nomenclature with CIP priority",
-        "query": "https://www.google.com/search?q=E+Z+nomenclature+CIP+priority+rules+problems+with+solutions",
+        "query": "E Z nomenclature CIP priority rules",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -35611,7 +35611,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Geometrical isomerism in cyclic compounds and oximes",
-        "query": "https://www.google.com/search?q=geometrical+isomerism+cyclic+compounds+oximes+syn+anti+problems+with+solutions",
+        "query": "geometrical isomerism cyclic compounds oximes syn anti",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -35621,7 +35621,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Chirality and chiral centre identification",
-        "query": "https://www.youtube.com/results?search_query=chirality+chiral+centre+identification+JEE",
+        "query": "chirality chiral centre identification",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -35631,7 +35631,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "R and S configuration assignment practice",
-        "query": "https://www.google.com/search?q=R+S+configuration+assignment+CIP+rules+problems+with+solutions",
+        "query": "R S configuration assignment CIP rules",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -35641,7 +35641,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "R/S when lowest priority points toward viewer",
-        "query": "https://chemistry.stackexchange.com/questions/tagged/stereochemistry",
+        "query": "stereochemistry",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -35651,7 +35651,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "CIP priority tie-breaking and duplicate atoms",
-        "query": "https://www.google.com/search?q=CIP+priority+rules+tie+breaking+duplicate+atoms+problems+with+solutions",
+        "query": "CIP priority rules tie breaking duplicate atoms",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -35660,7 +35660,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Enantiomers vs diastereomers distinction",
-        "query": "https://www.youtube.com/results?search_query=enantiomers+diastereomers+difference+JEE",
+        "query": "enantiomers diastereomers difference",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -35670,7 +35670,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Meso compounds and plane of symmetry",
-        "query": "https://www.google.com/search?q=meso+compound+plane+of+symmetry+identification+problems+with+solutions",
+        "query": "meso compound plane of symmetry identification",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -35680,7 +35680,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Tartaric acid stereoisomers (R,R / S,S / meso)",
-        "query": "https://www.google.com/search?q=tartaric+acid+meso+RR+SS+stereoisomers+explained",
+        "query": "tartaric acid meso RR SS stereoisomers explained",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -35690,7 +35690,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Number of stereoisomers: 2^n rule and exceptions",
-        "query": "https://www.google.com/search?q=number+of+stereoisomers+2+power+n+rule+exceptions+problems+with+solutions",
+        "query": "number of stereoisomers 2 power n rule exceptions",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -35700,7 +35700,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Optical activity and specific rotation",
-        "query": "https://www.youtube.com/results?search_query=optical+activity+specific+rotation+racemic+mixture+JEE",
+        "query": "optical activity specific rotation racemic mixture",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -35709,7 +35709,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Racemic mixture and optical resolution",
-        "query": "https://www.google.com/search?q=racemic+mixture+resolution+of+enantiomers+problems+with+solutions",
+        "query": "racemic mixture resolution of enantiomers",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -35719,7 +35719,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Fischer projection drawing and rules",
-        "query": "https://www.youtube.com/results?search_query=Fischer+projection+rules+R+S+JEE",
+        "query": "Fischer projection rules R S",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -35729,7 +35729,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Assigning R/S from Fischer projections",
-        "query": "https://www.google.com/search?q=assign+R+S+configuration+from+Fischer+projection+problems+with+solutions",
+        "query": "assign R S configuration from Fischer projection",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -35739,7 +35739,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Newman projections of ethane and butane",
-        "query": "https://www.youtube.com/results?search_query=Newman+projections+ethane+butane+conformations+JEE",
+        "query": "Newman projections ethane butane conformations",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -35749,7 +35749,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Conformational energy diagrams (eclipsed, gauche, anti)",
-        "query": "https://www.google.com/search?q=conformations+butane+energy+diagram+gauche+anti+eclipsed+problems+with+solutions",
+        "query": "conformations butane energy diagram gauche anti eclipsed",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -35759,7 +35759,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Cyclohexane chair conformation: axial vs equatorial",
-        "query": "https://www.youtube.com/results?search_query=cyclohexane+chair+conformation+axial+equatorial+ring+flip+JEE",
+        "query": "cyclohexane chair conformation axial equatorial ring flip",
         "level": "JEE Advanced",
         "sources": [
           "youtube",
@@ -35769,7 +35769,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Most stable conformation of substituted cyclohexane",
-        "query": "https://www.google.com/search?q=most+stable+chair+conformation+substituted+cyclohexane+A+value+problems",
+        "query": "most stable chair conformation substituted cyclohexane A value problems",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -35779,7 +35779,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Threo/erythro and syn/anti nomenclature",
-        "query": "https://www.google.com/search?q=threo+erythro+syn+anti+stereochemistry+nomenclature+problems+with+solutions",
+        "query": "threo erythro syn anti stereochemistry nomenclature",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -35788,7 +35788,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Optical activity without a chiral carbon (allenes, biphenyls)",
-        "query": "https://www.google.com/search?q=optical+activity+without+chiral+carbon+allene+biphenyl+spirane+problems",
+        "query": "optical activity without chiral carbon allene biphenyl spirane problems",
         "level": "Olympiad",
         "sources": [
           "google",
@@ -35798,7 +35798,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "D/L vs R/S and relative vs absolute configuration",
-        "query": "https://www.google.com/search?q=D+L+vs+R+S+relative+absolute+configuration+sugars+problems+with+solutions",
+        "query": "D L vs R S relative absolute configuration sugars",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -35808,7 +35808,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Isomerism stereochemistry JEE Advanced PYQ set",
-        "query": "https://www.google.com/search?q=isomerism+stereochemistry+JEE+Advanced+previous+year+questions+pdf",
+        "query": "isomerism stereochemistry",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -35818,7 +35818,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "R/S and E/Z assignment JEE Advanced PYQ",
-        "query": "https://www.google.com/search?q=R+S+E+Z+configuration+JEE+Advanced+previous+year+questions+pdf",
+        "query": "R S E Z configuration",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -35827,7 +35827,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Number of stereoisomers JEE Advanced integer-type PYQ",
-        "query": "https://www.google.com/search?q=number+of+stereoisomers+JEE+Advanced+integer+previous+year+questions+pdf",
+        "query": "number of stereoisomers JEE Advanced integer",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -35837,7 +35837,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Conformational analysis JEE Advanced PYQ",
-        "query": "https://www.google.com/search?q=conformations+Newman+cyclohexane+JEE+Advanced+previous+year+questions+pdf",
+        "query": "conformations Newman cyclohexane",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -35846,7 +35846,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Meso and optical activity JEE Advanced PYQ",
-        "query": "https://www.google.com/search?q=meso+compound+optical+activity+JEE+Advanced+previous+year+questions+pdf",
+        "query": "meso compound optical activity",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -35855,7 +35855,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Full isomerism chapter problem set with solutions",
-        "query": "https://www.google.com/search?q=isomerism+stereochemistry+full+chapter+problems+with+solutions",
+        "query": "isomerism stereochemistry full chapter",
         "level": "Mixed",
         "sources": [
           "google",
@@ -35865,7 +35865,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Hardest stereoisomer counting problems",
-        "query": "https://www.google.com/search?q=hardest+stereochemistry+stereoisomer+counting+JEE+Advanced+problems+with+solutions",
+        "query": "hardest stereochemistry stereoisomer counting",
         "level": "Olympiad",
         "sources": [
           "google",
@@ -35875,7 +35875,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Geometrical vs optical isomerism comparison drills",
-        "query": "https://www.youtube.com/results?search_query=geometrical+vs+optical+isomerism+comparison+JEE",
+        "query": "geometrical vs optical isomerism comparison",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -37981,7 +37981,7 @@ window.ATLAS_DATA = [
     "seeds": [
       {
         "label": "Amine classification & nomenclature basics",
-        "query": "https://www.youtube.com/results?search_query=amines+classification+nomenclature+JEE",
+        "query": "amines classification nomenclature",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -37991,7 +37991,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Preparation of amines: reduction of nitro and nitrile",
-        "query": "https://www.google.com/search?q=preparation+of+amines+reduction+nitro+nitrile+problems+with+solutions",
+        "query": "preparation of amines reduction nitro nitrile",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -38001,7 +38001,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Gabriel phthalimide synthesis scope & problems",
-        "query": "https://www.google.com/search?q=Gabriel+phthalimide+synthesis+scope+problems+with+solutions",
+        "query": "Gabriel phthalimide synthesis scope",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -38011,7 +38011,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Hofmann bromamide degradation mechanism",
-        "query": "https://www.youtube.com/results?search_query=Hofmann+bromamide+degradation+mechanism+JEE",
+        "query": "Hofmann bromamide degradation mechanism",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -38021,7 +38021,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Reductive amination practice problems",
-        "query": "https://www.google.com/search?q=reductive+amination+practice+problems+with+solutions",
+        "query": "reductive amination practice",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -38031,7 +38031,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Ammonolysis of alkyl halides amine mixture",
-        "query": "https://www.google.com/search?q=ammonolysis+of+alkyl+halides+amine+mixture+problems+with+solutions",
+        "query": "ammonolysis of alkyl halides amine mixture",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -38041,7 +38041,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Basicity order: aliphatic vs aromatic amines",
-        "query": "https://www.youtube.com/results?search_query=basicity+order+of+amines+aliphatic+aromatic+JEE",
+        "query": "basicity order of amines aliphatic aromatic",
         "level": "JEE Advanced",
         "sources": [
           "youtube",
@@ -38051,7 +38051,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Amine basicity: gas phase vs aqueous solvation",
-        "query": "https://chemistry.stackexchange.com/search?q=basicity+amines+gas+phase+aqueous+solvation",
+        "query": "basicity amines gas phase aqueous solvation",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -38061,7 +38061,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Why dimethylamine more basic than trimethylamine",
-        "query": "https://chemistry.stackexchange.com/search?q=dimethylamine+more+basic+than+trimethylamine+water",
+        "query": "dimethylamine more basic than trimethylamine water",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -38071,7 +38071,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Substituent effect on aniline basicity",
-        "query": "https://www.google.com/search?q=substituent+effect+aniline+basicity+order+problems+with+solutions",
+        "query": "substituent effect aniline basicity order",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -38081,7 +38081,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Carbylamine (isocyanide) test for primary amines",
-        "query": "https://www.youtube.com/results?search_query=carbylamine+isocyanide+test+primary+amine+JEE",
+        "query": "carbylamine isocyanide test primary amine",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -38091,7 +38091,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Hinsberg test for 1deg/2deg/3deg amines",
-        "query": "https://www.google.com/search?q=Hinsberg+test+distinguishing+primary+secondary+tertiary+amine+problems+with+solutions",
+        "query": "Hinsberg test distinguishing primary secondary tertiary amine",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -38101,7 +38101,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Reaction of amines with nitrous acid (HNO2)",
-        "query": "https://www.youtube.com/results?search_query=amines+reaction+with+nitrous+acid+HNO2+JEE",
+        "query": "amines reaction with nitrous acid HNO2",
         "level": "JEE Advanced",
         "sources": [
           "youtube",
@@ -38111,7 +38111,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Diazonium salt preparation and stability",
-        "query": "https://www.google.com/search?q=diazonium+salt+preparation+stability+problems+with+solutions",
+        "query": "diazonium salt preparation stability",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -38121,7 +38121,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Sandmeyer reaction problems",
-        "query": "https://www.google.com/search?q=Sandmeyer+reaction+diazonium+problems+with+solutions",
+        "query": "Sandmeyer reaction diazonium",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -38131,7 +38131,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Gattermann and Balz-Schiemann reactions",
-        "query": "https://www.youtube.com/results?search_query=Gattermann+Balz+Schiemann+diazonium+reaction+JEE",
+        "query": "Gattermann Balz Schiemann diazonium reaction",
         "level": "JEE Advanced",
         "sources": [
           "youtube",
@@ -38141,7 +38141,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Azo coupling reaction and dye formation",
-        "query": "https://www.youtube.com/results?search_query=azo+coupling+reaction+diazonium+dye+JEE",
+        "query": "azo coupling reaction diazonium dye",
         "level": "JEE Advanced",
         "sources": [
           "youtube",
@@ -38151,7 +38151,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Azo coupling pH and orientation",
-        "query": "https://chemistry.stackexchange.com/search?q=azo+coupling+reaction+pH+orientation",
+        "query": "azo coupling reaction pH orientation",
         "level": "Olympiad",
         "sources": [
           "cse",
@@ -38161,7 +38161,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Electrophilic substitution in aniline",
-        "query": "https://www.google.com/search?q=electrophilic+substitution+aniline+bromination+nitration+problems+with+solutions",
+        "query": "electrophilic substitution aniline bromination nitration",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -38171,7 +38171,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Acetylation protection of aniline -NH2 before nitration",
-        "query": "https://chemistry.stackexchange.com/search?q=acetylation+protection+aniline+nitration",
+        "query": "acetylation protection aniline nitration",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -38181,7 +38181,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Distinguishing 1deg/2deg/3deg amines by chemical tests",
-        "query": "https://www.youtube.com/results?search_query=distinguish+primary+secondary+tertiary+amine+tests+JEE",
+        "query": "distinguish primary secondary tertiary amine tests",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -38191,7 +38191,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Separation of amine mixtures (Hinsberg method)",
-        "query": "https://www.google.com/search?q=separation+of+amine+mixture+Hinsberg+method+problems+with+solutions",
+        "query": "separation of amine mixture Hinsberg method",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -38201,7 +38201,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Amines named reactions JEE previous year",
-        "query": "https://www.google.com/search?q=amines+named+reactions+JEE+Advanced+previous+year+questions+pdf",
+        "query": "amines named reactions",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -38211,7 +38211,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Diazonium salt JEE previous year questions",
-        "query": "https://www.google.com/search?q=diazonium+salt+JEE+Advanced+previous+year+questions+pdf",
+        "query": "diazonium salt",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -38221,7 +38221,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Basicity of amines JEE previous year questions",
-        "query": "https://www.google.com/search?q=basicity+of+amines+JEE+Advanced+previous+year+questions+pdf",
+        "query": "basicity of amines",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -38231,7 +38231,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Hofmann bromamide & carbylamine PYQ",
-        "query": "https://www.google.com/search?q=Hofmann+bromamide+carbylamine+JEE+Advanced+previous+year+questions+pdf",
+        "query": "Hofmann bromamide carbylamine",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -38241,7 +38241,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Amines multi-step reaction sequence problems",
-        "query": "https://www.google.com/search?q=amines+multistep+reaction+sequence+JEE+Advanced+problems+with+solutions",
+        "query": "amines multistep reaction sequence",
         "level": "Olympiad",
         "sources": [
           "google",
@@ -38251,7 +38251,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Aniline reactivity tricky conceptual questions",
-        "query": "https://chemistry.stackexchange.com/search?q=aniline+reactivity+diazonium+conceptual",
+        "query": "aniline reactivity diazonium conceptual",
         "level": "Olympiad",
         "sources": [
           "cse",
@@ -38261,7 +38261,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Hofmann elimination of quaternary ammonium salts",
-        "query": "https://www.youtube.com/results?search_query=Hofmann+elimination+quaternary+ammonium+Saytzeff+JEE",
+        "query": "Hofmann elimination quaternary ammonium Saytzeff",
         "level": "JEE Advanced",
         "sources": [
           "youtube",
@@ -38271,7 +38271,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Amines full-chapter problem marathon",
-        "query": "https://www.youtube.com/results?search_query=amines+full+chapter+problems+marathon+JEE+Advanced",
+        "query": "amines full chapter problems marathon",
         "level": "JEE Advanced",
         "sources": [
           "youtube",
@@ -38454,7 +38454,7 @@ window.ATLAS_DATA = [
     "seeds": [
       {
         "label": "Glucose open-chain vs cyclic (Haworth) structure problems",
-        "query": "https://www.google.com/search?q=glucose+open+chain+and+cyclic+Haworth+structure+problems+with+solutions",
+        "query": "glucose open chain and cyclic Haworth structure",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -38464,7 +38464,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Mutarotation and anomers of glucose explained",
-        "query": "https://chemistry.stackexchange.com/search?q=mutarotation+anomers+alpha+beta+glucose",
+        "query": "mutarotation anomers alpha beta glucose",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -38474,7 +38474,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Reducing vs non-reducing sugars (Tollens/Fehling)",
-        "query": "https://www.google.com/search?q=reducing+and+non+reducing+sugars+Tollens+Fehling+problems+with+solutions",
+        "query": "reducing and non reducing sugars Tollens Fehling",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -38484,7 +38484,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Glycosidic linkage in sucrose, maltose and lactose",
-        "query": "https://www.youtube.com/results?search_query=glycosidic+linkage+sucrose+maltose+lactose+JEE",
+        "query": "glycosidic linkage sucrose maltose lactose",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -38494,7 +38494,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Epimers, anomers and diastereomers of monosaccharides",
-        "query": "https://chemistry.stackexchange.com/search?q=epimer+anomer+monosaccharide+difference",
+        "query": "epimer anomer monosaccharide difference",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -38504,7 +38504,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Osazone formation and sugar identification",
-        "query": "https://www.google.com/search?q=osazone+formation+sugars+mechanism+problems+with+solutions",
+        "query": "osazone formation sugars mechanism",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -38514,7 +38514,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Starch vs cellulose vs glycogen structure",
-        "query": "https://www.youtube.com/results?search_query=starch+cellulose+glycogen+structure+difference+JEE",
+        "query": "starch cellulose glycogen structure difference",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -38524,7 +38524,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Carbohydrates previous year questions",
-        "query": "https://www.google.com/search?q=carbohydrates+chemistry+JEE+Advanced+previous+year+questions+pdf",
+        "query": "carbohydrates chemistry",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -38534,7 +38534,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Amino acids: zwitterion and isoelectric point problems",
-        "query": "https://www.google.com/search?q=amino+acid+zwitterion+isoelectric+point+problems+with+solutions",
+        "query": "amino acid zwitterion isoelectric point",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -38544,7 +38544,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Charge of amino acid at given pH (titration)",
-        "query": "https://chemistry.stackexchange.com/search?q=amino+acid+charge+at+pH+isoelectric+point+titration",
+        "query": "amino acid charge at pH isoelectric point titration",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -38554,7 +38554,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Peptide bond formation and naming peptides",
-        "query": "https://www.youtube.com/results?search_query=peptide+bond+formation+naming+dipeptide+JEE",
+        "query": "peptide bond formation naming dipeptide",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -38564,7 +38564,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Protein structure: primary to quaternary and denaturation",
-        "query": "https://www.google.com/search?q=protein+primary+secondary+tertiary+quaternary+structure+denaturation+problems+with+solutions",
+        "query": "protein primary secondary tertiary quaternary structure denaturation",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -38574,7 +38574,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Alpha-helix vs beta-pleated sheet hydrogen bonding",
-        "query": "https://chemistry.stackexchange.com/search?q=alpha+helix+beta+pleated+sheet+hydrogen+bonding+protein",
+        "query": "alpha helix beta pleated sheet hydrogen bonding protein",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -38584,7 +38584,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Proteins and amino acids previous year questions",
-        "query": "https://www.google.com/search?q=proteins+amino+acids+JEE+Advanced+previous+year+questions+pdf",
+        "query": "proteins amino acids",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -38594,7 +38594,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "DNA vs RNA structure and nucleotide components",
-        "query": "https://www.google.com/search?q=DNA+RNA+structure+nucleotide+nucleoside+difference+problems+with+solutions",
+        "query": "DNA RNA structure nucleotide nucleoside difference",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -38604,7 +38604,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Base pairing and phosphodiester linkage in nucleic acids",
-        "query": "https://chemistry.stackexchange.com/search?q=nucleic+acid+base+pairing+phosphodiester+linkage",
+        "query": "nucleic acid base pairing phosphodiester linkage",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -38614,7 +38614,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Nucleic acids JEE questions and answers",
-        "query": "https://www.youtube.com/results?search_query=nucleic+acids+DNA+RNA+JEE+questions",
+        "query": "nucleic acids DNA RNA JEE questions",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -38624,7 +38624,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Vitamins classification and deficiency diseases",
-        "query": "https://www.google.com/search?q=vitamins+fat+soluble+water+soluble+deficiency+diseases+problems+with+solutions",
+        "query": "vitamins fat soluble water soluble deficiency diseases",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -38634,7 +38634,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Fat-soluble vs water-soluble vitamins concept questions",
-        "query": "https://chemistry.stackexchange.com/search?q=fat+soluble+water+soluble+vitamins+difference",
+        "query": "fat soluble water soluble vitamins difference",
         "level": "JEE Main",
         "sources": [
           "cse",
@@ -38644,7 +38644,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Enzymes: nature, specificity and catalytic action",
-        "query": "https://www.youtube.com/results?search_query=enzymes+catalysis+specificity+biomolecules+JEE",
+        "query": "enzymes catalysis specificity biomolecules",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -38654,7 +38654,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Biomolecules full chapter previous year questions",
-        "query": "https://www.google.com/search?q=biomolecules+chemistry+JEE+Advanced+previous+year+questions+pdf",
+        "query": "biomolecules chemistry",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -38664,7 +38664,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Classification of polymers (thermoplastic vs thermosetting)",
-        "query": "https://www.google.com/search?q=classification+of+polymers+thermoplastic+thermosetting+problems+with+solutions",
+        "query": "classification of polymers thermoplastic thermosetting",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -38674,7 +38674,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Addition vs condensation polymerization mechanism",
-        "query": "https://chemistry.stackexchange.com/search?q=addition+vs+condensation+polymerization+mechanism+difference",
+        "query": "addition vs condensation polymerization mechanism difference",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -38684,7 +38684,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Match the monomer to the polymer (nylon, terylene, bakelite)",
-        "query": "https://www.google.com/search?q=match+monomer+to+polymer+nylon+terylene+bakelite+problems+with+solutions",
+        "query": "match monomer to polymer nylon terylene bakelite",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -38694,7 +38694,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Nylon-6 vs nylon-6,6 monomers and structures",
-        "query": "https://www.youtube.com/results?search_query=nylon+6+vs+nylon+66+monomers+structure+JEE",
+        "query": "nylon 6 vs nylon 66 monomers structure",
         "level": "JEE Main",
         "sources": [
           "youtube",
@@ -38704,7 +38704,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Natural and synthetic rubber, vulcanization",
-        "query": "https://www.google.com/search?q=natural+synthetic+rubber+vulcanization+isoprene+problems+with+solutions",
+        "query": "natural synthetic rubber vulcanization isoprene",
         "level": "JEE Main",
         "sources": [
           "google",
@@ -38714,7 +38714,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Copolymers and biodegradable polymers (PHBV, nylon-2-nylon-6)",
-        "query": "https://chemistry.stackexchange.com/search?q=copolymer+biodegradable+polymer+PHBV+nylon-2-nylon-6",
+        "query": "copolymer biodegradable polymer PHBV nylon-2-nylon-6",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -38724,7 +38724,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Polymers chapter previous year questions",
-        "query": "https://www.google.com/search?q=polymers+chemistry+JEE+Advanced+previous+year+questions+pdf",
+        "query": "polymers chemistry",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -38734,7 +38734,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Carbohydrate stereochemistry hardest in-syllabus problems",
-        "query": "https://www.google.com/search?q=carbohydrate+stereochemistry+Fischer+Haworth+conversion+hard+problems+with+solutions",
+        "query": "carbohydrate stereochemistry Fischer Haworth conversion hard",
         "level": "Olympiad",
         "sources": [
           "google",
@@ -38744,7 +38744,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Glucose chemical reactions and structure proof",
-        "query": "https://chemistry.stackexchange.com/search?q=glucose+structure+determination+chemical+reactions",
+        "query": "glucose structure determination chemical reactions",
         "level": "JEE Advanced",
         "sources": [
           "cse",
@@ -38754,7 +38754,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Biomolecules assertion-reason and matrix-match questions",
-        "query": "https://www.google.com/search?q=biomolecules+assertion+reason+matrix+match+JEE+Advanced+previous+year+questions+pdf",
+        "query": "biomolecules assertion reason matrix match",
         "level": "JEE Advanced",
         "sources": [
           "pyq",
@@ -38764,7 +38764,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Polymers numerical: degree of polymerization and molar mass",
-        "query": "https://www.google.com/search?q=degree+of+polymerization+number+average+molar+mass+polymer+problems+with+solutions",
+        "query": "degree of polymerization number average molar mass polymer",
         "level": "JEE Advanced",
         "sources": [
           "google",
@@ -38774,7 +38774,7 @@ window.ATLAS_DATA = [
       },
       {
         "label": "Biomolecules and polymers full revision marathon",
-        "query": "https://www.youtube.com/results?search_query=biomolecules+and+polymers+full+revision+one+shot+JEE",
+        "query": "biomolecules and polymers full revision one shot",
         "level": "Mixed",
         "sources": [
           "youtube",
@@ -39264,6 +39264,15898 @@ window.ATLAS_DATA = [
           "cse",
           "google",
           "youtube"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "The Living World",
+    "slug": "the-living-world",
+    "subject": "Biology",
+    "group": "Diversity & Cell Biology",
+    "blurb": "A ready-to-use link pack for \"The Living World\" that turns NCERT Class 11 Biology Chapter 1 into ~100 always-live resources — covering what is living, biodiversity, taxonomy, taxonomic categories, nomenclature and taxonomical aids — for NEET revision and practice.",
+    "jeeWeight": "Medium",
+    "subtopics": [
+      "What is 'living' — growth, reproduction, metabolism, consciousness, self-replication, cellular organisation",
+      "Defining characteristics and properties of living organisms",
+      "Diversity in the living world and the need for classification",
+      "Biodiversity — meaning, magnitude and number of described species",
+      "Nomenclature — common names vs scientific names",
+      "Binomial nomenclature and rules of ICBN / ICZN",
+      "Taxonomy and systematics — identification, classification, naming",
+      "Taxonomic categories and the taxonomic hierarchy (Kingdom to Species)",
+      "Species, genus, family, order, class, phylum/division, kingdom",
+      "Taxon and obligate taxonomic categories",
+      "Taxonomical aids — herbarium and botanical gardens",
+      "Museum, zoological parks (zoo) and taxonomic keys",
+      "Flora, fauna, manuals, monographs and catalogues",
+      "Concept of species (Mayr) and biosystematics",
+      "Two-kingdom vs higher classification systems (overview)"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Class 11 Biology Textbook (Chapter 1: The Living World)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "THE primary NEET source — select Class XI Biology, Chapter 1. Read the full chapter text; every NEET question traces back here."
+      },
+      {
+        "title": "NCERT Textbooks Portal (download Class XI & XII Biology PDFs)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "Foundation",
+        "note": "Official free PDFs. Grab Class XI Biology for The Living World and keep the whole book handy for cross-chapter revision."
+      },
+      {
+        "title": "NCERT Class 11 Biology — Exemplar Problems (official)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Problem set",
+        "level": "NEET",
+        "note": "Choose 'Exemplar Problems' for Class XI Biology — MCQs and assertion-reason on taxonomy and nomenclature ideal for NEET drill."
+      },
+      {
+        "title": "OpenStax Biology 2e (full free textbook)",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Free full text. Sections on properties of life, taxonomy, binomial nomenclature and classification mirror NCERT concepts in clearer English."
+      },
+      {
+        "title": "Biology LibreTexts — Introductory & General Biology library",
+        "url": "https://bio.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Search 'taxonomy' or 'binomial nomenclature' for worked explanations of the taxonomic hierarchy and the Linnaean system."
+      },
+      {
+        "title": "Khan Academy — Biology library",
+        "url": "https://www.khanacademy.org/science/biology",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Browse the biology library for short videos on classifying organisms and the tree of life — good first-pass grounding before NCERT depth."
+      },
+      {
+        "title": "Khan Academy — High School Biology",
+        "url": "https://www.khanacademy.org/science/high-school-biology",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Covers characteristics of life — metabolism, reproduction, growth — that set up the chapter's opening 'what is living?' section."
+      },
+      {
+        "title": "Wikipedia — Taxonomy (biology)",
+        "url": "https://en.wikipedia.org/wiki/Taxonomy_(biology)",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Reference for taxonomic ranks, taxon, and how the hierarchy is constructed — use for quick fact-checks, not as the primary source."
+      },
+      {
+        "title": "Wikipedia — Binomial nomenclature",
+        "url": "https://en.wikipedia.org/wiki/Binomial_nomenclature",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Rules of naming (italics, capital genus, Latinised names, author citation) frequently tested as fact-based NEET MCQs."
+      },
+      {
+        "title": "Wikipedia — Biodiversity",
+        "url": "https://en.wikipedia.org/wiki/Biodiversity",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Background on species magnitude and estimates of global biodiversity referenced in the NCERT introduction."
+      },
+      {
+        "title": "Wikipedia — Taxonomic rank",
+        "url": "https://en.wikipedia.org/wiki/Taxonomic_rank",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Clarifies the Kingdom-to-Species ranks and obligate categories — the exact hierarchy NEET tests in sequence-ordering questions."
+      },
+      {
+        "title": "Wikipedia — Species",
+        "url": "https://en.wikipedia.org/wiki/Species",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Why 'species' is hard to define (biological vs morphological concept) — depth for high-scorers tackling assertion-reason items."
+      },
+      {
+        "title": "Official NEET (NTA) — syllabus, notifications & information bulletin",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA NEET",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Confirm the exact official NEET Biology syllabus and exam pattern so revision stays inside scope. Bookmark for updates."
+      },
+      {
+        "title": "NPTEL — Biology / Life Science course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "source": "NPTEL",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Search the catalogue for biodiversity, systematics and taxonomy lectures — optional enrichment beyond the NEET requirement."
+      },
+      {
+        "title": "OpenStax — free biology textbooks library",
+        "url": "https://openstax.org/subjects/science",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "Foundation",
+        "note": "Browse all free science textbooks; pair Biology 2e and Concepts of Biology for clear, NCERT-aligned coverage of life's properties."
+      },
+      {
+        "title": "Wikipedia — Herbarium",
+        "url": "https://en.wikipedia.org/wiki/Herbarium",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Taxonomical-aid facts — herbarium sheets, labels and famous herbaria — that NEET asks as direct fact-based MCQs."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "What is living — defining characteristics",
+        "query": "what is living defining properties of living organisms",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Growth as a characteristic of life",
+        "query": "growth in living and non-living difference intrinsic extrinsic",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Reproduction and metabolism as life criteria",
+        "query": "reproduction metabolism defining feature of life living organisms",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cellular organisation and consciousness",
+        "query": "cellular organisation consciousness defining property living world",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Diversity in the living world",
+        "query": "diversity in living world need for classification",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Biodiversity and number of species",
+        "query": "biodiversity number of species described on earth",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Nomenclature — common vs scientific names",
+        "query": "nomenclature common name versus scientific name need",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Binomial nomenclature rules",
+        "query": "binomial nomenclature rules conventions Linnaeus",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "ICBN and ICZN codes",
+        "query": "ICBN ICZN international code botanical zoological nomenclature",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Writing scientific names correctly",
+        "query": "rules for writing scientific names italics genus species",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Taxonomy definition and processes",
+        "query": "taxonomy identification classification nomenclature definition",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Systematics and biosystematics",
+        "query": "systematics biosystematics definition Linnaeus systema naturae",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Taxonomic categories and hierarchy",
+        "query": "taxonomic categories hierarchy kingdom to species",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Species as a taxonomic category",
+        "query": "species taxonomic category definition Mayr concept",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Genus and family categories",
+        "query": "genus family taxonomic category examples plants animals",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Order, class, phylum, division, kingdom",
+        "query": "order class phylum division kingdom taxonomic hierarchy",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Taxon and obligate categories",
+        "query": "taxon obligate categories taxonomic hierarchy ranking",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Worked classification — Mangifera & Homo sapiens",
+        "query": "classification example mango Homo sapiens wheat taxonomic hierarchy",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Taxonomical aids overview",
+        "query": "taxonomical aids herbarium botanical garden museum key",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Herbarium — preparation and uses",
+        "query": "herbarium preparation herbarium sheet label uses",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Botanical gardens and famous examples",
+        "query": "botanical gardens Kew Indian botanical garden taxonomical aid",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Museum and zoological parks",
+        "query": "museum zoological park zoo taxonomical aid specimens",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Taxonomic keys — indented and bracketed",
+        "query": "taxonomic key indented bracketed couplet lead identification",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Flora, manuals, monographs, catalogues",
+        "query": "flora manual monograph catalogue taxonomical aids difference",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Two-kingdom and higher classification systems",
+        "query": "two kingdom classification system Linnaeus classification systems",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Assertion-reason on the living world",
+        "query": "the living world assertion reason questions biology",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "The Living World NEET MCQ practice",
+        "query": "the living world MCQ chapter 1 class 11 biology",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "The Living World previous year questions",
+        "query": "the living world chapter NEET previous year questions",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube"
+        ]
+      },
+      {
+        "label": "NCERT one-liner facts revision",
+        "query": "the living world NCERT important points one liner revision",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Common confusion — taxon vs category",
+        "query": "difference between taxon and taxonomic category confusion",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "bio",
+          "pyq"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Biological Classification",
+    "slug": "biological-classification",
+    "subject": "Biology",
+    "group": "Diversity & Cell Biology",
+    "blurb": "A high-yield NEET chapter where students must master Whittaker's five-kingdom scheme plus the exact diagnostic features of Monera, Protista, Fungi, lichens, viruses, viroids, and prions.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Whittaker's five kingdom classification and its basis",
+      "Two-kingdom and earlier systems of classification",
+      "Kingdom Monera: archaebacteria and eubacteria",
+      "Bacterial structure, nutrition and reproduction",
+      "Cyanobacteria, mycoplasma and actinomycetes",
+      "Kingdom Protista: chrysophytes, dinoflagellates, euglenoids",
+      "Slime moulds and protozoans",
+      "Kingdom Fungi: Phycomycetes, Ascomycetes, Basidiomycetes, Deuteromycetes",
+      "Fungal nutrition, reproduction and symbiosis",
+      "Kingdom Plantae and Kingdom Animalia overview",
+      "Lichens and mycorrhiza as symbiotic associations",
+      "Viruses: structure, types (TMV, bacteriophage) and diseases",
+      "Viroids and their RNA nature",
+      "Prions and infectious proteins"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Textbooks (official PDF download portal)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "THE primary NEET source. Open Class XI Biology and download the chapter 'Biological Classification' PDF — every NEET question is anchored to this text."
+      },
+      {
+        "title": "NCERT Class XI Biology — Read the chapter line-by-line",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "Foundation",
+        "note": "Read the full NCERT chapter; the five-kingdom table and fungal classes here are directly examinable."
+      },
+      {
+        "title": "OpenStax Biology 2e — Free Full Text",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Use the Bacteria, Protists, and Fungi units for diagrams and expanded explanations beyond NCERT."
+      },
+      {
+        "title": "Biology LibreTexts — Microbiology & Diversity",
+        "url": "https://bio.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Browse the Monera, Protista, and Fungi sections for clear comparative tables on cell wall, nutrition and reproduction."
+      },
+      {
+        "title": "Khan Academy — Bacteria & Archaea",
+        "url": "https://www.khanacademy.org/science/biology/bacteria-archaea",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Short videos on prokaryote structure and bacterial diversity — good for building Monera fundamentals before NEET drills."
+      },
+      {
+        "title": "Khan Academy — Fungi",
+        "url": "https://www.khanacademy.org/science/ap-biology",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Covers fungal body, hyphae and reproduction; pair with the NCERT four-class scheme."
+      },
+      {
+        "title": "Khan Academy — Viruses",
+        "url": "https://www.khanacademy.org/science/biology/biology-of-viruses",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "NEET",
+        "note": "Virus structure, bacteriophage and replication — clarifies why viruses sit outside the five kingdoms."
+      },
+      {
+        "title": "Wikipedia — Five-Kingdom Classification (Whittaker)",
+        "url": "https://en.wikipedia.org/wiki/Kingdom_(biology)",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Quick reference for the historical sequence (Linnaeus to Whittaker) and the basis of classification."
+      },
+      {
+        "title": "Wikipedia — Lichen",
+        "url": "https://en.wikipedia.org/wiki/Lichen",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Explains the algae-fungus symbiosis and pollution-indicator role — a frequently tested one-mark fact."
+      },
+      {
+        "title": "Wikipedia — Viroid",
+        "url": "https://en.wikipedia.org/wiki/Viroid",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Free infectious RNA (Diener); pair with prions for the high-frequency NEET trap pairing."
+      },
+      {
+        "title": "Wikipedia — Prion",
+        "url": "https://en.wikipedia.org/wiki/Prion",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Infectious protein with no nucleic acid — the counterpart to viroids that examiners love to contrast."
+      },
+      {
+        "title": "Wikipedia — Fungus",
+        "url": "https://en.wikipedia.org/wiki/Fungus",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "Foundation",
+        "note": "Overview of fungal body, nutrition and the four NCERT classes for quick fact-checking."
+      },
+      {
+        "title": "NPTEL Courses (Microbiology / Biology)",
+        "url": "https://nptel.ac.in/courses",
+        "source": "NPTEL",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Browse microbiology or general biology courses for rigorous lectures on bacterial and fungal diversity."
+      },
+      {
+        "title": "NCBI Bookshelf — Molecular Biology of the Cell",
+        "url": "https://www.ncbi.nlm.nih.gov/books/",
+        "source": "NCBI Bookshelf",
+        "type": "Reference",
+        "level": "Olympiad",
+        "note": "Free full-text textbooks on cells, prions and viruses for the curious or Olympiad-bound student."
+      },
+      {
+        "title": "Official NEET (NTA) Portal",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Authoritative source for the NEET Biology syllabus, exam pattern and official information bulletin."
+      },
+      {
+        "title": "Brilliant — Biology Courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "NEET",
+        "note": "Interactive cell-biology and life-science courses to reinforce intuition about cell types and microbial life."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Five kingdom classification basis",
+        "query": "five kingdom classification Whittaker basis",
+        "level": "Foundation",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Two kingdom vs five kingdom systems",
+        "query": "two kingdom five kingdom classification comparison",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Three domain vs five kingdom",
+        "query": "three domain system Carl Woese versus five kingdom",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Kingdom Monera characteristics",
+        "query": "kingdom Monera bacteria characteristics",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Archaebacteria vs eubacteria",
+        "query": "archaebacteria eubacteria difference halophiles methanogens",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Bacterial shapes and structure",
+        "query": "bacteria shapes cocci bacilli structure cell wall",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Bacterial nutrition types",
+        "query": "bacteria nutrition autotrophic heterotrophic chemosynthetic",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Bacterial reproduction and conjugation",
+        "query": "bacterial reproduction binary fission conjugation",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Cyanobacteria blue green algae",
+        "query": "cyanobacteria blue green algae heterocyst nitrogen fixation",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Mycoplasma smallest cells",
+        "query": "mycoplasma smallest living cells without cell wall",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Kingdom Protista overview",
+        "query": "kingdom Protista characteristics groups",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Chrysophytes and diatoms",
+        "query": "chrysophytes diatoms diatomaceous earth silica",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Dinoflagellates and red tide",
+        "query": "dinoflagellates red tide bioluminescence Gonyaulax",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Euglenoids mixotrophic nutrition",
+        "query": "euglenoids Euglena pellicle mixotrophic nutrition",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Slime moulds in Protista",
+        "query": "slime moulds plasmodium spores classification",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Protozoans four groups",
+        "query": "protozoa amoeboid flagellated ciliated sporozoans",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Kingdom Fungi general characters",
+        "query": "kingdom Fungi characteristics hyphae mycelium",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Phycomycetes",
+        "query": "Phycomycetes Mucor Rhizopus Albugo features",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Ascomycetes (sac fungi)",
+        "query": "Ascomycetes ascospores Penicillium Aspergillus yeast",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Basidiomycetes (club fungi)",
+        "query": "Basidiomycetes basidiospores mushroom rust smut",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Deuteromycetes (imperfect fungi)",
+        "query": "Deuteromycetes imperfect fungi conidia classification",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Fungal reproduction and dikaryon",
+        "query": "fungi reproduction plasmogamy karyogamy dikaryon meiosis",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Kingdom Plantae overview",
+        "query": "kingdom Plantae characteristics autotrophs chlorophyll",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Kingdom Animalia overview",
+        "query": "kingdom Animalia heterotrophic multicellular characteristics",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Lichens symbiosis",
+        "query": "lichens algae fungi symbiosis pollution indicator",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Mycorrhiza association",
+        "query": "mycorrhiza fungus root symbiosis nutrient absorption",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Virus structure and discovery",
+        "query": "virus structure capsid Ivanowsky Stanley discovery",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Bacteriophage and TMV",
+        "query": "bacteriophage TMV tobacco mosaic virus structure",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Viral genetic material",
+        "query": "virus genetic material DNA RNA single double stranded",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Viroids (infectious RNA)",
+        "query": "viroids free RNA Diener potato spindle tuber",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Prions (infectious proteins)",
+        "query": "prions infectious proteins mad cow disease CJD",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Viruses vs viroids vs prions",
+        "query": "virus viroid prion difference comparison",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Plant Kingdom",
+    "slug": "plant-kingdom",
+    "subject": "Biology",
+    "group": "Diversity & Cell Biology",
+    "blurb": "Everything your students need to master the Plant Kingdom unit for NEET — from algal pigments and life cycles to bryophyte, pteridophyte, gymnosperm and angiosperm diversity — anchored to NCERT Class XI Biology and reinforced with NEET-level problem searches.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Classification systems (artificial, natural, phylogenetic) and the Plantae position in the five-kingdom scheme",
+      "Algae: general characters, range of thallus, and economic importance",
+      "Chlorophyceae (green algae): pigments, stored food, cell wall and examples",
+      "Phaeophyceae (brown algae): fucoxanthin, laminarin and examples",
+      "Rhodophyceae (red algae): r-phycoerythrin, floridean starch, agar and examples",
+      "Bryophytes: liverworts and mosses (Marchantia, Funaria, Sphagnum), amphibians of the plant kingdom",
+      "Pteridophytes: first vascular plants (Selaginella, Equisetum, Pteris), prothallus and sori",
+      "Heterospory and the origin of the seed habit in pteridophytes",
+      "Gymnosperms: naked seeds, Cycas, Pinus, Ginkgo, Ephedra and ovule structure",
+      "Gymnosperm reproduction: male and female cones, micro- and megasporangia",
+      "Angiosperms: monocots vs dicots, flower, double fertilisation and triple fusion",
+      "Embryo sac, endosperm and ploidy of plant structures (n vs 2n)",
+      "Alternation of generations: haplontic, diplontic and haplo-diplontic life cycles",
+      "Gametophyte vs sporophyte dominance across algae, bryophytes and pteridophytes",
+      "Sexual reproduction terms: isogamous, anisogamous and oogamous"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Textbooks (official PDF download portal)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "THE primary NEET source. Download Class XI Biology (kebo1); the 'Plant Kingdom' chapter is the syllabus core and every NEET question traces back here."
+      },
+      {
+        "title": "NCERT Class XI Biology — Plant Kingdom (textbook chapter)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Open kebo1 (Class XI Biology). The Plant Kingdom chapter covers algae, bryophytes, pteridophytes, gymnosperms, angiosperms and life cycles verbatim as NEET expects."
+      },
+      {
+        "title": "NCERT Class XI Biology — Biological Classification (companion chapter)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Read alongside Plant Kingdom to fix the five-kingdom system and where Plantae sits — the two chapters are frequently combined in NEET questions."
+      },
+      {
+        "title": "NCERT Exemplar Problems (official download portal)",
+        "url": "https://ncert.nic.in/exemplar-problems.php",
+        "source": "NCERT",
+        "type": "Problem set",
+        "level": "NEET",
+        "note": "Download Class XI Biology Exemplar; its MCQs and assertion-reason items on Plant Kingdom are high-yield and NEET-pattern."
+      },
+      {
+        "title": "Official NEET (NTA) — syllabus, notices and answer keys",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA",
+        "type": "Past papers",
+        "level": "NEET",
+        "note": "Authoritative exam portal: confirm the current Biology syllabus and download official information bulletins, question papers and answer keys."
+      },
+      {
+        "title": "OpenStax Biology 2e — Seedless Plants (Ch. 25)",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Free full text on algae, bryophytes and pteridophytes with clean life-cycle diagrams — ideal to project alongside NCERT for visual learners."
+      },
+      {
+        "title": "OpenStax Biology 2e — Seed Plants (Ch. 26)",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Gymnosperms and angiosperms, naked seeds, pollination and double fertilisation — reinforces the NCERT seed-plant treatment."
+      },
+      {
+        "title": "Biology LibreTexts — Plant Diversity hub",
+        "url": "https://bio.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Open, deep-dive pages on alternation of generations, life cycles and each plant group; use the search bar for 'bryophytes', 'pteridophytes', 'gymnosperms'."
+      },
+      {
+        "title": "Khan Academy — Plant diversity & life cycles (search)",
+        "url": "https://www.khanacademy.org/search?page_search_query=plant%20life%20cycle%20alternation%20of%20generations",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Short, free videos on alternation of generations and gametophyte/sporophyte phases — a strong warm-up before NCERT detail."
+      },
+      {
+        "title": "Khan Academy — Bryophytes & seedless vascular plants (search)",
+        "url": "https://www.khanacademy.org/search?page_search_query=bryophytes%20pteridophytes%20vascular%20plants",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Builds the 'land plant' evolutionary storyline that makes the NCERT algae-to-fern sequence click for students."
+      },
+      {
+        "title": "Wikipedia — Plant Kingdom & group articles (search)",
+        "url": "https://en.wikipedia.org/w/index.php?search=plant+kingdom+algae+bryophyta+pteridophyta+gymnosperm",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Quick cross-reference for taxonomy, example genera and pigment/stored-food tables; always verify exam-relevant facts against NCERT."
+      },
+      {
+        "title": "Wikipedia — Alternation of generations (search)",
+        "url": "https://en.wikipedia.org/w/index.php?search=alternation+of+generations+haplontic+diplontic",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Clear haplontic / diplontic / haplo-diplontic comparison with diagrams — the single most-tested concept of this chapter."
+      },
+      {
+        "title": "Wikipedia — Algae classes (Chloro/Phaeo/Rhodophyceae) (search)",
+        "url": "https://en.wikipedia.org/w/index.php?search=Chlorophyceae+Phaeophyceae+Rhodophyceae+pigments",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Backs up the high-yield algae pigment / stored-food / cell-wall comparison table that NEET repeatedly tests."
+      },
+      {
+        "title": "SWAYAM / NPTEL — Botany & plant diversity courses (explorer)",
+        "url": "https://swayam.gov.in/explorer?searchText=botany",
+        "source": "SWAYAM",
+        "type": "Course",
+        "level": "NEET",
+        "note": "Free Govt. of India lectures on plant groups and life cycles for teachers who want fuller background on the NCERT botany sequence."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Five-kingdom classification & where Plantae fits",
+        "query": "Whittaker five kingdom classification Plantae basis",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Artificial vs natural vs phylogenetic classification",
+        "query": "artificial natural phylogenetic classification plants difference",
+        "level": "Foundation",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Algae — general characters & economic importance",
+        "query": "algae general characteristics economic importance",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Algae pigment / stored food / cell wall comparison",
+        "query": "Chlorophyceae Phaeophyceae Rhodophyceae pigments stored food comparison",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Green algae (Chlorophyceae) — examples & features",
+        "query": "Chlorophyceae green algae Chlamydomonas Volvox Spirogyra Ulothrix",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Brown algae (Phaeophyceae) — fucoxanthin & laminarin",
+        "query": "Phaeophyceae brown algae fucoxanthin laminarin Laminaria Fucus",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Red algae (Rhodophyceae) — phycoerythrin & agar",
+        "query": "Rhodophyceae red algae phycoerythrin floridean starch agar Polysiphonia",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Bryophytes — amphibians of the plant kingdom",
+        "query": "bryophytes amphibians plant kingdom general characters",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Liverworts vs mosses (Marchantia, Funaria, Sphagnum)",
+        "query": "liverworts mosses Marchantia Funaria Sphagnum difference",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Moss life cycle — protonema & leafy gametophyte",
+        "query": "moss life cycle protonema gametophyte sporophyte Funaria",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Economic & ecological importance of bryophytes",
+        "query": "bryophytes economic ecological importance Sphagnum peat soil erosion",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Pteridophytes — first vascular land plants",
+        "query": "pteridophytes first vascular plants characteristics Selaginella Equisetum",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Pteridophyte life cycle — prothallus, sori, antheridia",
+        "query": "pteridophyte life cycle prothallus sori antheridia archegonia fern",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Heterospory & origin of the seed habit",
+        "query": "heterospory seed habit Selaginella precursor seed evolution",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Gymnosperms — naked seeds & general features",
+        "query": "gymnosperms naked seeds characteristics Cycas Pinus Ginkgo",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Gymnosperm reproduction — male & female cones",
+        "query": "gymnosperm reproduction microsporangia megasporangia cones Pinus ovule",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cycas & Pinus — characteristic features for NEET",
+        "query": "Cycas Pinus coralloid roots needle leaves features",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Angiosperms — monocots vs dicots",
+        "query": "angiosperms monocots dicots difference characteristics",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Double fertilisation & triple fusion",
+        "query": "double fertilisation triple fusion endosperm embryo sac angiosperm",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Embryo sac structure & ploidy levels",
+        "query": "embryo sac 7 cells 8 nuclei synergids antipodals ploidy",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Alternation of generations — core concept",
+        "query": "alternation of generations gametophyte sporophyte meaning",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Haplontic, diplontic & haplo-diplontic life cycles",
+        "query": "haplontic diplontic haplo-diplontic life cycle examples plants",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Gametophyte vs sporophyte dominance across groups",
+        "query": "gametophyte sporophyte dominant phase algae bryophytes pteridophytes",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Isogamous, anisogamous & oogamous reproduction",
+        "query": "isogamous anisogamous oogamous sexual reproduction algae examples",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Ploidy of plant structures (n vs 2n) — tricky MCQs",
+        "query": "ploidy plant structures haploid diploid gametophyte sporophyte n 2n",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Plant group comparison — algae to angiosperms",
+        "query": "plant kingdom comparison chart vascular tissue seeds flowers",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Plant Kingdom — NEET previous year questions",
+        "query": "Plant Kingdom NEET previous year questions chapterwise",
+        "level": "NEET",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Important example genera — one-shot revision",
+        "query": "Plant Kingdom important examples genera list revision",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Plant Kingdom — NCERT exemplar problems",
+        "query": "Plant Kingdom NCERT exemplar questions solutions",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Plant Kingdom — full MCQ practice set",
+        "query": "Plant Kingdom chapter MCQ practice set",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Animal Kingdom",
+    "slug": "animal-kingdom",
+    "subject": "Biology",
+    "group": "Diversity & Cell Biology",
+    "blurb": "A durable, NCERT-anchored link pack covering the basis of animal classification, all non-chordate and chordate phyla, and their diagnostic features for NEET preparation.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Basis of classification: levels of organisation",
+      "Symmetry: asymmetrical, radial, bilateral",
+      "Diploblastic and triploblastic organisation",
+      "Coelom: acoelomate, pseudocoelomate, coelomate",
+      "Notochord and segmentation",
+      "Phylum Porifera (sponges) characteristics",
+      "Phylum Coelenterata / Cnidaria and Ctenophora",
+      "Phylum Platyhelminthes (flatworms)",
+      "Phylum Aschelminthes (roundworms)",
+      "Phylum Annelida (segmented worms)",
+      "Phylum Arthropoda (largest phylum)",
+      "Phylum Mollusca and Echinodermata",
+      "Phylum Hemichordata",
+      "Chordata: Urochordata, Cephalochordata, Vertebrata",
+      "Classes of vertebrates: Cyclostomata to Mammalia",
+      "Diagnostic features and examples of each phylum"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Textbooks (official download portal)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "THE primary NEET Biology source. Download the Class XI Biology 'Animal Kingdom' chapter PDF (free, official)."
+      },
+      {
+        "title": "NCERT Exemplar Problems (official)",
+        "url": "https://ncert.nic.in/exemplar-problems.php",
+        "source": "NCERT",
+        "type": "Problem set",
+        "level": "NEET",
+        "note": "Official exemplar MCQs and reasoning questions on classification and phyla — closely mirrors NEET difficulty."
+      },
+      {
+        "title": "Official NEET (NTA) portal",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Authoritative source for the NEET Biology syllabus, exam pattern, and official information bulletin."
+      },
+      {
+        "title": "Wikipedia - Animal (Metazoa) overview",
+        "url": "https://en.wikipedia.org/wiki/Animal",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "Foundation",
+        "note": "Orientation to the classification hierarchy, symmetry, germ layers and coelom that mirror the NCERT chapter."
+      },
+      {
+        "title": "Wikipedia - Symmetry in biology",
+        "url": "https://en.wikipedia.org/wiki/Symmetry_in_biology",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "Foundation",
+        "note": "Asymmetrical, radial and bilateral symmetry with examples — exactly the basis of classification NCERT uses."
+      },
+      {
+        "title": "Wikipedia - Coelom",
+        "url": "https://en.wikipedia.org/wiki/Coelom",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Acoelomate, pseudocoelomate and coelomate body plans with phylum examples — frequent assertion-reason source."
+      },
+      {
+        "title": "OpenStax Biology 2e (full free textbook)",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Free full textbook; invertebrate and vertebrate chapters give phylum-by-phylum features useful for NEET diagrams."
+      },
+      {
+        "title": "LibreTexts Biology (bookshelves)",
+        "url": "https://bio.libretexts.org/Bookshelves",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Browse 'Invertebrates' and 'Chordates'; detailed phylum pages with body-plan diagrams and examples."
+      },
+      {
+        "title": "Khan Academy - Biology library",
+        "url": "https://www.khanacademy.org/science/biology",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Short videos on symmetry, germ layers and coelom that build intuition before NCERT memorisation."
+      },
+      {
+        "title": "Wikipedia - Sponge (Porifera)",
+        "url": "https://en.wikipedia.org/wiki/Sponge",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Canal/water system, spicules, choanocytes — high-frequency NEET facts on the simplest animals."
+      },
+      {
+        "title": "Wikipedia - Cnidaria",
+        "url": "https://en.wikipedia.org/wiki/Cnidaria",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Cnidoblasts, polymorphism, polyp/medusa alternation — common assertion-reason and example material."
+      },
+      {
+        "title": "Wikipedia - Arthropod",
+        "url": "https://en.wikipedia.org/wiki/Arthropod",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Jointed appendages, chitinous exoskeleton, Malpighian tubules, examples — the most-tested phylum in NEET."
+      },
+      {
+        "title": "Wikipedia - Chordate",
+        "url": "https://en.wikipedia.org/wiki/Chordate",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "The four fundamental chordate features and subphyla Urochordata, Cephalochordata and Vertebrata."
+      },
+      {
+        "title": "NPTEL - online courses (animal diversity/zoology)",
+        "url": "https://nptel.ac.in/courses",
+        "source": "NPTEL",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Search 'animal diversity' or 'zoology'; university-level lectures that deepen phylum understanding beyond NCERT."
+      },
+      {
+        "title": "Brilliant - courses (biology/classification)",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "Foundation",
+        "note": "Interactive biology courses that strengthen the reasoning behind classification criteria."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Basis of classification overview",
+        "query": "basis of classification animal kingdom levels of organisation",
+        "level": "Foundation",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Body symmetry types",
+        "query": "animal symmetry radial bilateral asymmetrical examples",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Diploblastic vs triploblastic",
+        "query": "diploblastic triploblastic germ layers organisation",
+        "level": "Foundation",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Coelom classification",
+        "query": "coelom acoelomate pseudocoelomate coelomate examples",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Notochord: chordate vs non-chordate",
+        "query": "notochord chordate non chordate difference",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Phylum Porifera features",
+        "query": "phylum Porifera sponges canal system choanocytes spicules",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Phylum Coelenterata (Cnidaria)",
+        "query": "phylum Coelenterata Cnidaria cnidoblast polyp medusa",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Phylum Ctenophora",
+        "query": "phylum Ctenophora comb plates bioluminescence sea walnut",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Phylum Platyhelminthes",
+        "query": "phylum Platyhelminthes flatworms flame cells Taenia",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Phylum Aschelminthes",
+        "query": "phylum Aschelminthes roundworms Ascaris pseudocoelom",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Phylum Annelida",
+        "query": "phylum Annelida metameric segmentation nephridia earthworm",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Phylum Arthropoda",
+        "query": "phylum Arthropoda jointed appendages Malpighian tubules largest phylum",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Phylum Mollusca",
+        "query": "phylum Mollusca mantle radula visceral hump Pila",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Phylum Echinodermata",
+        "query": "phylum Echinodermata water vascular system tube feet starfish",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Phylum Hemichordata",
+        "query": "phylum Hemichordata Balanoglossus stomochord",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Chordate fundamental features",
+        "query": "chordata notochord dorsal nerve cord pharyngeal gill slits",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Urochordata & Cephalochordata",
+        "query": "Urochordata Cephalochordata Herdmania Branchiostoma",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Class Cyclostomata",
+        "query": "class Cyclostomata jawless Petromyzon Myxine",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Chondrichthyes vs Osteichthyes",
+        "query": "Chondrichthyes Osteichthyes cartilaginous bony fish difference",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Class Amphibia",
+        "query": "class Amphibia characteristics frog Rana examples",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Class Reptilia",
+        "query": "class Reptilia scales cold blooded amniotic egg examples",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Class Aves",
+        "query": "class Aves birds feathers pneumatic bones features",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Class Mammalia",
+        "query": "class Mammalia mammary glands hair diaphragm examples",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Vertebrate classes comparison",
+        "query": "vertebrate classes comparison Pisces Amphibia Reptilia Aves Mammalia",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Diagnostic features and examples table",
+        "query": "animal kingdom phyla diagnostic features examples table",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Open vs closed circulatory system",
+        "query": "open closed circulatory system animal phyla examples",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Protostomes vs deuterostomes",
+        "query": "protostomes deuterostomes blastopore cleavage difference",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Assertion-reason on classification",
+        "query": "animal kingdom assertion reason classification",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Match the column: phyla and examples",
+        "query": "animal kingdom match the column phylum example",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Previous year MCQs and quick revision",
+        "query": "animal kingdom NEET previous year MCQ one liner revision",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Cell: The Unit of Life",
+    "slug": "cell-unit-of-life",
+    "subject": "Biology",
+    "group": "Diversity & Cell Biology",
+    "blurb": "Everything your students need to master cell structure, organelles, and the prokaryote-vs-eukaryote contrast — anchored to NCERT and topped up with free diagrams, videos, and previous-year NEET drills.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Cell theory and discovery of the cell",
+      "Prokaryotic cells: bacteria, mesosomes, ribosomes",
+      "Bacterial cell envelope, glycocalyx, capsule and slime layer",
+      "Gram-positive vs Gram-negative cell walls",
+      "Flagella, pili and fimbriae",
+      "Eukaryotic cells: overview and comparison with prokaryotes",
+      "Plasma membrane: fluid mosaic model and transport",
+      "Cell wall: middle lamella, primary and secondary wall",
+      "Endomembrane system: ER, Golgi, lysosomes, vacuoles",
+      "Mitochondria and the semi-autonomous organelle concept",
+      "Plastids: chloroplast, chromoplast, leucoplast",
+      "Ribosomes: 70S and 80S, structure and function",
+      "Cytoskeleton, cilia, flagella, centrioles and centrosome",
+      "Nucleus: nuclear envelope, nucleoplasm, chromatin and nucleolus",
+      "Chromosome structure: centromere and types (metacentric to telocentric)",
+      "Microbodies and inclusion bodies"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Biology Class XI — Cell: The Unit of Life (Chapter 8)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "THE primary NEET source. Open Biology Class XI, select Chapter 8 'Cell: The Unit of Life' — every NEET question traces to this exact text and its diagrams."
+      },
+      {
+        "title": "NCERT Textbooks Portal (download all Class XI & XII Biology PDFs)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "Foundation",
+        "note": "Hub to download the full NCERT Biology books free; start every chapter prep here and read the cell chapter line by line."
+      },
+      {
+        "title": "NCERT Exemplar Biology Class XI (assertion-reason & MCQ practice)",
+        "url": "https://ncert.nic.in/exemplar-problems.php",
+        "source": "NCERT",
+        "type": "Problem set",
+        "level": "NEET",
+        "note": "Grab the NCERT Exemplar for assertion-reason and MCQ practice on cell structure — the closest free match to NEET's question style."
+      },
+      {
+        "title": "OpenStax Biology 2e — Cell Structure unit (free full text)",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Free, peer-reviewed full textbook. Unit on cell structure has clean labelled diagrams of every organelle — great for projecting in class."
+      },
+      {
+        "title": "Biology LibreTexts — Cell Structure and Function",
+        "url": "https://bio.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Search 'cell structure' on LibreTexts for modular, citable explanations of membranes, organelles and the endomembrane system."
+      },
+      {
+        "title": "Khan Academy — Cell structure and the plasma membrane",
+        "url": "https://www.khanacademy.org/science/biology",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Short videos + practice on organelles and membrane transport; ideal warm-up before NCERT depth."
+      },
+      {
+        "title": "Khan Academy — Prokaryotic and eukaryotic cells",
+        "url": "https://www.khanacademy.org/science/biology",
+        "source": "Khan Academy",
+        "type": "Topic page",
+        "level": "Foundation",
+        "note": "Side-by-side comparison videos for the most-tested NEET contrast; assign as homework."
+      },
+      {
+        "title": "Khan Academy — Membrane transport and the endomembrane system",
+        "url": "https://www.khanacademy.org/science/biology",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "NEET",
+        "note": "Walks the ER to Golgi to lysosome secretory pathway that NEET loves to test as a sequence question."
+      },
+      {
+        "title": "Wikipedia — Cell (biology) overview",
+        "url": "https://en.wikipedia.org/wiki/Cell_(biology)",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Fast reference for cross-checking organelle facts, sizes and discovery credits; verify against NCERT before quoting."
+      },
+      {
+        "title": "Wikipedia — Fluid mosaic model of the plasma membrane",
+        "url": "https://en.wikipedia.org/wiki/Fluid_mosaic_model",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Background on the Singer-Nicolson model — the named model NEET expects students to attribute correctly."
+      },
+      {
+        "title": "Wikipedia — Gram-positive vs Gram-negative bacteria",
+        "url": "https://en.wikipedia.org/wiki/Gram-negative_bacteria",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Clarifies peptidoglycan thickness and staining — a recurring prokaryote MCQ theme."
+      },
+      {
+        "title": "Wikipedia — Ribosome (70S vs 80S structure)",
+        "url": "https://en.wikipedia.org/wiki/Ribosome",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Cross-check 70S/80S subunit composition and Svedberg values — a high-yield prokaryote/eukaryote distinction."
+      },
+      {
+        "title": "NIOS — Biology study material (Senior Secondary)",
+        "url": "https://www.nios.ac.in/online-course-material/sr-secondary-courses/biology-(312).aspx",
+        "source": "NIOS",
+        "type": "Reference",
+        "level": "Foundation",
+        "note": "Free government study notes on cell structure in simple language; a gentle bridge for weaker students before NCERT."
+      },
+      {
+        "title": "Official NEET (NTA) — exam portal & syllabus",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA NEET",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Authoritative source for the current NEET Biology syllabus and information bulletin — confirm chapter weightage and scope here."
+      },
+      {
+        "title": "Cell Biology by the Numbers — organelle sizes & facts",
+        "url": "https://book.bionumbers.org/",
+        "source": "BioNumbers",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Free book of quantitative cell facts — handy for verifying organelle dimensions and ribosome counts students ask about."
+      },
+      {
+        "title": "Khan Academy — Biology practice on cell structure",
+        "url": "https://www.khanacademy.org/science/biology",
+        "source": "Khan Academy",
+        "type": "Problem set",
+        "level": "Foundation",
+        "note": "Free auto-graded practice questions on organelles and the cell; assign for quick formative checks before NEET-level drills."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Cell theory and cell discovery",
+        "query": "cell theory discovery of cell",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Prokaryotic vs eukaryotic cell differences",
+        "query": "prokaryotic and eukaryotic cell differences",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Bacterial cell structure",
+        "query": "bacterial cell structure prokaryote",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Mesosome structure and function",
+        "query": "mesosome structure function bacteria",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Gram positive vs Gram negative cell wall",
+        "query": "gram positive gram negative cell wall peptidoglycan",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Bacterial flagella, pili and fimbriae",
+        "query": "bacterial flagella pili fimbriae structure",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Plasma membrane fluid mosaic model",
+        "query": "plasma membrane fluid mosaic model Singer Nicolson",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Membrane transport: passive and active",
+        "query": "membrane transport active passive diffusion osmosis cell",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cell wall structure in plants",
+        "query": "plant cell wall middle lamella primary secondary",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Endoplasmic reticulum rough and smooth",
+        "query": "endoplasmic reticulum rough smooth function",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Golgi apparatus structure and function",
+        "query": "Golgi apparatus structure function cisternae",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Lysosomes — suicidal bags of the cell",
+        "query": "lysosome structure function hydrolytic enzymes",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Endomembrane system as a unit",
+        "query": "endomembrane system ER Golgi lysosome vacuole",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Vacuoles and tonoplast",
+        "query": "vacuole tonoplast function plant cell",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Mitochondria structure and function",
+        "query": "mitochondria structure cristae matrix function",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Semi-autonomous organelles concept",
+        "query": "semi autonomous organelles mitochondria chloroplast DNA",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Plastids: chloroplast, chromoplast, leucoplast",
+        "query": "plastids chloroplast chromoplast leucoplast types",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Chloroplast structure: grana, stroma, thylakoid",
+        "query": "chloroplast structure grana stroma thylakoid",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Ribosome structure 70S vs 80S",
+        "query": "ribosome 70S 80S structure subunits",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cytoskeleton microtubules and microfilaments",
+        "query": "cytoskeleton microtubule microfilament intermediate filament",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cilia and flagella ultrastructure 9+2",
+        "query": "cilia flagella structure 9 plus 2 axoneme",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Centrosome and centrioles",
+        "query": "centrosome centriole structure function",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Nucleus structure and nuclear envelope",
+        "query": "nucleus structure nuclear envelope nuclear pore",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Chromatin: euchromatin and heterochromatin",
+        "query": "chromatin euchromatin heterochromatin structure",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Nucleolus structure and role",
+        "query": "nucleolus structure function ribosome synthesis",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Chromosome structure and centromere types",
+        "query": "chromosome structure centromere metacentric acrocentric telocentric",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Microbodies: peroxisome and glyoxysome",
+        "query": "microbodies peroxisome glyoxysome function",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cell inclusions and storage granules",
+        "query": "cell inclusion bodies storage granules cytoplasm",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Plant cell vs animal cell comparison",
+        "query": "plant cell vs animal cell differences",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cell organelles overview and functions",
+        "query": "cell organelles structure functions overview",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Assertion-reason MCQs on cell structure",
+        "query": "cell the unit of life assertion reason MCQ NEET",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Previous year NEET cell biology questions",
+        "query": "cell the unit of life NEET chapter wise previous year questions",
+        "level": "NEET",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube",
+          "bio"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Cell Cycle and Cell Division",
+    "slug": "cell-cycle-division",
+    "subject": "Biology",
+    "group": "Diversity & Cell Biology",
+    "blurb": "A ready-to-assign pack covering cell cycle phases, mitosis, meiosis I & II, and the significance of meiosis, mapped tightly to the NCERT Class XI chapter and high-yield NEET question patterns.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Cell cycle and its phases (G1, S, G2, M)",
+      "Interphase events and DNA replication in S phase",
+      "G0 (quiescent) phase and cells that exit the cycle",
+      "Mitosis: prophase, metaphase, anaphase, telophase",
+      "Karyokinesis and cytokinesis",
+      "Spindle apparatus, centromere and kinetochore",
+      "Significance of mitosis (growth, repair, cell renewal)",
+      "Meiosis I: reductional division and its sub-phases",
+      "Prophase I substages (leptotene to diakinesis)",
+      "Synapsis, synaptonemal complex and bivalents",
+      "Crossing over, chiasmata and recombination",
+      "Meiosis II: equational division",
+      "Comparison of mitosis vs meiosis",
+      "Significance of meiosis and genetic variation",
+      "Chromosome number, ploidy and DNA content changes"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Class XI Biology — official textbook portal (Cell Cycle and Cell Division chapter)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "THE primary NEET Biology source. Open Class XI Biology and study the Cell Cycle and Cell Division chapter line-by-line; most NEET items are framed directly from this text and its labelled figures."
+      },
+      {
+        "title": "NCERT Exemplar — Biology (problems portal)",
+        "url": "https://ncert.nic.in/exemplar-problems.php",
+        "source": "NCERT",
+        "type": "Problem set",
+        "level": "NEET",
+        "note": "Assign the Biology Exemplar from this portal; its MCQs and assertion-reason items on cell cycle phases and meiosis mirror NEET difficulty closely."
+      },
+      {
+        "title": "OpenStax Biology 2e — full free textbook (Cell Reproduction unit)",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Free, well-illustrated coverage of the cell cycle, mitosis and meiosis with end-of-section questions; a strong conceptual companion to NCERT."
+      },
+      {
+        "title": "Biology LibreTexts — Introductory & General Biology library",
+        "url": "https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Search 'cell cycle' or 'meiosis' for layered explanations with figures; useful for clarifying mitosis vs meiosis and the events of prophase I."
+      },
+      {
+        "title": "Khan Academy — Biology library (cell division unit)",
+        "url": "https://www.khanacademy.org/science/biology",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Short animated walkthroughs of each mitotic and meiotic phase, crossing over and the cell cycle; ideal first exposure before drilling NEET MCQs."
+      },
+      {
+        "title": "Khan Academy — AP/College Biology (cell cycle & checkpoints)",
+        "url": "https://www.khanacademy.org/science/ap-biology",
+        "source": "Khan Academy",
+        "type": "Course",
+        "level": "NEET",
+        "note": "Covers G1, S, G2, M and G0 with checkpoint control and DNA content across phases; supports the regulation angle NEET occasionally tests."
+      },
+      {
+        "title": "Wikipedia — Cell cycle",
+        "url": "https://en.wikipedia.org/wiki/Cell_cycle",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Concise phase-by-phase reference with the standard cell-cycle clock diagram; quick lookup for definitions and typical phase durations."
+      },
+      {
+        "title": "Wikipedia — Meiosis",
+        "url": "https://en.wikipedia.org/wiki/Meiosis",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Detailed prophase I substages (leptotene, zygotene, pachytene, diplotene, diakinesis) in the exact sequence NEET likes to test in order."
+      },
+      {
+        "title": "Wikipedia — Mitosis",
+        "url": "https://en.wikipedia.org/wiki/Mitosis",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Foundation",
+        "note": "Reference for spindle, centromere, kinetochore and the four mitotic phases; handy for fact-checking labelled-diagram questions."
+      },
+      {
+        "title": "Official NEET (NTA) — exam portal & information bulletin",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA NEET",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Authoritative source for the current NEET syllabus, exam pattern and official notifications; confirm cell-division scope and weightage here."
+      },
+      {
+        "title": "NPTEL — free online courses (cell biology / genetics)",
+        "url": "https://nptel.ac.in/courses",
+        "source": "NPTEL",
+        "type": "Course",
+        "level": "NEET",
+        "note": "Search NPTEL for cell biology lectures on cell-cycle regulation and meiosis; useful enrichment beyond NCERT for motivated students."
+      },
+      {
+        "title": "Brilliant — interactive Biology courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "Foundation",
+        "note": "Interactive lessons that build intuition for chromosome behaviour during division; good for visual learners who struggle with static diagrams."
+      },
+      {
+        "title": "OpenStax — free textbooks library (Biology & Concepts of Biology)",
+        "url": "https://openstax.org/subjects/science",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "Foundation",
+        "note": "Entry point to OpenStax science texts; pick Biology 2e or Concepts of Biology for an alternate, simpler treatment of the cell cycle and division."
+      },
+      {
+        "title": "Khan Academy — Science hub (browse related Biology topics)",
+        "url": "https://www.khanacademy.org/science",
+        "source": "Khan Academy",
+        "type": "Topic page",
+        "level": "Foundation",
+        "note": "Science hub to browse related videos on chromosomes, DNA replication and the cell cycle when a student needs more background before this chapter."
+      },
+      {
+        "title": "Wikipedia — Cytokinesis",
+        "url": "https://en.wikipedia.org/wiki/Cytokinesis",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Clarifies cell-plate formation in plants versus cleavage-furrow in animals; directly supports the commonly tested plant-vs-animal cytokinesis difference."
+      },
+      {
+        "title": "Wikipedia — Chromosomal crossover (crossing over)",
+        "url": "https://en.wikipedia.org/wiki/Chromosomal_crossover",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Explains chiasma formation, recombination and how crossing over generates variation; pairs with the pachytene and significance-of-meiosis subtopics."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Cell cycle phases (G1, S, G2, M)",
+        "query": "cell cycle phases G1 S G2 M",
+        "level": "Foundation",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Interphase events and importance",
+        "query": "interphase events cell cycle",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "DNA replication in S phase",
+        "query": "DNA synthesis S phase cell cycle",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "G0 quiescent phase",
+        "query": "G0 quiescent phase cell cycle",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Duration of cell cycle phases",
+        "query": "duration of cell cycle phases human cell 24 hours",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cell cycle checkpoints and regulation",
+        "query": "cell cycle checkpoints regulation",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Mitosis four phases overview",
+        "query": "mitosis prophase metaphase anaphase telophase",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Prophase events of mitosis",
+        "query": "prophase mitosis spindle chromosome condensation",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Metaphase plate and spindle",
+        "query": "metaphase plate spindle fibres kinetochore mitosis",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Anaphase chromatid separation",
+        "query": "anaphase sister chromatid separation mitosis",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Telophase and karyokinesis",
+        "query": "telophase karyokinesis nuclear envelope reformation",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cytokinesis in plant vs animal cells",
+        "query": "cytokinesis cell plate animal plant cell difference",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Significance of mitosis",
+        "query": "significance of mitosis growth repair",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Centromere and kinetochore",
+        "query": "centromere kinetochore structure function",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Meiosis I reductional division",
+        "query": "meiosis I reductional division overview",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Prophase I substages sequence",
+        "query": "prophase I leptotene zygotene pachytene diplotene diakinesis",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Synapsis and synaptonemal complex",
+        "query": "synapsis synaptonemal complex bivalent meiosis",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Crossing over and chiasmata",
+        "query": "crossing over chiasmata recombination meiosis",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Pachytene and recombination nodules",
+        "query": "pachytene crossing over recombination nodule",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Metaphase I and anaphase I",
+        "query": "metaphase I anaphase I homologous chromosome separation",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Meiosis II equational division",
+        "query": "meiosis II equational division sister chromatids",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Mitosis vs meiosis comparison",
+        "query": "difference between mitosis and meiosis",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Significance of meiosis and variation",
+        "query": "significance of meiosis genetic variation",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Chromosome number and ploidy changes",
+        "query": "chromosome number ploidy meiosis haploid diploid",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "DNA content (C-value) across the cell cycle",
+        "query": "DNA content C value G1 S G2 mitosis meiosis graph",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Spindle apparatus formation",
+        "query": "spindle apparatus microtubules centrosome cell division",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Synchronous division in coenocytic structures",
+        "query": "synchronous nuclear division coenocyte without cytokinesis",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Counting divisions in gamete formation",
+        "query": "number of meiotic mitotic divisions gamete formation problem",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Assertion-reason items on cell division",
+        "query": "assertion reason cell cycle cell division",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Diagram-based stage identification",
+        "query": "identify stage of mitosis meiosis diagram",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Chromosome counting numericals",
+        "query": "chromosome number daughter cells mitosis meiosis numerical",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "NCERT-line MCQs on cell division",
+        "query": "NCERT based MCQ cell cycle cell division",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Previous-year NEET cell division questions",
+        "query": "previous year NEET cell cycle and cell division questions",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Full chapter one-shot revision",
+        "query": "cell cycle and cell division one shot revision",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Biomolecules",
+    "slug": "biomolecules-bio",
+    "subject": "Biology",
+    "group": "Diversity & Cell Biology",
+    "blurb": "A complete NEET-ready link pack for Biomolecules — carbohydrates, proteins, lipids, nucleic acids, enzymes and metabolism — anchored on NCERT and stocked with searchable problem sets and PYQs.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Carbohydrates: monosaccharides, disaccharides, polysaccharides",
+      "Proteins: structure (primary to quaternary) and functions",
+      "Lipids: fatty acids, glycerides, phospholipids, steroids",
+      "Nucleic acids: DNA, RNA, nucleotides and nucleosides",
+      "Amino acids: structure, classification, zwitterions",
+      "Primary and secondary metabolites",
+      "Enzymes: structure, active site, cofactors and coenzymes",
+      "Mechanism of enzyme action and activation energy",
+      "Factors affecting enzyme activity (temperature, pH, concentration)",
+      "Enzyme classification (IUBMB six classes)",
+      "Enzyme inhibition: competitive and non-competitive",
+      "Concept of metabolism and metabolic pools",
+      "Dynamic state of body constituents and biomacromolecules",
+      "Average composition of cells and analysis of chemical constituents",
+      "Bonds in biomolecules (peptide, glycosidic, phosphodiester, ester)"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Class XI Biology — Chapter 9: Biomolecules (textbook PDF)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "THE primary NEET source — open the Class XI Biology book and read the Biomolecules chapter line by line; every NEET question traces here."
+      },
+      {
+        "title": "NCERT Textbooks Portal (all Class XI & XII Biology PDFs)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Download official chapter PDFs free; Biomolecules sits in Class XI Biology Unit 2 (Structural Organisation)."
+      },
+      {
+        "title": "NCERT Class XII Biology — Molecular Basis of Inheritance (nucleic acids link)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Pair Biomolecules with Class XII Ch.6 for DNA/RNA structure — frequently combined in NEET nucleic-acid questions."
+      },
+      {
+        "title": "NCERT Exemplar Portal — Biology problem books (Class XI & XII)",
+        "url": "https://ncert.nic.in/exemplar-problems.php",
+        "source": "NCERT",
+        "type": "Problem set",
+        "level": "NEET",
+        "note": "Official NCERT Exemplar MCQs and assertion-reason items; the Biomolecules set is gold-standard NEET practice."
+      },
+      {
+        "title": "OpenStax Biology 2e — Biological Macromolecules (free full chapter)",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Read Chapter 3 for carbohydrates, lipids, proteins and nucleic acids with clear figures that mirror the NCERT treatment."
+      },
+      {
+        "title": "Biology LibreTexts — Biological Molecules",
+        "url": "https://bio.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Search 'biomolecules' or 'macromolecules' for structured notes on each biomolecule class plus enzyme chapters."
+      },
+      {
+        "title": "Khan Academy — Macromolecules (carbohydrates, lipids, proteins, nucleic acids)",
+        "url": "https://www.khanacademy.org/search?page_search_query=macromolecules",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Short videos and practice for building the four biomolecule classes — great for first exposure before NCERT depth."
+      },
+      {
+        "title": "Khan Academy — Enzymes and the active site",
+        "url": "https://www.khanacademy.org/search?page_search_query=enzymes%20active%20site",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "NEET",
+        "note": "Animated explanation of enzyme action, induced fit and activation energy lowering — exactly the NCERT scope."
+      },
+      {
+        "title": "Khan Academy — Properties and structure of amino acids and proteins",
+        "url": "https://www.khanacademy.org/search?page_search_query=amino%20acids%20protein%20structure",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "NEET",
+        "note": "Covers peptide bonds and primary-to-quaternary protein structure with clean animations for revision."
+      },
+      {
+        "title": "CK-12 Biology — Biochemistry (biomolecules and enzymes)",
+        "url": "https://www.ck12.org/c/biology/",
+        "source": "CK-12",
+        "type": "Topic page",
+        "level": "Foundation",
+        "note": "Free flexbook lessons with check-your-understanding questions on carbohydrates, proteins, lipids and enzymes."
+      },
+      {
+        "title": "Wikipedia — Biomolecule (overview and classification)",
+        "url": "https://en.wikipedia.org/w/index.php?search=biomolecule",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Quick cross-check of definitions, classes and examples; follow links to amino acid, enzyme and nucleotide pages."
+      },
+      {
+        "title": "Wikipedia — Enzyme (mechanism, classification, inhibition)",
+        "url": "https://en.wikipedia.org/w/index.php?search=enzyme",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Solid reference for the six enzyme classes, cofactors/coenzymes and inhibition types tested in NEET."
+      },
+      {
+        "title": "Wikipedia — Metabolism (catabolism/anabolism, metabolic pathways)",
+        "url": "https://en.wikipedia.org/w/index.php?search=metabolism",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Background on metabolic pools and the dynamic state of body constituents emphasised in the NCERT chapter."
+      },
+      {
+        "title": "NEET Official (NTA) — syllabus, pattern and notifications",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Confirm the official Biology syllabus scope for Biomolecules and download the latest information bulletin."
+      },
+      {
+        "title": "PhET Interactive Simulations — Biology (molecules and enzymes)",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=biology",
+        "source": "PhET",
+        "type": "Tool",
+        "level": "Foundation",
+        "note": "Free interactive sims to visualise molecular structure and enzyme–substrate interaction for intuition-building."
+      },
+      {
+        "title": "YouTube — Biomolecules NEET one-shot and chapter lectures",
+        "url": "https://www.youtube.com/results?search_query=biomolecules+class+11+neet+one+shot",
+        "source": "YouTube",
+        "type": "Video",
+        "level": "NEET",
+        "note": "Curated search for full-chapter NEET one-shot lectures covering biomolecules, enzymes and metabolism in one sitting."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Carbohydrates: classification and structure",
+        "query": "carbohydrates classification monosaccharides disaccharides polysaccharides biomolecules",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Glycosidic bond and polysaccharides (starch, cellulose, glycogen)",
+        "query": "glycosidic bond starch cellulose glycogen structure",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Reducing vs non-reducing sugars basics",
+        "query": "reducing non reducing sugars glucose sucrose",
+        "level": "Foundation",
+        "sources": [
+          "bio",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Amino acids: structure and classification",
+        "query": "amino acids structure classification essential non essential biomolecules",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Zwitterion and amphoteric nature of amino acids",
+        "query": "amino acid zwitterion amphoteric isoelectric point",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Peptide bond formation",
+        "query": "peptide bond formation polypeptide condensation",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Protein structure: primary to quaternary",
+        "query": "protein structure primary secondary tertiary quaternary biomolecules",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Protein functions and examples (collagen, insulin, hemoglobin)",
+        "query": "proteins functions examples collagen insulin hemoglobin",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Denaturation of proteins",
+        "query": "denaturation of proteins causes effects",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Lipids: fatty acids, glycerides and classification",
+        "query": "lipids fatty acids glycerides classification biomolecules",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Phospholipids and steroids structure",
+        "query": "phospholipids steroids cholesterol structure function",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Saturated vs unsaturated fatty acids",
+        "query": "saturated unsaturated fatty acids difference",
+        "level": "Foundation",
+        "sources": [
+          "bio",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Nucleic acids: DNA and RNA structure",
+        "query": "nucleic acids DNA RNA structure nucleotide nucleoside biomolecules",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Phosphodiester bond and polynucleotide chain",
+        "query": "phosphodiester bond polynucleotide chain DNA backbone",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Purines and pyrimidines, complementary base pairing",
+        "query": "purines pyrimidines complementary base pairing nucleic acids",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Primary vs secondary metabolites",
+        "query": "primary secondary metabolites examples biomolecules",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Biomacromolecules vs micromolecules (acid-soluble pool)",
+        "query": "biomacromolecules micromolecules acid soluble pool",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Analysis of chemical composition of living tissue",
+        "query": "analysis chemical constituents living tissue average composition cell",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Enzymes: structure, active site and cofactors",
+        "query": "enzymes structure active site cofactor coenzyme prosthetic group",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Mechanism of enzyme action and activation energy",
+        "query": "mechanism enzyme action activation energy transition state",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Enzyme classification: six IUBMB classes",
+        "query": "enzyme classification six classes oxidoreductases transferases hydrolases",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Factors affecting enzyme activity (temperature, pH)",
+        "query": "factors affecting enzyme activity temperature pH substrate concentration",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Competitive vs non-competitive inhibition",
+        "query": "competitive non competitive enzyme inhibition examples",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Coenzymes and vitamins as cofactors",
+        "query": "coenzymes vitamins cofactors NAD FAD enzymes",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Metabolism: catabolism and anabolism",
+        "query": "metabolism catabolism anabolism metabolic pathways biomolecules",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Dynamic state of body constituents",
+        "query": "dynamic state body constituents metabolite turnover",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Bonds in biomolecules (peptide, glycosidic, phosphodiester, ester)",
+        "query": "bonds in biomolecules peptide glycosidic phosphodiester ester",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Biomolecules full-chapter NEET PYQs",
+        "query": "biomolecules chapter previous year questions",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Enzymes NEET previous year questions",
+        "query": "enzymes biomolecules previous year questions",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Biomolecules quick revision one-shot",
+        "query": "biomolecules one shot revision",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Morphology of Flowering Plants",
+    "slug": "morphology-flowering-plants",
+    "subject": "Biology",
+    "group": "Plant Physiology & Anatomy",
+    "blurb": "Covers the external structure of angiosperms — root, stem, leaf, inflorescence, flower, fruit and seed — plus floral diagrams, floral formulae and the diagnostic features of the Fabaceae, Solanaceae and Liliaceae families that NEET tests almost every year.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Root systems: taproot, fibrous and adventitious roots",
+      "Modifications of roots for storage, support and respiration",
+      "Stem and its modifications (underground, sub-aerial, aerial)",
+      "Leaf: parts, venation, simple vs compound leaves",
+      "Phyllotaxy and leaf modifications (tendrils, spines, phylloclade)",
+      "Inflorescence: racemose vs cymose types",
+      "Parts of a flower and floral whorls",
+      "Aestivation, placentation and symmetry of the flower",
+      "Androecium and gynoecium: cohesion and adhesion",
+      "Fruit: true, false, parthenocarpic; types of fruits",
+      "Seed structure: dicot and monocot seeds",
+      "Floral diagram and floral formula notation",
+      "Family Fabaceae (Papilionoideae) features",
+      "Family Solanaceae features",
+      "Family Liliaceae features"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Biology Class XI Textbook (download)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Chapter 5 'Morphology of Flowering Plants' — the single most important and most directly tested source for this chapter in NEET. Select Biology, Class XI."
+      },
+      {
+        "title": "NCERT Class XI Biology — chapter PDF portal",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Topic page",
+        "level": "Foundation",
+        "note": "Read the chapter line-by-line; NEET botany questions are frequently lifted verbatim from NCERT lines and diagrams. Re-read root, stem and leaf sections."
+      },
+      {
+        "title": "NCERT Exemplar Biology Class XI",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Problem set",
+        "level": "NEET",
+        "note": "Exemplar MCQs and assertion-reason items for Morphology — closest practice to actual NEET difficulty. Choose 'Exemplar Problems' for Class XI Biology."
+      },
+      {
+        "title": "Official NEET (NTA) portal",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA",
+        "type": "Past papers",
+        "level": "NEET",
+        "note": "Official syllabus, information bulletin and past NEET question papers with answer keys — confirm exactly which morphology sub-topics are in scope."
+      },
+      {
+        "title": "NTA Abhyas / official NEET sample papers",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA",
+        "type": "Past papers",
+        "level": "NEET",
+        "note": "Official NTA sample and previous-year papers to drill morphology MCQs under exam conditions; check the candidate-resources section."
+      },
+      {
+        "title": "Wikipedia: Glossary of plant morphology terms",
+        "url": "https://en.wikipedia.org/w/index.php?search=glossary%20of%20plant%20morphology",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Foundation",
+        "note": "Quick lookup of any morphology term (aestivation, placentation, phyllotaxy) with labelled diagrams."
+      },
+      {
+        "title": "Wikipedia: Inflorescence (racemose & cymose)",
+        "url": "https://en.wikipedia.org/w/index.php?search=inflorescence%20racemose%20cymose",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Clear branching diagrams that map onto the NCERT racemose vs cymose classification frequently asked in NEET."
+      },
+      {
+        "title": "Wikipedia: Fruit and fruit types",
+        "url": "https://en.wikipedia.org/w/index.php?search=fruit%20botany%20types%20true%20false",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "True vs false fruit, parthenocarpic fruit, and aggregate vs composite fruit — a high-yield NEET sub-topic."
+      },
+      {
+        "title": "Wikipedia: Placentation (botany)",
+        "url": "https://en.wikipedia.org/w/index.php?search=placentation%20botany%20marginal%20axile%20parietal",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Marginal, axile, parietal, free-central and basal placentation with diagrams — directly matchable to NEET match-the-column items."
+      },
+      {
+        "title": "Biology LibreTexts: Plant anatomy & morphology",
+        "url": "https://bio.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Free, well-illustrated explanations of roots, stems, leaves and flower structure to support NCERT; search 'flower structure' or 'leaf morphology'."
+      },
+      {
+        "title": "OpenStax Biology 2e — Anatomy of Flowering Plants",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Free full-text chapters on plant form, leaf and stem structure; good for understanding the 'why' behind NCERT facts."
+      },
+      {
+        "title": "Khan Academy: Plant structure (search)",
+        "url": "https://www.khanacademy.org/search?page_search_query=plant%20structure%20roots%20stems%20leaves",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Short conceptual videos on root, stem and leaf organisation — useful for first-time learners and revision."
+      },
+      {
+        "title": "Khan Academy: Flower structure and reproduction (search)",
+        "url": "https://www.khanacademy.org/search?page_search_query=flower%20parts%20pollination%20angiosperm",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Animations of flower whorls and parts that reinforce floral diagram/formula learning."
+      },
+      {
+        "title": "Wikipedia: Fabaceae (Papilionoideae)",
+        "url": "https://en.wikipedia.org/w/index.php?search=Fabaceae%20Papilionoideae%20floral%20formula",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Diagnostic features, floral diagram and floral formula of the pea family — a guaranteed NEET family question."
+      },
+      {
+        "title": "Wikipedia: Solanaceae family features",
+        "url": "https://en.wikipedia.org/w/index.php?search=Solanaceae%20floral%20formula%20characters",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Vegetative and floral characters plus economic importance of the potato/tomato family for NEET family comparisons."
+      },
+      {
+        "title": "Wikipedia: Liliaceae family features",
+        "url": "https://en.wikipedia.org/w/index.php?search=Liliaceae%20floral%20formula%20monocot",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Monocot family characters, floral diagram and floral formula to contrast with the two dicot families in NEET."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Taproot vs fibrous vs adventitious root",
+        "query": "taproot fibrous adventitious root system difference",
+        "level": "Foundation",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Root modifications for storage and support",
+        "query": "root modifications storage prop stilt pneumatophore",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Regions of the root and root cap",
+        "query": "regions of root root cap meristematic elongation",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Underground stem modifications",
+        "query": "underground stem modifications rhizome tuber corm bulb",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Sub-aerial and aerial stem modifications",
+        "query": "stem modifications runner offset tendril thorn phylloclade",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Distinguish modified stem from modified root",
+        "query": "distinguish modified stem from modified root potato carrot",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Leaf venation reticulate vs parallel",
+        "query": "leaf venation reticulate parallel dicot monocot",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Simple vs compound leaves",
+        "query": "simple compound leaf pinnately palmately compound",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Phyllotaxy types",
+        "query": "phyllotaxy alternate opposite whorled arrangement",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Leaf modifications tendril spine phyllode",
+        "query": "leaf modifications tendril spine phyllode pitcher",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Racemose inflorescence types",
+        "query": "racemose inflorescence raceme spike corymb umbel",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cymose inflorescence types",
+        "query": "cymose inflorescence monochasial dichasial cyme",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Parts of a flower and floral whorls",
+        "query": "parts of flower calyx corolla androecium gynoecium",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Aestivation types in corolla",
+        "query": "aestivation valvate twisted imbricate vexillary",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Placentation types in ovary",
+        "query": "placentation marginal axile parietal free central basal",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Symmetry actinomorphic vs zygomorphic",
+        "query": "flower symmetry actinomorphic zygomorphic asymmetric",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Position of ovary hypogynous epigynous",
+        "query": "hypogynous perigynous epigynous superior inferior ovary",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cohesion and adhesion of stamens",
+        "query": "stamen cohesion adhesion monadelphous epipetalous syngenesious",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Gynoecium apocarpous vs syncarpous",
+        "query": "gynoecium apocarpous syncarpous monocarpellary multicarpellary",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Types of fruits true false parthenocarpic",
+        "query": "fruit types true false parthenocarpic drupe berry",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Aggregate and composite fruits",
+        "query": "aggregate fruit composite fruit etaerio sorosis",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Structure of a dicot seed",
+        "query": "dicot seed structure cotyledon plumule radicle bean",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Structure of a monocot seed",
+        "query": "monocot seed structure maize endosperm scutellum coleoptile",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Floral diagram construction",
+        "query": "floral diagram how to draw flower whorls",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Reading and writing floral formula",
+        "query": "floral formula symbols notation interpretation",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Fabaceae family floral formula",
+        "query": "Fabaceae Papilionoideae floral formula characters",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Solanaceae family floral formula",
+        "query": "Solanaceae floral formula characters economic importance",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Liliaceae family floral formula",
+        "query": "Liliaceae floral formula monocot characters",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Comparison of three plant families",
+        "query": "Fabaceae Solanaceae Liliaceae comparison characters",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Stipule and leaf base types",
+        "query": "leaf base pulvinus stipulate exstipulate ochreate",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Epigeal vs hypogeal germination",
+        "query": "epigeal hypogeal germination cotyledon difference",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Morphology high-yield NEET MCQs",
+        "query": "morphology of flowering plants high yield MCQ",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Anatomy of Flowering Plants",
+    "slug": "anatomy-flowering-plants",
+    "subject": "Biology",
+    "group": "Plant Physiology & Anatomy",
+    "blurb": "A ready-made link pack for teaching Anatomy of Flowering Plants — internal tissue structure of dicots, monocots and woody stems — anchored on NCERT and live NEET practice searches.",
+    "jeeWeight": "Medium",
+    "subtopics": [
+      "Meristematic tissues — apical, intercalary and lateral meristems",
+      "Primary and secondary meristems; cambium and cork cambium",
+      "Permanent tissues — simple (parenchyma, collenchyma, sclerenchyma)",
+      "Complex permanent tissues — xylem and phloem and their elements",
+      "The three tissue systems — epidermal, ground and vascular",
+      "Epidermal tissue system — cuticle, stomata, trichomes and root hairs",
+      "Vascular bundles — radial, conjoint, collateral, open vs closed",
+      "Anatomy of dicot root vs monocot root",
+      "Anatomy of dicot stem vs monocot stem",
+      "Anatomy of dorsiventral (dicot) leaf vs isobilateral (monocot) leaf",
+      "Kranz anatomy and bundle sheath cells",
+      "Secondary growth in dicot stem — vascular and cork cambium activity",
+      "Annual rings, spring wood and autumn wood; heartwood and sapwood",
+      "Periderm, lenticels and bark formation",
+      "Secondary growth in dicot roots"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Textbooks (official PDF download portal)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "THE primary NEET source. Open Class XI Biology, Chapter 'Anatomy of Flowering Plants' — read line by line; NEET picks statements verbatim."
+      },
+      {
+        "title": "NCERT Class XI Biology — full book (textbook portal)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Select Biology > Class XI to get all chapters incl. anatomy; T.S. diagrams of dicot/monocot stem and root are exam-favourite."
+      },
+      {
+        "title": "NCERT Exemplar Biology Class XI (problem book)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Problem set",
+        "level": "NEET",
+        "note": "Choose 'Exemplar problems' > Biology XI — MCQs and assertion-reason on tissues and secondary growth; ideal NEET-level practice."
+      },
+      {
+        "title": "Official NEET (NTA) — exam portal",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Authoritative source for the NEET Biology syllabus, information bulletin and notices — confirm anatomy is in scope."
+      },
+      {
+        "title": "Khan Academy — Biology library",
+        "url": "https://www.khanacademy.org/science/biology",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Free animated lessons on plant tissues — ground, dermal and vascular — and on xylem/phloem; good first exposure before NCERT detail."
+      },
+      {
+        "title": "OpenStax Biology 2e — free full text",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Unit on Plant Form and Physiology covers tissue systems, stem/root anatomy and secondary growth with labelled figures."
+      },
+      {
+        "title": "Biology LibreTexts — Botany & plant anatomy library",
+        "url": "https://bio.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Search 'plant tissues' / 'stem anatomy' for clear explanations and microscope-style T.S. images to deepen tough topics."
+      },
+      {
+        "title": "NCERT — official site (syllabus & resources)",
+        "url": "https://ncert.nic.in/",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Landing page for syllabus documents, e-resources and the latest editions used to build NEET questions."
+      },
+      {
+        "title": "Khan Academy — search portal",
+        "url": "https://www.khanacademy.org/search",
+        "source": "Khan Academy",
+        "type": "Search",
+        "level": "Foundation",
+        "note": "Search 'plant tissues', 'xylem phloem' or 'secondary growth' to pull animated lessons on demand for a topic students struggle with."
+      },
+      {
+        "title": "OpenStax — free Biology textbooks catalogue",
+        "url": "https://openstax.org/subjects/science",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Browse Concepts of Biology / Biology 2e for additional plant-anatomy chapters and printable labelled diagrams."
+      },
+      {
+        "title": "Biology LibreTexts — Introductory & General Biology shelf",
+        "url": "https://bio.libretexts.org/Bookshelves",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Bookshelf view to navigate to plant tissue and anatomy chapters with section-level T.S. illustrations."
+      },
+      {
+        "title": "NCERT — e-Pathshala digital textbooks",
+        "url": "https://epathshala.nic.in/",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Official NCERT digital library; open Class XI Biology to read the anatomy chapter and flip-book diagrams online."
+      },
+      {
+        "title": "Khan Academy — Biology: cells and tissues unit",
+        "url": "https://www.khanacademy.org/science/biology",
+        "source": "Khan Academy",
+        "type": "Course",
+        "level": "Foundation",
+        "note": "Structured biology course path to build visual reasoning about cells and tissues before tackling plant anatomy."
+      },
+      {
+        "title": "NEET (NTA) — official information bulletin & syllabus hub",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Cross-check the prescribed NEET Biology syllabus to confirm the exact scope of plant anatomy for the current cycle."
+      },
+      {
+        "title": "OpenStax — Concepts of Biology (free text)",
+        "url": "https://openstax.org/details/books/concepts-biology",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "Foundation",
+        "note": "Lighter free textbook covering plant structure and tissue types — accessible bridge for weaker students before NCERT."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Meristematic tissue types and locations",
+        "query": "meristematic tissue apical intercalary lateral",
+        "level": "Foundation",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Apical vs lateral vs intercalary meristem",
+        "query": "apical lateral intercalary meristem difference",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Simple permanent tissues — parenchyma, collenchyma, sclerenchyma",
+        "query": "parenchyma collenchyma sclerenchyma simple permanent tissue",
+        "level": "Foundation",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Collenchyma — structure, function, location",
+        "query": "collenchyma tissue structure function location",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Sclerenchyma — fibres and sclereids",
+        "query": "sclerenchyma fibres sclereids structure",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Complex tissues — xylem elements",
+        "query": "xylem tracheids vessels fibres parenchyma elements",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Phloem elements — sieve tube and companion cells",
+        "query": "phloem sieve tube companion cell elements",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Three tissue systems overview",
+        "query": "epidermal ground vascular tissue system plants",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Epidermal tissue system — stomata and guard cells",
+        "query": "epidermal tissue stomata guard cells trichomes",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Stomatal apparatus structure",
+        "query": "stomatal apparatus guard cells subsidiary cells",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Vascular bundle types — radial, conjoint, open, closed",
+        "query": "vascular bundle radial conjoint open closed collateral",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Dicot root anatomy (T.S.)",
+        "query": "dicot root transverse section anatomy",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Monocot root anatomy (T.S.)",
+        "query": "monocot root transverse section anatomy polyarch",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Dicot root vs monocot root differences",
+        "query": "dicot root monocot root difference table",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Dicot stem anatomy (T.S.)",
+        "query": "dicot stem transverse section anatomy vascular bundles ring",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Monocot stem anatomy (T.S.)",
+        "query": "monocot stem transverse section scattered vascular bundles",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Dicot stem vs monocot stem differences",
+        "query": "dicot stem monocot stem difference table",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Dorsiventral (dicot) leaf anatomy",
+        "query": "dorsiventral dicot leaf anatomy palisade spongy mesophyll",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Isobilateral (monocot) leaf anatomy",
+        "query": "isobilateral monocot leaf anatomy bulliform cells",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Kranz anatomy and bundle sheath",
+        "query": "kranz anatomy bundle sheath cells C4 plants",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Casparian strip and endodermis",
+        "query": "casparian strip endodermis passage cells root",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Pericycle and its functions",
+        "query": "pericycle function lateral root origin",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Secondary growth in dicot stem",
+        "query": "secondary growth dicot stem vascular cambium activity",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Vascular cambium — formation and activity",
+        "query": "vascular cambium intrafascicular interfascicular formation",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Annual rings, spring wood and autumn wood",
+        "query": "annual rings spring wood autumn wood",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Heartwood vs sapwood",
+        "query": "heartwood sapwood difference duramen alburnum",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cork cambium, periderm and lenticels",
+        "query": "cork cambium phellogen periderm lenticels bark",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Bark formation — phellem and phelloderm",
+        "query": "bark formation periderm phellem phelloderm",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Secondary growth in dicot root",
+        "query": "secondary growth dicot root cambium origin",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Anatomy of flowering plants — one-shot revision",
+        "query": "anatomy of flowering plants one shot revision",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Anatomy of flowering plants — MCQ practice",
+        "query": "anatomy of flowering plants MCQ practice",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Assertion-reason — plant anatomy",
+        "query": "anatomy of flowering plants assertion reason",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Tissue system diagram labelling practice",
+        "query": "plant tissue system diagram labelling practice",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Anatomy of flowering plants — previous year NEET",
+        "query": "anatomy of flowering plants previous year NEET questions",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Photosynthesis in Higher Plants",
+    "slug": "photosynthesis",
+    "subject": "Biology",
+    "group": "Plant Physiology & Anatomy",
+    "blurb": "Everything your NEET class needs for Photosynthesis in Higher Plants — NCERT-anchored references plus live searches for light/dark reactions, photosystems, C3 vs C4, photorespiration, chemiosmosis and limiting factors.",
+    "jeeWeight": "Variable",
+    "subtopics": [
+      "Site of photosynthesis: chloroplast structure (grana, stroma, thylakoids)",
+      "Photosynthetic pigments: chlorophyll a, b, carotenoids, xanthophylls",
+      "Absorption and action spectra of photosynthesis",
+      "Light reaction: photosystems PS I and PS II, reaction centres P700 and P680",
+      "Electron transport: Z-scheme, plastoquinone, cytochrome b6f, plastocyanin, ferredoxin",
+      "Cyclic and non-cyclic photophosphorylation",
+      "Splitting of water (photolysis) and oxygen evolution",
+      "Chemiosmotic hypothesis and ATP synthesis (ATP synthase, proton gradient)",
+      "Dark reaction: Calvin cycle (C3 pathway) — carboxylation, reduction, regeneration",
+      "RuBisCO enzyme and its dual carboxylase/oxygenase activity",
+      "C4 pathway: Hatch and Slack cycle, Kranz anatomy, PEP carboxylase, bundle sheath cells",
+      "Photorespiration (C2 cycle) and why C4 plants lack it",
+      "Comparison of C3 and C4 plants",
+      "Factors affecting photosynthesis: Blackman's law of limiting factors, light, CO2, temperature",
+      "Early experiments (Priestley, Ingenhousz, Engelmann, Hill, Calvin)"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Textbooks (official PDF download portal)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "THE primary NEET Biology source. Open Class XI Biology and download Chapter 13 'Photosynthesis in Higher Plants' — read this line by line."
+      },
+      {
+        "title": "NCERT Class XI Biology — full book listing",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Photosynthesis sits in Unit 4 (Plant Physiology). NCERT lines are directly tested in NEET, so map every subtopic to its NCERT page."
+      },
+      {
+        "title": "NCERT Exemplar problems portal",
+        "url": "https://ncert.nic.in/exemplarproblem.php",
+        "source": "NCERT",
+        "type": "Problem set",
+        "level": "NEET",
+        "note": "Download the Class XI Biology Exemplar for assertion-reason and MCQ practice on photosynthesis — closest to NEET difficulty."
+      },
+      {
+        "title": "Official NEET (NTA) — syllabus, papers & notifications",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA",
+        "type": "Past papers",
+        "level": "NEET",
+        "note": "Confirm the current NEET Biology syllabus and download official question papers/answer keys to see how photosynthesis is examined."
+      },
+      {
+        "title": "OpenStax Biology 2e — free full textbook",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "The 'Photosynthesis' unit gives clean diagrams of light reactions, the Calvin cycle and C4/CAM — useful for building depth beyond NCERT."
+      },
+      {
+        "title": "Biology LibreTexts — Introductory & General Biology library",
+        "url": "https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Open the 'Photosynthesis' chapters for detailed pages on photosystems, the Z-scheme, chemiosmosis and the Calvin cycle with worked figures."
+      },
+      {
+        "title": "Khan Academy — Photosynthesis (high school biology)",
+        "url": "https://www.khanacademy.org/science/biology/photosynthesis-in-plants",
+        "source": "Khan Academy",
+        "type": "Topic page",
+        "level": "Foundation",
+        "note": "Free videos plus practice on light-dependent reactions and the Calvin cycle. Ideal for students who need the basics rebuilt before NEET drill."
+      },
+      {
+        "title": "Khan Academy — Photosynthesis lessons",
+        "url": "https://www.khanacademy.org/science/biology",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Browse the Biology course for step-by-step carboxylation, reduction and RuBP regeneration — pause-and-explain style suits weaker learners."
+      },
+      {
+        "title": "Wikipedia — Photosynthesis",
+        "url": "https://en.wikipedia.org/wiki/Photosynthesis",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Quick authoritative cross-check for terminology (P680, P700, plastoquinone, ferredoxin) and the historical experiments."
+      },
+      {
+        "title": "Wikipedia — C4 carbon fixation",
+        "url": "https://en.wikipedia.org/wiki/C4_carbon_fixation",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Hatch-Slack pathway, Kranz anatomy and the PEP carboxylase / RuBisCO contrast that NEET loves to test."
+      },
+      {
+        "title": "Wikipedia — Calvin cycle",
+        "url": "https://en.wikipedia.org/wiki/Calvin_cycle",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Carboxylation, reduction and regeneration with stoichiometry — handy when a student asks how many ATP and NADPH each turn needs."
+      },
+      {
+        "title": "Wikipedia — Photorespiration",
+        "url": "https://en.wikipedia.org/wiki/Photorespiration",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "The C2 / glycolate pathway and why it is wasteful — pairs with the question of how C4 plants suppress it."
+      },
+      {
+        "title": "OpenStax — free college textbooks catalog",
+        "url": "https://openstax.org/subjects/science",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "Foundation",
+        "note": "Browse Concepts of Biology and Biology 2e for alternative, simpler explanations of energy flow and the proton gradient driving ATP synthase."
+      },
+      {
+        "title": "NPTEL — Plant Physiology / Biology courses",
+        "url": "https://nptel.ac.in/courses",
+        "source": "NPTEL",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Search 'plant physiology' or 'photosynthesis' for university lecture series — strong teacher background and enrichment for fast learners."
+      },
+      {
+        "title": "Vedantu — NCERT Solutions Class 11 Biology",
+        "url": "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-11-biology",
+        "source": "Vedantu",
+        "type": "Problem set",
+        "level": "NEET",
+        "note": "Chapter-wise NCERT exercise solutions for Photosynthesis in Higher Plants — quick reference for in-text and end-of-chapter answers."
+      },
+      {
+        "title": "BYJU'S — Photosynthesis in Higher Plants notes",
+        "url": "https://byjus.com/biology/photosynthesis/",
+        "source": "BYJU'S",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Concise NCERT-aligned notes and labelled diagrams of light/dark reactions and C3–C4 differences for fast revision."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Chloroplast structure and ultrastructure",
+        "query": "chloroplast structure grana stroma thylakoid",
+        "level": "Foundation",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Site of photosynthesis in plants",
+        "query": "site of photosynthesis in higher plants",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Photosynthetic pigments",
+        "query": "photosynthetic pigments chlorophyll a b carotenoids",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Absorption vs action spectrum",
+        "query": "absorption spectrum action spectrum photosynthesis",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Light reaction overview",
+        "query": "light reaction photosynthesis explained",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Photosystems PS I and PS II",
+        "query": "photosystem 1 and photosystem 2 P700 P680",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Z-scheme of electron transport",
+        "query": "Z scheme electron transport photosynthesis",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cyclic vs non-cyclic photophosphorylation",
+        "query": "cyclic and non cyclic photophosphorylation difference",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Photolysis of water and oxygen evolution",
+        "query": "photolysis of water splitting oxygen evolution photosynthesis",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Chemiosmotic hypothesis and ATP synthesis",
+        "query": "chemiosmotic hypothesis ATP synthase photosynthesis",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Calvin cycle (C3 pathway)",
+        "query": "Calvin cycle C3 pathway carboxylation reduction regeneration",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "RuBisCO carboxylase and oxygenase activity",
+        "query": "RuBisCO enzyme carboxylase oxygenase activity",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "C4 pathway (Hatch and Slack)",
+        "query": "C4 pathway Hatch and Slack cycle PEP carboxylase",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Kranz anatomy and bundle sheath cells",
+        "query": "Kranz anatomy bundle sheath cells C4 plants",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Photorespiration (C2 cycle)",
+        "query": "photorespiration C2 cycle glycolate pathway",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Why C4 plants lack photorespiration",
+        "query": "why C4 plants do not show photorespiration",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "C3 vs C4 plants comparison",
+        "query": "difference between C3 and C4 plants table",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Blackman's law of limiting factors",
+        "query": "Blackman law of limiting factors photosynthesis",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Factors affecting rate of photosynthesis",
+        "query": "factors affecting rate of photosynthesis light CO2 temperature",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Light intensity vs photosynthesis graph",
+        "query": "effect of light intensity on rate of photosynthesis graph",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Historical experiments of photosynthesis",
+        "query": "Priestley Ingenhousz Engelmann photosynthesis experiments",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Engelmann's experiment and action spectrum",
+        "query": "Engelmann experiment Cladophora action spectrum",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Hill reaction significance",
+        "query": "Hill reaction Robert Hill photosynthesis significance",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Where ATP and NADPH are used",
+        "query": "where ATP NADPH used Calvin cycle stroma",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "ATP and NADPH needed per CO2 fixed",
+        "query": "ATP NADPH required to fix one CO2 Calvin cycle",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Electron carriers: plastoquinone, ferredoxin",
+        "query": "plastoquinone plastocyanin ferredoxin electron transport photosynthesis",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Red drop and Emerson enhancement effect",
+        "query": "Emerson enhancement effect red drop photosynthesis",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "First CO2 acceptor in C3 and C4",
+        "query": "first CO2 acceptor C3 RuBP C4 PEP",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Assertion-reason questions",
+        "query": "photosynthesis assertion reason questions class 11",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "bio",
+          "youtube"
+        ]
+      },
+      {
+        "label": "NEET MCQ practice",
+        "query": "photosynthesis in higher plants MCQ",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube",
+          "bio"
+        ]
+      },
+      {
+        "label": "Full chapter one-shot revision",
+        "query": "photosynthesis in higher plants class 11 one shot",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "CAM pathway in succulents",
+        "query": "CAM pathway crassulacean acid metabolism plants",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Respiration in Plants",
+    "slug": "respiration-plants",
+    "subject": "Biology",
+    "group": "Plant Physiology & Anatomy",
+    "blurb": "Everything your students need to master cellular respiration for NEET — from glycolysis and the Krebs cycle to ETS, oxidative phosphorylation, fermentation, the amphibolic pathway and respiratory quotient — built on NCERT and durable free sources.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Glycolysis (EMP pathway) and substrate-level phosphorylation",
+      "Fate of pyruvate: aerobic vs anaerobic",
+      "Fermentation: alcoholic and lactic acid",
+      "Link reaction (pyruvate to acetyl CoA)",
+      "Krebs cycle (TCA / citric acid cycle) intermediates and enzymes",
+      "Electron transport system (ETS) and the respiratory chain",
+      "Oxidative phosphorylation and ATP synthase (chemiosmosis)",
+      "Net ATP yield accounting per glucose molecule (36 vs 38)",
+      "Amphibolic pathway: respiration of fats and proteins",
+      "Respiratory quotient (RQ) for carbohydrates, fats, proteins and organic acids",
+      "Mitochondrion structure, cristae and matrix",
+      "Coenzymes and electron carriers (NAD, FAD)",
+      "Comparison of respiration and photosynthesis",
+      "Cellular location of glycolysis, Krebs cycle and ETS"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Class XI Biology — download the Respiration in Plants chapter PDF",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "THE primary NEET source. Open Class XI Biology and download the Respiration in Plants chapter PDF — every NEET respiration question traces back to these exact lines."
+      },
+      {
+        "title": "NCERT Official Portal — textbooks & e-resources",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "Foundation",
+        "note": "Pull both Class XI and XII Biology PDFs to cross-reference respiration with photosynthesis and the rest of plant physiology."
+      },
+      {
+        "title": "NCERT Exemplar Problems — Biology",
+        "url": "https://ncert.nic.in/exemplar-problems.php",
+        "source": "NCERT",
+        "type": "Problem set",
+        "level": "NEET",
+        "note": "Higher-order MCQs and assertion-reason items on respiration that NEET paper-setters frequently mirror — ideal for in-class drilling."
+      },
+      {
+        "title": "ALLEN NCERT Solutions — Class 11 Biology",
+        "url": "https://allen.in/ncert-solutions/class-11",
+        "source": "ALLEN",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Chapter-wise worked NCERT solutions for Class 11 Biology — ready-made answer keys for the textbook respiration questions."
+      },
+      {
+        "title": "OpenStax Biology 2e — Cellular Respiration (free full text)",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Free, NCERT-aligned chapters on glycolysis, the citric acid cycle, oxidative phosphorylation and fermentation with clean diagrams to reinforce each step."
+      },
+      {
+        "title": "Biology LibreTexts — Cellular Respiration hub",
+        "url": "https://bio.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Search 'cellular respiration' for modular pages on each pathway; good for deeper conceptual gap-filling beyond NCERT."
+      },
+      {
+        "title": "Khan Academy — Cellular respiration (search)",
+        "url": "https://www.khanacademy.org/search?page_search_query=cellular%20respiration",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Free video walkthroughs of glycolysis, Krebs and ETS — ideal for first-pass conceptual clarity before NEET drilling."
+      },
+      {
+        "title": "Khan Academy — Glycolysis (search)",
+        "url": "https://www.khanacademy.org/search?page_search_query=glycolysis",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Step-by-step animation of the EMP pathway and substrate-level phosphorylation."
+      },
+      {
+        "title": "Khan Academy — Oxidative phosphorylation (search)",
+        "url": "https://www.khanacademy.org/search?page_search_query=oxidative%20phosphorylation",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "NEET",
+        "note": "Visualises the ETS and chemiosmotic ATP synthesis — the hardest sub-topic for most NEET aspirants."
+      },
+      {
+        "title": "Khan Academy — Fermentation (search)",
+        "url": "https://www.khanacademy.org/search?page_search_query=fermentation",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Clear contrast of alcoholic vs lactic acid fermentation, end products and ATP yield — directly testable NEET facts."
+      },
+      {
+        "title": "Wikipedia — Cellular respiration (search)",
+        "url": "https://en.wikipedia.org/w/index.php?search=cellular%20respiration",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Quick authoritative summaries with ATP-yield tables; useful for verifying the net-gain numbers students argue about."
+      },
+      {
+        "title": "Wikipedia — Citric acid cycle / Krebs cycle (search)",
+        "url": "https://en.wikipedia.org/w/index.php?search=citric%20acid%20cycle",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Full intermediate list and enzyme names for the TCA cycle — handy for assertion-reason and matching questions."
+      },
+      {
+        "title": "Wikipedia — Respiratory quotient (search)",
+        "url": "https://en.wikipedia.org/w/index.php?search=respiratory%20quotient",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "RQ values for carbohydrates (1.0), fats (~0.7), proteins (~0.9) and organic acids (>1) — a recurring NEET concept/numerical area."
+      },
+      {
+        "title": "Wikipedia — Mitochondrion (search)",
+        "url": "https://en.wikipedia.org/w/index.php?search=mitochondrion",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Foundation",
+        "note": "Structure of cristae, matrix and the inner membrane that houses the ETS — supports the structure-function questions."
+      },
+      {
+        "title": "NPTEL — Plant Physiology / Biochemistry courses (search)",
+        "url": "https://nptel.ac.in/courses",
+        "source": "NPTEL",
+        "type": "Course",
+        "level": "Olympiad",
+        "note": "Search plant physiology or biochemistry for rigorous lecture treatment of bioenergetics and the respiratory chain — enrichment for Olympiad-bound students."
+      },
+      {
+        "title": "Official NEET (NTA) portal",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Official exam authority — syllabus PDF, information bulletin and exam pattern to keep respiration prep aligned to the real blueprint."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Glycolysis steps and net ATP",
+        "query": "glycolysis EMP pathway steps net ATP",
+        "level": "Foundation",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Substrate-level phosphorylation",
+        "query": "substrate level phosphorylation glycolysis",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Fate of pyruvate: aerobic vs anaerobic",
+        "query": "fate of pyruvic acid aerobic anaerobic respiration",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Alcoholic fermentation",
+        "query": "alcoholic fermentation yeast pyruvate ethanol",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Lactic acid fermentation",
+        "query": "lactic acid fermentation muscle cells",
+        "level": "Foundation",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Link reaction: pyruvate to acetyl CoA",
+        "query": "link reaction pyruvate to acetyl CoA oxidative decarboxylation",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Krebs cycle intermediates and enzymes",
+        "query": "Krebs cycle TCA citric acid cycle steps intermediates",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Krebs cycle NADH, FADH2 and GTP yield",
+        "query": "Krebs cycle NADH FADH2 GTP yield per turn",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Electron transport system overview",
+        "query": "electron transport system respiratory chain complexes",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Oxidative phosphorylation and chemiosmosis",
+        "query": "oxidative phosphorylation chemiosmotic hypothesis ATP synthase",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "ATP synthase F0-F1 mechanism",
+        "query": "ATP synthase F0 F1 proton gradient mitochondria",
+        "level": "Olympiad",
+        "sources": [
+          "bio",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Net ATP gain per glucose (36 vs 38) and balance sheet",
+        "query": "net ATP yield per glucose aerobic respiration 36 38 balance sheet",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Respiratory quotient: definition and formula",
+        "query": "respiratory quotient RQ definition formula",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "RQ of carbohydrates, fats and proteins",
+        "query": "respiratory quotient values carbohydrates fats proteins organic acids",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Amphibolic pathway in respiration",
+        "query": "amphibolic pathway respiration fats proteins breakdown",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Mitochondrion structure and cristae",
+        "query": "mitochondria structure cristae matrix respiration",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Aerobic vs anaerobic respiration",
+        "query": "aerobic versus anaerobic respiration comparison plants",
+        "level": "Foundation",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Respiration vs photosynthesis",
+        "query": "respiration and photosynthesis comparison plants",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cellular site of glycolysis, Krebs and ETS",
+        "query": "site of glycolysis Krebs cycle electron transport in cell",
+        "level": "Foundation",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Coenzymes NAD and FAD in respiration",
+        "query": "NAD FAD coenzymes electron carriers respiration",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Oxygen as final electron acceptor",
+        "query": "oxygen final electron acceptor water formation ETS",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Decarboxylation and CO2 release in respiration",
+        "query": "decarboxylation steps respiration CO2 release glucose",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Key glycolysis enzymes",
+        "query": "glycolysis key enzymes hexokinase PFK pyruvate kinase",
+        "level": "Olympiad",
+        "sources": [
+          "bio",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Cytochromes and ubiquinone in the ETS",
+        "query": "cytochromes ubiquinone electron transport chain sequence",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "RQ experiments with germinating seeds",
+        "query": "respiration experiments germinating seeds RQ measurement",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Anaerobic respiration in plants",
+        "query": "anaerobic respiration plants waterlogged roots fermentation",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Proton motive force across inner membrane",
+        "query": "proton motive force inner mitochondrial membrane respiration",
+        "level": "Olympiad",
+        "sources": [
+          "bio",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "NCERT respiration chapter summary",
+        "query": "respiration in plants class 11 NCERT summary important points",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Assertion-reason questions on respiration",
+        "query": "respiration in plants assertion reason questions NEET",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Overall equation for glucose oxidation",
+        "query": "complete oxidation glucose overall equation respiration",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Uncouplers of oxidative phosphorylation",
+        "query": "uncouplers oxidative phosphorylation DNP mechanism",
+        "level": "Olympiad",
+        "sources": [
+          "bio",
+          "google",
+          "youtube"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Plant Growth and Development",
+    "slug": "plant-growth-development",
+    "subject": "Biology",
+    "group": "Plant Physiology & Anatomy",
+    "blurb": "Everything your students need for the NCERT Class XI chapter: growth phases, the five plant growth regulators, photoperiodism, vernalisation and differentiation, backed by NCERT-first, never-404 resource links and live NEET practice searches.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Growth: definition, measurement and growth rate (arithmetic vs geometric)",
+      "Phases of growth: meristematic, elongation and maturation",
+      "Growth curve: sigmoid (S-shaped) curve and grand period of growth",
+      "Conditions and parameters of growth (absolute vs relative growth rate)",
+      "Differentiation, dedifferentiation and redifferentiation",
+      "Development, plasticity, heterophylly and juvenile vs mature phase",
+      "Plant growth regulators (PGRs): overview and classification",
+      "Auxins: discovery, IAA, apical dominance, rooting and herbicidal uses",
+      "Gibberellins: GA3, bolting, stem elongation and breaking seed dormancy",
+      "Cytokinins: cell division, apical dominance reversal and delaying senescence",
+      "Ethylene: fruit ripening, senescence and abscission",
+      "Abscisic acid (ABA): stress hormone, stomatal closure and dormancy",
+      "Photoperiodism: short-day, long-day and day-neutral plants; phytochrome and florigen",
+      "Vernalisation: low-temperature flowering induction (wheat, biennials)",
+      "Seed dormancy and germination control by PGRs"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Class XI Biology Textbook (Plant Growth and Development)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "THE primary NEET source. Open Biology Class XI and read the Plant Growth and Development chapter line by line; nearly every NEET question is framed from this text."
+      },
+      {
+        "title": "NCERT Textbooks Official Portal (all Biology PDFs)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "Foundation",
+        "note": "Download free official Class XI and XII Biology PDFs; use Class XI Unit IV (Plant Physiology) for this chapter."
+      },
+      {
+        "title": "NCERT Exemplar Problems Portal (Biology)",
+        "url": "https://ncert.nic.in/exemplar-problems.php",
+        "source": "NCERT",
+        "type": "Problem set",
+        "level": "NEET",
+        "note": "Official NCERT Exemplar MCQs and assertion-reason questions; the closest match to the NEET style for this chapter."
+      },
+      {
+        "title": "OpenStax Biology 2e (free textbook)",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "See the plant hormones and sensory systems units for clear diagrams of auxin, gibberellin, cytokinin, ethylene and photoperiodism."
+      },
+      {
+        "title": "OpenStax Concepts of Biology (free textbook)",
+        "url": "https://openstax.org/details/books/concepts-biology",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "Foundation",
+        "note": "Simpler plant-growth and hormone explanations for students building the base before NEET drilling."
+      },
+      {
+        "title": "Biology LibreTexts (Plant Hormones and Growth)",
+        "url": "https://bio.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Search 'plant hormones', 'photoperiodism' or 'vernalization' for detailed explanations beyond NCERT to clear conceptual doubts."
+      },
+      {
+        "title": "Khan Academy (Plant hormones and tropisms)",
+        "url": "https://www.khanacademy.org/search?page_search_query=plant%20hormones%20and%20tropisms",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Short animated videos on tropisms and plant hormones; good for building the foundation before NEET-level drilling."
+      },
+      {
+        "title": "Khan Academy (Photoperiodism and phytochrome)",
+        "url": "https://www.khanacademy.org/search?page_search_query=photoperiodism%20phytochrome%20flowering",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "NEET",
+        "note": "Visual walkthrough of short-day vs long-day plants and the phytochrome role in flowering."
+      },
+      {
+        "title": "Wikipedia (Auxin)",
+        "url": "https://en.wikipedia.org/wiki/Auxin",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Discovery (Darwin, Went), IAA structure, apical dominance and herbicidal 2,4-D uses; supplements NCERT facts that get tested."
+      },
+      {
+        "title": "Wikipedia (Gibberellin)",
+        "url": "https://en.wikipedia.org/wiki/Gibberellin",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "GA3, bolting, foolish-seedling (bakanae) disease and breaking seed dormancy; common one-mark NEET facts."
+      },
+      {
+        "title": "Wikipedia (Photoperiodism)",
+        "url": "https://en.wikipedia.org/wiki/Photoperiodism",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Critical day length, SDP/LDP/day-neutral plants and the inductive role of leaves and florigen."
+      },
+      {
+        "title": "Wikipedia (Vernalization)",
+        "url": "https://en.wikipedia.org/wiki/Vernalization",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Cold-induced flowering in wheat and biennials; clears the frequently-confused vernalisation vs photoperiodism distinction."
+      },
+      {
+        "title": "Wikipedia (Cellular differentiation)",
+        "url": "https://en.wikipedia.org/wiki/Cellular_differentiation",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Differentiation, dedifferentiation and redifferentiation concepts NEET tests via examples like interfascicular and cork cambium."
+      },
+      {
+        "title": "Wikipedia (Abscisic acid)",
+        "url": "https://en.wikipedia.org/wiki/Abscisic_acid",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "ABA as the stress hormone: stomatal closure, seed and bud dormancy; antagonist to gibberellins, frequently tested in NEET."
+      },
+      {
+        "title": "NPTEL (Plant Physiology lectures)",
+        "url": "https://nptel.ac.in/courses",
+        "source": "NPTEL",
+        "type": "Course",
+        "level": "NEET",
+        "note": "Search 'plant physiology' for free university lectures on hormones and flowering; enrichment that still stays within NEET concepts."
+      },
+      {
+        "title": "Official NEET (NTA) Portal (syllabus and pattern)",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Confirm the official NEET Biology syllabus and exam pattern so revision stays within the prescribed Class XI scope."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Growth: definition and characteristics",
+        "query": "plant growth definition characteristics phases",
+        "level": "Foundation",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Arithmetic vs geometric growth",
+        "query": "arithmetic and geometric growth rate plants",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Sigmoid growth curve and grand period",
+        "query": "sigmoid growth curve grand period of growth",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Phases of growth (meristematic, elongation, maturation)",
+        "query": "meristematic elongation maturation phase of growth",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Absolute vs relative growth rate",
+        "query": "absolute and relative growth rate plants",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Differentiation, dedifferentiation, redifferentiation",
+        "query": "differentiation dedifferentiation redifferentiation in plants",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Development and plasticity (heterophylly)",
+        "query": "plant development plasticity heterophylly examples",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Plant growth regulators overview",
+        "query": "plant growth regulators types and functions",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Auxin discovery (Darwin and Went experiments)",
+        "query": "auxin discovery Darwin Went coleoptile experiment",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Auxin functions and apical dominance",
+        "query": "auxin functions apical dominance rooting",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Gibberellins functions and bolting",
+        "query": "gibberellin functions bolting stem elongation",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Cytokinin functions and senescence",
+        "query": "cytokinin functions cell division delaying senescence",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Ethylene and fruit ripening",
+        "query": "ethylene fruit ripening senescence abscission",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Abscisic acid as stress hormone",
+        "query": "abscisic acid stress hormone stomatal closure dormancy",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Compare all five plant hormones",
+        "query": "comparison auxin gibberellin cytokinin ethylene abscisic acid",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Photoperiodism: short-day vs long-day plants",
+        "query": "photoperiodism short day long day day neutral plants",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Phytochrome and florigen in flowering",
+        "query": "phytochrome florigen role in flowering photoperiodism",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Role of dark period in flowering",
+        "query": "critical dark period flowering photoperiodism",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Vernalisation in wheat and biennials",
+        "query": "vernalisation low temperature flowering wheat biennial",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Vernalisation vs photoperiodism difference",
+        "query": "difference between vernalisation and photoperiodism",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Seed dormancy and germination control",
+        "query": "seed dormancy germination plant growth regulators",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "PGR applications in agriculture and horticulture",
+        "query": "plant growth regulators applications agriculture horticulture",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Apical dominance: auxin and cytokinin interaction",
+        "query": "apical dominance auxin cytokinin interaction",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Bakanae disease and gibberellin discovery",
+        "query": "bakanae foolish seedling disease gibberellin discovery",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Parthenocarpy and seedless fruit by hormones",
+        "query": "parthenocarpy seedless fruit auxin gibberellin",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Conditions necessary for plant growth",
+        "query": "conditions necessary for plant growth water oxygen nutrients",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Juvenile, vegetative and reproductive phases",
+        "query": "juvenile vegetative reproductive phase plant development",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Measuring growth with an auxanometer",
+        "query": "measurement of plant growth auxanometer methods",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Plant Growth and Development NEET PYQs",
+        "query": "plant growth and development chapter",
+        "level": "NEET",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube",
+          "bio"
+        ]
+      },
+      {
+        "label": "Plant hormones assertion-reason questions",
+        "query": "plant hormones assertion reason",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube",
+          "bio"
+        ]
+      },
+      {
+        "label": "One-word PGR functions rapid revision",
+        "query": "plant growth regulators functions one word revision",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Structural Organisation in Animals",
+    "slug": "structural-organisation-animals",
+    "subject": "Biology",
+    "group": "Human Physiology",
+    "blurb": "A complete NEET/NCERT resource pack on animal tissues and the morphology and anatomy of frog, earthworm, and cockroach — the four tissue types, organ systems, and the model organisms examiners love to ask about.",
+    "jeeWeight": "Medium",
+    "subtopics": [
+      "Epithelial tissue: simple and compound, squamous, cuboidal, columnar, ciliated",
+      "Glandular epithelium: exocrine and endocrine glands",
+      "Cell junctions: tight, adhering and gap junctions",
+      "Connective tissue: loose (areolar, adipose) and dense (regular, irregular)",
+      "Specialised connective tissue: cartilage, bone, blood",
+      "Muscular tissue: skeletal, smooth and cardiac muscle",
+      "Neural tissue: neurons and neuroglia",
+      "Levels of organisation: cell, tissue, organ, organ system",
+      "Earthworm (Pheretima) morphology and anatomy",
+      "Earthworm digestive, circulatory and reproductive systems",
+      "Cockroach (Periplaneta) morphology and anatomy",
+      "Cockroach digestive, circulatory, respiratory and nervous systems",
+      "Frog (Rana tigrina) external morphology",
+      "Frog digestive, circulatory, respiratory and reproductive systems",
+      "Comparative organ systems of frog, earthworm and cockroach"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Class XI Biology — textbook portal (Structural Organisation in Animals)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "THE primary NEET source. Open Class XI Biology and read the Structural Organisation in Animals chapter line by line — the labelled tissue figures and frog/earthworm/cockroach diagrams are directly examinable."
+      },
+      {
+        "title": "NCERT Class XI Biology — full PDF download portal",
+        "url": "https://ncert.nic.in/textbook/textbook.htm",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Download the complete Class XI Biology PDF for offline study; the animal-tissues and model-organism figures here are the canonical NEET reference set."
+      },
+      {
+        "title": "NCERT Exemplar Biology Class XI — problems portal",
+        "url": "https://ncert.nic.in/exemplar-problems.php",
+        "source": "NCERT",
+        "type": "Problem set",
+        "level": "NEET",
+        "note": "Exemplar MCQs and assertion-reason items for this chapter run a notch harder than the textbook — ideal NEET practice and often the source of tricky option sets."
+      },
+      {
+        "title": "Official NEET (NTA) — syllabus, pattern and notifications",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Confirm the current NEET Biology syllabus weightage and exam pattern from the official NTA portal before planning teaching time on this chapter."
+      },
+      {
+        "title": "Animal tissues — Khan Academy search",
+        "url": "https://www.khanacademy.org/search?page_search_query=animal%20tissues%20epithelial%20connective%20muscle%20nervous",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Clear video explanations of the four tissue types with histology slides — good for building the foundation before NCERT detail."
+      },
+      {
+        "title": "Epithelial and animal tissue — Biology LibreTexts search",
+        "url": "https://bio.libretexts.org/Search?q=epithelial%20tissue",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Free, diagram-rich pages on simple/compound epithelium and cell junctions to supplement the NCERT epithelium section."
+      },
+      {
+        "title": "Animal structure and connective tissue — OpenStax Biology 2e",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Open the Animal Structure / tissues unit for free full-text coverage of connective, muscular and neural tissue with labelled figures."
+      },
+      {
+        "title": "Connective tissue types — Wikipedia search",
+        "url": "https://en.wikipedia.org/w/index.php?search=connective+tissue+types+areolar+adipose+cartilage+bone+blood",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Quick reference to distinguish loose vs dense connective tissue and the specialised types (cartilage, bone, blood) for fast revision."
+      },
+      {
+        "title": "Earthworm Pheretima anatomy — Wikipedia search",
+        "url": "https://en.wikipedia.org/w/index.php?search=earthworm+anatomy+Pheretima+digestive+circulatory+system",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Cross-check earthworm digestive, circulatory and reproductive details; pair with the NCERT figures for clitellum, gizzard and typhlosole."
+      },
+      {
+        "title": "Cockroach Periplaneta anatomy — Wikipedia search",
+        "url": "https://en.wikipedia.org/w/index.php?search=cockroach+Periplaneta+americana+anatomy+digestive+nervous+system",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Reference for cockroach mouthparts, digestive system, open circulation, tracheal respiration and the nerve cord — high-yield exam details."
+      },
+      {
+        "title": "Frog Rana tigrina anatomy — Wikipedia search",
+        "url": "https://en.wikipedia.org/w/index.php?search=frog+anatomy+Rana+tigrina+digestive+circulatory+reproductive+system",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Supports the frog external morphology and organ-system sections; useful for the double-circulation and reproductive diagrams."
+      },
+      {
+        "title": "Muscle tissue (skeletal, smooth, cardiac) — Khan Academy search",
+        "url": "https://www.khanacademy.org/search?page_search_query=skeletal+smooth+cardiac+muscle+tissue",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Compares the three muscle types and their striations, nuclei and control — exactly the distinctions NEET tests in MCQs."
+      },
+      {
+        "title": "Neuron and neural tissue — Biology LibreTexts search",
+        "url": "https://bio.libretexts.org/Search?q=neuron%20structure%20neuroglia",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Free coverage of neural tissue components (neurons, neuroglia) referenced in the NCERT chapter."
+      },
+      {
+        "title": "Histology and tissues — YouTube search",
+        "url": "https://www.youtube.com/results?search_query=animal+tissues+NEET+epithelial+connective+muscle+nervous",
+        "source": "YouTube",
+        "type": "Video",
+        "level": "NEET",
+        "note": "Curated NEET tissue lectures and histology walkthroughs; filter for educators who teach directly from NCERT diagrams."
+      },
+      {
+        "title": "Structural Organisation in Animals — NEET previous-year questions search",
+        "url": "https://www.google.com/search?q=structural+organisation+in+animals+NEET+previous+year+questions+with+solutions",
+        "source": "Google",
+        "type": "Past papers",
+        "level": "NEET",
+        "note": "Surfaces compiled NEET PYQ sets for this chapter; drill the frog/earthworm/cockroach and tissue MCQs that recur year on year."
+      },
+      {
+        "title": "Biology animal physiology and histology — NPTEL courses",
+        "url": "https://nptel.ac.in/courses",
+        "source": "NPTEL",
+        "type": "Course",
+        "level": "NEET",
+        "note": "Search the NPTEL catalogue for animal physiology / histology lectures to deepen teacher background beyond NEET depth."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Epithelial tissue types and functions",
+        "query": "epithelial tissue types simple compound squamous cuboidal columnar",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Compound and keratinised epithelium",
+        "query": "compound epithelium stratified keratinised transitional epithelium",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Glandular epithelium: exocrine and endocrine",
+        "query": "glandular epithelium exocrine endocrine unicellular multicellular glands",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cell junctions: tight, adhering, gap",
+        "query": "cell junctions tight junction adhering junction gap junction",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Connective tissue classification overview",
+        "query": "connective tissue loose dense areolar adipose classification",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Loose vs dense connective tissue",
+        "query": "loose connective tissue areolar adipose dense regular irregular difference",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cartilage, bone and blood as connective tissue",
+        "query": "specialised connective tissue cartilage bone blood matrix",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Skeletal, smooth and cardiac muscle differences",
+        "query": "skeletal smooth cardiac muscle tissue striations differences",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Neural tissue: neurons and neuroglia",
+        "query": "neural tissue neuron neuroglia structure function",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Levels of organisation in animals",
+        "query": "levels of organisation cell tissue organ organ system animals",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Earthworm Pheretima external morphology",
+        "query": "earthworm Pheretima external morphology clitellum segments setae",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Earthworm digestive system",
+        "query": "earthworm digestive system pharynx gizzard intestine typhlosole",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Earthworm circulatory and excretory system",
+        "query": "earthworm closed circulatory system nephridia excretion",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Earthworm reproductive system",
+        "query": "earthworm reproductive system hermaphrodite spermatheca cocoon",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cockroach Periplaneta external morphology",
+        "query": "cockroach Periplaneta americana external morphology head thorax abdomen",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cockroach digestive system",
+        "query": "cockroach digestive system crop gizzard hepatic caeca malpighian tubules",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cockroach circulatory and respiratory system",
+        "query": "cockroach open circulatory system haemocoel tracheal respiration spiracles",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cockroach nervous and reproductive system",
+        "query": "cockroach nervous system nerve cord reproductive system ootheca",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Frog Rana tigrina external morphology",
+        "query": "frog Rana tigrina external morphology skin limbs",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Frog digestive system",
+        "query": "frog digestive system alimentary canal liver pancreas",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Frog circulatory system and double circulation",
+        "query": "frog circulatory system three chambered heart double circulation",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Frog respiratory system",
+        "query": "frog respiratory system cutaneous buccal pulmonary respiration",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Frog reproductive system and life cycle",
+        "query": "frog reproductive system metamorphosis tadpole life cycle",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Frog nervous and urogenital system",
+        "query": "frog nervous system urogenital system kidney",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Comparison: frog, earthworm and cockroach systems",
+        "query": "comparison frog earthworm cockroach circulatory digestive systems",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Histology slide identification of tissues",
+        "query": "histology slide identification epithelial connective muscle nervous tissue",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Assertion-reason questions on animal tissues",
+        "query": "animal tissues assertion reason questions epithelial connective",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Typhlosole and gizzard functions in earthworm",
+        "query": "typhlosole gizzard function earthworm digestion",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Malpighian tubules and excretion in cockroach",
+        "query": "malpighian tubules excretion cockroach uric acid",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Diagram-based labelling questions for this chapter",
+        "query": "structural organisation in animals diagram based labelling questions",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "NCERT line-by-line MCQs for this chapter",
+        "query": "structural organisation in animals NCERT line by line MCQ",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Setae, nephridia and spermatheca in earthworm",
+        "query": "earthworm setae nephridia spermatheca location function",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Digestion and Absorption",
+    "slug": "digestion-absorption",
+    "subject": "Biology",
+    "group": "Human Physiology",
+    "blurb": "Everything a NEET aspirant needs on the human alimentary canal, digestive glands, enzymatic digestion of carbohydrates, proteins and fats, absorption, and common digestive disorders, anchored to NCERT Class XI Biology.",
+    "jeeWeight": "Medium",
+    "subtopics": [
+      "Alimentary canal anatomy (mouth to anus)",
+      "Buccal cavity, teeth (dental formula) and tongue",
+      "Stomach regions and gastric glands",
+      "Small intestine: duodenum, jejunum, ileum and villi",
+      "Large intestine, caecum and rectum",
+      "Digestive glands: salivary glands, liver and pancreas",
+      "Bile, gall bladder and emulsification of fats",
+      "Digestion of carbohydrates (salivary amylase to disaccharidases)",
+      "Digestion of proteins (pepsin, trypsin, chymotrypsin, peptidases)",
+      "Digestion of fats (lipases) and nucleic acids",
+      "Gastric, pancreatic and intestinal enzymes and their secretions",
+      "Absorption of digested products and the role of villi/microvilli",
+      "Assimilation, egestion and calorific value of nutrients",
+      "Hormonal and neural control of digestive secretions",
+      "Disorders: PEM (kwashiorkor, marasmus), indigestion, constipation, vomiting, jaundice, diarrhoea"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Class XI Biology Textbook (download chapter PDFs)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "THE primary NEET source. Open Biology Class XI and download the Digestion and Absorption chapter PDF; every NEET question maps to these lines."
+      },
+      {
+        "title": "NCERT Textbooks Portal (all classes, Biology XI & XII)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Topic page",
+        "level": "Foundation",
+        "note": "Grab the full Class XI Biology book to revise alimentary canal diagrams and enzyme tables directly from the source text."
+      },
+      {
+        "title": "NCERT e-Pathshala (e-textbooks and e-content)",
+        "url": "https://epathshala.nic.in/",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Official NCERT e-content portal; another route to the Class XI Biology chapter for offline revision of the digestion enzyme tables."
+      },
+      {
+        "title": "Official NEET (NTA) portal",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA NEET",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Official exam authority: syllabus, information bulletin and notifications. Confirm the current Biology syllabus scope here before planning revision."
+      },
+      {
+        "title": "Khan Academy India: Class 11 Biology",
+        "url": "https://www.khanacademy.org/science/in-in-class-11-biology-india",
+        "source": "Khan Academy",
+        "type": "Course",
+        "level": "Foundation",
+        "note": "Free CBSE-aligned animated lessons on the digestive system, glands and enzyme action; ideal first-pass conceptual clarity before NCERT."
+      },
+      {
+        "title": "Khan Academy: Human biology (digestion unit)",
+        "url": "https://www.khanacademy.org/science/biology/human-biology",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "NEET",
+        "note": "Walkthroughs of how carbohydrates, proteins and fats are broken down and absorbed across the intestinal wall."
+      },
+      {
+        "title": "OpenStax Biology 2e (free full textbook)",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Open the Animal Structure and Function unit, Digestive System chapter, for diagrams and enzyme summaries that reinforce NCERT."
+      },
+      {
+        "title": "OpenStax Anatomy and Physiology 2e (Digestive System unit)",
+        "url": "https://openstax.org/details/books/anatomy-and-physiology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Detailed free chapters on each GI organ, secretions and absorption mechanisms; deeper figures than NCERT for tricky MCQs."
+      },
+      {
+        "title": "Biology LibreTexts (Introductory & Human Biology)",
+        "url": "https://bio.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Free, structured pages on each digestive organ, enzyme and absorption mechanism with clear figures; cross-check enzyme substrates and products."
+      },
+      {
+        "title": "NIOS Biology Study Material (Senior Secondary)",
+        "url": "https://www.nios.ac.in/online-course-material/sr-secondary-courses/biology-(312).aspx",
+        "source": "NIOS",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Free government Biology course material; nutrition and digestion lessons mirror NCERT and add extra worked explanations."
+      },
+      {
+        "title": "SWAYAM (free MOOCs, school & UG Biology)",
+        "url": "https://swayam.gov.in/explorer",
+        "source": "SWAYAM",
+        "type": "Course",
+        "level": "NEET",
+        "note": "Government MOOC platform; search Biology/life-science courses for structured lessons on human physiology and the digestive system."
+      },
+      {
+        "title": "PhET Interactive Simulations (Biology)",
+        "url": "https://phet.colorado.edu/en/simulations/filter?subjects=biology&type=html",
+        "source": "PhET",
+        "type": "Tool",
+        "level": "Foundation",
+        "note": "Free interactive sims to build intuition on enzymes, pH and transport before drilling digestion MCQs."
+      },
+      {
+        "title": "CBSE Academics: Class XI Biology syllabus & resources",
+        "url": "https://cbseacademic.nic.in/",
+        "source": "CBSE",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Official Class XI Biology syllabus and supporting material; confirms exactly which digestion subtopics are in scope."
+      },
+      {
+        "title": "NCERT Exemplar Problems (Class XI Biology)",
+        "url": "https://ncert.nic.in/exemplar-problems.php",
+        "source": "NCERT",
+        "type": "Problem set",
+        "level": "NEET",
+        "note": "Official NCERT Exemplar MCQs and assertion-reason questions on Digestion and Absorption; closest practice to NEET phrasing."
+      },
+      {
+        "title": "NTA NEET Previous Year Question Papers",
+        "url": "https://neet.nta.nic.in/previous-year-question-paper/",
+        "source": "NTA NEET",
+        "type": "Past papers",
+        "level": "NEET",
+        "note": "Official archive of past NEET papers and keys; filter Digestion and Absorption items to learn the exam's recurring traps."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Alimentary canal anatomy overview",
+        "query": "human alimentary canal anatomy digestion",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Buccal cavity, teeth and dental formula",
+        "query": "buccal cavity teeth dental formula 2123 2123",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Salivary glands and saliva",
+        "query": "salivary glands parotid submaxillary sublingual saliva",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Stomach regions: cardiac, fundic, pyloric",
+        "query": "stomach regions cardiac fundic pyloric gastric glands",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Gastric glands and secretions",
+        "query": "gastric glands chief cells oxyntic cells pepsinogen HCl",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Small intestine and villi structure",
+        "query": "small intestine duodenum jejunum ileum villi microvilli",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Large intestine, caecum and rectum",
+        "query": "large intestine caecum colon rectum water absorption",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Liver structure and bile function",
+        "query": "liver bile gall bladder emulsification of fats",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Pancreas and pancreatic juice",
+        "query": "pancreas pancreatic juice trypsinogen amylase lipase",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Digestion of carbohydrates",
+        "query": "digestion of carbohydrates salivary amylase maltase disaccharidases",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Digestion of proteins",
+        "query": "digestion of proteins pepsin trypsin chymotrypsin peptidases",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Digestion of fats and lipases",
+        "query": "digestion of fats lipase fatty acids glycerol micelles",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Digestion of nucleic acids",
+        "query": "digestion of nucleic acids nucleases nucleotidases",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Digestive enzymes summary table",
+        "query": "digestive enzymes substrate product table summary",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Absorption of digested food",
+        "query": "absorption of digested food active passive facilitated transport intestine",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Absorption of fats and chylomicrons",
+        "query": "absorption of fats chylomicrons lacteals lymph",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Sites of absorption along the gut",
+        "query": "sites of absorption mouth stomach small intestine large intestine",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Assimilation and egestion",
+        "query": "assimilation egestion faeces formation defecation reflex",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Calorific value of nutrients",
+        "query": "calorific value carbohydrate protein fat kcal",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Hormonal control of digestion",
+        "query": "hormonal control digestion gastrin secretin cholecystokinin",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Neural regulation of gastric secretion",
+        "query": "neural regulation gastric secretion vagus reflex digestion",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "PEM: kwashiorkor vs marasmus",
+        "query": "protein energy malnutrition kwashiorkor marasmus difference",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Indigestion, constipation, vomiting, diarrhoea",
+        "query": "indigestion constipation vomiting diarrhoea digestive disorders",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Jaundice and liver disorders",
+        "query": "jaundice causes bilirubin liver disorder",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Peristalsis and movement of food",
+        "query": "peristalsis movement of food alimentary canal smooth muscle",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Sphincters of the digestive tract",
+        "query": "sphincters gastro-oesophageal pyloric ileocaecal anal",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Layers of the gut wall (serosa to mucosa)",
+        "query": "layers of alimentary canal wall serosa muscularis submucosa mucosa",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Bile salts and emulsification mechanism",
+        "query": "bile salts emulsification fat digestion mechanism",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Full chapter one-shot revision",
+        "query": "digestion and absorption class 11 one shot",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Previous year questions (NEET)",
+        "query": "digestion and absorption neet previous year questions",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Enzyme pH optima and digestion conditions",
+        "query": "digestive enzyme pH optimum pepsin trypsin amylase",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "youtube",
+          "pyq"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Breathing and Exchange of Gases",
+    "slug": "breathing-exchange-gases",
+    "subject": "Biology",
+    "group": "Human Physiology",
+    "blurb": "A ready-to-use link pack for NCERT Class XI Biology Chapter 17 — respiratory organs, the breathing mechanism, respiratory volumes and capacities, exchange and transport of gases, the oxygen dissociation curve, regulation of respiration, and respiratory disorders — built for NEET-level practice and revision.",
+    "jeeWeight": "Medium",
+    "subtopics": [
+      "Human respiratory system and respiratory organs",
+      "Conducting and respiratory parts of the airway",
+      "Mechanism of breathing: inspiration and expiration",
+      "Role of diaphragm and intercostal muscles",
+      "Intrapulmonary and intrapleural pressure changes",
+      "Respiratory volumes and capacities (TV, IRV, ERV, RV, VC, TLC)",
+      "Exchange of gases and partial pressure gradients",
+      "Diffusion membrane and pulmonary gas exchange",
+      "Transport of oxygen and oxyhaemoglobin",
+      "Oxygen dissociation curve and the Bohr effect",
+      "Transport of carbon dioxide and carbamino-haemoglobin",
+      "Chloride shift and the role of carbonic anhydrase",
+      "Regulation of respiration and the respiratory centre",
+      "Respiratory disorders: asthma, emphysema, occupational lung disease"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Textbooks (download Class XI Biology — Chapter 17)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "THE primary NEET source. Open the official Class XI Biology PDF and study Chapter 17 'Breathing and Exchange of Gases' line by line — most NEET questions are framed directly from this text and its diagrams."
+      },
+      {
+        "title": "NCERT Official Textbook Portal",
+        "url": "https://ncert.nic.in/",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Canonical home for all NCERT Biology PDFs and updates. Use the in-text figures (respiratory system, O2 dissociation curve) for direct, exam-relevant recall."
+      },
+      {
+        "title": "NCERT Exemplar Problems — Biology",
+        "url": "https://ncert.nic.in/exemplar-problems.php",
+        "source": "NCERT",
+        "type": "Problem set",
+        "level": "NEET",
+        "note": "Official higher-order MCQs and assertion-reason items. The exemplar for this chapter is a reliable source of NEET-style questions on gas transport and the dissociation curve."
+      },
+      {
+        "title": "OpenStax Biology 2e — full free text (respiration units)",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Free, peer-reviewed chapters on gas exchange and gas transport with clean labelled figures. Good for deeper conceptual grounding beyond NCERT."
+      },
+      {
+        "title": "Biology LibreTexts — open biology library",
+        "url": "https://bio.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Searchable open library. Look up 'gas exchange', 'oxygen transport' and 'Bohr effect' for detailed, accurate physiology explanations."
+      },
+      {
+        "title": "Khan Academy — High school biology",
+        "url": "https://www.khanacademy.org/science/high-school-biology",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Free videos and articles on breathing mechanics and gas exchange. Strong for building the basic picture before NEET-level drilling."
+      },
+      {
+        "title": "Khan Academy — Human biology (gas transport)",
+        "url": "https://www.khanacademy.org/science/biology/human-biology",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "NEET",
+        "note": "Targeted lessons on oxygen/CO2 transport and the haemoglobin dissociation curve — one of the highest-yield concepts in this chapter for NEET."
+      },
+      {
+        "title": "Wikipedia — Human respiratory system",
+        "url": "https://en.wikipedia.org/wiki/Respiratory_system",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Foundation",
+        "note": "Overview of respiratory anatomy and the conducting vs respiratory zones. Useful for naming structures asked in NEET assertion-reason items."
+      },
+      {
+        "title": "Wikipedia — Gas exchange",
+        "url": "https://en.wikipedia.org/wiki/Gas_exchange",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Clear account of how partial-pressure gradients drive O2 and CO2 diffusion across the alveolar membrane — core to NCERT's 'Exchange of Gases'."
+      },
+      {
+        "title": "Wikipedia — Oxygen–haemoglobin dissociation curve",
+        "url": "https://en.wikipedia.org/wiki/Oxygen%E2%80%93hemoglobin_dissociation_curve",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Summary of the sigmoid curve, left/right shifts, and factors (pCO2, pH, temperature, BPG). Handy quick reference while solving curve-shift MCQs."
+      },
+      {
+        "title": "Wikipedia — Control of ventilation",
+        "url": "https://en.wikipedia.org/wiki/Control_of_ventilation",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Covers the respiratory centre, pneumotaxic centre and chemoreceptor control — the basis for NCERT's 'Regulation of Respiration' section."
+      },
+      {
+        "title": "Wikipedia — Haemoglobin",
+        "url": "https://en.wikipedia.org/wiki/Hemoglobin",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Detail on cooperative O2 binding and the structure behind the sigmoid curve. Good for the deeper 'why' that bright NEET students ask."
+      },
+      {
+        "title": "NPTEL — Human physiology / respiration courses",
+        "url": "https://nptel.ac.in/courses",
+        "source": "NPTEL",
+        "type": "Course",
+        "level": "NEET",
+        "note": "Search NPTEL for physiology courses covering respiration and gas transport — free, lecture-grade material to reinforce mechanism and regulation."
+      },
+      {
+        "title": "Khan Academy — AP/college biology (respiration)",
+        "url": "https://www.khanacademy.org/science/ap-biology",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "NEET",
+        "note": "Structured unit on diffusion and partial pressure across the respiratory surface — reinforces the gas-exchange logic NEET tests directly."
+      },
+      {
+        "title": "NEET Official (NTA) — exam portal",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Official source for the NEET syllabus, information bulletin and updates. Confirm the current syllabus scope for this chapter directly from NTA."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Human respiratory system organs and structure",
+        "query": "human respiratory system organs structure",
+        "level": "Foundation",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Conducting part vs respiratory part of airway",
+        "query": "conducting part respiratory part airway",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Larynx, trachea, bronchi and bronchioles",
+        "query": "larynx trachea bronchi bronchioles",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Alveoli and the respiratory membrane",
+        "query": "alveoli respiratory membrane diffusion",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Mechanism of breathing: inspiration and expiration",
+        "query": "mechanism of breathing inspiration expiration",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Diaphragm and intercostal muscles in breathing",
+        "query": "diaphragm intercostal muscles breathing",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Intrapulmonary and intrapleural pressure changes",
+        "query": "intrapulmonary intrapleural pressure breathing",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Respiratory volumes: tidal, IRV, ERV, residual",
+        "query": "respiratory volumes tidal IRV ERV residual volume",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Respiratory capacities: vital capacity and total lung capacity",
+        "query": "vital capacity total lung capacity respiratory capacities",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Numerical problems on respiratory volumes and capacities",
+        "query": "respiratory volumes capacities numerical problems",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Exchange of gases and partial pressure gradients",
+        "query": "exchange of gases partial pressure gradient alveoli",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Partial pressure of oxygen and CO2 across alveoli and tissues",
+        "query": "partial pressure oxygen carbon dioxide alveoli tissues",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Diffusion of gases across the respiratory membrane",
+        "query": "diffusion of gases respiratory membrane factors",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Transport of oxygen as oxyhaemoglobin",
+        "query": "transport of oxygen oxyhaemoglobin blood",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Oxygen dissociation curve and its sigmoid shape",
+        "query": "oxygen dissociation curve sigmoid hemoglobin",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Bohr effect and shifts of the oxygen dissociation curve",
+        "query": "Bohr effect oxygen dissociation curve shift",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Factors affecting the dissociation curve: pCO2, pH, temperature",
+        "query": "factors affecting oxygen dissociation curve pH temperature pCO2",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Transport of carbon dioxide in blood",
+        "query": "transport of carbon dioxide blood bicarbonate",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Carbamino-haemoglobin and forms of CO2 carriage",
+        "query": "carbamino haemoglobin carbon dioxide transport forms",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Chloride shift and the role of carbonic anhydrase",
+        "query": "chloride shift carbonic anhydrase bicarbonate",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Regulation of respiration and the respiratory centre",
+        "query": "regulation of respiration respiratory centre medulla",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Pneumotaxic centre and chemoreceptors in breathing control",
+        "query": "pneumotaxic centre chemoreceptors respiration control",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Respiratory disorders: asthma and emphysema",
+        "query": "respiratory disorders asthma emphysema",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Occupational respiratory disorders and lung fibrosis",
+        "query": "occupational respiratory disorders lung fibrosis",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Difference between breathing and cellular respiration",
+        "query": "difference breathing cellular respiration",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Haldane effect in carbon dioxide transport",
+        "query": "Haldane effect carbon dioxide transport hemoglobin",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Breathing and exchange of gases: full chapter MCQs",
+        "query": "breathing and exchange of gases chapter MCQ",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Oxygen dissociation curve: graph-based NEET questions",
+        "query": "oxygen dissociation curve graph based questions",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Body Fluids and Circulation",
+    "slug": "body-fluids-circulation",
+    "subject": "Biology",
+    "group": "Human Physiology",
+    "blurb": "A NEET-ready pack covering blood and lymph composition, ABO/Rh blood groups, the human heart, the cardiac cycle and ECG, double circulation, and circulatory disorders — anchored to NCERT with live PYQ and practice searches.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Composition of blood — plasma, formed elements (RBC, WBC, platelets)",
+      "Plasma proteins — albumin, globulins, fibrinogen and their roles",
+      "Blood groups — ABO system and Rh factor, erythroblastosis foetalis",
+      "Coagulation of blood — clotting cascade, role of platelets and clotting factors",
+      "Lymph (tissue fluid) — composition, formation and functions",
+      "Structure of the human heart — chambers, valves, pericardium",
+      "Cardiac conducting system — SA node, AV node, bundle of His, Purkinje fibres",
+      "Cardiac cycle — systole, diastole, heart sounds (lub-dub), stroke volume and cardiac output",
+      "Electrocardiograph (ECG) — P, QRS, T waves and their significance",
+      "Double circulation — pulmonary and systemic circuits",
+      "Regulation of cardiac activity — neural and hormonal control",
+      "Circulatory disorders — hypertension, coronary artery disease, angina pectoris, heart failure",
+      "Blood vessels — arteries, veins, capillaries",
+      "Open vs closed circulatory systems"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Textbooks (official) — Biology Class XI & XII source PDFs",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "THE primary NEET Biology source. Open Class XI Biology and read the 'Body Fluids and Circulation' chapter line-by-line — NEET questions are framed directly from this NCERT text and diagrams."
+      },
+      {
+        "title": "NCERT Class XI Biology — full textbook page",
+        "url": "https://ncert.nic.in/textbook.php?kebo1=0-22",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Direct listing of all Class XI Biology chapters; Body Fluids and Circulation is the chapter to download. Memorise the heart diagram, blood composition table and clotting cascade exactly as printed."
+      },
+      {
+        "title": "Official NEET (NTA) — exam portal and syllabus",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Authoritative source for the current NEET syllabus, information bulletin and notifications. Confirm Body Fluids and Circulation scope here so you do not over-study beyond NCERT."
+      },
+      {
+        "title": "Khan Academy — Human biology / circulatory system",
+        "url": "https://www.khanacademy.org/science/biology",
+        "source": "Khan Academy",
+        "type": "Topic page",
+        "level": "Foundation",
+        "note": "Free animated lessons on the heart, cardiac cycle and blood flow. Great for building intuition before drilling NCERT facts; use for double circulation and ECG basics."
+      },
+      {
+        "title": "Khan Academy — Health and medicine (blood and circulation)",
+        "url": "https://www.khanacademy.org/science/health-and-medicine",
+        "source": "Khan Academy",
+        "type": "Topic page",
+        "level": "Foundation",
+        "note": "Clear walkthroughs of ABO/Rh blood typing, agglutination and transfusion compatibility — ideal for the blood-groups subtopic and Rh incompatibility."
+      },
+      {
+        "title": "OpenStax Biology 2e — free full text (circulation unit)",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Peer-reviewed free college text. Use the 'Animal Structure and Function' unit on the circulatory system for deeper figures on heart anatomy, cardiac cycle and blood vessel structure to back up NCERT."
+      },
+      {
+        "title": "OpenStax Anatomy and Physiology 2e — cardiovascular system",
+        "url": "https://openstax.org/details/books/anatomy-and-physiology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Detailed free text on blood, the heart and blood vessels with labelled diagrams of valves, the conduction system and the cardiac cycle — strong support for NCERT figures."
+      },
+      {
+        "title": "Biology LibreTexts — Introductory and Human Biology library",
+        "url": "https://bio.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Searchable open library. Look up 'Blood', 'The Heart' and 'Cardiac Cycle' for diagrams, ECG explanations and clotting detail at a level just above NCERT."
+      },
+      {
+        "title": "Wikipedia — Biology portal (encyclopaedia home)",
+        "url": "https://en.wikipedia.org/wiki/Main_Page",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Cross-check articles such as Blood, Cardiac cycle, Electrocardiography, Coagulation and Lymphatic system for systole/diastole timing, ECG waves and clotting factors — stay at NCERT depth for the exam."
+      },
+      {
+        "title": "NPTEL — free Indian university course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "source": "NPTEL",
+        "type": "Course",
+        "level": "NEET",
+        "note": "Free Indian university lectures. Search the catalogue for human physiology / cardiovascular system courses for rigorous, exam-aligned background on heart function and circulation."
+      },
+      {
+        "title": "SWAYAM — free NCERT/NPTEL-aligned biology courses",
+        "url": "https://swayam.gov.in/explorer",
+        "source": "SWAYAM",
+        "type": "Course",
+        "level": "NEET",
+        "note": "Government MOOC platform. Browse school and undergraduate biology courses for structured video lessons on body fluids, the heart and circulation aligned to the Indian curriculum."
+      },
+      {
+        "title": "Brilliant — interactive science courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "Foundation",
+        "note": "Interactive courses to build conceptual feel for systems and flow; good for visual learners on pressure, flow and feedback control before memorising NCERT facts."
+      },
+      {
+        "title": "NCERT Exemplar — Biology problems (official)",
+        "url": "https://ncert.nic.in/exemplar-problems.php",
+        "source": "NCERT",
+        "type": "Problem set",
+        "level": "NEET",
+        "note": "Official higher-order exemplar questions on body fluids and circulation. Use the MCQs and assertion-reason items to test NCERT recall the way NEET frames it."
+      },
+      {
+        "title": "NEET previous year papers — NTA archive",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA",
+        "type": "Past papers",
+        "level": "NEET",
+        "note": "Source for official NEET question papers and answer keys. Pull Body Fluids and Circulation questions across years to map the high-yield facts (heart, blood groups, ECG, disorders)."
+      },
+      {
+        "title": "NIH MedlinePlus — heart and circulation health topics",
+        "url": "https://medlineplus.gov/",
+        "source": "MedlinePlus",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Plain-language, authoritative reference for hypertension, coronary artery disease, angina and heart failure — clean background for the circulatory-disorders subtopic without clinical overload."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Blood composition — plasma and formed elements",
+        "query": "blood composition plasma formed elements RBC WBC platelets",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Plasma proteins — albumin, globulin, fibrinogen",
+        "query": "plasma proteins albumin globulin fibrinogen functions",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Red blood cells — structure, count and life span",
+        "query": "erythrocytes RBC structure haemoglobin life span count",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "White blood cells — types and functions",
+        "query": "leucocytes WBC types granulocytes agranulocytes functions",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Blood clotting — coagulation cascade",
+        "query": "blood clotting coagulation cascade prothrombin thrombin fibrin",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "ABO blood groups — antigens and antibodies",
+        "query": "ABO blood group system antigen antibody universal donor recipient",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Rh factor and erythroblastosis foetalis",
+        "query": "Rh factor incompatibility erythroblastosis foetalis",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Blood group inheritance and transfusion compatibility",
+        "query": "blood group inheritance transfusion compatibility chart",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Lymph — composition, formation and functions",
+        "query": "lymph tissue fluid composition formation functions",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Blood vs lymph vs tissue fluid — comparison",
+        "query": "difference blood lymph tissue fluid comparison",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Human heart — external and internal structure",
+        "query": "human heart structure chambers valves pericardium diagram",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Heart valves — tricuspid, bicuspid, semilunar",
+        "query": "heart valves tricuspid bicuspid semilunar function",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cardiac conducting system — SA node and AV node",
+        "query": "cardiac conducting system SA node AV node bundle of His Purkinje",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cardiac cycle — systole, diastole and timing",
+        "query": "cardiac cycle systole diastole phases timing",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Heart sounds — lub and dub",
+        "query": "heart sounds lub dub valve closure cause",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Stroke volume, cardiac output and heart rate",
+        "query": "stroke volume cardiac output heart rate calculation",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "ECG — P, QRS and T waves and their meaning",
+        "query": "ECG electrocardiogram P QRS T wave significance",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Double circulation — pulmonary and systemic circuits",
+        "query": "double circulation pulmonary systemic circuit human",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Open vs closed circulatory systems",
+        "query": "open closed circulatory system difference examples",
+        "level": "Foundation",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Blood vessels — arteries, veins and capillaries",
+        "query": "blood vessels arteries veins capillaries structure difference",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Regulation of cardiac activity — neural and hormonal",
+        "query": "regulation cardiac activity neural hormonal control medulla",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Blood pressure — systolic and diastolic",
+        "query": "blood pressure systolic diastolic measurement normal values",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Hypertension — causes and effects",
+        "query": "hypertension high blood pressure causes effects",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Coronary artery disease and atherosclerosis",
+        "query": "coronary artery disease atherosclerosis causes",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Angina pectoris and heart failure",
+        "query": "angina pectoris heart failure cardiac arrest difference",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Hepatic portal system — circulation",
+        "query": "hepatic portal system circulation function",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Body Fluids and Circulation — full chapter PYQ drill",
+        "query": "body fluids and circulation chapter NEET previous year questions",
+        "level": "NEET",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Assertion-reason questions — circulation",
+        "query": "body fluids circulation assertion reason questions",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Diagram-based questions — heart and ECG labelling",
+        "query": "human heart ECG diagram labelling questions",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Clotting factors and anticoagulants — heparin",
+        "query": "clotting factors haemophilia anticoagulant heparin",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Quick revision — body fluids and circulation one-shot",
+        "query": "body fluids and circulation one shot revision",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Excretory Products and their Elimination",
+    "slug": "excretory-products",
+    "subject": "Biology",
+    "group": "Human Physiology",
+    "blurb": "Everything your students need for the NEET excretory system chapter — from NCERT nephron diagrams to counter-current mechanism drills and PYQ banks on urine formation and renal disorders.",
+    "jeeWeight": "Medium",
+    "subtopics": [
+      "Modes of excretion: ammonotelism, ureotelism, uricotelism",
+      "Excretory organs across animals (protonephridia, nephridia, Malpighian tubules, kidneys)",
+      "Human excretory system: kidneys, ureters, bladder, urethra",
+      "Structure of the kidney: cortex, medulla, pyramids, columns of Bertini",
+      "Structure of a nephron: cortical vs juxtamedullary",
+      "Glomerular filtration and Bowman's capsule (GFR)",
+      "Tubular reabsorption and tubular secretion",
+      "Function of PCT, loop of Henle, DCT and collecting duct",
+      "Counter current mechanism and the role of vasa recta",
+      "Concentration of the filtrate and urine formation",
+      "Regulation of kidney function: RAAS, ADH, ANF",
+      "Micturition and the role of the urinary bladder",
+      "Role of other organs in excretion: lungs, liver, skin",
+      "Disorders: uraemia, renal failure, renal calculi, glomerulonephritis",
+      "Dialysis, artificial kidney and kidney transplantation"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Textbooks (official) — download Biology Class XI & XII",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "THE primary NEET source. Open Biology Class XI and read the 'Excretory Products and their Elimination' chapter PDF directly."
+      },
+      {
+        "title": "NCERT Class XI Biology — Excretory Products chapter (search)",
+        "url": "https://www.google.com/search?q=NCERT%20Class%2011%20Biology%20Excretory%20Products%20Elimination%20chapter%20pdf",
+        "source": "NCERT",
+        "type": "Search",
+        "level": "NEET",
+        "note": "Pulls the exact chapter PDF and exemplar; every NEET question on this topic maps back to these lines."
+      },
+      {
+        "title": "NCERT Exemplar Biology Class XI (search)",
+        "url": "https://www.google.com/search?q=NCERT%20Exemplar%20Biology%20Class%2011%20Excretory%20Products%20solutions%20pdf",
+        "source": "NCERT",
+        "type": "Problem set",
+        "level": "NEET",
+        "note": "Exemplar MCQs and assertion-reason items — closest in style to actual NEET questions for this chapter."
+      },
+      {
+        "title": "OpenStax Biology 2e — Osmotic Regulation & Excretion",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Free full text. Chapter 41 covers nitrogenous wastes, the nephron and the counter-current multiplier with clear figures."
+      },
+      {
+        "title": "Biology LibreTexts — Osmoregulation and Excretion",
+        "url": "https://bio.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Search 'osmoregulation excretion nephron' for modular pages on ammonotelism vs ureotelism and tubular transport."
+      },
+      {
+        "title": "Khan Academy — The kidney and nephron",
+        "url": "https://www.khanacademy.org/search?page_search_query=kidney%20nephron%20urine%20formation",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Animated lessons on filtration, reabsorption and the loop of Henle — ideal for first-pass conceptual clarity."
+      },
+      {
+        "title": "Khan Academy — Counter current multiplier system",
+        "url": "https://www.khanacademy.org/search?page_search_query=counter%20current%20multiplier%20loop%20of%20Henle",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "NEET",
+        "note": "Walks through how the loop of Henle and vasa recta build the medullary osmotic gradient."
+      },
+      {
+        "title": "Wikipedia — Nephron",
+        "url": "https://en.wikipedia.org/w/index.php?search=nephron",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Labelled segment-by-segment diagram of the nephron with transport functions of PCT, loop, DCT and collecting duct."
+      },
+      {
+        "title": "Wikipedia — Countercurrent exchange / multiplication",
+        "url": "https://en.wikipedia.org/w/index.php?search=countercurrent%20multiplication%20kidney",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Clear explanation of the counter-current mechanism and why human urine can be hyperosmotic to plasma."
+      },
+      {
+        "title": "Wikipedia — Excretory system",
+        "url": "https://en.wikipedia.org/w/index.php?search=excretory%20system%20comparative",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "Foundation",
+        "note": "Comparative excretory organs — flame cells, nephridia, Malpighian tubules, green glands — that NEET loves to match."
+      },
+      {
+        "title": "Wikipedia — Renal physiology & urine formation",
+        "url": "https://en.wikipedia.org/w/index.php?search=renal%20physiology%20urine%20formation",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Covers GFR, tubular reabsorption/secretion and hormonal control (ADH, RAAS, ANF) at NCERT depth."
+      },
+      {
+        "title": "NPTEL — Animal Physiology / Human Physiology courses",
+        "url": "https://nptel.ac.in/courses",
+        "source": "NPTEL",
+        "type": "Course",
+        "level": "NEET",
+        "note": "Search 'physiology' for free lecture series covering renal physiology and osmoregulation in depth."
+      },
+      {
+        "title": "Official NEET (NTA) — exam portal & syllabus",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Confirms the official NEET Biology syllabus scope for this chapter and links to information bulletins."
+      },
+      {
+        "title": "NCERT Exemplar & PYQ search — excretory products MCQs",
+        "url": "https://www.google.com/search?q=excretory%20products%20elimination%20NEET%20previous%20year%20questions%20MCQ%20pdf",
+        "source": "NCERT",
+        "type": "Past papers",
+        "level": "NEET",
+        "note": "Surfaces chapter-wise NEET PYQ sets and assertion-reason MCQs to drill nephron and urine-formation recall."
+      },
+      {
+        "title": "Brilliant — biology & physiology courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "Foundation",
+        "note": "Interactive problem-solving on transport and homeostasis to build intuition before NEET drills."
+      },
+      {
+        "title": "Khan Academy — Nitrogenous waste & osmoregulation",
+        "url": "https://www.khanacademy.org/search?page_search_query=nitrogenous%20waste%20ammonotelism%20ureotelism%20uricotelism",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Explains why aquatic animals are ammonotelic and birds/reptiles uricotelic — a frequent NEET MCQ theme."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Modes of excretion (ammonotelism, ureotelism, uricotelism)",
+        "query": "ammonotelism ureotelism uricotelism modes of excretion",
+        "level": "Foundation",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Nitrogenous waste products compared",
+        "query": "nitrogenous waste ammonia urea uric acid comparison animals",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Excretory organs across the animal kingdom",
+        "query": "excretory organs protonephridia nephridia Malpighian tubules flame cells",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Human excretory system overview",
+        "query": "human excretory system kidney ureter bladder urethra",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Internal structure of the kidney",
+        "query": "kidney structure cortex medulla renal pyramids columns of Bertini",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Structure of a nephron",
+        "query": "structure of nephron PCT loop of Henle DCT collecting duct",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cortical vs juxtamedullary nephrons",
+        "query": "cortical and juxtamedullary nephron difference vasa recta",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Malpighian body / renal corpuscle",
+        "query": "Malpighian body renal corpuscle Bowman capsule glomerulus",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Glomerular filtration and GFR",
+        "query": "glomerular filtration rate GFR Bowman capsule ultrafiltration",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Tubular reabsorption mechanisms",
+        "query": "tubular reabsorption proximal convoluted tubule selective reabsorption",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Tubular secretion in the nephron",
+        "query": "tubular secretion DCT collecting duct hydrogen potassium ammonia",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Steps of urine formation",
+        "query": "urine formation filtration reabsorption secretion steps",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Counter current mechanism",
+        "query": "counter current mechanism loop of Henle vasa recta kidney",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Concentration of urine and osmotic gradient",
+        "query": "concentration of urine medullary osmotic gradient hyperosmotic",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Role of the loop of Henle",
+        "query": "loop of Henle countercurrent multiplier sodium chloride urea",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Role of vasa recta",
+        "query": "vasa recta countercurrent exchanger function kidney",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Regulation by ADH (vasopressin)",
+        "query": "ADH vasopressin water reabsorption regulation kidney",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Renin-Angiotensin-Aldosterone system (RAAS)",
+        "query": "renin angiotensin aldosterone mechanism JGA blood pressure",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Atrial Natriuretic Factor (ANF)",
+        "query": "atrial natriuretic factor ANF blood pressure kidney regulation",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Juxtaglomerular apparatus (JGA)",
+        "query": "juxtaglomerular apparatus JGA macula densa renin function",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Micturition and the micturition reflex",
+        "query": "micturition reflex urinary bladder neural control",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Role of other organs in excretion",
+        "query": "role of lungs liver skin in excretion accessory excretory organs",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Composition of normal urine",
+        "query": "composition of human urine constituents normal abnormal",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Disorder: uraemia",
+        "query": "uraemia urea blood kidney failure dialysis",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Disorder: renal calculi (kidney stones)",
+        "query": "renal calculi kidney stones oxalate causes symptoms",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Disorder: glomerulonephritis",
+        "query": "glomerulonephritis inflammation glomeruli kidney disorder",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Dialysis and artificial kidney",
+        "query": "haemodialysis artificial kidney dialysis principle mechanism",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Kidney transplantation",
+        "query": "kidney transplantation renal transplant donor matching",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Assertion-reason questions: excretory system",
+        "query": "excretory products elimination assertion reason questions",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Diagram-based MCQs: nephron labelling",
+        "query": "nephron diagram labelling MCQ excretory system",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Full chapter PYQ revision",
+        "query": "excretory products and their elimination NEET previous year questions",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "GFR and renal clearance numericals",
+        "query": "GFR inulin clearance numerical problems kidney physiology",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Locomotion and Movement",
+    "slug": "locomotion-movement",
+    "subject": "Biology",
+    "group": "Human Physiology",
+    "blurb": "A high-yield Class XI Human Physiology chapter where students master muscle ultrastructure, the sliding filament mechanism, the human skeleton, joints, and skeletal-muscular disorders for NEET. Questions are tightly NCERT-statement based, so line-by-line recall of bands, bone counts, joint types and disorders pays off.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Types of movement: amoeboid, ciliary, muscular",
+      "Muscle types: skeletal, smooth and cardiac",
+      "Skeletal muscle ultrastructure: fibre, myofibril, sarcomere",
+      "Contractile and regulatory proteins: actin, myosin, troponin, tropomyosin",
+      "Sliding filament theory and the cross-bridge cycle",
+      "Role of calcium, ATP and the neuromuscular junction",
+      "Red and white muscle fibres",
+      "Axial skeleton: skull, vertebral column, ribs, sternum",
+      "Appendicular skeleton: limb bones and girdles",
+      "Pectoral and pelvic girdles",
+      "Types of joints: fibrous, cartilaginous, synovial",
+      "Synovial joint subtypes with example bones",
+      "Disorders: myasthenia gravis, tetany, muscular dystrophy",
+      "Disorders: arthritis, osteoporosis, gout",
+      "Total number of bones in the human body (206)"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Class XI Biology Textbook (official PDF chapters)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "THE primary NEET source. Open Biology Class XI, Unit V Human Physiology, and download the Locomotion and Movement chapter PDF; read line by line since exam questions are NCERT-statement based."
+      },
+      {
+        "title": "NCERT Textbook Portal (all classes, English/Hindi)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Topic page",
+        "level": "Foundation",
+        "note": "Use to grab the chapter in either medium plus the summary and exercises, which mirror NEET MCQ phrasing for first-pass coverage."
+      },
+      {
+        "title": "OpenStax Biology 2e (free full textbook)",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Open the Animal Structure and Function unit, Musculoskeletal System chapter, for clear diagrams of muscle, bone and joints that support the NCERT text."
+      },
+      {
+        "title": "LibreTexts Biology: Introductory and General Biology bookshelf",
+        "url": "https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Browse the muscle contraction and skeletal system pages for a free, detailed walkthrough of the cross-bridge cycle, calcium role and ATP usage."
+      },
+      {
+        "title": "LibreTexts Anatomy and Physiology bookshelf",
+        "url": "https://med.libretexts.org/Bookshelves/Anatomy_and_Physiology",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Use the axial and appendicular skeleton chapters for bone counts, girdles and joint classification slightly beyond NCERT depth."
+      },
+      {
+        "title": "Khan Academy Biology (muscle and skeletal videos)",
+        "url": "https://www.khanacademy.org/science/biology",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Animated explanations of sarcomere shortening, the neuromuscular junction, bone structure and joints for first-pass conceptual clarity."
+      },
+      {
+        "title": "Khan Academy Human Biology (muscular and skeletal systems)",
+        "url": "https://www.khanacademy.org/science/health-and-medicine",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Health-and-medicine track covers muscle physiology and joint movements; pairs well with the NCERT skeleton section."
+      },
+      {
+        "title": "Wikipedia: Sliding filament theory",
+        "url": "https://en.wikipedia.org/wiki/Sliding_filament_theory",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Concise reference for the molecular steps and the A-band/I-band/H-zone behaviour during contraction."
+      },
+      {
+        "title": "Wikipedia: Sarcomere",
+        "url": "https://en.wikipedia.org/wiki/Sarcomere",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Settles the most-tested point: which bands shorten and which stay constant during muscle contraction."
+      },
+      {
+        "title": "Wikipedia: Muscle contraction",
+        "url": "https://en.wikipedia.org/wiki/Muscle_contraction",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Covers excitation-contraction coupling, calcium release and ATP-driven cross-bridge cycling in one place."
+      },
+      {
+        "title": "Wikipedia: Human skeleton",
+        "url": "https://en.wikipedia.org/wiki/Human_skeleton",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Verify bone counts (axial 80, appendicular 126, total 206) and girdle composition for direct-recall MCQs."
+      },
+      {
+        "title": "Wikipedia: Synovial joint",
+        "url": "https://en.wikipedia.org/wiki/Synovial_joint",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Reference for matching synovial joint subtypes to example bones, a recurring NEET match-the-column item."
+      },
+      {
+        "title": "Wikipedia: Neuromuscular junction",
+        "url": "https://en.wikipedia.org/wiki/Neuromuscular_junction",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Clarifies acetylcholine release, the motor end plate and the link to myasthenia gravis in the disorders list."
+      },
+      {
+        "title": "Wikipedia: Vertebral column",
+        "url": "https://en.wikipedia.org/wiki/Vertebral_column",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Confirms the 26 vertebrae count and the cervical/thoracic/lumbar/sacrum/coccyx regions tested directly."
+      },
+      {
+        "title": "NPTEL: Human Physiology and Biology courses",
+        "url": "https://nptel.ac.in/courses",
+        "source": "NPTEL",
+        "type": "Course",
+        "level": "NEET",
+        "note": "Browse physiology course modules on muscle and skeletal physiology to deepen teacher-level understanding of the chapter."
+      },
+      {
+        "title": "Official NEET (NTA) information portal",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA",
+        "type": "Past papers",
+        "level": "NEET",
+        "note": "Authoritative source for the current NEET syllabus and information bulletin; confirm Locomotion and Movement remains in scope."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Types of movement: amoeboid, ciliary, muscular",
+        "query": "types of movement amoeboid ciliary muscular",
+        "level": "Foundation",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Ciliary movement examples in the human body",
+        "query": "ciliary movement trachea fallopian tube examples",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Skeletal vs smooth vs cardiac muscle",
+        "query": "skeletal smooth cardiac muscle differences",
+        "level": "Foundation",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Properties of muscle tissue",
+        "query": "muscle properties excitability contractility elasticity extensibility",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Skeletal muscle ultrastructure: fibre to myofibril",
+        "query": "skeletal muscle structure myofibril sarcolemma sarcoplasm",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Sarcomere: A band, I band, H zone, Z line",
+        "query": "sarcomere A band I band H zone Z line structure",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Contractile proteins: actin and myosin",
+        "query": "actin myosin thin thick filament structure",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Regulatory proteins: troponin and tropomyosin",
+        "query": "troponin tropomyosin role muscle contraction",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Sliding filament theory of contraction",
+        "query": "sliding filament theory muscle contraction",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cross-bridge cycle and ATP role",
+        "query": "cross bridge cycle ATP myosin head muscle",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Calcium ions and sarcoplasmic reticulum",
+        "query": "calcium ions sarcoplasmic reticulum muscle contraction",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Neuromuscular junction and motor end plate",
+        "query": "neuromuscular junction acetylcholine motor end plate",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Which bands shorten during contraction",
+        "query": "which band shortens muscle contraction I band H zone",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Red vs white muscle fibres",
+        "query": "red white muscle fibres myoglobin mitochondria difference",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Muscle fatigue and lactic acid",
+        "query": "muscle fatigue lactic acid anaerobic respiration",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Axial skeleton: skull, vertebral column, ribs, sternum",
+        "query": "axial skeleton skull vertebral column ribs sternum",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Vertebral column regions and 26 vertebrae",
+        "query": "human vertebral column 26 vertebrae regions",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Types of ribs: true, false, floating",
+        "query": "true false floating ribs human rib cage",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Appendicular skeleton: limb bones",
+        "query": "appendicular skeleton limb bones humerus femur",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Pectoral girdle: clavicle and scapula",
+        "query": "pectoral girdle clavicle scapula glenoid cavity",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Pelvic girdle: ilium, ischium, pubis",
+        "query": "pelvic girdle ilium ischium pubis acetabulum",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Total number of bones in the human body",
+        "query": "total number of bones human body 206 axial appendicular",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Types of joints: fibrous, cartilaginous, synovial",
+        "query": "types of joints fibrous cartilaginous synovial",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Synovial joint subtypes with examples",
+        "query": "synovial joint ball socket hinge pivot saddle examples",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Disorder: myasthenia gravis",
+        "query": "myasthenia gravis autoimmune muscle disorder",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Disorder: muscular dystrophy",
+        "query": "muscular dystrophy genetic muscle disorder",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Disorder: tetany and low calcium",
+        "query": "tetany low calcium muscle spasm",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Disorder: arthritis and gout",
+        "query": "arthritis gout uric acid joint inflammation",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Disorder: osteoporosis and bone density",
+        "query": "osteoporosis bone density estrogen calcium",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Locomotion and Movement chapter MCQs",
+        "query": "locomotion and movement chapter MCQ class 11 biology",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Locomotion and Movement previous year questions",
+        "query": "locomotion and movement NEET previous year questions",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Assertion-reason questions on muscle and skeleton",
+        "query": "locomotion movement assertion reason questions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Sarcomere labelling diagram questions",
+        "query": "sarcomere diagram labelling muscle questions",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Match the column: joints and bones",
+        "query": "joints bones match the column locomotion movement",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Neural Control and Coordination",
+    "slug": "neural-control",
+    "subject": "Biology",
+    "group": "Human Physiology",
+    "blurb": "A complete NEET-ready link pack on the nervous system — neuron structure, nerve impulse, synapses, CNS/PNS, reflex action, and the eye and ear — anchored on NCERT and free open resources.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Structure of a neuron (dendrites, axon, myelin sheath, Nodes of Ranvier)",
+      "Resting membrane potential and the Na+/K+ pump",
+      "Generation of action potential (depolarisation and repolarisation)",
+      "Conduction of nerve impulse along myelinated and non-myelinated axons",
+      "Synapse — electrical vs chemical, neurotransmitters and synaptic transmission",
+      "Central nervous system — brain (forebrain, midbrain, hindbrain) and spinal cord",
+      "Meninges, ventricles and cerebrospinal fluid",
+      "Peripheral nervous system — somatic and autonomic (sympathetic vs parasympathetic)",
+      "Reflex action and the reflex arc",
+      "Human eye — structure, retina, rods and cones, photoreceptors",
+      "Mechanism of vision and rhodopsin",
+      "Human ear — outer, middle and inner ear; mechanism of hearing",
+      "Organ of Corti, cochlea and balance (vestibular apparatus)",
+      "Saltatory conduction and the role of myelin",
+      "Grey matter and white matter organisation"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Class XI Biology — official textbook download portal",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Primary NEET source — download Class XI Biology and read 'Neural Control and Coordination' line by line; most NEET MCQs come straight from here."
+      },
+      {
+        "title": "NCERT e-Pathshala — Class XI Biology e-book",
+        "url": "https://epathshala.nic.in/",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Same NCERT content as a free e-book/app; handy for reading the chapter and Chemical Coordination together on mobile."
+      },
+      {
+        "title": "Khan Academy — Human anatomy and physiology (nervous system)",
+        "url": "https://www.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology",
+        "source": "Khan Academy",
+        "type": "Topic page",
+        "level": "Foundation",
+        "note": "Free animated lessons on neuron structure and nervous-system signalling — build the basic picture before NCERT."
+      },
+      {
+        "title": "Khan Academy — Neuron membrane potentials",
+        "url": "https://www.khanacademy.org/test-prep/mcat/organ-systems/neuron-membrane-potentials",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "NEET",
+        "note": "Step-by-step resting potential, depolarisation and repolarisation — the highest-yield mechanism in this chapter."
+      },
+      {
+        "title": "OpenStax Biology 2e — free online textbook",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Nervous-system unit (neurons, nerve impulse, CNS/PNS, senses) — free, accurate and deeper than NCERT for concept clarity."
+      },
+      {
+        "title": "OpenStax Anatomy and Physiology — free online textbook",
+        "url": "https://openstax.org/details/books/anatomy-and-physiology",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Detailed chapters on the nervous system, special senses (eye and ear) and the autonomic division — diagram-rich support for sense organs."
+      },
+      {
+        "title": "LibreTexts Biology — open bookshelf",
+        "url": "https://bio.libretexts.org/Bookshelves",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Open the Human Biology / Anatomy shelves for diagram-rich modules on action potential and the nervous system; reliable and never paywalled."
+      },
+      {
+        "title": "Wikipedia — Action potential",
+        "url": "https://en.wikipedia.org/wiki/Action_potential",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Detailed ion-channel account with graphs; useful for the all-or-none law and refractory period."
+      },
+      {
+        "title": "Wikipedia — Human eye",
+        "url": "https://en.wikipedia.org/wiki/Human_eye",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Labelled eye anatomy, retina layers and photoreceptors — supports the sense-organ portion of the chapter."
+      },
+      {
+        "title": "Wikipedia — Cochlea (mechanism of hearing)",
+        "url": "https://en.wikipedia.org/wiki/Cochlea",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Inner ear and organ of Corti detail that NCERT keeps brief — fills out the mechanism of hearing."
+      },
+      {
+        "title": "Wikipedia — Reflex arc",
+        "url": "https://en.wikipedia.org/wiki/Reflex_arc",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Foundation",
+        "note": "Clear diagram of monosynaptic and polysynaptic reflex arcs; pairs with NCERT's knee-jerk example."
+      },
+      {
+        "title": "Wikipedia — Synapse",
+        "url": "https://en.wikipedia.org/wiki/Synapse",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Electrical vs chemical synapse, vesicles and neurotransmitter release — clears a frequently confused topic."
+      },
+      {
+        "title": "NPTEL — free course catalogue (physiology / neuroscience)",
+        "url": "https://nptel.ac.in/courses",
+        "source": "NPTEL",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Search 'physiology' or 'neuroscience' for free Indian-university lectures on neural signalling — enrichment beyond syllabus."
+      },
+      {
+        "title": "Official NEET portal (NTA)",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA NEET",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Authoritative exam info — syllabus, pattern and notifications; confirm the current Biology syllabus before planning."
+      },
+      {
+        "title": "NTA — official NEET previous-year question papers",
+        "url": "https://neet.nta.nic.in/question-papers/",
+        "source": "NTA NEET",
+        "type": "Past papers",
+        "level": "NEET",
+        "note": "Official released NEET papers and answer keys — practise real questions on neural coordination and sense organs."
+      },
+      {
+        "title": "Wikipedia — Central nervous system",
+        "url": "https://en.wikipedia.org/wiki/Central_nervous_system",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Foundation",
+        "note": "Overview of brain regions (forebrain, midbrain, hindbrain) and spinal cord, plus meninges and CSF context."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Neuron structure and types",
+        "query": "structure of neuron multipolar bipolar unipolar",
+        "level": "Foundation",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Myelin sheath and Nodes of Ranvier",
+        "query": "myelin sheath nodes of Ranvier function",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Resting membrane potential",
+        "query": "resting membrane potential sodium potassium pump neuron",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Generation of action potential",
+        "query": "generation of action potential depolarisation repolarisation",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "All-or-none law and refractory period",
+        "query": "all or none law refractory period nerve impulse",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Conduction of nerve impulse",
+        "query": "conduction of nerve impulse along axon",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Saltatory conduction",
+        "query": "saltatory conduction myelinated axon speed",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Chemical synapse transmission",
+        "query": "chemical synapse neurotransmitter release mechanism",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Electrical vs chemical synapse",
+        "query": "electrical synapse versus chemical synapse difference",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Neurotransmitters and acetylcholine",
+        "query": "neurotransmitters acetylcholine synaptic cleft",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Central nervous system overview",
+        "query": "central nervous system brain spinal cord",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Forebrain regions",
+        "query": "human brain forebrain cerebrum thalamus hypothalamus",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Midbrain and hindbrain",
+        "query": "midbrain hindbrain cerebellum pons medulla functions",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Meninges, CSF and ventricles",
+        "query": "meninges cerebrospinal fluid ventricles brain",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Spinal cord structure",
+        "query": "spinal cord grey matter white matter structure",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Peripheral nervous system",
+        "query": "peripheral nervous system somatic autonomic nerves",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Autonomic nervous system",
+        "query": "autonomic nervous system sympathetic parasympathetic",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Reflex action and reflex arc",
+        "query": "reflex action reflex arc knee jerk",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Monosynaptic vs polysynaptic reflex",
+        "query": "monosynaptic polysynaptic reflex arc difference",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Human eye structure",
+        "query": "human eye structure retina cornea lens",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Rods and cones photoreceptors",
+        "query": "rods and cones photoreceptors retina function",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Mechanism of vision and rhodopsin",
+        "query": "mechanism of vision rhodopsin opsin retinal",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Blind spot, fovea and yellow spot",
+        "query": "blind spot yellow spot fovea macula lutea eye",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Human ear structure",
+        "query": "human ear structure outer middle inner ear",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Mechanism of hearing",
+        "query": "mechanism of hearing cochlea organ of Corti",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Ear ossicles and tympanum",
+        "query": "ear ossicles malleus incus stapes tympanum",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Balance and vestibular apparatus",
+        "query": "vestibular apparatus balance semicircular canals",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Grey vs white matter",
+        "query": "grey matter white matter brain spinal cord",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Eye accommodation and ciliary muscle",
+        "query": "eye accommodation ciliary muscle lens vision",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Reading action-potential graphs",
+        "query": "action potential graph membrane potential phases",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Neural coordination past questions",
+        "query": "neural control and coordination previous year questions",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Chemical Coordination and Integration",
+    "slug": "chemical-coordination",
+    "subject": "Biology",
+    "group": "Human Physiology",
+    "blurb": "Everything your students need to master the endocrine system for NEET — glands, hormones, mechanism of action, and disorders — anchored in NCERT with live problem feeds.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Endocrine glands and hormones — definition and characteristics",
+      "Hypothalamus and its releasing/inhibiting hormones",
+      "Pituitary gland — anterior and posterior hormones (GH, TSH, ACTH, LH, FSH, PRL, MSH, oxytocin, vasopressin)",
+      "Pineal gland and melatonin",
+      "Thyroid gland — thyroxine (T3, T4), calcitonin and iodine role",
+      "Parathyroid gland and parathormone (PTH) — calcium balance",
+      "Thymus and thymosins",
+      "Adrenal gland — cortex (corticoids) and medulla (adrenaline, noradrenaline)",
+      "Pancreas — Islets of Langerhans, insulin and glucagon",
+      "Testis and ovary hormones (androgens, estrogen, progesterone)",
+      "Hormones of heart, kidney and gastrointestinal tract (ANF, erythropoietin, gastrin, secretin, CCK, GIP)",
+      "Mechanism of hormone action — membrane receptors and second messenger (cAMP)",
+      "Mechanism of hormone action — intracellular receptors and gene expression",
+      "Endocrine disorders — diabetes, goitre, cretinism, Addison's, Cushing's, acromegaly, dwarfism, gigantism",
+      "Feedback regulation of hormone secretion"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Biology Class XI Textbook (download — Chemical Coordination chapter)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "THE primary NEET source. Select Biology Class XI; the chapter 'Chemical Coordination and Integration' is the gold-standard text — every line is exam-relevant."
+      },
+      {
+        "title": "NCERT Textbook Portal (all Biology Class XI & XII PDFs)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Hub for downloading full Biology books; pair this chapter with Class XI 'Neural Control and Coordination' for the integration questions NEET loves."
+      },
+      {
+        "title": "NCERT Exemplar Biology Class XI",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Problem set",
+        "level": "NEET",
+        "note": "Exemplar MCQs and assertion-reason on endocrine glands and hormones; harder than the textbook and a frequent source of NEET-style items."
+      },
+      {
+        "title": "OpenStax Biology 2e — The Endocrine System",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Free full-text chapter on hormones, glands, and regulation; clear diagrams of the cAMP second-messenger pathway and feedback loops."
+      },
+      {
+        "title": "OpenStax Biology 2e — Regulation of Body Processes (hormonal)",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Section linking endocrine control to homeostasis (calcium, glucose, water balance) — useful for ANF, PTH and ADH integration items."
+      },
+      {
+        "title": "Biology LibreTexts — Endocrine System",
+        "url": "https://bio.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Search 'endocrine system' / 'hormone action'; modular pages on each gland and on steroid vs peptide hormone mechanisms for deeper conceptual back-up."
+      },
+      {
+        "title": "Biology LibreTexts — Hormonal regulation",
+        "url": "https://bio.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Search 'feedback regulation hormones'; explains hypothalamus–pituitary–target gland axes and negative feedback that NEET diagrams test."
+      },
+      {
+        "title": "Khan Academy — Endocrine system (search)",
+        "url": "https://www.khanacademy.org/search?page_search_query=endocrine%20system%20hormones",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Animated lessons on glands, hormone signalling and homeostasis; great for first-pass conceptual clarity before drilling NEET MCQs."
+      },
+      {
+        "title": "Khan Academy — Hormone mechanism of action (search)",
+        "url": "https://www.khanacademy.org/search?page_search_query=mechanism%20of%20hormone%20action%20second%20messenger",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "NEET",
+        "note": "Focused videos on receptor types, signal transduction and the cAMP cascade — exactly the 'mechanism of hormone action' sub-topic."
+      },
+      {
+        "title": "Khan Academy — Diabetes and blood sugar regulation (search)",
+        "url": "https://www.khanacademy.org/search?page_search_query=insulin%20glucagon%20blood%20sugar%20regulation",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "NEET",
+        "note": "Insulin–glucagon antagonism and blood-glucose homeostasis; directly supports the pancreas and diabetes mellitus disorder questions."
+      },
+      {
+        "title": "Wikipedia — Endocrine system (search)",
+        "url": "https://en.wikipedia.org/w/index.php?search=endocrine%20system",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Quick reference for gland anatomy, hormone lists and source–target tables; good for building the comparison charts students memorise."
+      },
+      {
+        "title": "Wikipedia — Hormone classification (search)",
+        "url": "https://en.wikipedia.org/w/index.php?search=hormone%20classification%20peptide%20steroid",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Covers chemical classes of hormones (peptide, steroid, amino-acid derived) — the classification NEET tests in matching-type questions."
+      },
+      {
+        "title": "Official NEET (NTA) portal",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Authoritative source for the current NEET Biology syllabus, exam pattern and notifications — confirm this chapter's scope here before teaching."
+      },
+      {
+        "title": "NPTEL — Human Physiology / Endocrinology courses",
+        "url": "https://nptel.ac.in/courses",
+        "source": "NPTEL",
+        "type": "Course",
+        "level": "NEET",
+        "note": "Search 'human physiology' or 'endocrinology'; free university lectures for teachers wanting rigorous depth on hormone biochemistry beyond NCERT."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Endocrine glands overview",
+        "query": "endocrine glands and exocrine glands difference",
+        "level": "Foundation",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Characteristics of hormones",
+        "query": "hormones definition characteristics properties",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Human endocrine system map",
+        "query": "human endocrine system glands location",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Hypothalamus releasing hormones",
+        "query": "hypothalamus releasing and inhibiting hormones",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Pituitary gland hormones",
+        "query": "pituitary gland anterior posterior hormones functions",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Growth hormone disorders",
+        "query": "growth hormone dwarfism gigantism acromegaly",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Posterior pituitary oxytocin and ADH",
+        "query": "oxytocin vasopressin ADH posterior pituitary function",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Pineal gland and melatonin",
+        "query": "pineal gland melatonin function circadian rhythm",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Thyroid hormones T3 T4",
+        "query": "thyroid gland thyroxine T3 T4 functions iodine",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Thyroid disorders goitre and cretinism",
+        "query": "goitre cretinism hypothyroidism hyperthyroidism",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Parathyroid and calcium balance",
+        "query": "parathyroid gland parathormone PTH calcitonin calcium homeostasis",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Thymus and thymosins",
+        "query": "thymus gland thymosin immunity function",
+        "level": "Foundation",
+        "sources": [
+          "google",
+          "bio",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Adrenal cortex hormones",
+        "query": "adrenal cortex glucocorticoids mineralocorticoids aldosterone cortisol",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Adrenal medulla adrenaline",
+        "query": "adrenal medulla adrenaline noradrenaline fight or flight",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Adrenal disorders Addison and Cushing",
+        "query": "Addison disease Cushing syndrome adrenal disorders",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Pancreas Islets of Langerhans",
+        "query": "islets of Langerhans alpha beta cells insulin glucagon",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Insulin and glucagon action",
+        "query": "insulin glucagon blood glucose regulation antagonism",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Diabetes mellitus",
+        "query": "diabetes mellitus type 1 type 2 insulin",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Testis hormones androgens",
+        "query": "testis testosterone androgens secondary sexual characters",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Ovary hormones estrogen progesterone",
+        "query": "ovary estrogen progesterone functions menstrual cycle",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Hormones of heart kidney GI tract",
+        "query": "ANF erythropoietin gastrin secretin cholecystokinin GIP",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Peptide hormone second messenger",
+        "query": "mechanism of hormone action second messenger cAMP",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Steroid hormone gene action",
+        "query": "steroid hormone intracellular receptor gene expression",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Hormone receptors membrane vs intracellular",
+        "query": "hormone receptors membrane bound intracellular difference",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "bio",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Feedback regulation of hormones",
+        "query": "feedback regulation hormone secretion hypothalamus pituitary axis",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Hormone classification by chemical nature",
+        "query": "hormone classification peptide steroid amino acid derived",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "bio",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Source and target hormone matching",
+        "query": "hormone source gland target organ matching",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Endocrine disorders summary",
+        "query": "endocrine system disorders chart summary",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Assertion reason chemical coordination",
+        "query": "chemical coordination integration assertion reason",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "MSH and skin pigmentation",
+        "query": "melanocyte stimulating hormone MSH function",
+        "level": "Foundation",
+        "sources": [
+          "google",
+          "bio",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Previous year endocrine MCQs",
+        "query": "chemical coordination integration endocrine system",
+        "level": "NEET",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "slug": "sexual-reproduction-flowering-plants",
+    "subject": "Biology",
+    "group": "Reproduction",
+    "blurb": "A complete NEET-aligned resource pack for the Class XII angiosperm reproduction chapter, spanning flower structure and pre-fertilisation events through microsporogenesis, megasporogenesis, the embryo sac, double fertilisation, endosperm and embryo development, seed and fruit formation, and apomixis.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Structure of a typical flower and pre-fertilisation events",
+      "Stamen, microsporangium and pollen grain structure",
+      "Microsporogenesis and pollen development",
+      "Pistil, megasporangium (ovule) structure",
+      "Megasporogenesis and monosporic embryo sac development",
+      "8-nucleate 7-celled female gametophyte and egg apparatus",
+      "Pollination types: autogamy, geitonogamy, xenogamy",
+      "Agents of pollination and floral adaptations",
+      "Outbreeding devices and self-incompatibility",
+      "Pollen-pistil interaction and pollen tube growth",
+      "Double fertilisation and triple fusion",
+      "Post-fertilisation: endosperm development",
+      "Embryogeny in dicots and monocots",
+      "Seed structure, dispersal and fruit formation",
+      "Apomixis, polyembryony and parthenocarpy"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Textbooks (official PDF download portal)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "THE primary NEET source. Open Class XII Biology and read Chapter 2 'Sexual Reproduction in Flowering Plants' line-by-line; every NEET question is framed from this text and its labelled diagrams."
+      },
+      {
+        "title": "NCERT Exemplar Problems (Biology) portal",
+        "url": "https://ncert.nic.in/exemplar-problems.php",
+        "source": "NCERT",
+        "type": "Problem set",
+        "level": "NEET",
+        "note": "NCERT Exemplar MCQs and assertion-reason questions for this chapter mirror NEET difficulty; the single best official practice set beyond the textbook."
+      },
+      {
+        "title": "Official NEET (NTA) portal — syllabus, papers, notifications",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA",
+        "type": "Past papers",
+        "level": "NEET",
+        "note": "Authoritative source for the current NEET Biology syllabus and official question papers; confirm what stays in-scope for this chapter before assigning practice."
+      },
+      {
+        "title": "NROER — National Repository of Open Educational Resources",
+        "url": "https://nroer.gov.in/",
+        "source": "NROER",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Government repository of NCERT-aligned diagrams, videos and concept maps; search angiosperm reproduction for ready-to-use Class XII visuals."
+      },
+      {
+        "title": "SWAYAM — free government online courses",
+        "url": "https://swayam.gov.in/",
+        "source": "SWAYAM",
+        "type": "Course",
+        "level": "NEET",
+        "note": "Official MoE platform; search school biology / Class XII botany courses for structured lessons on plant reproduction aligned to the NCERT syllabus."
+      },
+      {
+        "title": "Khan Academy — search 'pollination'",
+        "url": "https://www.khanacademy.org/search?page_search_query=pollination",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Free animated lessons on pollination and flower reproduction; ideal warm-up before the dense NCERT terminology for weaker students."
+      },
+      {
+        "title": "Khan Academy — search 'plant reproduction'",
+        "url": "https://www.khanacademy.org/search?page_search_query=plant%20reproduction",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Conceptual videos on the angiosperm life cycle and fertilisation that scaffold the harder NCERT mechanisms."
+      },
+      {
+        "title": "Khan Academy — High School Biology (full course)",
+        "url": "https://www.khanacademy.org/science/high-school-biology",
+        "source": "Khan Academy",
+        "type": "Course",
+        "level": "Foundation",
+        "note": "Structured free biology course; the reproduction and cell-division units build the meiosis and gamete-formation base this chapter assumes."
+      },
+      {
+        "title": "Biology LibreTexts — open biology library",
+        "url": "https://bio.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Search 'angiosperm reproduction', 'double fertilization', 'embryo sac'; free open-text explanations with diagrams that deepen NCERT for AIIMS-level depth."
+      },
+      {
+        "title": "OpenStax Biology 2e — Plant Reproduction",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Free full textbook; the 'Reproductive Development and Structure' and angiosperm chapters give clean cross-pollination and life-cycle figures for slides."
+      },
+      {
+        "title": "Wikipedia — search 'double fertilization'",
+        "url": "https://en.wikipedia.org/w/index.php?search=double%20fertilization",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Quick authoritative reference for triple fusion, syngamy and the 3n endosperm with cited diagrams; good for clarifying ploidy doubts."
+      },
+      {
+        "title": "Wikipedia — search 'embryo sac'",
+        "url": "https://en.wikipedia.org/w/index.php?search=embryo%20sac",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Covers the Polygonum-type 8-nucleate 7-celled embryo sac, egg apparatus, synergids and antipodals — high-yield NEET assertion-reason territory."
+      },
+      {
+        "title": "Wikipedia — search 'apomixis'",
+        "url": "https://en.wikipedia.org/w/index.php?search=apomixis",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Clarifies apomixis, parthenocarpy and polyembryony distinctions that NEET repeatedly tests; pairs with the NCERT applications section."
+      },
+      {
+        "title": "Wikipedia — search 'pollination'",
+        "url": "https://en.wikipedia.org/w/index.php?search=pollination",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Reference for pollination types and agents, floral adaptations and pollinator mutualism; supports the dense NCERT pollination section."
+      },
+      {
+        "title": "OpenStax CNX / OpenStax Biology — angiosperm life cycle figures",
+        "url": "https://openstax.org/subjects/science",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Browse the free OpenStax science library for high-resolution, reusable angiosperm life-cycle and flower-structure diagrams suitable for handouts."
+      },
+      {
+        "title": "NCERT — official site (textbooks, exemplar, solutions hub)",
+        "url": "https://ncert.nic.in/",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Top-level NCERT portal linking textbooks, exemplar problems and supplementary readers; the durable home for all official Class XII Biology material."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Parts of a typical flower",
+        "query": "structure of a typical flower angiosperm",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Pre-fertilisation events overview",
+        "query": "pre fertilisation events in flowering plants",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Stamen and microsporangium structure",
+        "query": "stamen microsporangium structure anther wall layers",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Tapetum function",
+        "query": "tapetum function in anther pollen development",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Pollen grain structure",
+        "query": "pollen grain structure exine intine sporopollenin",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Microsporogenesis",
+        "query": "microsporogenesis pollen mother cell meiosis",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Male gametophyte development",
+        "query": "male gametophyte development vegetative generative cell",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Pollen viability and pollen bank",
+        "query": "pollen viability storage cryopreservation pollen bank",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Pistil and ovule structure",
+        "query": "pistil ovule structure funicle nucellus integuments",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Types of ovules",
+        "query": "types of ovules anatropous orthotropous campylotropous",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Megasporogenesis",
+        "query": "megasporogenesis megaspore mother cell meiosis",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Embryo sac development",
+        "query": "embryo sac development 8 nucleate 7 celled female gametophyte",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Egg apparatus and synergids",
+        "query": "egg apparatus synergids filiform apparatus antipodals",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Polygonum type embryo sac",
+        "query": "polygonum type monosporic embryo sac development",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Types of pollination",
+        "query": "types of pollination autogamy geitonogamy xenogamy",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Agents of pollination and adaptations",
+        "query": "agents of pollination wind water insect adaptations",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Pollination by water (hydrophily)",
+        "query": "pollination by water hydrophily Vallisneria Zostera",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Insect pollination mutualism",
+        "query": "insect pollination entomophily plant pollinator mutualism",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Outbreeding devices",
+        "query": "outbreeding devices in flowering plants self pollination prevention",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Self-incompatibility",
+        "query": "self incompatibility in plants outbreeding device",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Pollen-pistil interaction",
+        "query": "pollen pistil interaction pollen tube growth recognition",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Artificial hybridisation (emasculation, bagging)",
+        "query": "artificial hybridisation emasculation bagging plant breeding",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Double fertilisation",
+        "query": "double fertilisation syngamy triple fusion angiosperm",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Triple fusion and PEN",
+        "query": "triple fusion primary endosperm nucleus ploidy",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Endosperm development",
+        "query": "endosperm development free nuclear cellular helobial",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Embryo development in dicots",
+        "query": "dicot embryo development proembryo globular heart stage",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Embryo development in monocots",
+        "query": "monocot embryo development coleoptile coleorhiza scutellum",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Seed structure and dispersal",
+        "query": "seed structure albuminous non albuminous dispersal",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Fruit formation: true vs false fruit",
+        "query": "fruit formation true fruit false fruit",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Apomixis and polyembryony",
+        "query": "apomixis polyembryony significance in agriculture",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Parthenocarpy and seedless fruits",
+        "query": "parthenocarpy seedless fruit formation hormones",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Ploidy of plant tissues",
+        "query": "ploidy of nucellus endosperm embryo antipodal cells",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Whole-chapter NEET MCQs",
+        "query": "sexual reproduction in flowering plants chapter MCQ",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq",
+          "bio"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Human Reproduction",
+    "slug": "human-reproduction",
+    "subject": "Biology",
+    "group": "Reproduction",
+    "blurb": "A NEET-ready pack on Human Reproduction covering the male and female reproductive systems, gametogenesis, the menstrual cycle, fertilization, implantation, pregnancy, parturition and lactation, anchored on NCERT Class XII Biology.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Male reproductive system: testes, accessory ducts and glands",
+      "Female reproductive system: ovaries, oviducts, uterus and accessory structures",
+      "Microscopic anatomy of testis and ovary",
+      "Spermatogenesis and structure of the sperm",
+      "Oogenesis and structure of the ovum",
+      "Menstrual cycle and its hormonal control (FSH, LH, estrogen, progesterone)",
+      "Ovulation and the corpus luteum",
+      "Fertilization: capacitation, acrosomal reaction and syngamy",
+      "Cleavage, blastocyst formation and implantation",
+      "Placenta: structure, functions and hormones (hCG, hPL)",
+      "Embryonic development and germ layers",
+      "Pregnancy and gestation",
+      "Parturition and the role of oxytocin (foetal ejection reflex)",
+      "Lactation: colostrum and milk ejection",
+      "Hormonal regulation of male and female reproduction"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Textbooks (official PDF portal) — Class XII Biology, Human Reproduction",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "THE primary NEET source. Open Class XII Biology and read the Human Reproduction chapter line-by-line; every NEET question on this topic traces to this text."
+      },
+      {
+        "title": "NCERT Class XII Biology — full book (textbook portal)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Download the complete Class XII Biology book; Human Reproduction follows Reproduction in Organisms. Diagrams of testis, ovary and menstrual cycle are exam-critical."
+      },
+      {
+        "title": "NCERT Exemplar Biology Class XII (official problem book)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Problem set",
+        "level": "NEET",
+        "note": "Select Exemplar > Biology > Class XII for higher-order MCQs and assertion-reason items on reproduction that match NEET difficulty."
+      },
+      {
+        "title": "Official NEET (NTA) — syllabus, information bulletin and notices",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Confirm the current NEET Biology syllabus and exam pattern; Human Reproduction sits in the Class XII Reproduction unit."
+      },
+      {
+        "title": "OpenStax Biology 2e — Animal Reproduction and Development (free full text)",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Free, well-illustrated chapters on human reproductive systems, gametogenesis, fertilization and embryonic development for deeper conceptual backing."
+      },
+      {
+        "title": "Biology LibreTexts — Reproductive System and Development",
+        "url": "https://bio.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Search 'human reproductive system' and 'menstrual cycle' for diagram-rich explanations of spermatogenesis, oogenesis and the hormonal cycle."
+      },
+      {
+        "title": "Khan Academy — Reproductive system physiology",
+        "url": "https://www.khanacademy.org/search?page_search_query=reproductive%20system%20physiology",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Short, clear videos on the male and female reproductive systems, menstrual cycle and pregnancy hormones — ideal for building basics before NEET drills."
+      },
+      {
+        "title": "Khan Academy — Menstrual cycle and hormones",
+        "url": "https://www.khanacademy.org/search?page_search_query=menstrual%20cycle%20hormones",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Walks through FSH, LH, estrogen and progesterone across the follicular, ovulatory and luteal phases — the single most asked NEET diagram."
+      },
+      {
+        "title": "Wikipedia — Human reproduction (overview and links)",
+        "url": "https://en.wikipedia.org/w/index.php?search=human%20reproduction",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Quick cross-reference for terms like capacitation, acrosomal reaction, blastocyst and corpus luteum; follow internal links for each sub-process."
+      },
+      {
+        "title": "Wikipedia — Spermatogenesis and oogenesis",
+        "url": "https://en.wikipedia.org/w/index.php?search=spermatogenesis%20oogenesis",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Side-by-side detail on the chromosome numbers and stages of gametogenesis frequently tested in NEET comparison questions."
+      },
+      {
+        "title": "Biology StackExchange — search reproduction physiology Q&A",
+        "url": "https://biology.stackexchange.com/search?q=human%20reproduction%20menstrual%20cycle",
+        "source": "Biology StackExchange",
+        "type": "Search",
+        "level": "NEET",
+        "note": "Expert answers to tricky conceptual doubts (e.g. why ovulation occurs at the LH surge, fate of the corpus luteum) that clear NEET misconceptions."
+      },
+      {
+        "title": "NPTEL — courses (Reproductive Biology / Human Physiology)",
+        "url": "https://nptel.ac.in/courses",
+        "source": "NPTEL",
+        "type": "Course",
+        "level": "NEET",
+        "note": "Search 'reproductive biology' or 'human physiology' for free recorded lectures from Indian institutes that deepen reproductive endocrinology."
+      },
+      {
+        "title": "NCBI PubMed — search human reproductive physiology (advanced reference)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=human+reproduction+physiology",
+        "source": "PubMed",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Primary-literature backing for teachers; use to verify facts on placental hormones, implantation and parturition signalling beyond the textbook."
+      },
+      {
+        "title": "NCBI PubMed — search menstrual cycle hormonal control",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=menstrual+cycle+hormonal+regulation",
+        "source": "PubMed",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Deep-dive reviews on the hypothalamic-pituitary-ovarian axis for teachers framing high-order assertion-reason questions."
+      },
+      {
+        "title": "Khan Academy — Embryonic development and pregnancy",
+        "url": "https://www.khanacademy.org/search?page_search_query=embryonic%20development%20pregnancy",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Covers cleavage, blastocyst, implantation and germ-layer formation visually — supports the developmental sequence NEET expects in order."
+      },
+      {
+        "title": "Google Scholar — search human reproductive endocrinology",
+        "url": "https://scholar.google.com/scholar?q=human+reproductive+endocrinology",
+        "source": "Google Scholar",
+        "type": "Search",
+        "level": "NEET",
+        "note": "Teacher-facing search for review articles on gonadal hormones, the corpus luteum and placental endocrinology to enrich NEET explanations."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Male reproductive system anatomy",
+        "query": "human male reproductive system structure testis",
+        "level": "Foundation",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Female reproductive system anatomy",
+        "query": "human female reproductive system structure ovary uterus",
+        "level": "Foundation",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Microscopic structure of testis",
+        "query": "histology of testis seminiferous tubules Sertoli cells",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Microscopic structure of ovary",
+        "query": "ovary histology Graafian follicle stages",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Spermatogenesis process",
+        "query": "spermatogenesis stages and hormonal control",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Structure of sperm",
+        "query": "structure of human sperm head middle piece tail",
+        "level": "Foundation",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Oogenesis process",
+        "query": "oogenesis stages primary secondary oocyte",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Structure of ovum",
+        "query": "structure of human ovum zona pellucida corona radiata",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Spermatogenesis vs oogenesis comparison",
+        "query": "difference between spermatogenesis and oogenesis",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Menstrual cycle phases",
+        "query": "menstrual cycle phases follicular ovulatory luteal",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Hormonal control of menstrual cycle",
+        "query": "menstrual cycle hormones FSH LH estrogen progesterone",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Ovulation and LH surge",
+        "query": "ovulation LH surge mechanism menstrual cycle",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Corpus luteum function",
+        "query": "corpus luteum formation function progesterone",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Hormonal regulation of male reproduction",
+        "query": "hormonal control of spermatogenesis FSH LH testosterone",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Fertilization process",
+        "query": "fertilization in humans site mechanism",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Capacitation and acrosomal reaction",
+        "query": "capacitation acrosomal reaction sperm fertilization",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cleavage and blastocyst formation",
+        "query": "cleavage morula blastocyst formation human embryo",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Implantation of blastocyst",
+        "query": "implantation of blastocyst in uterine endometrium",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Trophoblast and inner cell mass",
+        "query": "trophoblast inner cell mass blastocyst implantation",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Placenta structure and function",
+        "query": "placenta structure function chorionic villi",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Placental hormones hCG and hPL",
+        "query": "placental hormones hCG hPL relaxin pregnancy",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Germ layers and embryonic development",
+        "query": "germ layers ectoderm mesoderm endoderm derivatives",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Pregnancy and gestation period",
+        "query": "pregnancy gestation period human development stages",
+        "level": "Foundation",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Foetal development trimester milestones",
+        "query": "human foetal development trimester milestones",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Parturition mechanism",
+        "query": "parturition mechanism oxytocin foetal ejection reflex",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Role of oxytocin in childbirth",
+        "query": "oxytocin role parturition positive feedback",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Lactation and colostrum",
+        "query": "lactation colostrum milk ejection prolactin oxytocin",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Mammary gland and milk production",
+        "query": "mammary gland structure lactation hormones",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Human Reproduction full chapter revision",
+        "query": "human reproduction NCERT class 12 chapter revision",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Human Reproduction assertion reason",
+        "query": "human reproduction assertion reason questions biology",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Human Reproduction NEET previous year questions",
+        "query": "human reproduction NEET previous year questions chapterwise",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Reproductive endocrinology high-yield axis",
+        "query": "reproductive hormones pituitary ovary feedback axis",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Human Reproduction diagram-based questions",
+        "query": "human reproduction labelled diagram based questions NEET",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Reproductive Health",
+    "slug": "reproductive-health",
+    "subject": "Biology",
+    "group": "Reproduction",
+    "blurb": "A NEET-ready resource pack on reproductive health, contraception, STDs, infertility and ART, anchored to NCERT Class XII Biology (Reproductive Health) with curated live problem searches.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Reproductive health: definition and significance",
+      "Population stabilisation and birth control measures",
+      "RCH (Reproductive and Child Health Care) programmes",
+      "Natural / traditional contraception: periodic abstinence, withdrawal, lactational amenorrhea",
+      "Barrier methods: condoms, diaphragms, cervical caps, vaults",
+      "IUDs: non-medicated, copper-releasing (Cu-T, Cu-7, Multiload), hormone-releasing (LNG-20)",
+      "Oral contraceptive pills and injectables (Saheli, hormonal pills)",
+      "Emergency contraception and surgical methods (tubectomy, vasectomy)",
+      "MTP (Medical Termination of Pregnancy) and its legal regulation",
+      "Sexually Transmitted Infections: gonorrhoea, syphilis, genital herpes, chlamydiasis, hepatitis-B, HIV/AIDS, trichomoniasis",
+      "Prevention of STDs and reproductive-tract infections",
+      "Infertility: causes and counselling",
+      "Assisted Reproductive Technologies: IVF, ZIFT, GIFT, ICSI, IUI, ET",
+      "Artificial insemination (AI) and surrogacy",
+      "Amniocentesis: use, misuse and the statutory ban on prenatal sex determination"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Class XII Biology Textbook (download chapters)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Primary NEET source. Select Biology Class XII; the Reproductive Health chapter is the exact NCERT text this pack maps to."
+      },
+      {
+        "title": "Wikipedia — Reproductive health",
+        "url": "https://en.wikipedia.org/wiki/Reproductive_health",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Orientation to chapter scope and terminology; mirrors NCERT framing of reproductive health and RCH."
+      },
+      {
+        "title": "OpenStax Biology 2e (free full text)",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Free college-level chapters on human reproduction, contraception and reproductive disorders for deeper conceptual backing."
+      },
+      {
+        "title": "Biology LibreTexts",
+        "url": "https://bio.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Search 'contraception', 'STD' or 'infertility' for diagram-rich explanations beyond NCERT depth."
+      },
+      {
+        "title": "Khan Academy — Health and medicine (reproductive health)",
+        "url": "https://www.khanacademy.org/science/health-and-medicine",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Short concept videos on reproduction, contraception and STIs; ideal first-pass for weaker students before NEET MCQs."
+      },
+      {
+        "title": "Wikipedia — Birth control",
+        "url": "https://en.wikipedia.org/wiki/Birth_control",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Compares barrier, IUD, hormonal and surgical methods; supports the Cu-T / LNG-20 / Saheli details NEET asks."
+      },
+      {
+        "title": "Wikipedia — Assisted reproductive technology",
+        "url": "https://en.wikipedia.org/wiki/Assisted_reproductive_technology",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Clarifies full-form/process distinctions (IVF vs ZIFT vs GIFT vs ICSI vs IUI) frequently tested in NEET."
+      },
+      {
+        "title": "Wikipedia — Amniocentesis",
+        "url": "https://en.wikipedia.org/wiki/Amniocentesis",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Diagnostic use and the statutory misuse (ban on prenatal sex determination) — a recurring NCERT-line MCQ."
+      },
+      {
+        "title": "Wikipedia — HIV/AIDS",
+        "url": "https://en.wikipedia.org/wiki/HIV/AIDS",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Transmission, prevention and the STD-prevention rules NCERT lists under reproductive health."
+      },
+      {
+        "title": "Wikipedia — Intrauterine device",
+        "url": "https://en.wikipedia.org/wiki/Intrauterine_device",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Mechanism of copper-releasing vs hormone-releasing IUDs; backs the Cu-T / Cu-7 / Multiload / LNG-20 distinctions."
+      },
+      {
+        "title": "Wikipedia — Sexually transmitted infection",
+        "url": "https://en.wikipedia.org/wiki/Sexually_transmitted_infection",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Causative organisms, curable vs incurable, and prevention matching the NCERT STD list."
+      },
+      {
+        "title": "Wikipedia — In vitro fertilisation",
+        "url": "https://en.wikipedia.org/wiki/In_vitro_fertilisation",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "IVF and embryo-transfer process detail (test-tube baby), the core ART technique NEET tests."
+      },
+      {
+        "title": "NPTEL — online courses (search reproductive biology)",
+        "url": "https://nptel.ac.in/courses",
+        "source": "NPTEL",
+        "type": "Course",
+        "level": "NEET",
+        "note": "Search reproductive biology / human physiology lectures for rigorous, exam-grade explanation of fertility and ART."
+      },
+      {
+        "title": "Wikipedia — Medical termination of pregnancy (abortion in India)",
+        "url": "https://en.wikipedia.org/wiki/Abortion_in_India",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "MTP Act context and reasons for legalisation that NCERT summarises under reproductive health."
+      },
+      {
+        "title": "Wikipedia — Infertility",
+        "url": "https://en.wikipedia.org/wiki/Infertility",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Male and female causes and counselling context behind the NCERT infertility and ART section."
+      },
+      {
+        "title": "Official NEET (NTA) — exam information portal",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA NEET",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Official syllabus, pattern and notices; confirm Reproductive Health remains in the prescribed Biology syllabus."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Reproductive health: meaning & significance",
+        "query": "reproductive health definition significance society",
+        "level": "Foundation",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "RCH programme & awareness",
+        "query": "reproductive and child health care RCH programme India",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Population stabilisation & birth control",
+        "query": "population explosion birth control measures reproductive health",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Natural / traditional contraception",
+        "query": "natural contraceptive methods periodic abstinence withdrawal lactational amenorrhea",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Barrier methods of contraception",
+        "query": "barrier methods contraception condom diaphragm cervical cap",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "IUDs: Cu-T, Cu-7, Multiload, LNG-20",
+        "query": "intrauterine devices Cu-T copper releasing hormone releasing IUD",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Oral pills & Saheli (non-steroidal)",
+        "query": "oral contraceptive pills Saheli hormonal contraceptive mechanism",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Emergency contraception",
+        "query": "emergency contraception pills mechanism reproductive health",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Surgical methods: tubectomy & vasectomy",
+        "query": "sterilisation tubectomy vasectomy contraception",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Compare all contraceptive methods",
+        "query": "comparison contraceptive methods reversible permanent advantages",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Medical Termination of Pregnancy (MTP)",
+        "query": "medical termination of pregnancy MTP legalisation reasons",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Amniocentesis: use & misuse",
+        "query": "amniocentesis foetal disorder detection misuse sex determination",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Ban on prenatal sex determination",
+        "query": "prenatal sex determination ban amniocentesis statutory",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "STDs overview & list",
+        "query": "sexually transmitted diseases STD list reproductive health",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Gonorrhoea & syphilis",
+        "query": "gonorrhoea syphilis causative organism symptoms STD",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Chlamydiasis & trichomoniasis",
+        "query": "chlamydiasis trichomoniasis sexually transmitted infection",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Genital herpes & hepatitis-B",
+        "query": "genital herpes hepatitis B sexually transmitted disease",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "HIV / AIDS transmission & prevention",
+        "query": "HIV AIDS transmission prevention reproductive health STD",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Curable vs incurable STDs",
+        "query": "curable incurable sexually transmitted diseases reproductive health",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Prevention rules for STDs",
+        "query": "prevention sexually transmitted diseases reproductive tract infection rules",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Infertility: causes",
+        "query": "infertility causes male female reproductive health",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Infertility counselling & ART clinics",
+        "query": "infertility counselling assisted reproductive technology clinics",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "IVF & test tube baby",
+        "query": "in vitro fertilisation IVF test tube baby embryo transfer",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "ZIFT vs GIFT (full forms & site)",
+        "query": "ZIFT GIFT zygote gamete intra fallopian transfer difference",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "ICSI & IUI",
+        "query": "intracytoplasmic sperm injection ICSI intra uterine insemination IUI",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Embryo transfer (ET): stages",
+        "query": "embryo transfer 8 cell 32 cell zygote ART",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Artificial insemination (AI)",
+        "query": "artificial insemination AI reproductive technology",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Compare all ART techniques",
+        "query": "assisted reproductive technologies comparison IVF ZIFT GIFT ICSI IUI",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Lactational amenorrhea & breastfeeding",
+        "query": "lactational amenorrhea method natural contraception breastfeeding",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Reproductive Health assertion-reason MCQs",
+        "query": "reproductive health assertion reason NEET biology",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Reproductive Health full chapter PYQ set",
+        "query": "reproductive health chapter NEET previous year questions",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Saheli vs hormonal pill differences",
+        "query": "Saheli non steroidal pill versus hormonal oral contraceptive",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Principles of Inheritance and Variation",
+    "slug": "inheritance-variation",
+    "subject": "Biology",
+    "group": "Genetics & Evolution",
+    "blurb": "A complete NCERT-anchored pack covering Mendelian genetics, crosses, linkage, sex determination, mutation, pedigrees and human genetic disorders for high-yield NEET preparation.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Mendel's laws of inheritance (dominance, segregation, independent assortment)",
+      "Monohybrid cross and test cross",
+      "Dihybrid cross and 9:3:3:1 ratio",
+      "Law of dominance and Punnett square",
+      "Incomplete dominance (snapdragon flower colour)",
+      "Codominance and multiple alleles (ABO blood groups)",
+      "Pleiotropy and polygenic inheritance (human skin colour)",
+      "Linkage and recombination (Morgan's experiments)",
+      "Sex determination (XX-XY, XX-XO, ZZ-ZW, honeybee haplodiploidy)",
+      "Mutation (point mutation, frameshift, chromosomal aberrations)",
+      "Pedigree analysis, symbols and interpretation",
+      "Mendelian disorders (haemophilia, sickle-cell anaemia, phenylketonuria, thalassaemia, colour blindness)",
+      "Chromosomal disorders (Down's, Klinefelter's, Turner's syndrome)",
+      "Chromosomal theory of inheritance (Sutton and Boveri)",
+      "Sex-linked inheritance and criss-cross pattern"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Biology Class XII Textbook (download chapters)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "THE primary NEET source. Select Biology Class XII and open the inheritance chapter; it is the must-read base text."
+      },
+      {
+        "title": "NCERT Exemplar Problems (Biology, download)",
+        "url": "https://ncert.nic.in/exemplar-problems.php",
+        "source": "NCERT",
+        "type": "Problem set",
+        "level": "NEET",
+        "note": "Higher-order MCQ and assertion-reason problems on genetics; closest to NEET difficulty among official sources."
+      },
+      {
+        "title": "NCERT Biology Class XI Textbook (meiosis & chromosome base)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "Foundation",
+        "note": "Background on meiosis and chromosomes needed for linkage and segregation. Pick Biology Class XI."
+      },
+      {
+        "title": "Official NEET (NTA) portal - syllabus & bulletin",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Authoritative syllabus, exam pattern and notifications. Confirm inheritance topics stay in scope each year."
+      },
+      {
+        "title": "OpenStax Biology 2e - free full textbook",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Genetics unit (Mendel, extensions, linkage, sex determination) with clear figures; reliable free backup to NCERT."
+      },
+      {
+        "title": "Khan Academy - Classical and molecular genetics unit",
+        "url": "https://www.khanacademy.org/science/ap-biology/heredity",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Animated lessons and practice on crosses, probability and pedigrees. Great for building intuition before MCQs."
+      },
+      {
+        "title": "Khan Academy - Variations in Mendelian patterns",
+        "url": "https://www.khanacademy.org/science/ap-biology/heredity/non-mendelian-genetics",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "NEET",
+        "note": "Incomplete dominance, codominance, multiple alleles and sex-linked traits; trains the reasoning NEET tests."
+      },
+      {
+        "title": "Biology LibreTexts - Introductory & General Biology bookshelf",
+        "url": "https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Open the Mendelian/non-Mendelian genetics chapters. Deep, well-cited notes on dominance, codominance and recombination."
+      },
+      {
+        "title": "Wikipedia - Mendelian inheritance",
+        "url": "https://en.wikipedia.org/wiki/Mendelian_inheritance",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Foundation",
+        "note": "Quick concept refresh on the laws and dominance relationships. Cross-check terms against NCERT."
+      },
+      {
+        "title": "Wikipedia - Genetic linkage",
+        "url": "https://en.wikipedia.org/wiki/Genetic_linkage",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Linkage, recombination frequency and gene mapping context for the Morgan's-experiments sub-topic."
+      },
+      {
+        "title": "Wikipedia - Genetic disorder",
+        "url": "https://en.wikipedia.org/wiki/Genetic_disorder",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Overview of Mendelian and chromosomal disorders; pair with NCERT for haemophilia, sickle-cell and trisomy syndromes."
+      },
+      {
+        "title": "Khan Academy - Pedigrees article",
+        "url": "https://www.khanacademy.org/science/ap-biology/heredity/non-mendelian-genetics/a/pedigrees",
+        "source": "Khan Academy",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Worked pedigree examples with symbol conventions and autosomal vs X-linked reasoning; directly NEET-relevant."
+      },
+      {
+        "title": "NCERT Class XII Biology - Molecular Basis of Inheritance (mutation base)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Select Biology Class XII; supports the mutation sub-topic (point, frameshift) that overlaps with this chapter."
+      },
+      {
+        "title": "OpenStax Biology 2e - Chromosomal Basis of Inherited Disorders",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Aneuploidy and chromosomal disorders (Down's, Klinefelter's, Turner's) with karyotype figures; free NCERT backup."
+      },
+      {
+        "title": "Wikipedia - Sex-determination system",
+        "url": "https://en.wikipedia.org/wiki/Sex-determination_system",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "XX-XY, XX-XO, ZZ-ZW and honeybee haplodiploidy compared in one place; quick revision for the sex-determination sub-topic."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Mendel's laws of inheritance",
+        "query": "Mendel laws of inheritance dominance segregation independent assortment",
+        "level": "Foundation",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Monohybrid cross & 3:1 ratio",
+        "query": "monohybrid cross 3:1 ratio Punnett square",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Test cross & back cross",
+        "query": "test cross back cross genetics determine genotype",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Dihybrid cross & 9:3:3:1 (Punnett practice)",
+        "query": "dihybrid cross 9:3:3:1 ratio Punnett square practice",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Law of dominance numericals",
+        "query": "law of dominance genetics numerical problems",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Incomplete dominance (snapdragon)",
+        "query": "incomplete dominance snapdragon Antirrhinum flower colour",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Codominance, multiple alleles & ABO blood groups",
+        "query": "codominance ABO blood group multiple alleles inheritance",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Incomplete dominance vs codominance",
+        "query": "difference incomplete dominance and codominance",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Pleiotropy examples",
+        "query": "pleiotropy phenylketonuria sickle cell anaemia example",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Polygenic inheritance (skin colour)",
+        "query": "polygenic inheritance human skin colour quantitative",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Linkage & Morgan's Drosophila experiment",
+        "query": "linkage genes Morgan Drosophila experiment",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Recombination & gene mapping",
+        "query": "genetic recombination frequency gene mapping crossing over",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Crossing over & chiasma",
+        "query": "crossing over chiasma meiosis recombination",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Chromosomal theory of inheritance",
+        "query": "chromosomal theory of inheritance Sutton Boveri",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Sex determination XX-XY",
+        "query": "sex determination XX XY human Drosophila",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Sex determination XX-XO & ZZ-ZW",
+        "query": "sex determination XX XO grasshopper ZZ ZW birds",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Haplodiploidy in honeybee",
+        "query": "haplodiploid sex determination honeybee",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Sex-linked inheritance (criss-cross)",
+        "query": "sex linked inheritance criss cross X linked",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Colour blindness inheritance",
+        "query": "colour blindness red green X linked inheritance",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Haemophilia inheritance",
+        "query": "haemophilia royal disease X linked recessive inheritance",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Sickle-cell anaemia",
+        "query": "sickle cell anaemia autosomal recessive HbS mutation",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Thalassaemia",
+        "query": "thalassaemia alpha beta autosomal recessive disorder",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Phenylketonuria (PKU)",
+        "query": "phenylketonuria PKU inborn error metabolism inheritance",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Mutation types (point & frameshift)",
+        "query": "mutation point mutation frameshift substitution biology",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Chromosomal aberrations",
+        "query": "chromosomal mutation aneuploidy polyploidy deletion duplication",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Down's syndrome (trisomy 21)",
+        "query": "Down syndrome trisomy 21 chromosomal disorder",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Klinefelter's & Turner's syndrome",
+        "query": "Klinefelter Turner syndrome chromosomal disorder karyotype",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Pedigree analysis, symbols & interpretation",
+        "query": "pedigree analysis symbols autosomal X linked dominant recessive",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Genetics probability numericals",
+        "query": "genetics probability problems offspring ratio numerical",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Inheritance one-shot NEET revision",
+        "query": "principles of inheritance and variation one shot revision",
+        "level": "Mixed",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Molecular Basis of Inheritance",
+    "slug": "molecular-basis-inheritance",
+    "subject": "Biology",
+    "group": "Genetics & Evolution",
+    "blurb": "Every NEET-relevant resource for DNA structure, replication, transcription, the genetic code, translation, the lac operon, DNA fingerprinting and the Human Genome Project, anchored on NCERT and reinforced with live problem and PYQ searches.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "DNA and RNA structure (Watson-Crick double helix, nucleotides, base pairing)",
+      "Packaging of DNA (histones, nucleosome, chromatin, heterochromatin)",
+      "The search for genetic material (Griffith, Avery-MacLeod-McCarty, Hershey-Chase)",
+      "Properties of genetic material and why DNA over RNA",
+      "DNA replication (semiconservative, Meselson-Stahl, replication fork, enzymes)",
+      "Transcription in prokaryotes and eukaryotes (RNA polymerase, hnRNA, splicing, capping, tailing)",
+      "Genetic code (codons, features: degeneracy, universality, non-overlapping, start/stop codons)",
+      "tRNA the adapter molecule",
+      "Translation (initiation, elongation, termination, ribosomes)",
+      "Regulation of gene expression and the lac operon (inducible system)",
+      "Human Genome Project (goals, methods, salient features)",
+      "DNA fingerprinting (VNTRs, repetitive DNA, satellite DNA, applications)",
+      "Central dogma and reverse transcription",
+      "Transforming principle and the experiments establishing DNA as genetic material"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Class 12 Biology Textbook (download / e-book)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "THE primary NEET source. Chapter 'Molecular Basis of Inheritance' (Unit Genetics & Evolution) is the single most quoted text — read it line by line; NEET lifts statements verbatim."
+      },
+      {
+        "title": "NCERT Textbooks Portal (all Biology classes)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Use to pull Class 11 cell biology foundations (nucleic acids, biomolecules) that underpin this chapter; download chapter PDFs free."
+      },
+      {
+        "title": "OpenStax Biology 2e — full free textbook",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Unit on Genetics covers DNA structure, replication, transcription and translation with clean diagrams — excellent for reinforcing NCERT concepts in English."
+      },
+      {
+        "title": "Biology LibreTexts — Molecular Biology",
+        "url": "https://bio.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Search 'DNA replication', 'transcription', 'genetic code' for detailed, diagram-rich explanations beyond NCERT depth for strong students."
+      },
+      {
+        "title": "Khan Academy — DNA structure & replication",
+        "url": "https://www.khanacademy.org/search?page_search_query=DNA%20structure%20and%20replication",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Animated walk-through of the double helix, antiparallel strands and semiconservative replication — ideal first exposure before NCERT."
+      },
+      {
+        "title": "Khan Academy — Transcription and translation",
+        "url": "https://www.khanacademy.org/search?page_search_query=transcription%20and%20translation",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "NEET",
+        "note": "Step-by-step central dogma videos; clarifies the 5'->3' directionality that NEET loves to test."
+      },
+      {
+        "title": "Khan Academy — Gene regulation & lac operon",
+        "url": "https://www.khanacademy.org/search?page_search_query=lac%20operon%20gene%20regulation",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "NEET",
+        "note": "Visual model of the inducible lac operon (repressor, inducer, operator) — the highest-yield regulation topic for NEET."
+      },
+      {
+        "title": "Wikipedia — Lac operon",
+        "url": "https://en.wikipedia.org/w/index.php?search=lac%20operon",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Reference for the structural genes z, y, a, the i gene, promoter and operator; use to settle exact roles when MCQs get tricky."
+      },
+      {
+        "title": "Wikipedia — Genetic code",
+        "url": "https://en.wikipedia.org/w/index.php?search=genetic%20code",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Codon table and salient features (degeneracy, universality, non-overlapping, comma-less) frequently asked in NEET assertion-reason items."
+      },
+      {
+        "title": "Wikipedia — Human Genome Project",
+        "url": "https://en.wikipedia.org/w/index.php?search=Human%20Genome%20Project",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Goals, timeline, methodologies (ESTs vs sequence annotation) and salient features — match against the NCERT bullet list."
+      },
+      {
+        "title": "Wikipedia — DNA fingerprinting / DNA profiling",
+        "url": "https://en.wikipedia.org/w/index.php?search=DNA%20fingerprinting%20VNTR",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Covers VNTRs, satellite DNA polymorphism and applications (forensics, parentage) tested in NEET fact-based MCQs."
+      },
+      {
+        "title": "Khan Academy — Genetic code & the central dogma",
+        "url": "https://www.khanacademy.org/search?page_search_query=genetic%20code%20codons%20central%20dogma",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "NEET",
+        "note": "Explains reading frames, start/stop codons and the adapter role of tRNA — clears the most common translation confusions."
+      },
+      {
+        "title": "NPTEL — Molecular Biology / Genetics courses",
+        "url": "https://nptel.ac.in/courses",
+        "source": "NPTEL",
+        "type": "Course",
+        "level": "Olympiad",
+        "note": "Search 'Molecular Biology' or 'Genetics' for free IIT lecture series — enrichment on replication enzymology and transcription beyond NEET depth."
+      },
+      {
+        "title": "Brilliant — interactive biology courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "NEET",
+        "note": "Interactive modules on cells and genetics; useful for active-recall practice of central dogma logic."
+      },
+      {
+        "title": "NEET (NTA) official portal",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Official syllabus, information bulletin and notifications — confirm the exact Genetics & Evolution syllabus and any updates before teaching."
+      },
+      {
+        "title": "Wikipedia — DNA replication",
+        "url": "https://en.wikipedia.org/w/index.php?search=DNA%20replication%20semiconservative",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Semiconservative mechanism, replication fork, Okazaki fragments and key enzymes (helicase, polymerase, ligase) for the conceptual 'why' questions."
+      },
+      {
+        "title": "Khan Academy — Classic genetics experiments",
+        "url": "https://www.khanacademy.org/search?page_search_query=Hershey%20Chase%20Griffith%20transformation",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "NEET",
+        "note": "Visual walkthrough of Griffith, Avery and Hershey-Chase — the experiments establishing DNA as the genetic material, a recurring NEET theme."
+      },
+      {
+        "title": "Biology LibreTexts — Gene expression & regulation",
+        "url": "https://bio.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "Olympiad",
+        "note": "Search 'lac operon' and 'gene regulation' for deeper coverage of inducible/repressible systems — enrichment for top scorers and curious teachers."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Structure of DNA double helix basics",
+        "query": "DNA double helix structure Watson Crick model",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "DNA vs RNA differences",
+        "query": "difference between DNA and RNA nucleotides",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Nucleosome and DNA packaging",
+        "query": "nucleosome histone DNA packaging chromatin",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Griffith transforming principle",
+        "query": "Griffith experiment transforming principle Streptococcus",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Avery MacLeod McCarty experiment",
+        "query": "Avery MacLeod McCarty experiment DNA genetic material",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Hershey Chase bacteriophage experiment",
+        "query": "Hershey Chase experiment bacteriophage radioactive labelling",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Why DNA is the genetic material",
+        "query": "properties of genetic material why DNA over RNA",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Semiconservative DNA replication",
+        "query": "semiconservative DNA replication mechanism",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Meselson Stahl experiment",
+        "query": "Meselson Stahl experiment density gradient centrifugation",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Replication fork enzymes",
+        "query": "DNA replication fork DNA polymerase helicase ligase Okazaki fragments",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Leading and lagging strand",
+        "query": "leading strand lagging strand replication direction",
+        "level": "Olympiad",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Transcription unit in prokaryotes",
+        "query": "transcription unit RNA polymerase promoter terminator prokaryotes",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Eukaryotic transcription and RNA processing",
+        "query": "eukaryotic transcription hnRNA splicing capping tailing",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Split genes: exons and introns",
+        "query": "split genes exons introns RNA splicing",
+        "level": "Olympiad",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Genetic code features",
+        "query": "genetic code degeneracy universality codons features",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Codon and anticodon basics",
+        "query": "codon anticodon mRNA tRNA reading frame",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Mutations and the reading frame",
+        "query": "frameshift mutation point mutation genetic code",
+        "level": "Olympiad",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "tRNA as the adapter molecule",
+        "query": "tRNA structure adapter molecule clover leaf",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Translation process steps",
+        "query": "translation initiation elongation termination ribosome",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Ribosome role in translation",
+        "query": "ribosome structure function translation aminoacylation",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Lac operon: inducible system",
+        "query": "lac operon inducible system repressor inducer operator",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Lac operon negative regulation in E. coli",
+        "query": "lac operon negative regulation lactose metabolism E coli",
+        "level": "Olympiad",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Regulation of gene expression overview",
+        "query": "regulation of gene expression transcriptional level eukaryotes",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Human Genome Project goals & features",
+        "query": "Human Genome Project goals salient features",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "HGP methodologies",
+        "query": "Human Genome Project methods ESTs sequence annotation",
+        "level": "Olympiad",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "DNA fingerprinting technique",
+        "query": "DNA fingerprinting VNTR satellite DNA technique",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "DNA fingerprinting applications",
+        "query": "DNA fingerprinting applications forensics paternity Alec Jeffreys",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Polymorphism and repetitive DNA",
+        "query": "DNA polymorphism repetitive satellite DNA",
+        "level": "Olympiad",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Central dogma and reverse transcription",
+        "query": "central dogma molecular biology reverse transcription",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "NCERT-based MCQs for the chapter",
+        "query": "molecular basis of inheritance NCERT based MCQ",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Assertion-reason molecular genetics",
+        "query": "molecular basis of inheritance assertion reason questions",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Full-chapter NEET previous year questions",
+        "query": "molecular basis of inheritance NEET previous year questions chapterwise",
+        "level": "NEET",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Evolution",
+    "slug": "evolution",
+    "subject": "Biology",
+    "group": "Genetics & Evolution",
+    "blurb": "A complete NCERT-anchored link pack for Evolution, spanning origin of life, evidences, Darwinism, Hardy-Weinberg numericals, mechanisms, human evolution and adaptive radiation for high-yield NEET prep.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Origin of life - Oparin-Haldane and Miller-Urey experiment",
+      "Theories of origin of life (panspermia, abiogenesis, biogenesis)",
+      "Evidences of evolution - homology, analogy, fossils, embryology",
+      "Molecular and biochemical evidence of evolution",
+      "Darwinism and natural selection",
+      "Lamarckism and inheritance of acquired characters",
+      "Variation, fitness and survival of the fittest",
+      "Hardy-Weinberg principle and equilibrium",
+      "Hardy-Weinberg allele and genotype frequency numericals",
+      "Factors affecting Hardy-Weinberg equilibrium (gene flow, drift, mutation, selection)",
+      "Mechanism of evolution and speciation",
+      "Adaptive radiation - Darwin's finches and Australian marsupials",
+      "Convergent and divergent evolution",
+      "Human evolution - Australopithecus to Homo sapiens",
+      "Brief account of evolution and types of natural selection"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Class XII Biology textbook portal (Evolution chapter)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "THE primary NEET source. Open Biology Class XII and read the Evolution chapter line-by-line; every NEET question is framed from this text."
+      },
+      {
+        "title": "NCERT Class XI Biology textbook portal (free PDF downloads)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "Foundation",
+        "note": "Background for diversity, classification and biochemical concepts that underpin the evidences of evolution. Download official PDFs free."
+      },
+      {
+        "title": "NCERT Exemplar Biology (Class XII problem book portal)",
+        "url": "https://ncert.nic.in/exemplar-problems.php",
+        "source": "NCERT",
+        "type": "Problem set",
+        "level": "NEET",
+        "note": "Official MCQs and short-answer problems on Evolution, including Hardy-Weinberg numericals - closest to NEET difficulty and phrasing."
+      },
+      {
+        "title": "NROER - National Repository of Open Educational Resources (Biology)",
+        "url": "https://nroer.gov.in/",
+        "source": "NROER",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Government repository of free Biology videos and resources; search Evolution for NCERT-aligned explainer content."
+      },
+      {
+        "title": "Khan Academy - Evolution and natural selection",
+        "url": "https://www.khanacademy.org/science/biology/her",
+        "source": "Khan Academy",
+        "type": "Topic page",
+        "level": "Foundation",
+        "note": "Clear video explanations of natural selection, variation and fitness - ideal for building intuition before NCERT depth."
+      },
+      {
+        "title": "Khan Academy - Hardy-Weinberg equation and population genetics",
+        "url": "https://www.khanacademy.org/science/ap-biology/natural-selection",
+        "source": "Khan Academy",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Walks through p^2 + 2pq + q^2 = 1 with worked numericals - the exact skill NEET tests in Evolution."
+      },
+      {
+        "title": "Khan Academy - Evidence for evolution (fossils, homology, molecular)",
+        "url": "https://www.khanacademy.org/science/biology/her/evolution-and-natural-selection",
+        "source": "Khan Academy",
+        "type": "Topic page",
+        "level": "Foundation",
+        "note": "Visual breakdown of homologous vs analogous organs and vestigial structures - the most testable NCERT evidence list."
+      },
+      {
+        "title": "OpenStax Biology 2e - Evolution and the Origin of Species (free full text)",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Free, peer-reviewed text. Units on evolutionary processes, population genetics and speciation expand on NCERT with extra solved examples."
+      },
+      {
+        "title": "Biology LibreTexts - Evolution and population genetics",
+        "url": "https://bio.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Search 'Hardy-Weinberg' and 'natural selection' for detailed derivations and practice problems beyond textbook level."
+      },
+      {
+        "title": "Wikipedia - Modern synthesis (mechanisms of evolution)",
+        "url": "https://en.wikipedia.org/wiki/Modern_synthesis_(20th_century)",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Quick reference for terminology: gene flow, genetic drift, founder effect, bottleneck - all named in NCERT factors affecting equilibrium."
+      },
+      {
+        "title": "Wikipedia - Human evolution (hominid timeline)",
+        "url": "https://en.wikipedia.org/wiki/Human_evolution",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Cross-check the NCERT hominid sequence (Dryopithecus, Australopithecus, Homo habilis, erectus, neanderthalensis, sapiens) with cranial capacities."
+      },
+      {
+        "title": "Wikipedia - Miller-Urey experiment",
+        "url": "https://en.wikipedia.org/wiki/Miller%E2%80%93Urey_experiment",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Apparatus, gases used (CH4, NH3, H2, water vapour) and amino acids formed - a recurring NEET single-fact question."
+      },
+      {
+        "title": "Wikipedia - Adaptive radiation (Darwin's finches)",
+        "url": "https://en.wikipedia.org/wiki/Adaptive_radiation",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Galapagos finches and Australian marsupials are the two NCERT examples of adaptive radiation and convergent evolution."
+      },
+      {
+        "title": "Wikipedia - Hardy-Weinberg principle",
+        "url": "https://en.wikipedia.org/wiki/Hardy%E2%80%93Weinberg_principle",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Statement, the five assumptions, and the allele/genotype frequency equations behind every NEET equilibrium numerical."
+      },
+      {
+        "title": "Official NEET (NTA) portal",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Authoritative source for the official syllabus, exam pattern and information bulletin - confirm Evolution's place in the Botany/Zoology split."
+      },
+      {
+        "title": "NPTEL - Evolutionary Biology and Genetics lecture courses",
+        "url": "https://nptel.ac.in/courses",
+        "source": "NPTEL",
+        "type": "Course",
+        "level": "Olympiad",
+        "note": "Search 'evolutionary biology' or 'genetics' for university lecture series that deepen mechanism-of-evolution understanding for toppers and Olympiad aspirants."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Origin of life - Oparin-Haldane theory",
+        "query": "origin of life Oparin Haldane theory abiogenesis",
+        "level": "Foundation",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Miller-Urey experiment setup and results",
+        "query": "Miller Urey experiment apparatus amino acids formed",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Theories of origin of life - panspermia and biogenesis",
+        "query": "theories origin of life panspermia biogenesis spontaneous generation",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Evidences of evolution - homologous vs analogous organs",
+        "query": "homologous analogous organs evidences of evolution",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Vestigial organs and connecting links",
+        "query": "vestigial organs connecting links Archaeopteryx evolution",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube",
+          "bio"
+        ]
+      },
+      {
+        "label": "Fossil and paleontological evidence",
+        "query": "fossil evidence paleontological evidence of evolution",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Embryological and biochemical evidence",
+        "query": "embryological biochemical molecular evidence of evolution",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube",
+          "bio"
+        ]
+      },
+      {
+        "label": "Darwinism - theory of natural selection",
+        "query": "Darwinism theory of natural selection survival of fittest",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Lamarckism and inheritance of acquired characters",
+        "query": "Lamarckism inheritance of acquired characters use disuse",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Darwin vs Lamarck comparison",
+        "query": "Darwin vs Lamarck theory comparison evolution",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube",
+          "bio"
+        ]
+      },
+      {
+        "label": "Natural selection - industrial melanism (peppered moth)",
+        "query": "industrial melanism peppered moth Biston betularia natural selection",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Types of natural selection - stabilising, directional, disruptive",
+        "query": "types of natural selection stabilising directional disruptive",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Hardy-Weinberg principle and genetic equilibrium",
+        "query": "Hardy Weinberg principle genetic equilibrium",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Hardy-Weinberg numericals - allele frequency",
+        "query": "Hardy Weinberg numerical problems allele frequency p q",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube",
+          "bio"
+        ]
+      },
+      {
+        "label": "Hardy-Weinberg genotype frequency calculation",
+        "query": "Hardy Weinberg genotype frequency calculation p squared 2pq q squared",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pyq",
+          "bio",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Factors disturbing Hardy-Weinberg - genetic drift and gene flow",
+        "query": "genetic drift gene flow founder effect Hardy Weinberg disturbance",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Founder effect and bottleneck effect",
+        "query": "founder effect bottleneck effect genetic drift evolution",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube",
+          "bio"
+        ]
+      },
+      {
+        "label": "Mutation as a factor in evolution",
+        "query": "mutation gene flow recombination factors affecting evolution",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Mechanism of evolution and modern synthesis",
+        "query": "mechanism of evolution modern synthetic theory",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Speciation and reproductive isolation",
+        "query": "speciation reproductive isolation mechanism of evolution",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube",
+          "bio"
+        ]
+      },
+      {
+        "label": "Adaptive radiation - Darwin's finches",
+        "query": "adaptive radiation Darwin finches Galapagos islands",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Adaptive radiation - Australian marsupials",
+        "query": "adaptive radiation Australian marsupials convergent evolution",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube",
+          "bio"
+        ]
+      },
+      {
+        "label": "Convergent vs divergent evolution",
+        "query": "convergent divergent evolution analogous homologous",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Human evolution - hominid sequence",
+        "query": "human evolution Australopithecus Homo habilis erectus sapiens",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Human evolution - cranial capacity comparison",
+        "query": "human evolution cranial capacity brain size hominids comparison",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube",
+          "bio"
+        ]
+      },
+      {
+        "label": "Dryopithecus, Ramapithecus and ancestors of man",
+        "query": "Dryopithecus Ramapithecus ancestors of man human evolution",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube",
+          "bio"
+        ]
+      },
+      {
+        "label": "Brief account of evolution - geological time scale",
+        "query": "brief account of evolution geological time scale eras",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Variation and Darwinian fitness concept",
+        "query": "variation Darwinian fitness reproductive fitness evolution",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube",
+          "bio"
+        ]
+      },
+      {
+        "label": "Coacervates, microspheres and protobionts",
+        "query": "coacervates microspheres protobionts chemical evolution origin of life",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pyq",
+          "bio",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Evolution - NEET previous year questions and high-yield MCQs",
+        "query": "Evolution chapter NEET previous year questions assertion reason MCQ solutions",
+        "level": "NEET",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube",
+          "bio"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Human Health and Disease",
+    "slug": "human-health-disease",
+    "subject": "Biology",
+    "group": "Biology in Human Welfare & Biotech",
+    "blurb": "A high-yield NEET chapter covering pathogens and human diseases, the innate and acquired immune system, vaccines, AIDS, cancer, and drug/alcohol abuse — packed with directly-asked NCERT facts.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Common human diseases and their causal pathogens (Salmonella, Plasmodium, Ascaris, Wuchereria, Entamoeba, Microsporum, etc.)",
+      "Life cycle of Plasmodium and the Anopheles malaria vector",
+      "Innate immunity: physical, physiological, cellular and cytokine barriers",
+      "Acquired immunity: primary and secondary response, B-cells and T-cells",
+      "Active vs passive immunity and the structure of an antibody (H2L2)",
+      "Vaccination and immunisation, antitoxins and recombinant vaccines",
+      "Allergies, histamine, and autoimmune diseases (rheumatoid arthritis)",
+      "Structure of the immune system: primary and secondary lymphoid organs",
+      "AIDS — HIV, retrovirus replication, transmission, ELISA diagnosis and prevention",
+      "Cancer — benign vs malignant tumours, metastasis, oncogenes and proto-oncogenes",
+      "Carcinogens, cancer detection (biopsy, CT, MRI) and treatment",
+      "Drugs and alcohol abuse — opioids, cannabinoids, coca alkaloids",
+      "Adolescence, dependence, withdrawal syndrome and de-addiction",
+      "Tobacco abuse, nicotine and associated health effects"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Class XII Biology Textbook (Human Health and Disease)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "THE primary source for NEET — select Biology, Class XII. This is the single most line-by-line tested chapter; read every line, table and diagram."
+      },
+      {
+        "title": "NCERT Textbooks Portal (download all Biology PDFs)",
+        "url": "https://ncert.nic.in/textbook/textbook.htm",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "Foundation",
+        "note": "Official free PDF download hub. Grab the full Class XI and XII Biology books and revise this chapter directly from the NCERT text."
+      },
+      {
+        "title": "Khan Academy — Immune system search",
+        "url": "https://www.khanacademy.org/search?page_search_query=immune%20system",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Clear animated lessons on innate vs adaptive immunity, B and T cells, and antibodies — a strong visual primer before NCERT memorisation."
+      },
+      {
+        "title": "Khan Academy — HIV and AIDS search",
+        "url": "https://www.khanacademy.org/search?page_search_query=HIV%20AIDS",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "NEET",
+        "note": "Covers retrovirus replication, helper T-cell destruction and progression to AIDS — maps directly onto the NCERT AIDS section."
+      },
+      {
+        "title": "Khan Academy — Cancer and cell cycle search",
+        "url": "https://www.khanacademy.org/search?page_search_query=cancer%20cell%20cycle",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "NEET",
+        "note": "Tumour suppressor genes, proto-oncogenes and uncontrolled cell division — backs the cancer subtopic with mechanism-level clarity."
+      },
+      {
+        "title": "OpenStax Biology 2e — full free textbook (Immune System unit)",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Open the Immune System unit for innate/adaptive immunity, antibody structure and immunological memory — deeper than NCERT but fully aligned."
+      },
+      {
+        "title": "Biology LibreTexts — immunity and disease reference",
+        "url": "https://bio.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Search 'immune system', 'antibody', 'HIV' or 'cancer' for free, citable explanations and diagrams to clarify tricky NCERT statements."
+      },
+      {
+        "title": "Wikipedia — Plasmodium life cycle search",
+        "url": "https://en.wikipedia.org/w/index.php?search=Plasmodium%20life%20cycle%20malaria",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Sporozoite, schizont, gametocyte and Anopheles vector stages — the malaria life cycle is a recurring NEET question."
+      },
+      {
+        "title": "Wikipedia — antibody structure search",
+        "url": "https://en.wikipedia.org/w/index.php?search=antibody%20structure%20heavy%20light%20chains",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "H2L2 structure, antigen-binding sites and IgG/IgA/IgM classes — the antibody diagram is frequently asked."
+      },
+      {
+        "title": "Wikipedia — disease-to-pathogen matching search",
+        "url": "https://en.wikipedia.org/w/index.php?search=human%20diseases%20causative%20pathogens%20typhoid%20pneumonia%20filariasis",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "Foundation",
+        "note": "Quick disease-to-pathogen matching for typhoid, pneumonia, common cold, amoebiasis, ascariasis and elephantiasis."
+      },
+      {
+        "title": "Biology StackExchange — immunity Q&A search",
+        "url": "https://biology.stackexchange.com/search?q=innate%20vs%20adaptive%20immunity",
+        "source": "Biology StackExchange",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Expert-answered conceptual doubts on immune mechanisms — use for the 'why' behind tricky NEET assertion-reason questions."
+      },
+      {
+        "title": "Biology StackExchange — HIV and retrovirus Q&A search",
+        "url": "https://biology.stackexchange.com/search?q=HIV%20retrovirus%20reverse%20transcriptase",
+        "source": "Biology StackExchange",
+        "type": "Reference",
+        "level": "JEE Advanced",
+        "note": "Deep answers on reverse transcriptase, proviral DNA and helper T-cell decline to cement the AIDS mechanism."
+      },
+      {
+        "title": "NPTEL — Immunology courses search",
+        "url": "https://nptel.ac.in/courses",
+        "source": "NPTEL",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Search 'Immunology' for free recorded university lectures on antibodies, vaccines and cell-mediated immunity — enrichment beyond NEET depth."
+      },
+      {
+        "title": "Brilliant — interactive biology courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "NEET",
+        "note": "Interactive problem-driven lessons that build intuition for the immune response and the cell biology underlying cancer."
+      },
+      {
+        "title": "Official NEET (NTA) portal",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Official exam authority — syllabus, information bulletin, sample papers and the exact Biology unit weightage straight from the source."
+      },
+      {
+        "title": "PubMed — immunity and oncogenesis review search",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=HIV%20immune%20response%20review",
+        "source": "PubMed",
+        "type": "Reference",
+        "level": "Olympiad",
+        "note": "Peer-reviewed reviews for teachers wanting authoritative, current background on immunity, vaccines, oncogenes and metastasis."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Common diseases and their pathogens",
+        "query": "common human diseases and causative pathogens",
+        "level": "Foundation",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Bacterial diseases: typhoid, pneumonia",
+        "query": "typhoid pneumonia bacterial diseases Salmonella Streptococcus",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Viral diseases: common cold",
+        "query": "common cold rhinovirus viral human diseases",
+        "level": "Foundation",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Protozoan diseases: malaria and amoebiasis",
+        "query": "malaria amoebiasis protozoan diseases Plasmodium Entamoeba",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Plasmodium life cycle and malaria vector",
+        "query": "Plasmodium life cycle malaria Anopheles mosquito stages",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Helminth diseases: ascariasis and filariasis",
+        "query": "ascariasis filariasis Ascaris Wuchereria helminth diseases",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Ringworm and fungal diseases",
+        "query": "ringworm fungal diseases Microsporum Trichophyton Epidermophyton",
+        "level": "Foundation",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Innate immunity barriers",
+        "query": "innate immunity physical physiological cellular cytokine barriers",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Acquired immunity: primary and secondary response",
+        "query": "acquired immunity primary secondary immune response antibody",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "B-lymphocytes vs T-lymphocytes",
+        "query": "B lymphocytes T lymphocytes humoral cell mediated immunity",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Antibody structure (H2L2)",
+        "query": "antibody structure heavy light chains H2L2 antigen binding site",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Active vs passive immunity",
+        "query": "active versus passive immunity examples antitoxin",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Vaccination and immunisation",
+        "query": "vaccination immunisation recombinant DNA vaccine mechanism",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Allergies and histamine",
+        "query": "allergy histamine IgE antihistamine allergens",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Autoimmune diseases",
+        "query": "autoimmune diseases rheumatoid arthritis self antigen",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Lymphoid organs: primary and secondary",
+        "query": "lymphoid organs thymus bone marrow spleen lymph nodes",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "AIDS and HIV transmission",
+        "query": "AIDS HIV transmission prevention causative virus",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "HIV replication: retrovirus mechanism",
+        "query": "HIV retrovirus reverse transcriptase replication macrophage helper T cell",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "AIDS diagnosis: ELISA test",
+        "query": "AIDS diagnosis ELISA test HIV detection",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Cancer: benign vs malignant tumours",
+        "query": "cancer benign malignant tumour metastasis contact inhibition",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Oncogenes and proto-oncogenes",
+        "query": "oncogenes proto-oncogenes cellular oncogenes cancer causing genes",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Carcinogens and causes of cancer",
+        "query": "carcinogens physical chemical biological cancer causes",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Cancer detection and diagnosis",
+        "query": "cancer detection biopsy CT MRI monoclonal antibody diagnosis",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Cancer treatment methods",
+        "query": "cancer treatment radiotherapy chemotherapy immunotherapy interferon",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Drugs and alcohol abuse overview",
+        "query": "drugs alcohol abuse adolescence common drugs misuse",
+        "level": "Foundation",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Opioids: morphine and heroin",
+        "query": "opioids morphine heroin smack opium poppy effects",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Cannabinoids and marijuana",
+        "query": "cannabinoids marijuana hashish ganja Cannabis sativa effects",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Coca alkaloid and cocaine",
+        "query": "cocaine coca alkaloid Erythroxylum effects nervous system",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Tobacco abuse and nicotine",
+        "query": "tobacco abuse nicotine adrenaline health effects smoking",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Drug dependence, withdrawal and prevention",
+        "query": "drug dependence addiction withdrawal syndrome de-addiction prevention adolescence",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Microbes in Human Welfare",
+    "slug": "microbes-human-welfare",
+    "subject": "Biology",
+    "group": "Biology in Human Welfare & Biotech",
+    "blurb": "A high-yield, recall-heavy NEET chapter where students must memorise specific microbe names, products and processes — household foods, industrial fermentation, sewage treatment, biogas, biocontrol and biofertilizers.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Microbes in household products (curd, yoghurt, cheese, dough fermentation)",
+      "Lactobacillus and lactic acid bacteria (LAB) in curd formation",
+      "Saccharomyces cerevisiae (baker's and brewer's yeast) and dough rising",
+      "Toddy and traditional fermented beverages",
+      "Microbes in industrial products overview",
+      "Fermented beverages and distillation (wine, beer, whisky, rum, brandy)",
+      "Antibiotics — Penicillin from Penicillium notatum and Alexander Fleming",
+      "Chemicals, enzymes and bioactive molecules (citric acid, acetic acid, lactase, lipase, pectinase, streptokinase, cyclosporin A, statins)",
+      "Sewage treatment — primary and secondary treatment",
+      "Activated sludge, BOD and flocs in secondary treatment",
+      "Anaerobic sludge digesters and biogas release",
+      "Biogas (gobar gas) production and methanogens (Methanobacterium)",
+      "Microbes as biocontrol agents (Bacillus thuringiensis, Trichoderma, Baculovirus/NPV, ladybird, dragonfly)",
+      "Microbes as biofertilizers (Rhizobium, Azospirillum, Azotobacter, mycorrhiza/Glomus, Anabaena, Nostoc, Cyanobacteria)",
+      "Symbiotic and free-living nitrogen-fixing microbes"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Textbooks — download Class XII Biology (Microbes in Human Welfare chapter)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "THE primary NEET source. Open Class XII Biology and download the 'Microbes in Human Welfare' chapter PDF — every NEET MCQ traces to these exact lines and tables."
+      },
+      {
+        "title": "NCERT Class XII Biology — full e-textbook portal",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Read the chapter end-to-end at least twice; memorise the microbe-product table — it is the single highest-return revision asset for this chapter."
+      },
+      {
+        "title": "Official NEET (NTA) — syllabus, bulletin and notifications",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Confirm this chapter sits under the 'Biology in Human Welfare' unit in the current NEET syllabus and check exam-pattern updates before planning revision weightage."
+      },
+      {
+        "title": "Khan Academy — Biology (cellular respiration & fermentation)",
+        "url": "https://www.khanacademy.org/science/biology",
+        "source": "Khan Academy",
+        "type": "Topic page",
+        "level": "Foundation",
+        "note": "Free videos on alcoholic vs lactic acid fermentation — builds the conceptual base behind curd, dough, wine and beer before the NCERT memorisation work."
+      },
+      {
+        "title": "Khan Academy — Biology (ecology & nitrogen cycle)",
+        "url": "https://www.khanacademy.org/science/biology",
+        "source": "Khan Academy",
+        "type": "Topic page",
+        "level": "Foundation",
+        "note": "Foundation for biofertilizers — clarifies how Rhizobium and free-living fixers convert atmospheric N2 into usable nitrogen, the 'why' behind biofertilizer MCQs."
+      },
+      {
+        "title": "OpenStax Biology 2e — free full text (microbe metabolism & ecology)",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Use as a parallel English reference for fermentation, anaerobic decomposition and nitrogen fixation when a student needs a clearer explanation than NCERT's compressed text."
+      },
+      {
+        "title": "Biology LibreTexts — microbiology & applied microbiology reference",
+        "url": "https://bio.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Search 'industrial microbiology', 'wastewater treatment' or 'biogas' for deeper context on antibiotics, BOD and methanogenesis — good for answering tough student 'why' questions."
+      },
+      {
+        "title": "Wikipedia — Sewage treatment",
+        "url": "https://en.wikipedia.org/wiki/Sewage_treatment",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Clear diagrams and stage-by-stage breakdown of primary/secondary treatment, activated sludge and BOD that reinforce the NCERT flow chart."
+      },
+      {
+        "title": "Wikipedia — Biogas",
+        "url": "https://en.wikipedia.org/wiki/Biogas",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Covers methanogens, gobar gas composition and the role of anaerobic sludge digesters feeding the biogas plant — pairs with the NCERT biogas plant diagram."
+      },
+      {
+        "title": "Wikipedia — Bacillus thuringiensis",
+        "url": "https://en.wikipedia.org/wiki/Bacillus_thuringiensis",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Background on Bt toxin, the Bt cotton link and other biocontrol agents frequently tested in assertion-reason format."
+      },
+      {
+        "title": "Wikipedia — Rhizobium",
+        "url": "https://en.wikipedia.org/wiki/Rhizobium",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Symbiotic vs free-living fixers, mycorrhiza and cyanobacteria as biofertilizers — clarifies the exact organism-to-role matching NEET loves to test."
+      },
+      {
+        "title": "Wikipedia — Penicillin",
+        "url": "https://en.wikipedia.org/wiki/Penicillin",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "The discovery story and Penicillium notatum / chrysogenum naming — a recurring direct-recall NEET question every teacher should drill."
+      },
+      {
+        "title": "Wikipedia — Biological pest control",
+        "url": "https://en.wikipedia.org/wiki/Biological_pest_control",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Trichoderma, Baculovirus (NPV), ladybird and dragonfly as biocontrol agents — the organism-to-pest matching NEET asks in statement-based questions."
+      },
+      {
+        "title": "Wikipedia — Nitrogen fixation",
+        "url": "https://en.wikipedia.org/wiki/Nitrogen_fixation",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Symbiotic and free-living biological nitrogen fixation underpinning the biofertilizer table — Azotobacter, Azospirillum, Anabaena and Nostoc roles."
+      },
+      {
+        "title": "NPTEL — courses catalogue (search 'wastewater', 'environmental microbiology')",
+        "url": "https://nptel.ac.in/courses",
+        "source": "NPTEL",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Free university lectures on sewage treatment, BOD and industrial fermentation for teachers who want airtight depth beyond NCERT before teaching the unit."
+      },
+      {
+        "title": "Wikipedia — Activated sludge",
+        "url": "https://en.wikipedia.org/wiki/Activated_sludge",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "JEE Advanced",
+        "note": "Deeper detail on flocs, aerobic microbial digestion and BOD reduction in secondary treatment for advanced student questions beyond the NCERT summary."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Curd formation by Lactobacillus (LAB) and lactic acid",
+        "query": "Lactobacillus curd formation lactic acid bacteria",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Yeast (Saccharomyces cerevisiae) in dough and bread making",
+        "query": "Saccharomyces cerevisiae dough fermentation bread",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Microbes in household products — Swiss and Roquefort cheese",
+        "query": "microbes household products cheese Propionibacterium Penicillium",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Toddy and traditional fermented food and drinks",
+        "query": "toddy fermentation traditional drink microbes",
+        "level": "Foundation",
+        "sources": [
+          "google",
+          "youtube",
+          "bio"
+        ]
+      },
+      {
+        "label": "Fermented beverages — wine, beer, whisky and distillation",
+        "query": "fermented beverages wine beer whisky distillation difference",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Penicillin discovery — Fleming and Penicillium notatum",
+        "query": "penicillin antibiotic Penicillium notatum Fleming discovery",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Antibiotics produced by microbes — full list",
+        "query": "antibiotics produced by microorganisms list NEET",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Organic acids from microbes — citric, acetic, butyric, lactic",
+        "query": "organic acids produced by microbes citric acetic acid",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Microbial enzymes — lipase, pectinase, streptokinase, lactase",
+        "query": "microbial enzymes lipase pectinase streptokinase uses",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Bioactive molecules — cyclosporin A and statins",
+        "query": "cyclosporin A statin microbial bioactive molecule source",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Statins (Monascus purpureus) as cholesterol-lowering agent",
+        "query": "statin Monascus purpureus blood cholesterol mechanism",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Sewage treatment overview — primary and secondary stages",
+        "query": "sewage treatment primary secondary stages NEET",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Activated sludge process and flocs in secondary treatment",
+        "query": "activated sludge process flocs aerobic sewage treatment",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "BOD — biochemical oxygen demand and water quality",
+        "query": "biochemical oxygen demand BOD sewage water quality",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Anaerobic sludge digesters and biogas evolution",
+        "query": "anaerobic sludge digester biogas sewage treatment",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Biogas (gobar gas) plant working and structure",
+        "query": "biogas plant gobar gas working diagram",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Methanogens — Methanobacterium and methane production",
+        "query": "methanogens Methanobacterium methane biogas rumen",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Composition of biogas — methane, CO2, hydrogen sulphide",
+        "query": "biogas composition methane carbon dioxide percentage",
+        "level": "Foundation",
+        "sources": [
+          "google",
+          "youtube",
+          "bio"
+        ]
+      },
+      {
+        "label": "Biocontrol agents overview — biological pest and disease control",
+        "query": "biocontrol agents biological control pests diseases NEET",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Bacillus thuringiensis (Bt) toxin and caterpillar control",
+        "query": "Bacillus thuringiensis Bt toxin caterpillar biocontrol",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Bt cotton and the Bt gene link to biocontrol",
+        "query": "Bt cotton Bacillus thuringiensis gene insect resistance",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Trichoderma as biocontrol agent for plant pathogens",
+        "query": "Trichoderma biocontrol agent fungal plant disease",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Baculovirus (NPV) as a species-specific biopesticide",
+        "query": "Baculovirus nucleopolyhedrovirus NPV biopesticide",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Ladybird and dragonfly as biological control of pests",
+        "query": "ladybird dragonfly biological control aphids mosquitoes",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Biofertilizers overview — bacteria, fungi and cyanobacteria",
+        "query": "biofertilizers types bacteria fungi cyanobacteria NEET",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Rhizobium symbiotic nitrogen fixation in legume root nodules",
+        "query": "Rhizobium symbiotic nitrogen fixation legume root nodules",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Free-living nitrogen fixers — Azotobacter and Azospirillum",
+        "query": "Azotobacter Azospirillum free living nitrogen fixing biofertilizer",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "Mycorrhiza (Glomus) symbiosis and phosphorus uptake",
+        "query": "mycorrhiza Glomus symbiosis phosphorus absorption biofertilizer",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cyanobacteria biofertilizers — Anabaena, Nostoc, Oscillatoria",
+        "query": "cyanobacteria biofertilizer Anabaena Nostoc paddy field",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Microbe vs product matching table — full NCERT revision",
+        "query": "microbes in human welfare microbe product table NCERT",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Assertion-reason and statement-based questions on this chapter",
+        "query": "microbes in human welfare assertion reason questions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pyq",
+          "bio"
+        ]
+      },
+      {
+        "label": "NEET previous year questions — Microbes in Human Welfare",
+        "query": "microbes in human welfare previous year questions NEET",
+        "level": "NEET",
+        "sources": [
+          "pyq",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "One-shot full chapter revision lecture for NEET",
+        "query": "microbes in human welfare one shot full chapter NEET",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Biotechnology: Principles and Processes",
+    "slug": "biotech-principles",
+    "subject": "Biology",
+    "group": "Biology in Human Welfare & Biotech",
+    "blurb": "Everything a NEET aspirant needs for recombinant DNA technology — restriction enzymes, vectors, PCR, gel electrophoresis and bioreactors — anchored to NCERT with live problem and PYQ searches.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Principles of recombinant DNA technology",
+      "Restriction endonucleases and recognition sites",
+      "Palindromic sequences and sticky ends",
+      "Cloning vectors (pBR322) and selectable markers",
+      "Insertional inactivation and recombinant selection",
+      "Competent host cells and transformation",
+      "Polymerase Chain Reaction (PCR) steps",
+      "Taq polymerase and thermal cycling",
+      "Gel electrophoresis and DNA separation",
+      "Isolation of genetic material (DNA isolation)",
+      "Ligases, polymerases and other tools of rDNA",
+      "Bioreactors (stirred-tank and sparged)",
+      "Downstream processing",
+      "Gene gun, microinjection and disarmed Agrobacterium",
+      "Origin of replication and DNA cloning"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Biology Class XII Textbook (download chapter PDFs)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "THE primary NEET source — open Biology Class XII and read the 'Biotechnology: Principles and Processes' chapter line by line."
+      },
+      {
+        "title": "NCERT Textbooks portal (all classes, official PDFs)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "Foundation",
+        "note": "Pair Class XI cell biology and Class XII genetics chapters as background for biotech tools and vectors."
+      },
+      {
+        "title": "Wikipedia — Recombinant DNA technology",
+        "url": "https://en.wikipedia.org/w/index.php?search=recombinant%20DNA%20technology",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Concept overview of rDNA, host vectors and the three basic steps; quick revision beyond NCERT."
+      },
+      {
+        "title": "Wikipedia — Restriction endonuclease",
+        "url": "https://en.wikipedia.org/w/index.php?search=restriction%20endonuclease%20EcoRI%20palindrome",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "EcoRI, recognition sequences, palindromes and sticky vs blunt ends — exactly the NCERT detail NEET tests."
+      },
+      {
+        "title": "Wikipedia — Polymerase Chain Reaction",
+        "url": "https://en.wikipedia.org/w/index.php?search=polymerase%20chain%20reaction%20Taq%20polymerase",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Denaturation–annealing–extension cycle, primers and Taq polymerase — high-yield NEET diagram topic."
+      },
+      {
+        "title": "Wikipedia — pBR322 cloning vector",
+        "url": "https://en.wikipedia.org/w/index.php?search=pBR322%20cloning%20vector%20ampicillin%20tetracycline",
+        "source": "Wikipedia",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "ori, ampR/tetR markers and the recognition sites used for insertional inactivation."
+      },
+      {
+        "title": "Khan Academy — recombinant DNA & cloning",
+        "url": "https://www.khanacademy.org/search?page_search_query=recombinant%20DNA%20technology",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Free animated lessons on cloning, restriction enzymes and PCR to build intuition before NCERT memorisation."
+      },
+      {
+        "title": "Khan Academy — PCR and gel electrophoresis",
+        "url": "https://www.khanacademy.org/search?page_search_query=PCR%20gel%20electrophoresis",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "NEET",
+        "note": "Step-by-step PCR and how DNA fragments are separated by size on an agarose gel."
+      },
+      {
+        "title": "Biology LibreTexts — biotechnology & cloning",
+        "url": "https://bio.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Search 'recombinant DNA' / 'cloning vectors' for free textbook sections with figures matching the NCERT process."
+      },
+      {
+        "title": "OpenStax Biology 2e — Biotechnology",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Free full text covering molecular cloning, plasmids, PCR and gel electrophoresis with clean diagrams."
+      },
+      {
+        "title": "Biology StackExchange — restriction enzyme & cloning Q&A",
+        "url": "https://biology.stackexchange.com/search?q=restriction%20enzyme%20cloning%20vector",
+        "source": "Biology StackExchange",
+        "type": "Problem set",
+        "level": "NEET",
+        "note": "Conceptual doubts on sticky ends, ligation and vector design answered by working biologists."
+      },
+      {
+        "title": "Biology StackExchange — PCR primers & polymerase Q&A",
+        "url": "https://biology.stackexchange.com/search?q=PCR%20primer%20Taq%20polymerase",
+        "source": "Biology StackExchange",
+        "type": "Problem set",
+        "level": "Olympiad",
+        "note": "Deeper why-questions on primers, annealing temperature and polymerase fidelity for stronger students."
+      },
+      {
+        "title": "NPTEL — recombinant DNA technology lectures",
+        "url": "https://nptel.ac.in/courses",
+        "source": "NPTEL",
+        "type": "Course",
+        "level": "NEET",
+        "note": "Search 'recombinant DNA technology' for IIT video lectures that expand every NCERT tool and technique."
+      },
+      {
+        "title": "NPTEL — bioprocess engineering & bioreactors",
+        "url": "https://nptel.ac.in/courses",
+        "source": "NPTEL",
+        "type": "Course",
+        "level": "Olympiad",
+        "note": "Stirred-tank vs sparged bioreactors and downstream processing — the engineering side NCERT only summarises."
+      },
+      {
+        "title": "Official NEET (NTA) — syllabus, papers & notifications",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA NEET",
+        "type": "Past papers",
+        "level": "NEET",
+        "note": "Authoritative source for the current NEET Biology syllabus weightage and official question papers/keys."
+      },
+      {
+        "title": "Brilliant — biology & molecular biology courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "Foundation",
+        "note": "Interactive problem-solving to strengthen the molecular-biology base underlying biotech tools."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Recombinant DNA technology — three basic steps",
+        "query": "recombinant DNA technology three basic steps",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Tools of recombinant DNA technology overview",
+        "query": "tools of recombinant DNA technology",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Restriction endonucleases — nomenclature & function",
+        "query": "restriction endonuclease enzyme nomenclature EcoRI",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Palindromic sequences and sticky ends",
+        "query": "palindromic sequence sticky ends restriction enzyme",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Blunt ends vs sticky ends in cloning",
+        "query": "blunt ends versus sticky ends DNA ligation",
+        "level": "Olympiad",
+        "sources": [
+          "bio",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Cloning vectors — features (ori, marker, sites)",
+        "query": "cloning vector features origin of replication selectable marker",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "pBR322 plasmid map and resistance genes",
+        "query": "pBR322 plasmid map ampicillin tetracycline resistance",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Insertional inactivation & recombinant selection",
+        "query": "insertional inactivation selection of recombinants",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Blue-white selection / lacZ screening",
+        "query": "blue white selection lacZ insertional inactivation",
+        "level": "Olympiad",
+        "sources": [
+          "bio",
+          "youtube",
+          "google"
+        ]
+      },
+      {
+        "label": "Competent host cells and transformation",
+        "query": "competent host cell transformation calcium chloride heat shock",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Plasmid vector — Salmonella typhimurium",
+        "query": "plasmid vector Salmonella typhimurium recombinant DNA",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Agrobacterium tumefaciens Ti plasmid as vector",
+        "query": "Agrobacterium tumefaciens Ti plasmid vector plant",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Bacteriophage as cloning vector",
+        "query": "bacteriophage cloning vector lambda DNA",
+        "level": "Olympiad",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "PCR — denaturation, annealing, extension",
+        "query": "PCR denaturation annealing extension steps",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Taq polymerase and thermal stability",
+        "query": "Taq polymerase thermus aquaticus thermostable PCR",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Primers and amplification in PCR",
+        "query": "PCR primers DNA amplification billion copies",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Gel electrophoresis — separation of DNA fragments",
+        "query": "agarose gel electrophoresis DNA fragment separation",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Ethidium bromide and DNA band visualisation",
+        "query": "ethidium bromide UV DNA bands gel electrophoresis",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Elution and isolation of separated DNA",
+        "query": "elution of DNA fragment from agarose gel",
+        "level": "Olympiad",
+        "sources": [
+          "bio",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Isolation of genetic material (DNA isolation)",
+        "query": "isolation of DNA lysozyme cellulase chitinase RNase",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "DNA ligase — joining DNA fragments",
+        "query": "DNA ligase joining sticky ends molecular glue",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Bioreactors — stirred-tank vs sparged",
+        "query": "bioreactor stirred tank sparged design components",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Bioreactor parts — agitator, oxygen, foam, sampling",
+        "query": "bioreactor agitator oxygen delivery foam control sampling port",
+        "level": "Olympiad",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Downstream processing steps",
+        "query": "downstream processing separation purification formulation",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Gene gun / biolistics method",
+        "query": "gene gun biolistics microprojectile plant transformation",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Microinjection and direct gene transfer",
+        "query": "microinjection direct gene transfer animal cell",
+        "level": "Olympiad",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Disarmed pathogen vectors (Agrobacterium, retrovirus)",
+        "query": "disarmed Agrobacterium retrovirus vector gene delivery",
+        "level": "Olympiad",
+        "sources": [
+          "bio",
+          "google",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Origin of replication and copy number",
+        "query": "origin of replication copy number cloning vector",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Selectable markers and antibiotic resistance",
+        "query": "selectable marker antibiotic resistance gene cloning vector",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Biotechnology principles — full chapter PYQ drill",
+        "query": "biotechnology principles and processes chapter",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Restriction map and number of fragments problems",
+        "query": "restriction map number of fragments DNA cut",
+        "level": "Olympiad",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Biotechnology and its Applications",
+    "slug": "biotech-applications",
+    "subject": "Biology",
+    "group": "Biology in Human Welfare & Biotech",
+    "blurb": "A durable link pack covering every NCERT-syllabus application of biotechnology — Bt cotton, RNAi, recombinant insulin, gene therapy, molecular diagnosis, transgenic animals, and biopiracy — with anchors and live searches your students can revisit any exam season.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Biotechnological applications in agriculture",
+      "Genetically modified organisms (GMOs)",
+      "Bt cotton and Bt toxin (Cry proteins)",
+      "Pest-resistant plants and Bacillus thuringiensis",
+      "RNA interference (RNAi) and Meloidogyne incognita resistance",
+      "Genetically engineered (recombinant) human insulin",
+      "Production of insulin A and B chains in E. coli",
+      "Gene therapy and ADA deficiency (SCID)",
+      "Molecular diagnosis using PCR and ELISA",
+      "Transgenic animals and their applications",
+      "Rosie the cow and enriched milk",
+      "Ethical issues, GEAC and biosafety",
+      "Biopiracy and patents",
+      "Basmati rice and turmeric patent cases",
+      "Golden rice and improved nutrition"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Textbooks (official PDF portal) — Class XII Biology",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "THE primary NEET source. Open Biology (Class XII) and read the 'Biotechnology and its Applications' chapter — Bt cotton, RNAi, insulin, gene therapy, molecular diagnosis, transgenic animals, biopiracy are all here verbatim."
+      },
+      {
+        "title": "NCERT Class XII Biology — chapter listing",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Select Biology > Class XII to download the exact chapter; every NEET question is framed from this text. Read line-by-line for in-text and diagram-based MCQs."
+      },
+      {
+        "title": "NCERT Exemplar (official portal) — Class XII Biology problems",
+        "url": "https://ncert.nic.in/exemplar-problems.php",
+        "source": "NCERT",
+        "type": "Problem set",
+        "level": "NEET",
+        "note": "Official exemplar MCQs and assertion-reason problems on this chapter — closest in style to NEET; use for graded self-testing after the textbook."
+      },
+      {
+        "title": "Khan Academy — biotechnology applications search",
+        "url": "https://www.khanacademy.org/search?page_search_query=biotechnology%20applications%20genetic%20engineering",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Free videos on recombinant DNA technology and applications — good for building the conceptual base before NCERT memorisation."
+      },
+      {
+        "title": "Khan Academy — RNA interference search",
+        "url": "https://www.khanacademy.org/search?page_search_query=RNA%20interference%20gene%20silencing",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "NEET",
+        "note": "Visual explanation of dsRNA and gene silencing — directly supports the NCERT Bt cotton / nematode RNAi mechanism question."
+      },
+      {
+        "title": "OpenStax Biology 2e — Biotechnology (free full text)",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Open the Biotechnology unit for clear coverage of GMOs, gene therapy, transgenic organisms and molecular diagnostics — reinforces NCERT with extra worked context."
+      },
+      {
+        "title": "Biology LibreTexts — biotechnology library",
+        "url": "https://bio.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Search 'biotechnology applications' / 'gene therapy' / 'transgenic' for free explanatory chapters; durable open-access reference for deeper reading."
+      },
+      {
+        "title": "Wikipedia — Bt cotton",
+        "url": "https://en.wikipedia.org/wiki/Bt_cotton",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Cry I Ac / Cry II Ab genes, Bacillus thuringiensis, alkaline-gut activation of the toxin — exactly the mechanism NEET tests on bollworm resistance."
+      },
+      {
+        "title": "Wikipedia — gene therapy",
+        "url": "https://en.wikipedia.org/wiki/Gene_therapy",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "ADA-deficiency SCID, first gene therapy in 1990, lymphocyte / bone-marrow approaches — supports the NCERT gene therapy paragraph."
+      },
+      {
+        "title": "Wikipedia — insulin (recombinant production)",
+        "url": "https://en.wikipedia.org/wiki/Insulin",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "A and B chain production in E. coli and disulfide-bond assembly — the Humulin / Eli Lilly story NCERT references for genetically engineered insulin."
+      },
+      {
+        "title": "Wikipedia — genetically modified animal (transgenic animals)",
+        "url": "https://en.wikipedia.org/wiki/Genetically_modified_animal",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Rosie the cow, transgenic mice for vaccine safety, alpha-1-antitrypsin — covers all five NCERT uses of transgenic animals."
+      },
+      {
+        "title": "Wikipedia — biopiracy",
+        "url": "https://en.wikipedia.org/wiki/Biopiracy",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Basmati, turmeric and neem patent disputes plus the role of regulators — the ethical-issues section NEET draws assertion-reason questions from."
+      },
+      {
+        "title": "Wikipedia — golden rice",
+        "url": "https://en.wikipedia.org/wiki/Golden_rice",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Provitamin-A biofortified rice — the standard NCERT example of improving nutritional quality of crops via biotechnology."
+      },
+      {
+        "title": "NPTEL — biotechnology / genetic engineering courses",
+        "url": "https://nptel.ac.in/courses",
+        "source": "NPTEL",
+        "type": "Course",
+        "level": "JEE Advanced",
+        "note": "Search 'biotechnology' or 'genetic engineering' for free IIT lecture series — enrichment beyond NEET depth for motivated students."
+      },
+      {
+        "title": "Official NEET (NTA) portal",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Authoritative source for the current NEET Biology syllabus, exam pattern and notifications — confirm chapter is in-syllabus each year."
+      },
+      {
+        "title": "Brilliant — interactive science courses",
+        "url": "https://brilliant.org/courses/",
+        "source": "Brilliant",
+        "type": "Course",
+        "level": "Foundation",
+        "note": "Interactive biology/genetics courses to build intuition on DNA, genes and expression before applying it to biotech applications."
+      },
+      {
+        "title": "NCBI PubMed — Bt crop / Cry protein literature",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Bt+cotton+cry+protein+insect+resistance",
+        "source": "PubMed",
+        "type": "Reference",
+        "level": "Olympiad",
+        "note": "Primary-literature search for the Bacillus thuringiensis toxin mechanism — for olympiad-level or project enrichment only."
+      },
+      {
+        "title": "NCBI PubMed — gene therapy ADA / SCID literature",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=gene+therapy+ADA+deficiency+SCID",
+        "source": "PubMed",
+        "type": "Reference",
+        "level": "Olympiad",
+        "note": "Original research on adenosine-deaminase gene therapy — depth reference beyond NEET for curious or olympiad students."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Biotechnology applications overview (NCERT basics)",
+        "query": "biotechnology and its applications class 12",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Genetically modified organisms (GMOs) basics",
+        "query": "genetically modified organisms GMO uses and advantages",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Why crops are genetically modified",
+        "query": "reasons for genetic modification of crops biotechnology",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Bt cotton and Bt toxin mechanism",
+        "query": "Bt cotton Bt toxin cry protein mechanism",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cry I Ac and Cry II Ab genes and bollworm",
+        "query": "cry IAc cry IIAb gene cotton bollworm",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Bacillus thuringiensis protoxin activation in insect gut",
+        "query": "Bacillus thuringiensis protoxin alkaline gut activation",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Pest-resistant transgenic plants",
+        "query": "pest resistant transgenic plants biotechnology",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "RNA interference (RNAi) mechanism",
+        "query": "RNA interference RNAi mechanism gene silencing",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "RNAi nematode resistance in tobacco (Meloidogyne incognita)",
+        "query": "RNAi Meloidogyne incognita tobacco nematode resistance",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "dsRNA and complementary mRNA silencing",
+        "query": "double stranded RNA silencing complementary mRNA RNAi",
+        "level": "JEE Advanced",
+        "sources": [
+          "youtube",
+          "bio",
+          "google"
+        ]
+      },
+      {
+        "label": "Genetically engineered insulin production",
+        "query": "genetically engineered human insulin production E coli",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Insulin A and B chains and disulfide bonds",
+        "query": "insulin A chain B chain disulfide bond proinsulin humulin",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Proinsulin vs mature insulin (C-peptide)",
+        "query": "proinsulin C peptide mature insulin difference",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Gene therapy concept and steps",
+        "query": "gene therapy definition steps biotechnology class 12",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "ADA deficiency gene therapy (SCID)",
+        "query": "ADA deficiency gene therapy adenosine deaminase SCID",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "First gene therapy 1990 (lymphocyte approach)",
+        "query": "first gene therapy 1990 ADA girl lymphocytes bone marrow",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Molecular diagnosis using PCR",
+        "query": "molecular diagnosis PCR early detection pathogen",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "ELISA in molecular diagnosis",
+        "query": "ELISA molecular diagnosis antigen antibody detection",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "PCR vs ELISA in early disease detection",
+        "query": "PCR ELISA comparison early disease detection HIV",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Radioactive probe hybridisation diagnosis",
+        "query": "single stranded DNA probe autoradiography mutated gene detection",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Transgenic animals definition and uses",
+        "query": "transgenic animals applications biotechnology class 12",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Rosie the transgenic cow (enriched milk)",
+        "query": "Rosie transgenic cow human alpha lactalbumin milk",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Transgenic animals for biological products",
+        "query": "transgenic animals alpha 1 antitrypsin biological products",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Transgenic mice for vaccine safety testing",
+        "query": "transgenic mice vaccine safety testing toxicity",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Ethical issues and GEAC biosafety",
+        "query": "GEAC genetic engineering approval committee ethical issues GMO",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Biopiracy meaning and examples",
+        "query": "biopiracy definition examples patents biological resources",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Basmati, turmeric and neem patent cases",
+        "query": "basmati rice turmeric neem patent biopiracy India",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Patents and IP in biotech for developing nations",
+        "query": "patents intellectual property biotechnology developing nations",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Golden rice and improved nutrition",
+        "query": "golden rice vitamin A genetically modified nutrition",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Biofortification and improved food quality",
+        "query": "biofortification GMO improved nutritional value crops",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Chapter PYQ MCQ practice (full chapter)",
+        "query": "biotechnology and its applications NEET MCQ chapter",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq",
+          "youtube"
+        ]
+      },
+      {
+        "label": "Assertion-reason and statement-based questions",
+        "query": "biotechnology applications assertion reason statement questions",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "pyq",
+          "bio"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Organisms and Populations",
+    "slug": "organisms-populations",
+    "subject": "Biology",
+    "group": "Ecology",
+    "blurb": "A ready-to-use pack of always-working NCERT-aligned links covering organism-environment relationships, adaptations, population attributes, growth models, and species interactions for NEET prep.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Levels of ecological organisation (organism, population, community, ecosystem, biome)",
+      "Major abiotic factors: temperature, water, light and soil",
+      "Responses to abiotic factors: regulate, conform, migrate, suspend",
+      "Adaptations: morphological, physiological and behavioural",
+      "Examples of adaptation: kangaroo rat, Allen's rule, altitude sickness, desert plants",
+      "Population attributes: birth rate, death rate, sex ratio, age pyramids",
+      "Population density and methods of measurement",
+      "Population growth: exponential (J-shaped) growth model",
+      "Population growth: logistic (S-shaped) growth and carrying capacity",
+      "Life history variation and r- and K-selection",
+      "Population interactions: mutualism, competition, predation, parasitism, commensalism, amensalism",
+      "Predation and its ecological role; defences in prey and plants",
+      "Competition: Gause's competitive exclusion principle and resource partitioning",
+      "Parasitism: host specificity, brood parasitism, adaptations of parasites",
+      "Mutualism examples: pollination, lichens, mycorrhizae, fig-wasp"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Biology Class XII Textbook (download chapters)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "THE primary NEET source. Select Biology Class XII and open the 'Organisms and Populations' chapter PDF; read line-by-line as exam matter comes verbatim from here."
+      },
+      {
+        "title": "NROER National Repository of Open Educational Resources",
+        "url": "https://nroer.gov.in/welcome",
+        "source": "NROER",
+        "type": "Reference",
+        "level": "Foundation",
+        "note": "Government repository; search 'ecology' or 'population' to pull free NCERT-aligned notes, diagrams and videos for Class XI-XII basics."
+      },
+      {
+        "title": "Official NEET (NTA) Information Portal",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Official syllabus, exam pattern and notifications. Confirm Ecology weightage and the exact prescribed topics here before revising."
+      },
+      {
+        "title": "OpenStax Biology 2e: Population and Community Ecology",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Free full text. Use the Population Ecology unit for clear treatment of exponential vs logistic growth, age structure and population dynamics."
+      },
+      {
+        "title": "Biology LibreTexts: Population Ecology",
+        "url": "https://bio.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Search 'population ecology' for modular notes on density, growth models, carrying capacity and survivorship curves with worked equations."
+      },
+      {
+        "title": "Khan Academy: Population Ecology",
+        "url": "https://www.khanacademy.org/search?page_search_query=population%20ecology",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Short videos on exponential and logistic growth and population regulation; good first-pass conceptual clarity before NCERT memorisation."
+      },
+      {
+        "title": "Khan Academy: Ecological Interactions",
+        "url": "https://www.khanacademy.org/search?page_search_query=ecological%20interactions%20symbiosis",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Covers predation, competition, mutualism, parasitism and commensalism with examples matching NCERT's interaction table."
+      },
+      {
+        "title": "Khan Academy: Adaptation and Natural Selection",
+        "url": "https://www.khanacademy.org/search?page_search_query=adaptation%20environment%20biology",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Short clips on how organisms adapt to abiotic factors; pairs with the kangaroo rat, Allen's rule and altitude examples in NCERT."
+      },
+      {
+        "title": "Wikipedia: Logistic function (population growth)",
+        "url": "https://en.wikipedia.org/w/index.php?search=logistic+population+growth",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Reference for the Verhulst-Pearl logistic equation dN/dt = rN(K-N)/K and the meaning of intrinsic rate r and carrying capacity K."
+      },
+      {
+        "title": "Wikipedia: Competitive exclusion principle (Gause)",
+        "url": "https://en.wikipedia.org/w/index.php?search=competitive+exclusion+principle+Gause",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Background on Gause's principle, resource partitioning and Connell's barnacle experiment, all referenced in NCERT competition section."
+      },
+      {
+        "title": "Wikipedia: Symbiosis and species interactions",
+        "url": "https://en.wikipedia.org/w/index.php?search=symbiosis+ecology+mutualism+parasitism",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Consolidated overview of the +/- interaction matrix used to classify mutualism, commensalism, amensalism, predation and competition."
+      },
+      {
+        "title": "CK-12 Biology: search 'population and interactions'",
+        "url": "https://www.ck12.org/search/?q=population%20ecology",
+        "source": "CK-12",
+        "type": "Topic page",
+        "level": "Foundation",
+        "note": "Free interactive lessons and quick checks on population density, growth and species interactions; useful for a simple first reading."
+      },
+      {
+        "title": "SWAYAM Online Courses (NPTEL ecology lectures)",
+        "url": "https://swayam.gov.in/explorer",
+        "source": "SWAYAM",
+        "type": "Course",
+        "level": "Mixed",
+        "note": "Search 'ecology' for free government university courses that deepen population dynamics and interactions beyond NCERT for top scorers."
+      },
+      {
+        "title": "NIOS Open Schooling Study Material",
+        "url": "https://www.nios.ac.in/online-course-material.aspx",
+        "source": "NIOS",
+        "type": "Reference",
+        "level": "Foundation",
+        "note": "Open-school Biology modules on environment and ecology in plain language; a gentle parallel reading to reinforce NCERT concepts."
+      },
+      {
+        "title": "NCERT Exemplar Problems (Biology)",
+        "url": "https://ncert.nic.in/exemplar-problems.php",
+        "source": "NCERT",
+        "type": "Problem set",
+        "level": "NEET",
+        "note": "Select Biology and use the Organisms and Populations exemplar for higher-order MCQs and assertion-reason practice in the NEET pattern."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Levels of organisation in ecology",
+        "query": "levels of ecological organisation organism population community",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Organism and its environment basics",
+        "query": "organism and environment ecology introduction biomes",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Abiotic factor: temperature",
+        "query": "temperature as abiotic factor eurythermal stenothermal",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Abiotic factor: water and salinity",
+        "query": "water salinity euryhaline stenohaline abiotic factor",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Abiotic factors: light and soil",
+        "query": "light and soil abiotic factors plants photoperiod",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio"
+        ]
+      },
+      {
+        "label": "Responses to abiotic factors",
+        "query": "regulate conform migrate suspend responses to environment",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Regulators vs conformers (homeostasis)",
+        "query": "regulators conformers thermoregulation osmoregulation",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio"
+        ]
+      },
+      {
+        "label": "Adaptations: morphological, physiological, behavioural",
+        "query": "adaptations morphological physiological behavioural examples",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Kangaroo rat desert adaptation",
+        "query": "kangaroo rat adaptation desert water conservation",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio"
+        ]
+      },
+      {
+        "label": "Allen's rule and body size",
+        "query": "Allen's rule body shape cold adaptation",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio"
+        ]
+      },
+      {
+        "label": "Altitude sickness and acclimatisation",
+        "query": "altitude sickness acclimatisation high altitude adaptation",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Desert plant and animal adaptations",
+        "query": "xerophytes desert plant adaptations CAM photosynthesis",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "bio"
+        ]
+      },
+      {
+        "label": "Hibernation, aestivation and diapause",
+        "query": "hibernation aestivation diapause dormancy examples",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Population attributes overview",
+        "query": "population attributes natality mortality sex ratio NEET",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Population density measurement methods",
+        "query": "population density measurement percent cover biomass NEET",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Age pyramids and population structure",
+        "query": "age pyramid expanding stable declining population",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Population growth equation Nt",
+        "query": "population growth equation natality mortality immigration emigration",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Exponential growth (J-shaped curve)",
+        "query": "exponential population growth J shaped curve intrinsic rate",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Logistic growth (S-shaped curve)",
+        "query": "logistic growth S shaped curve carrying capacity Verhulst",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Carrying capacity concept",
+        "query": "carrying capacity K population logistic growth",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio"
+        ]
+      },
+      {
+        "label": "Intrinsic rate of natural increase (r)",
+        "query": "intrinsic rate of natural increase r population growth",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Population growth numerical problems",
+        "query": "population growth rate numerical problems calculation NEET",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Population interactions overview",
+        "query": "population interactions mutualism competition predation table",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Predation role and prey defences",
+        "query": "predation prey defence camouflage plant chemical defence",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Competition and Gause's principle",
+        "query": "competition competitive exclusion principle Gause resource partitioning",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Parasitism and host specificity",
+        "query": "parasitism host specificity brood parasitism cuckoo",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Commensalism examples",
+        "query": "commensalism examples orchid cattle egret barnacle whale",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio"
+        ]
+      },
+      {
+        "label": "Mutualism and pollination examples",
+        "query": "mutualism examples lichen mycorrhiza fig wasp pollination",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Amensalism and antibiosis",
+        "query": "amensalism antibiosis Penicillium example interaction",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Organisms and Populations: revision and PYQs",
+        "query": "organisms and populations one shot revision previous year questions",
+        "level": "NEET",
+        "sources": [
+          "pyq",
+          "youtube",
+          "google"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Ecosystem",
+    "slug": "ecosystem",
+    "subject": "Biology",
+    "group": "Ecology",
+    "blurb": "A high-yield NEET Ecology chapter covering ecosystem structure, energy flow, ecological pyramids, nutrient cycles, productivity, decomposition and succession — pair NCERT line-by-line reading with energy-flow and pyramid numericals.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "Ecosystem structure and components (biotic and abiotic)",
+      "Ecosystem functions: productivity, decomposition, energy flow, nutrient cycling",
+      "Gross and net primary productivity (GPP, NPP) and secondary productivity",
+      "Decomposition steps: fragmentation, leaching, catabolism, humification, mineralisation",
+      "Energy flow and the 10 percent law (Lindeman)",
+      "Food chains (grazing and detritus) and food webs",
+      "Trophic levels and standing crop / standing state",
+      "Ecological pyramids of number, biomass and energy (upright and inverted)",
+      "Nutrient cycling: gaseous and sedimentary biogeochemical cycles",
+      "Carbon cycle",
+      "Phosphorus cycle",
+      "Ecological succession: primary and secondary, hydrarch and xerarch",
+      "Pioneer species, sere, seral stages and climax community",
+      "Ecosystem services (pollination, climate, flood control, nutrient cycling)"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Textbooks (Class XII Biology — Ecosystem chapter)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "THE primary NEET source. Open Biology Class XII and read the Ecosystem chapter line-by-line; almost every NEET Ecosystem question maps to an NCERT line or diagram."
+      },
+      {
+        "title": "NCERT Class XI Biology (Organisms & Populations background)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "Foundation",
+        "note": "Open Class XI Biology for the ecology foundation (organisms, populations) that the Ecosystem chapter builds on. Read before tackling energy-flow numericals."
+      },
+      {
+        "title": "NCERT Exemplar Biology (Class XII)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Problem set",
+        "level": "NEET",
+        "note": "Open the NCERT Exemplar PDF for Class XII Biology — higher-order MCQs and assertion-reason items on energy flow, pyramids and nutrient cycles that mirror NEET difficulty."
+      },
+      {
+        "title": "OpenStax Biology 2e — Ecosystems & Energy Flow",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Free full text. The Ecology unit explains food webs, energy-flow efficiency and biogeochemical cycles with clear figures — good for reinforcing NCERT concepts in English."
+      },
+      {
+        "title": "OpenStax Biology 2e — Biogeochemical Cycles",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "The Ecosystems chapter's biogeochemical-cycles section gives reservoir/flux diagrams for carbon and phosphorus to complement NCERT's cycle diagrams."
+      },
+      {
+        "title": "Biology LibreTexts — Ecology & Ecosystems",
+        "url": "https://bio.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Browse the Ecology bookshelves for detailed explanations of trophic levels, energy flow, ecological pyramids and nutrient cycling beyond textbook depth."
+      },
+      {
+        "title": "Khan Academy — Biology library",
+        "url": "https://www.khanacademy.org/science/biology",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Open the Ecology unit for short videos and practice on trophic levels, the 10 percent rule, productivity and biogeochemical cycles — ideal for first-pass clarity before NCERT revision."
+      },
+      {
+        "title": "Khan Academy — High school biology (ecology)",
+        "url": "https://www.khanacademy.org/science/high-school-biology",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Beginner-level ecology videos on food chains, food webs, energy pyramids and succession to anchor the structural sub-topics before detailed study."
+      },
+      {
+        "title": "Wikipedia — Ecosystem",
+        "url": "https://en.wikipedia.org/wiki/Ecosystem",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Quick reference for ecosystem structure, energy flow, ecological pyramid types and Lindeman's 10 percent law when you need a fast cross-check."
+      },
+      {
+        "title": "Wikipedia — Ecological succession",
+        "url": "https://en.wikipedia.org/wiki/Ecological_succession",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Covers primary vs secondary, hydrarch and xerarch sere, seral stages and climax community — useful for the succession terminology NEET likes to test."
+      },
+      {
+        "title": "Wikipedia — Biogeochemical cycle",
+        "url": "https://en.wikipedia.org/wiki/Biogeochemical_cycle",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Reference for gaseous vs sedimentary cycles, plus carbon and phosphorus cycle details that NEET frequently tests."
+      },
+      {
+        "title": "NPTEL — Free online courses (search Ecology)",
+        "url": "https://nptel.ac.in/courses",
+        "source": "NPTEL",
+        "type": "Course",
+        "level": "NEET",
+        "note": "Search 'ecology' for free university lectures on ecosystem function, productivity and nutrient cycling — added depth for teachers and motivated NEET students."
+      },
+      {
+        "title": "Official NEET (NTA) — syllabus & information",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Authoritative NEET portal: confirm the current Biology syllabus weightage and exam pattern so Ecosystem prep stays on-syllabus."
+      },
+      {
+        "title": "NCERT Textbooks portal (all classes)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "Mixed",
+        "note": "Central NCERT textbook hub — re-download the latest Class XI and XII Biology PDFs each session so Ecosystem revision tracks the current edition exactly."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Ecosystem structure: biotic & abiotic components",
+        "query": "ecosystem structure biotic abiotic components",
+        "level": "Foundation",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Functions of an ecosystem (overview)",
+        "query": "functions of ecosystem productivity decomposition energy flow nutrient cycling",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Gross vs net primary productivity (GPP, NPP)",
+        "query": "gross primary productivity net primary productivity GPP NPP",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Secondary productivity definition",
+        "query": "secondary productivity ecosystem definition",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Factors affecting primary productivity",
+        "query": "factors affecting primary productivity ocean terrestrial ecosystem",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Decomposition steps: fragmentation to mineralisation",
+        "query": "decomposition fragmentation leaching catabolism humification mineralisation",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Factors affecting rate of decomposition",
+        "query": "factors affecting rate of decomposition temperature oxygen detritus",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Humus and humification in soil",
+        "query": "humus humification decomposition ecosystem",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Energy flow and the 10 percent law",
+        "query": "energy flow ecosystem ten percent law Lindeman",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Grazing vs detritus food chain",
+        "query": "grazing food chain detritus food chain difference",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Food web structure and stability",
+        "query": "food web trophic interconnection ecosystem stability",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Trophic levels: producers, consumers, decomposers",
+        "query": "trophic levels producers consumers decomposers ecosystem",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Standing crop and standing state",
+        "query": "standing crop standing state ecosystem biomass",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Why food chains have limited trophic levels",
+        "query": "why food chain limited to four five trophic levels energy loss",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Ecological pyramid of number",
+        "query": "ecological pyramid of number upright inverted",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Ecological pyramid of biomass (inverted)",
+        "query": "pyramid of biomass inverted sea ecosystem phytoplankton",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Pyramid of energy is always upright",
+        "query": "pyramid of energy always upright explanation ecosystem",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Limitations of ecological pyramids",
+        "query": "limitations of ecological pyramids ecosystem",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Nutrient cycling: gaseous vs sedimentary",
+        "query": "nutrient cycling gaseous sedimentary biogeochemical cycle",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Carbon cycle in the ecosystem",
+        "query": "carbon cycle ecosystem photosynthesis respiration",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Phosphorus cycle (sedimentary)",
+        "query": "phosphorus cycle sedimentary ecosystem rocks",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Carbon vs phosphorus cycle comparison",
+        "query": "carbon cycle versus phosphorus cycle differences ecosystem",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Ecological succession: primary vs secondary",
+        "query": "ecological succession primary secondary difference",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Hydrarch and xerarch succession",
+        "query": "hydrarch succession xerarch succession sere",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Pioneer species, sere and climax community",
+        "query": "pioneer species seral stages climax community succession",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Primary succession on bare rock (lichens to forest)",
+        "query": "primary succession bare rock lichens climax forest",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Ecosystem services (pollination, climate, flood)",
+        "query": "ecosystem services pollination climate regulation flood control",
+        "level": "NEET",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Energy flow diagram interpretation (numerical)",
+        "query": "energy flow diagram ecosystem trophic level numerical",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Detritivores and decomposers role",
+        "query": "detritivores decomposers role nutrient recycling ecosystem",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Net primary productivity: ocean vs land",
+        "query": "annual net primary productivity ocean terrestrial biosphere",
+        "level": "NEET",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Assertion-reason: energy flow & pyramids",
+        "query": "ecosystem energy flow ecological pyramid assertion reason",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Climax community and Clements' monoclimax",
+        "query": "climax community monoclimax Clements ecological succession",
+        "level": "JEE Advanced",
+        "sources": [
+          "bio",
+          "google",
+          "pyq"
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Biodiversity and Conservation",
+    "slug": "biodiversity-conservation",
+    "subject": "Biology",
+    "group": "Ecology",
+    "blurb": "Everything your students need for NEET's high-yield final ecology chapter, anchored on NCERT Class XII Unit X with curated drill, video, and PYQ searches.",
+    "jeeWeight": "High",
+    "subtopics": [
+      "What is biodiversity (genetic, species and ecological diversity)",
+      "Global and India's biodiversity (number of species, Robert May estimate)",
+      "Latitudinal gradients in diversity",
+      "Species-Area relationships (Alexander von Humboldt, slope z)",
+      "Importance of species diversity (rivet-popper hypothesis, ecosystem stability)",
+      "Loss of biodiversity and current rates of extinction",
+      "Causes of biodiversity loss (Evil Quartet: habitat loss, over-exploitation, alien species, co-extinctions)",
+      "Why should we conserve biodiversity (narrow, broad and ethical reasons)",
+      "In-situ conservation (biosphere reserves, national parks, sanctuaries, sacred groves)",
+      "Biodiversity hotspots of India and the world",
+      "Ex-situ conservation (zoos, botanical gardens, seed banks, cryopreservation)",
+      "Red Data Book and IUCN Red List categories",
+      "International efforts (Rio Earth Summit, World Summit on Sustainable Development)"
+    ],
+    "anchors": [
+      {
+        "title": "NCERT Textbooks (download Class XI & XII Biology PDFs)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "THE primary NEET source. Class XII Biology Unit X chapter 'Biodiversity and Conservation' is the exact NCERT chapter — read every line including in-text boxes."
+      },
+      {
+        "title": "NCERT: Class XII Biology chapter-wise download page",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Select Class XII > Biology to grab the Biodiversity chapter PDF; nearly every NEET question on this topic is traceable to these lines."
+      },
+      {
+        "title": "NCERT: Class XI Biology (Organisms and Populations context)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "source": "NCERT",
+        "type": "Reference",
+        "level": "Foundation",
+        "note": "The preceding ecology chapters give the population and community vocabulary students need before this chapter — assign as prerequisite reading."
+      },
+      {
+        "title": "Official NEET (NTA) portal — syllabus & information bulletin",
+        "url": "https://neet.nta.nic.in/",
+        "source": "NTA",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Confirm the current official NEET Biology syllabus and exam pattern; biodiversity sits under the Ecology unit."
+      },
+      {
+        "title": "OpenStax Biology 2e — free full text (Conservation & Biodiversity)",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Free, rigorous chapters on biodiversity, threats and conservation; use for richer explanations and figures beyond NCERT."
+      },
+      {
+        "title": "Biology LibreTexts — Conservation Biology & Biodiversity",
+        "url": "https://bio.libretexts.org/",
+        "source": "LibreTexts",
+        "type": "Topic page",
+        "level": "NEET",
+        "note": "Search 'biodiversity' or 'conservation biology' for modular notes on hotspots, in-situ/ex-situ methods and extinction."
+      },
+      {
+        "title": "Khan Academy — Biology ecology & biodiversity search",
+        "url": "https://www.khanacademy.org/search?page_search_query=biodiversity%20conservation",
+        "source": "Khan Academy",
+        "type": "Course",
+        "level": "Foundation",
+        "note": "Short videos and practice on biodiversity basics, hotspots, the sixth extinction and ecosystem services; good for first exposure."
+      },
+      {
+        "title": "Wikipedia — Biodiversity hotspot",
+        "url": "https://en.wikipedia.org/w/index.php?search=biodiversity%20hotspot",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Quick reference for India's hotspots (Western Ghats & Sri Lanka, Indo-Burma, Himalaya) and Norman Myers' criteria — cross-check names against NCERT."
+      },
+      {
+        "title": "Wikipedia — IUCN Red List / Red Data Book",
+        "url": "https://en.wikipedia.org/w/index.php?search=IUCN%20Red%20List%20Red%20Data%20Book",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Clarifies Red Data Book vs IUCN Red List and the threat categories (EX, EW, CR, EN, VU) frequently tested in NEET."
+      },
+      {
+        "title": "Wikipedia — Species-area relationship",
+        "url": "https://en.wikipedia.org/w/index.php?search=species%20area%20relationship",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Background for the log S = log C + Z log A equation; NEET tests the slope value (0.1-0.2 regional, ~0.6-1.2 continental)."
+      },
+      {
+        "title": "IUCN Red List — official threatened-species database",
+        "url": "https://www.iucnredlist.org/",
+        "source": "IUCN",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "The authoritative source behind the Red List categories NEET asks about; browse to confirm CR/EN/VU definitions and example species."
+      },
+      {
+        "title": "Wikipedia — Convention on Biological Diversity (Rio 1992)",
+        "url": "https://en.wikipedia.org/w/index.php?search=Convention%20on%20Biological%20Diversity",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Covers the 1992 Rio Earth Summit (CBD) and the 2002 World Summit on Sustainable Development — the two international efforts named in NCERT."
+      },
+      {
+        "title": "Wikipedia — Sacred groves of India",
+        "url": "https://en.wikipedia.org/w/index.php?search=sacred%20groves%20of%20India",
+        "source": "Wikipedia",
+        "type": "Reference",
+        "level": "NEET",
+        "note": "Khasi & Jaintia Hills, Aravalli, Western Ghats and Bastar examples of in-situ conservation tradition tested in NEET."
+      },
+      {
+        "title": "OpenStax — Importance of Biodiversity to Human Life",
+        "url": "https://openstax.org/details/books/biology-2e",
+        "source": "OpenStax",
+        "type": "Topic page",
+        "level": "Foundation",
+        "note": "Free chapter on ecosystem services, the narrow/broad/ethical conservation arguments and why diversity matters."
+      },
+      {
+        "title": "Khan Academy — biodiversity & ecosystem services search",
+        "url": "https://www.khanacademy.org/search?page_search_query=ecosystem%20services%20biodiversity",
+        "source": "Khan Academy",
+        "type": "Video",
+        "level": "Foundation",
+        "note": "Targeted clips on ecosystem services, why tropics are most diverse and the value of biodiversity for revision."
+      }
+    ],
+    "seeds": [
+      {
+        "label": "Levels of biodiversity (genetic, species, ecological)",
+        "query": "levels of biodiversity genetic species ecological diversity",
+        "level": "Foundation",
+        "sources": [
+          "bio",
+          "youtube",
+          "google",
+          "pyq"
+        ]
+      },
+      {
+        "label": "What is biodiversity (definition and meaning)",
+        "query": "what is biodiversity definition meaning Edward Wilson",
+        "level": "Foundation",
+        "sources": [
+          "youtube",
+          "google",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Global species number and Robert May estimate",
+        "query": "global biodiversity number of species Robert May estimate",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "India's biodiversity share and megadiversity",
+        "query": "India biodiversity share percentage megadiverse country",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Proportion of species across taxonomic groups",
+        "query": "proportion of species animals plants fungi pie chart biodiversity",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Latitudinal gradients in diversity (tropics richest)",
+        "query": "latitudinal gradient species diversity tropics richest",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Why are tropics more biodiverse",
+        "query": "why tropics more species diversity reasons constant climate",
+        "level": "JEE Main",
+        "sources": [
+          "bio",
+          "google",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Species-area relationship and slope z value",
+        "query": "species area relationship slope z value rectangular hyperbola",
+        "level": "JEE Advanced",
+        "sources": [
+          "google",
+          "bio",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Alexander von Humboldt species-area curve",
+        "query": "Alexander von Humboldt species area curve biodiversity",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Importance of species diversity to the ecosystem",
+        "query": "importance of species diversity ecosystem stability productivity",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Rivet-popper hypothesis (Paul Ehrlich)",
+        "query": "rivet popper hypothesis Paul Ehrlich biodiversity",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "David Tilman's biodiversity stability experiments",
+        "query": "David Tilman biodiversity stability productivity experiments",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "bio",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Loss of biodiversity and rates of extinction",
+        "query": "loss of biodiversity current rate of extinction sixth extinction",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "The Evil Quartet causes of biodiversity loss",
+        "query": "evil quartet causes biodiversity loss habitat over exploitation",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Habitat loss and fragmentation",
+        "query": "habitat loss fragmentation biodiversity Amazon tropical forest",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Alien species invasions (examples)",
+        "query": "alien species invasion water hyacinth Lantana African catfish",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Co-extinction and over-exploitation examples",
+        "query": "co extinction over exploitation Steller sea cow passenger pigeon",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "bio",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Why should we conserve biodiversity (3 reasons)",
+        "query": "why conserve biodiversity narrow broad ethical reasons",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Ecosystem services and broadly utilitarian argument",
+        "query": "ecosystem services biodiversity oxygen pollination broadly utilitarian",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "youtube",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "In-situ conservation methods",
+        "query": "in situ conservation biosphere reserves national parks sanctuaries",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Biosphere reserve vs national park vs sanctuary",
+        "query": "difference biosphere reserve national park wildlife sanctuary India",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Sacred groves of India",
+        "query": "sacred groves India Khasi Aravalli biodiversity in situ",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Biodiversity hotspots of India and world",
+        "query": "biodiversity hotspots India Western Ghats Himalaya Indo Burma",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Norman Myers and hotspot criteria",
+        "query": "Norman Myers biodiversity hotspot criteria endemism threat",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "bio",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Ex-situ conservation methods",
+        "query": "ex situ conservation zoo botanical garden seed bank cryopreservation",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Cryopreservation and gamete/seed banks",
+        "query": "cryopreservation gamete seed bank in vitro fertilization conservation",
+        "level": "JEE Main",
+        "sources": [
+          "google",
+          "bio",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Red Data Book and threatened species",
+        "query": "Red Data Book threatened endangered species India biodiversity",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "IUCN Red List categories (CR, EN, VU)",
+        "query": "IUCN Red List categories critically endangered vulnerable extinct",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "youtube",
+          "bio",
+          "pyq"
+        ]
+      },
+      {
+        "label": "International efforts: Rio Earth Summit & 2002 Summit",
+        "query": "Rio Earth Summit 1992 World Summit Sustainable Development 2002 biodiversity",
+        "level": "NEET",
+        "sources": [
+          "google",
+          "bio",
+          "youtube",
+          "pyq"
+        ]
+      },
+      {
+        "label": "Biodiversity NEET PYQ + one-shot revision",
+        "query": "biodiversity and conservation NEET previous year questions one shot revision class 12",
+        "level": "NEET",
+        "sources": [
+          "pyq",
+          "youtube",
+          "google",
+          "bio"
         ]
       }
     ]

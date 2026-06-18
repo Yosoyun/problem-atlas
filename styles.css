@@ -22,6 +22,7 @@
   --accent-2:  #5fd3b0;   /* mint chalk  */
   --accent-3:  #ef9070;   /* coral chalk */
   --sky:       #6fb6e6;   /* cool blue   */
+  --leaf:      #79d59a;   /* biology green */
 
   --grid:      rgba(238, 243, 236, 0.035);
   --grid-major:rgba(238, 243, 236, 0.06);
@@ -56,6 +57,7 @@
   --accent-2:  #15916b;
   --accent-3:  #c45b39;
   --sky:       #2b6ea3;
+  --leaf:      #2f9e44;
 
   --grid:      rgba(27, 37, 32, 0.05);
   --grid-major:rgba(27, 37, 32, 0.085);
@@ -338,7 +340,9 @@ img { max-width: 100%; display: block; }
 .badge { font-family: var(--mono); font-size: 10.5px; letter-spacing: .04em; padding: 4px 9px; border-radius: 7px; border: 1px solid var(--line-strong); color: var(--ink-soft); white-space: nowrap; }
 .badge.src { color: var(--ink); border-color: var(--line-strong); background: var(--surface-3); }
 .lvl { font-family: var(--mono); font-size: 10px; letter-spacing: .06em; text-transform: uppercase; padding: 3px 8px; border-radius: 100px; margin-left: auto; }
+.lvl.Foundation { color: var(--ink-soft); border: 1px solid var(--line-strong); }
 .lvl.JEE-Main   { color: var(--accent-2); border: 1px solid color-mix(in srgb, var(--accent-2) 45%, transparent); }
+.lvl.NEET       { color: var(--leaf); border: 1px solid color-mix(in srgb, var(--leaf) 48%, transparent); background: color-mix(in srgb, var(--leaf) 9%, transparent); }
 .lvl.JEE-Advanced { color: var(--accent); border: 1px solid color-mix(in srgb, var(--accent) 50%, transparent); background: color-mix(in srgb, var(--accent) 9%, transparent); }
 .lvl.Olympiad   { color: var(--accent-3); border: 1px solid color-mix(in srgb, var(--accent-3) 50%, transparent); }
 .lvl.Mixed      { color: var(--sky); border: 1px solid color-mix(in srgb, var(--sky) 45%, transparent); }
@@ -362,6 +366,20 @@ img { max-width: 100%; display: block; }
 
 .empty { text-align: center; padding: 60px 20px; color: var(--ink-faint); }
 .empty .e-ico { font-size: 40px; color: var(--accent); font-family: var(--serif); }
+
+/* ---------- Category sections (the layers) ---------- */
+.cat-nav { display: flex; flex-wrap: wrap; gap: 7px; justify-content: flex-end; }
+.cat-chip { display: inline-flex; align-items: center; gap: 6px; font-size: 12.5px; font-weight: 600; color: var(--ink-soft); border: 1px solid var(--line-strong); border-radius: 100px; padding: 5px 11px; transition: all .16s; }
+.cat-chip:hover { color: var(--ink); border-color: var(--subj, var(--accent)); transform: translateY(-1px); }
+.cat-chip b { font-family: var(--mono); font-size: 10px; color: var(--ink-faint); }
+
+.cat-section { margin: 36px 0 0; scroll-margin-top: 150px; }
+.cat-head { display: flex; align-items: center; gap: 12px; margin-bottom: 4px; }
+.cat-head .cat-ico { font-size: 19px; line-height: 1; }
+.cat-head h3 { font-family: var(--serif); font-weight: 600; font-size: 1.4rem; letter-spacing: -0.01em; }
+.cat-head .cat-count { font-family: var(--mono); font-size: 12px; color: var(--bg); background: var(--subj, var(--accent)); padding: 2px 9px; border-radius: 100px; }
+.cat-head .cat-line { flex: 1; height: 1px; background: var(--line); }
+.cat-blurb { color: var(--ink-faint); font-size: 13.5px; margin: 0 0 16px; }
 
 /* ---------- Footer ---------- */
 .footer { margin-top: 70px; border-top: 1px solid var(--line); background: var(--bg-2); padding: 56px 0 30px; scroll-margin-top: 80px; position: relative; z-index: 1; }
