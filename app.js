@@ -59,7 +59,6 @@
       case "google":  return "https://www.google.com/search?q=" + qp(q + " solved problems with solutions");
       case "pyq":     return "https://www.google.com/search?q=" + qp(q + " past exam questions with solutions");
       case "reddit":  return "https://www.reddit.com/search/?q=" + qp(q) + "&sort=top&t=all";
-      case "wolfram": return "https://www.wolframalpha.com/input?i=" + enc(q);
       case "graw":    return "https://www.google.com/search?q=" + qp(q);
       default:        return "https://www.google.com/search?q=" + qp(q);
     }
