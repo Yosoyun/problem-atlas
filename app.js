@@ -65,13 +65,22 @@
   }
 
   /* ---------------- resource categories (the tabs) ---------------- */
+  const svg = (p) => `<svg viewBox="0 0 24 24" width="1.05em" height="1.05em" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline-block;vertical-align:-0.18em">${p}</svg>`;
+  const ICON = {
+    papers: svg('<path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7z"/><path d="M14 2v5h5"/><path d="M9 13h6"/><path d="M9 17h6"/>'),
+    problems: svg('<path d="M12 20h9"/><path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4Z"/>'),
+    videos: svg('<circle cx="12" cy="12" r="9"/><path d="M10 9l5 3-5 3z"/>'),
+    theory: svg('<path d="M2 4h6a3 3 0 0 1 3 3v13a2.5 2.5 0 0 0-2.5-2.5H2z"/><path d="M22 4h-6a3 3 0 0 0-3 3v13a2.5 2.5 0 0 1 2.5-2.5H22z"/>'),
+    community: svg('<path d="M21 14a2 2 0 0 1-2 2H8l-4 4V6a2 2 0 0 1 2-2h13a2 2 0 0 1 2 2z"/>'),
+    tools: svg('<path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.6-3.6a6 6 0 0 1-7.9 7.9l-6.3 6.3a2.1 2.1 0 1 1-3-3l6.3-6.3a6 6 0 0 1 7.9-7.9l-3.6 3.6z"/>'),
+  };
   const CATS = [
-    { key: "Papers, PDFs & Slides", icon: "📄", blurb: "Past papers, lecture notes, problem-set PDFs and slide decks — from trusted sources only." },
-    { key: "Problems & Solutions",  icon: "✏️", blurb: "Worked problems from Stack Exchange, AoPS, Brilliant and university sets." },
-    { key: "Video Lectures",        icon: "🎥", blurb: "Hand-picked, world-renowned channels (MIT, 3Blue1Brown, Khan…) — no random uploads." },
-    { key: "Theory & Notes",        icon: "📚", blurb: "Concept notes & free textbooks — NCERT, MIT OCW, LibreTexts, OpenStax, Feynman." },
-    { key: "Community",             icon: "💬", blurb: "Top-voted threads from serious study communities." },
-    { key: "Tools",                 icon: "🧮", blurb: "Free interactive tools — graph, compute, simulate, visualise." },
+    { key: "Papers, PDFs & Slides", icon: ICON.papers, blurb: "Past papers, lecture notes, problem-set PDFs and slide decks — from trusted sources only." },
+    { key: "Problems & Solutions",  icon: ICON.problems, blurb: "Worked problems from Stack Exchange, AoPS, Brilliant and university sets." },
+    { key: "Video Lectures",        icon: ICON.videos, blurb: "Hand-picked, world-renowned channels (MIT, 3Blue1Brown, Khan…) — no random uploads." },
+    { key: "Theory & Notes",        icon: ICON.theory, blurb: "Concept notes & free textbooks — NCERT, MIT OCW, LibreTexts, OpenStax, Feynman." },
+    { key: "Community",             icon: ICON.community, blurb: "Top-voted threads from serious study communities." },
+    { key: "Tools",                 icon: ICON.tools, blurb: "Free interactive tools — graph, compute, simulate, visualise." },
   ];
   function categorize(r) {
     if (r.cat) return r.cat;
@@ -477,6 +486,7 @@
           <div class="toolbar-row">
             <div class="filter-search"><span class="s-ico" aria-hidden="true">⌕</span><input id="detailSearch" type="search" placeholder="Filter within this chapter…" aria-label="Filter resources" autocomplete="off" /></div>
             <button class="btn" id="copyAll" type="button">⧉ Copy visible links</button>
+            <button class="btn" id="shareChapter" type="button">▦ Share / QR</button>
             <button class="btn" id="clearFilters" type="button">Reset</button>
           </div>
           ${levelPills ? `<div class="facets"><div class="facet-row"><span class="f-label">Level</span>${levelPills}</div></div>` : ""}
@@ -490,6 +500,7 @@
 
     document.getElementById("detailSearch").addEventListener("input", (e) => { detailState.term = e.target.value.trim().toLowerCase(); applyDetailFilters(); });
     document.getElementById("copyAll").addEventListener("click", copyAllVisible);
+    document.getElementById("shareChapter").addEventListener("click", () => openShare(ch));
     document.getElementById("clearFilters").addEventListener("click", clearFilters);
     app.querySelectorAll(".pill").forEach((p) => p.addEventListener("click", () => { p.classList.toggle("active"); const v = p.dataset.level; if (detailState.levels.has(v)) detailState.levels.delete(v); else detailState.levels.add(v); applyDetailFilters(); }));
     applyDetailFilters();
@@ -549,6 +560,31 @@
     const ds = document.getElementById("detailSearch"); if (ds) ds.value = "";
     applyDetailFilters();
   }
+  // share a chapter: QR for the classroom + copy link + native share
+  function openShare(ch) {
+    const url = "https://yosoyun.github.io/problem-atlas/chapter/" + ch.slug + "/";
+    const qr = "https://api.qrserver.com/v1/create-qr-code/?size=240x240&margin=12&qzone=2&data=" + enc(url);
+    const old = document.getElementById("shareModal"); if (old) old.remove();
+    const m = document.createElement("div");
+    m.id = "shareModal"; m.className = "modal-overlay";
+    m.innerHTML = `<div class="modal" role="dialog" aria-modal="true" aria-label="Share ${esc(ch.chapter)}">
+      <button class="modal-close" type="button" aria-label="Close">✕</button>
+      <h3>Share &ldquo;${esc(ch.chapter)}&rdquo;</h3>
+      <p class="modal-sub">Project the QR for students to scan, or copy the link to WhatsApp.</p>
+      <img class="modal-qr" src="${qr}" alt="QR code linking to this chapter" width="240" height="240" loading="lazy" />
+      <div class="modal-url">${esc(url)}</div>
+      <div class="modal-actions"><button class="btn primary" id="mCopy" type="button">⧉ Copy link</button><button class="btn" id="mShare" type="button">↗ Share…</button></div></div>`;
+    document.body.appendChild(m);
+    const close = () => m.remove();
+    m.addEventListener("click", (e) => { if (e.target === m) close(); });
+    m.querySelector(".modal-close").addEventListener("click", close);
+    document.addEventListener("keydown", function esc2(e) { if (e.key === "Escape") { close(); document.removeEventListener("keydown", esc2); } });
+    m.querySelector("#mCopy").addEventListener("click", () => copyText(url, "Link copied"));
+    const sh = m.querySelector("#mShare");
+    if (navigator.share) sh.addEventListener("click", () => navigator.share({ title: "Problem Atlas — " + ch.chapter, text: "Free resources for " + ch.chapter, url }).catch(() => {}));
+    else sh.style.display = "none";
+  }
+
   function copyAllVisible() {
     let list = detailState.res.filter(passLevelTerm);
     if (detailState.activeCat !== "All") list = list.filter((r) => r.cat === detailState.activeCat);
@@ -618,4 +654,9 @@
   renderFooter();
   window.addEventListener("hashchange", route);
   route();
+
+  // PWA: installable + offline (network-first, so always fresh online)
+  if ("serviceWorker" in navigator) {
+    window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
+  }
 })();

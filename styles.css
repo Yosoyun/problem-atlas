@@ -451,6 +451,17 @@ img { max-width: 100%; display: block; }
 }
 .toast.show { opacity: 1; transform: translate(-50%, 0); }
 
+/* ---------- Share / QR modal ---------- */
+.modal-overlay { position: fixed; inset: 0; background: rgba(0,0,0,.62); backdrop-filter: blur(5px); display: grid; place-items: center; z-index: 200; padding: 20px; animation: fadeUp .2s ease; }
+.modal { position: relative; width: 100%; max-width: 360px; padding: 28px 26px; text-align: center; background: var(--surface); border: 1px solid var(--line-strong); border-radius: var(--radius); box-shadow: var(--shadow-lg); }
+.modal h3 { font-family: var(--serif); font-size: 1.3rem; font-weight: 600; }
+.modal-sub { color: var(--ink-soft); font-size: 14px; margin: 8px 0 18px; }
+.modal-qr { display: block; margin: 0 auto; border-radius: 12px; background: #fff; padding: 8px; }
+.modal-url { font-family: var(--mono); font-size: 11.5px; color: var(--ink-faint); margin: 14px 0 16px; word-break: break-all; }
+.modal-actions { display: flex; gap: 10px; justify-content: center; }
+.modal-close { position: absolute; top: 12px; right: 14px; width: 30px; height: 30px; border-radius: 8px; font-size: 16px; color: var(--ink-faint); }
+.modal-close:hover { color: var(--ink); background: var(--surface-2); }
+
 /* ---------- Animations ---------- */
 @keyframes fadeUp { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: translateY(0); } }
 @media (prefers-reduced-motion: reduce) {

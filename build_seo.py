@@ -63,7 +63,7 @@ def chapter_page(ch):
 <meta property="og:image" content="{SITE}/og-image.jpg"><meta property="og:image:width" content="600"><meta property="og:image:height" content="315">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{SITE}/og-image.jpg">
 <script type="application/ld+json">{json.dumps(jsonld, ensure_ascii=False)}</script>
-<link rel="icon" href="/problem-atlas/favicon.svg">
+<link rel="icon" href="/problem-atlas/favicon.svg"><link rel="manifest" href="../../manifest.json"><link rel="apple-touch-icon" href="../../icon-192.png">
 {FONTS}<link rel="stylesheet" href="../../styles.css">{THEME}</head>
 <body><div class="grain" aria-hidden="true"></div>
 <header class="nav"><a class="brand" href="../../" aria-label="Problem Atlas home">{GLYPH}<span class="brand-text"><span class="brand-name">Problem&nbsp;Atlas</span><span class="brand-sub">Maths · Physics · Chemistry · Biology</span></span></a>

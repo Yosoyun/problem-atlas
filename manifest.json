@@ -1,0 +1,17 @@
+{
+  "name": "Problem Atlas",
+  "short_name": "Problem Atlas",
+  "description": "Free one-click index to the internet's best free learning — Maths, Physics, Chemistry & Biology, school to Olympiad.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0c1311",
+  "theme_color": "#0c1311",
+  "categories": ["education", "books", "reference"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
