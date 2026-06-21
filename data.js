@@ -5911,14 +5911,6 @@ window.ATLAS_DATA = [
         "note": "Authentic question papers with answer keys; pull every Functions question that has actually appeared."
       },
       {
-        "title": "NCERT textbooks (Class XI–XII)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Relations and Functions chapters define domain/range, one-one/onto, composition and inverse exactly as the JEE syllabus expects."
-      },
-      {
         "title": "Khan Academy — graphs and transformations search",
         "url": "https://www.khanacademy.org/search?page_search_query=transformations%20of%20functions%20graphs",
         "source": "Khan Academy",
@@ -5936,7 +5928,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Algebra and Trigonometry",
-        "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e",
+        "url": "https://www.google.com/search?q=Functions+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "JEE Main",
@@ -7373,14 +7365,6 @@ window.ATLAS_DATA = [
         "note": "Concise wiki entries on MVT, Rolle and extrema framed for competition use, with problem links."
       },
       {
-        "title": "NCERT Class 12 Maths Textbook (official)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Open Part I, chapter 'Application of Derivatives' for the baseline syllabus, solved examples and exercises every JEE problem builds on."
-      },
-      {
         "title": "NCERT Exemplar Problems - Class 12 Maths",
         "url": "https://ncert.nic.in/exemplar-problems.php",
         "source": "NCERT",
@@ -8697,14 +8681,6 @@ window.ATLAS_DATA = [
         "note": "Authoritative archive of every year's question papers and answer keys; pull real Area Under Curves problems verbatim for assignments and mock tests."
       },
       {
-        "title": "NCERT — Application of Integrals (Class 12 Maths)",
-        "url": "https://ncert.nic.in/textbook.php?lemh1=8-8",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Official syllabus chapter on area under simple curves and area between two curves; the canonical baseline notation and worked examples JEE problems build on."
-      },
-      {
         "title": "MIT OCW 18.01 Single Variable Calculus",
         "url": "https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/",
         "source": "MIT OCW",
@@ -9286,16 +9262,8 @@ window.ATLAS_DATA = [
         "note": "Official portal for released JEE Main papers and keys; mine separable and linear DE questions for graded warm-up sets."
       },
       {
-        "title": "NCERT textbooks portal (Class 12 Maths - Differential Equations)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Official Class 12 chapter PDF defining order/degree, formation, separable, homogeneous and linear methods; the baseline syllabus text."
-      },
-      {
         "title": "OpenStax Calculus Volume 2 (free textbook - first-order DEs)",
-        "url": "https://openstax.org/details/books/calculus-volume-2",
+        "url": "https://www.google.com/search?q=Differential+Equations+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "JEE Main",
@@ -13020,7 +12988,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "The Feynman Lectures on Physics (free full text)",
-        "url": "https://www.feynmanlectures.caltech.edu/",
+        "url": "https://www.google.com/search?q=Units%2C+Dimensions+and+Error+Analysis+site%3Afeynmanlectures.caltech.edu",
         "source": "Caltech",
         "type": "Reference",
         "level": "Mixed",
@@ -13041,14 +13009,6 @@ window.ATLAS_DATA = [
         "type": "Course",
         "level": "Mixed",
         "note": "Week 1 covers units, dimensional analysis and significant figures; problem sets reinforce dimensional reasoning before kinematics."
-      },
-      {
-        "title": "NCERT Physics Textbooks (Class XI & XII)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Class XI Part I, Chapter 'Units and Measurements' is the canonical syllabus text — significant figures, error combination and instrument least count."
       },
       {
         "title": "Wikipedia: Dimensional Analysis",
@@ -13505,14 +13465,6 @@ window.ATLAS_DATA = [
         "type": "Reference",
         "level": "Mixed",
         "note": "Browse the measurement, resistance-bridge and optics nodes for clean diagrams to project while teaching least count and Wheatstone/meter-bridge theory."
-      },
-      {
-        "title": "NCERT Physics textbooks (Class XI/XII, Units & Measurement, Lab)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Class XI Ch.1 Units and Measurements plus the lab manuals are the syllabus baseline for least count, errors and significant figures."
       },
       {
         "title": "PhET physics simulations (filter by physics)",
@@ -13988,7 +13940,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "The Feynman Lectures Vol I (Motion chapters)",
-        "url": "https://www.feynmanlectures.caltech.edu/",
+        "url": "https://www.google.com/search?q=Kinematics+site%3Afeynmanlectures.caltech.edu",
         "source": "Caltech",
         "type": "Reference",
         "level": "Mixed",
@@ -14009,14 +13961,6 @@ window.ATLAS_DATA = [
         "type": "Tool",
         "level": "JEE Main",
         "note": "Interactive projectile, free-fall and motion-graph sims; useful for demonstrating range, angle and drag effects in class."
-      },
-      {
-        "title": "NCERT Physics Class 11 Textbooks",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Class 11 Part 1 chapters Motion in a Straight Line and Motion in a Plane are the syllabus baseline for kinematics."
       },
       {
         "title": "Khan Academy: One-dimensional motion",
@@ -14493,14 +14437,6 @@ window.ATLAS_DATA = [
         "note": "Run the 'Forces and Motion: Basics' and 'Friction' sims to let students visualise net force, applied force vs. friction, and acceleration in real time."
       },
       {
-        "title": "NCERT Physics Class XI textbooks (Laws of Motion chapter)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Class XI Part I, Chapter 5 'Laws of Motion' — the canonical Indian-syllabus baseline; assign its exercises before moving to Advanced-level drills."
-      },
-      {
         "title": "Khan Academy: Forces and Newton's laws of motion unit",
         "url": "https://www.khanacademy.org/science/physics/forces-newtons-laws",
         "source": "Khan Academy",
@@ -14942,7 +14878,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "The Feynman Lectures on Physics, Vol I (Work and Potential Energy)",
-        "url": "https://www.feynmanlectures.caltech.edu/",
+        "url": "https://www.google.com/search?q=Work%2C+Energy+and+Power+site%3Afeynmanlectures.caltech.edu",
         "source": "Caltech",
         "type": "Reference",
         "level": "Mixed",
@@ -14971,14 +14907,6 @@ window.ATLAS_DATA = [
         "type": "Past papers",
         "level": "JEE Advanced",
         "note": "Authentic question papers and answer keys; pull every Work-Energy-Power problem directly from the source."
-      },
-      {
-        "title": "NCERT Physics textbooks (Class XI: Work, Energy and Power)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Class XI Part 1, Chapter 5 is the syllabus baseline; in-text examples and exercises frequently seed JEE problems."
       },
       {
         "title": "Khan Academy: Work and energy (search)",
@@ -15490,14 +15418,6 @@ window.ATLAS_DATA = [
         "note": "Interactive momentum and collision modules; good for active-recall practice on conservation arguments."
       },
       {
-        "title": "NCERT Physics Textbooks (Class XI)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Class XI Part 1 chapters on laws of motion, work-energy and system of particles set the syllabus baseline."
-      },
-      {
         "title": "Wikipedia: Elastic Collision",
         "url": "https://en.wikipedia.org/wiki/Elastic_collision",
         "source": "Wikipedia",
@@ -15941,7 +15861,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "The Feynman Lectures on Physics (free full text)",
-        "url": "https://www.feynmanlectures.caltech.edu/",
+        "url": "https://www.google.com/search?q=Rotational+Motion+site%3Afeynmanlectures.caltech.edu",
         "source": "Caltech",
         "type": "Reference",
         "level": "Mixed",
@@ -16034,14 +15954,6 @@ window.ATLAS_DATA = [
         "type": "Tool",
         "level": "JEE Advanced",
         "note": "Compute and compare accelerations of sphere, cylinder and ring on an incline for a quick race demonstration."
-      },
-      {
-        "title": "NCERT Physics Textbook (Class 11, Part 1)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Chapter 'Systems of Particles and Rotational Motion' is the syllabus baseline; in-text and exercise problems are exam-relevant."
       },
       {
         "title": "Brilliant: Classical Mechanics Courses",
@@ -16451,14 +16363,6 @@ window.ATLAS_DATA = [
         "type": "Tool",
         "level": "JEE Main",
         "note": "Run 'Gravity and Orbits' and 'Gravity Force Lab' to demo inverse-square dependence and orbital motion in class."
-      },
-      {
-        "title": "NCERT Physics Textbooks (Class XI — Gravitation chapter)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "ncert.nic.in",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Baseline syllabus chapter; NCERT examples and exercises anchor every JEE Gravitation derivation."
       },
       {
         "title": "Khan Academy — Gravitation search",
@@ -16965,14 +16869,6 @@ window.ATLAS_DATA = [
         "note": "Interactive problem-solving in mechanics; pick the springs/materials units for guided elasticity practice."
       },
       {
-        "title": "NCERT Class 11 Physics Textbooks (Mechanical Properties of Solids)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Baseline syllabus text; the chapter exercises are the canonical starting problem set."
-      },
-      {
         "title": "Wikipedia search: elastic modulus / Poisson ratio / thermal stress",
         "url": "https://en.wikipedia.org/w/index.php?search=elastic%20modulus%20Poisson%20ratio%20thermal%20stress",
         "source": "Wikipedia",
@@ -17399,7 +17295,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "The Feynman Lectures on Physics (free full text)",
-        "url": "https://www.feynmanlectures.caltech.edu/",
+        "url": "https://www.google.com/search?q=Fluid+Mechanics+site%3Afeynmanlectures.caltech.edu",
         "source": "Caltech",
         "type": "Reference",
         "level": "Mixed",
@@ -17452,14 +17348,6 @@ window.ATLAS_DATA = [
         "type": "Course",
         "level": "Mixed",
         "note": "Interactive classical-mechanics and pressure courses good for building conceptual problem-solving habits."
-      },
-      {
-        "title": "NCERT textbooks (Physics Class XI)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Class XI Part II 'Mechanical Properties of Fluids' is the syllabus baseline; download chapter PDF + examples."
       },
       {
         "title": "Physics StackExchange: Bernoulli search",
@@ -17942,14 +17830,6 @@ window.ATLAS_DATA = [
         "note": "Test how period depends on length, gravity and amplitude, and where the small-angle approximation breaks."
       },
       {
-        "title": "NCERT Physics Class 11 (Oscillations chapter)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Open the Class 11 Physics Part II PDF; the Oscillations chapter is the syllabus baseline and source of many in-text problems."
-      },
-      {
         "title": "Khan Academy: Simple Harmonic Motion",
         "url": "https://www.khanacademy.org/science/physics/oscillatory-motion-and-waves",
         "source": "Khan Academy",
@@ -18387,7 +18267,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "The Feynman Lectures on Physics (free full text)",
-        "url": "https://www.feynmanlectures.caltech.edu/",
+        "url": "https://www.google.com/search?q=Waves+and+Sound+site%3Afeynmanlectures.caltech.edu",
         "source": "Caltech",
         "type": "Reference",
         "level": "JEE Advanced",
@@ -18408,14 +18288,6 @@ window.ATLAS_DATA = [
         "type": "Tool",
         "level": "JEE Main",
         "note": "Run Wave on a String, Waves Intro and Sound Waves sims to visualise reflection at fixed/free ends, standing waves, beats and interference."
-      },
-      {
-        "title": "NCERT Physics Textbooks (Class 11 Waves chapter)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Class 11 Physics Part II Ch. 15 'Waves' is the baseline syllabus text; download the PDF for definitions, formulas and solved examples."
       },
       {
         "title": "Khan Academy: Mechanical Waves & Sound search",
@@ -18966,16 +18838,8 @@ window.ATLAS_DATA = [
         "note": "Sanity-check sigma*A*T^4 numbers and unit conversions in radiation problems."
       },
       {
-        "title": "NCERT Physics textbooks (Class 11 thermal chapters)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Open Class 11 Part 2: 'Thermal Properties of Matter' is the syllabus baseline for this chapter."
-      },
-      {
         "title": "OpenStax University Physics Vol 2 (Temperature & Heat)",
-        "url": "https://openstax.org/details/books/university-physics-volume-2",
+        "url": "https://www.google.com/search?q=Thermal+Physics+and+Calorimetry+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "Mixed",
@@ -18983,7 +18847,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "The Feynman Lectures on Physics (free full text)",
-        "url": "https://www.feynmanlectures.caltech.edu/",
+        "url": "https://www.google.com/search?q=Thermal+Physics+and+Calorimetry+site%3Afeynmanlectures.caltech.edu",
         "source": "Caltech",
         "type": "Reference",
         "level": "Olympiad",
@@ -19409,14 +19273,6 @@ window.ATLAS_DATA = [
         "type": "Video",
         "level": "Mixed",
         "note": "Walks through the shape and temperature-dependence of the speed distribution — useful for the curve-reading questions JEE favors."
-      },
-      {
-        "title": "NCERT Physics Textbooks (Class 11 Ch.13 Kinetic Theory)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "ncert.nic.in",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "The exact NCERT chapter; download Class 11 Physics Part II for the baseline derivations every JEE question is built on."
       },
       {
         "title": "Wikipedia — search 'kinetic theory of gases'",
@@ -19919,14 +19775,6 @@ window.ATLAS_DATA = [
         "note": "Top-level concept map; navigate to the Heat and Thermodynamics cluster for entropy, refrigerators, and equation-of-state cross-links."
       },
       {
-        "title": "NCERT Physics Textbooks (Class 11 Thermodynamics, Ch. 12)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "ncert.nic.in",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Official NCERT Class 11 Part II chapter on Thermodynamics; the baseline text JEE assumes — assign for first-law, processes and Carnot fundamentals."
-      },
-      {
         "title": "Khan Academy — Thermodynamics Lessons Search",
         "url": "https://www.khanacademy.org/search?page_search_query=thermodynamics%20first%20law%20heat%20engines",
         "source": "khanacademy.org",
@@ -20422,14 +20270,6 @@ window.ATLAS_DATA = [
         "note": "IIT-faculty video courses with derivations and tutorials on fields, Gauss's law, potential and conductors."
       },
       {
-        "title": "NCERT Physics textbooks (Class 12)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Electric Charges & Fields and Electrostatic Potential & Capacitance: the syllabus baseline JEE builds on."
-      },
-      {
         "title": "Brilliant: Electricity & Magnetism courses",
         "url": "https://brilliant.org/courses/",
         "source": "Brilliant",
@@ -20903,14 +20743,6 @@ window.ATLAS_DATA = [
         "note": "Interactive courses with capacitor-network and circuit-reasoning problems for building intuition."
       },
       {
-        "title": "NCERT Physics Class 12 Textbook (Ch 2: Electrostatic Potential and Capacitance)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "The syllabus baseline; work every in-text and exercise problem of the capacitance chapter first."
-      },
-      {
         "title": "Wikipedia: Capacitor",
         "url": "https://en.wikipedia.org/wiki/Capacitor",
         "source": "Wikipedia",
@@ -21378,7 +21210,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "The Feynman Lectures on Physics — free full text",
-        "url": "https://www.feynmanlectures.caltech.edu/",
+        "url": "https://www.google.com/search?q=Current+Electricity+site%3Afeynmanlectures.caltech.edu",
         "source": "Caltech",
         "type": "Reference",
         "level": "JEE Advanced",
@@ -21391,14 +21223,6 @@ window.ATLAS_DATA = [
         "type": "Tool",
         "level": "JEE Main",
         "note": "Open 'Circuit Construction Kit: DC' to let students build and measure series/parallel networks, Kirchhoff loops and RC charging live."
-      },
-      {
-        "title": "NCERT Physics Textbooks (Class 12 — Current Electricity)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Class 12 Part 1 Chapter 3 is the syllabus baseline; every Advanced problem assumes mastery of its derivations and in-text examples."
       },
       {
         "title": "Khan Academy — DC circuit analysis search",
@@ -21829,7 +21653,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "The Feynman Lectures on Physics (Vol II)",
-        "url": "https://www.feynmanlectures.caltech.edu/",
+        "url": "https://www.google.com/search?q=Moving+Charges+and+Magnetism+site%3Afeynmanlectures.caltech.edu",
         "source": "Caltech",
         "type": "Reference",
         "level": "Olympiad",
@@ -21842,14 +21666,6 @@ window.ATLAS_DATA = [
         "type": "Tool",
         "level": "JEE Main",
         "note": "Filter for Magnet and Faraday/Magnets simulations to visualise field lines, solenoids and charged-particle motion in class."
-      },
-      {
-        "title": "NCERT Physics Textbooks (Class 12)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Class 12 Part 1, Chapter 'Moving Charges and Magnetism' — the syllabus baseline and source of many directly-lifted problems."
       },
       {
         "title": "Khan Academy: Magnetic Forces & Fields",
@@ -22323,14 +22139,6 @@ window.ATLAS_DATA = [
         "type": "Tool",
         "level": "JEE Main",
         "note": "Build coils, pickup loops and a generator to explore induction and inductance hands-on."
-      },
-      {
-        "title": "NCERT Physics Class 12 (Ch 6 EMI)",
-        "url": "https://ncert.nic.in/textbook.php?leph1=6-6",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Chapter 6 Electromagnetic Induction; base theory and in-text problems every aspirant must master."
       },
       {
         "title": "Wikipedia: Faraday's Law of Induction",
@@ -22823,19 +22631,11 @@ window.ATLAS_DATA = [
       },
       {
         "title": "The Feynman Lectures on Physics (free full text)",
-        "url": "https://www.feynmanlectures.caltech.edu/",
+        "url": "https://www.google.com/search?q=Alternating+Current+site%3Afeynmanlectures.caltech.edu",
         "source": "Caltech",
         "type": "Reference",
         "level": "Olympiad",
         "note": "Vol. II chapters on AC circuits, impedance and resonance give the deepest conceptual treatment — for the strongest students chasing intuition."
-      },
-      {
-        "title": "NCERT Physics textbooks (Class 12) — Alternating Current chapter",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Open Class 12 Physics Part 1; the Alternating Current chapter defines the syllabus scope, sign conventions and base problem set."
       },
       {
         "title": "PhET — Circuit Construction Kit: AC simulation",
@@ -23270,7 +23070,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Feynman Lectures Vol I: Geometrical Optics",
-        "url": "https://www.feynmanlectures.caltech.edu/",
+        "url": "https://www.google.com/search?q=Ray+Optics+and+Optical+Instruments+site%3Afeynmanlectures.caltech.edu",
         "source": "Caltech",
         "type": "Reference",
         "level": "JEE Advanced",
@@ -23283,14 +23083,6 @@ window.ATLAS_DATA = [
         "type": "Tool",
         "level": "JEE Main",
         "note": "Use Geometric Optics and Bending Light sims to visualise image formation, magnification, refraction and total internal reflection interactively."
-      },
-      {
-        "title": "NCERT Physics Textbooks (Class 12, Ray Optics)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Class 12 Part II Chapter 9 is the syllabus baseline; master its derivations and solved examples before attempting Advanced-level problems."
       },
       {
         "title": "Khan Academy: Geometric Optics search",
@@ -23759,7 +23551,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "The Feynman Lectures Vol I, Ch 26-31 (Optics, Interference, Diffraction)",
-        "url": "https://www.feynmanlectures.caltech.edu/",
+        "url": "https://www.google.com/search?q=Wave+Optics+site%3Afeynmanlectures.caltech.edu",
         "source": "Caltech",
         "type": "Reference",
         "level": "Mixed",
@@ -23820,14 +23612,6 @@ window.ATLAS_DATA = [
         "type": "Course",
         "level": "Mixed",
         "note": "Interactive waves-and-light courses that build intuition for superposition, interference patterns and intensity."
-      },
-      {
-        "title": "NCERT Physics textbooks (Class 12, Ch 10 Wave Optics)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "The canonical syllabus baseline — Huygens principle, YDSE, diffraction and polarization exactly as the JEE syllabus frames them."
       },
       {
         "title": "Physics StackExchange — wave optics Q&A search",
@@ -24347,16 +24131,8 @@ window.ATLAS_DATA = [
         "note": "Instant numerical checks for wavelength, orbit radius and photon energy answers."
       },
       {
-        "title": "NCERT Physics textbooks (Class 12, Ch 11 & 12)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Dual Nature (Ch 11) and Atoms (Ch 12) — the exact in-syllabus baseline for theory and formulas."
-      },
-      {
         "title": "The Feynman Lectures on Physics (free full text)",
-        "url": "https://www.feynmanlectures.caltech.edu/",
+        "url": "https://www.google.com/search?q=Dual+Nature+and+Atomic+Physics+site%3Afeynmanlectures.caltech.edu",
         "source": "Caltech",
         "type": "Reference",
         "level": "Olympiad",
@@ -24734,19 +24510,11 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Feynman Lectures Vol. I (energy, conservation) full free text",
-        "url": "https://www.feynmanlectures.caltech.edu/",
+        "url": "https://www.google.com/search?q=Nuclear+Physics+site%3Afeynmanlectures.caltech.edu",
         "source": "Caltech",
         "type": "Reference",
         "level": "Mixed",
         "note": "Use for conceptual grounding on mass-energy equivalence and conservation laws behind Q-values."
-      },
-      {
-        "title": "NCERT Physics Textbooks (Class 12, Ch. 13 Nuclei)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "The Nuclei chapter defines the exact syllabus scope, formulae and worked numericals JEE expects."
       },
       {
         "title": "Khan Academy: Nuclear physics & radioactive decay search",
@@ -25189,16 +24957,8 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Chemistry Class 11 — Some Basic Concepts of Chemistry",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Open Class 11 Chemistry Part 1, Unit 1: mole concept, molar mass, empirical/molecular formula, stoichiometry and concentration terms — the syllabus baseline for JEE."
-      },
-      {
         "title": "LibreTexts — Stoichiometry and the Mole",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=Mole+Concept+and+Stoichiometry+site%3Achem.libretexts.org",
         "source": "LibreTexts",
         "type": "Topic page",
         "level": "Mixed",
@@ -25206,7 +24966,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "LibreTexts — Solution Concentration (Molarity, Molality, Mole Fraction)",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=Mole+Concept+and+Stoichiometry+site%3Achem.libretexts.org",
         "source": "LibreTexts",
         "type": "Topic page",
         "level": "Mixed",
@@ -25214,7 +24974,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "LibreTexts — Equivalents, Normality and Titration",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=Mole+Concept+and+Stoichiometry+site%3Achem.libretexts.org",
         "source": "LibreTexts",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -25222,7 +24982,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "ChemGuide — Calculations in Chemistry (moles & formulae)",
-        "url": "https://www.chemguide.co.uk/",
+        "url": "https://www.google.com/search?q=Mole+Concept+and+Stoichiometry+site%3Achemguide.co.uk",
         "source": "ChemGuide",
         "type": "Reference",
         "level": "JEE Main",
@@ -25310,7 +25070,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax — Chemistry 2e (Stoichiometry & Composition)",
-        "url": "https://openstax.org/details/books/chemistry-2e",
+        "url": "https://www.google.com/search?q=Mole+Concept+and+Stoichiometry+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "Mixed",
@@ -25649,14 +25409,6 @@ window.ATLAS_DATA = [
       "Effective nuclear charge and the (n + l) rule for orbital filling"
     ],
     "anchors": [
-      {
-        "title": "NCERT Chemistry Class 11 - Structure of Atom (official textbook PDF)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "The Class 11 Part I chapter is the syllabus baseline; download the 'Structure of Atom' PDF - every JEE Advanced atomic-structure idea is rooted here."
-      },
       {
         "title": "Chemistry LibreTexts - Atomic Theory & Quantum Mechanics modules",
         "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps",
@@ -26140,16 +25892,8 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Chemistry Class 11 Chapter 4: Chemical Bonding & Molecular Structure",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Open Class 11 Chemistry Part I, Unit 4 - the baseline text JEE Advanced bonding questions build on; covers VSEPR, hybridization, VBT and MOT."
-      },
-      {
         "title": "Chemistry LibreTexts: Chemical Bonding & Molecular Geometry",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=Chemical+Bonding+and+Molecular+Structure+site%3Achem.libretexts.org",
         "source": "LibreTexts",
         "type": "Topic page",
         "level": "Mixed",
@@ -26157,7 +25901,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "ChemGuide: Bonding (ionic, covalent, shapes, double bonds)",
-        "url": "https://www.chemguide.co.uk/",
+        "url": "https://www.google.com/search?q=Chemical+Bonding+and+Molecular+Structure+site%3Achemguide.co.uk",
         "source": "ChemGuide",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -26253,7 +25997,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Chemistry LibreTexts: Fajans Rules & ionic character",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=Chemical+Bonding+and+Molecular+Structure+site%3Achem.libretexts.org",
         "source": "LibreTexts",
         "type": "Reference",
         "level": "JEE Advanced",
@@ -26640,16 +26384,8 @@ window.ATLAS_DATA = [
         "note": "Official question papers plus answer keys; mine the Chemistry sections for gaseous-state numericals on Z, van der Waals and rms speed."
       },
       {
-        "title": "NCERT Class 11 Chemistry Textbook (States of Matter chapter)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "ncert.nic.in",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Open the Class 11 Chemistry book; the States of Matter chapter is the syllabus baseline every JEE gaseous-state question builds on."
-      },
-      {
         "title": "LibreTexts: The Gaseous State (Physical Chemistry)",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=States+of+Matter+site%3Achem.libretexts.org",
         "source": "chem.libretexts.org",
         "type": "Topic page",
         "level": "Mixed",
@@ -26657,7 +26393,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "ChemGuide: Ideal Gases and the Ideal Gas Law",
-        "url": "https://www.chemguide.co.uk/",
+        "url": "https://www.google.com/search?q=States+of+Matter+site%3Achemguide.co.uk",
         "source": "chemguide.co.uk",
         "type": "Topic page",
         "level": "JEE Main",
@@ -26761,7 +26497,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "LibreTexts: Kinetic Theory of Gases module",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=States+of+Matter+site%3Achem.libretexts.org",
         "source": "chem.libretexts.org",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -26769,7 +26505,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "ChemGuide: Real Gases and Deviations from Ideal Behaviour",
-        "url": "https://www.chemguide.co.uk/",
+        "url": "https://www.google.com/search?q=States+of+Matter+site%3Achemguide.co.uk",
         "source": "chemguide.co.uk",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -27102,16 +26838,8 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Chemistry Textbooks (Class 11 Thermodynamics chapter)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Foundation text for the JEE thermodynamics syllabus; download the Class 11 Part-I Thermodynamics chapter PDF."
-      },
-      {
         "title": "Chemistry LibreTexts — Thermodynamics & Thermochemistry",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=Chemical+Thermodynamics+and+Thermochemistry+site%3Achem.libretexts.org",
         "source": "LibreTexts",
         "type": "Topic page",
         "level": "Mixed",
@@ -27119,7 +26847,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "ChemGuide — Energetics & Thermodynamics notes",
-        "url": "https://www.chemguide.co.uk/",
+        "url": "https://www.google.com/search?q=Chemical+Thermodynamics+and+Thermochemistry+site%3Achemguide.co.uk",
         "source": "ChemGuide",
         "type": "Topic page",
         "level": "JEE Main",
@@ -27583,16 +27311,8 @@ window.ATLAS_DATA = [
         "note": "Official question papers and answer keys; mine the Physical Chemistry sections for equilibrium-constant and degree-of-dissociation problems."
       },
       {
-        "title": "NCERT Chemistry Textbooks (Class 11/12)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Class 11 Unit 7 'Equilibrium' is the foundational text; download the chapter PDF and work its in-text and exercise numericals."
-      },
-      {
         "title": "LibreTexts: Chemical Equilibrium",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=Chemical+Equilibrium+site%3Achem.libretexts.org",
         "source": "Chemistry LibreTexts",
         "type": "Topic page",
         "level": "Mixed",
@@ -27600,7 +27320,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "ChemGuide: Chemical Equilibria (Kc and Kp)",
-        "url": "https://www.chemguide.co.uk/",
+        "url": "https://www.google.com/search?q=Chemical+Equilibrium+site%3Achemguide.co.uk",
         "source": "ChemGuide",
         "type": "Topic page",
         "level": "Mixed",
@@ -28063,14 +27783,6 @@ window.ATLAS_DATA = [
         "type": "Past papers",
         "level": "JEE Advanced",
         "note": "Authentic past JEE Advanced papers; mine Chemistry sections for ionic equilibrium pH, buffer and Ksp questions with official answer keys."
-      },
-      {
-        "title": "NCERT Chemistry Textbooks (Class 11 Equilibrium chapter)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Class 11 Equilibrium chapter is the syllabus backbone for ionic equilibrium; in-text examples and exercises are non-negotiable for every JEE aspirant."
       },
       {
         "title": "Chemistry LibreTexts: Acids and Bases / Aqueous Equilibria",
@@ -28540,16 +28252,8 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Chemistry Class 11 — Chapter 8: Redox Reactions (textbook PDF)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "The exact NCERT chapter JEE redox questions are built on; download Class 11 Chemistry Part-I and open the Redox chapter."
-      },
-      {
         "title": "LibreTexts — Oxidation States (Oxidation Numbers)",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=Redox+Reactions+site%3Achem.libretexts.org",
         "source": "Chemistry LibreTexts",
         "type": "Topic page",
         "level": "JEE Main",
@@ -28557,7 +28261,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "LibreTexts — Balancing Redox Reactions (half-reaction method)",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=Redox+Reactions+site%3Achem.libretexts.org",
         "source": "Chemistry LibreTexts",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -28565,7 +28269,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "LibreTexts — Disproportionation reactions",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=Redox+Reactions+site%3Achem.libretexts.org",
         "source": "Chemistry LibreTexts",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -28573,7 +28277,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "LibreTexts — Titration & equivalence-point calculations",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=Redox+Reactions+site%3Achem.libretexts.org",
         "source": "Chemistry LibreTexts",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -28581,7 +28285,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "ChemGuide — Definitions of oxidation and reduction (redox)",
-        "url": "https://www.chemguide.co.uk/",
+        "url": "https://www.google.com/search?q=Redox+Reactions+site%3Achemguide.co.uk",
         "source": "ChemGuide",
         "type": "Reference",
         "level": "JEE Main",
@@ -28589,7 +28293,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "ChemGuide — Working out oxidation states",
-        "url": "https://www.chemguide.co.uk/",
+        "url": "https://www.google.com/search?q=Redox+Reactions+site%3Achemguide.co.uk",
         "source": "ChemGuide",
         "type": "Reference",
         "level": "JEE Main",
@@ -28597,7 +28301,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "ChemGuide — Redox titration calculations (KMnO4 / Fe2+)",
-        "url": "https://www.chemguide.co.uk/",
+        "url": "https://www.google.com/search?q=Redox+Reactions+site%3Achemguide.co.uk",
         "source": "ChemGuide",
         "type": "Reference",
         "level": "JEE Advanced",
@@ -29062,14 +28766,6 @@ window.ATLAS_DATA = [
         "type": "Past papers",
         "level": "JEE Advanced",
         "note": "Authentic question papers with answer keys; electrochemistry numericals on Nernst, EMF and electrolysis appear nearly every year."
-      },
-      {
-        "title": "NCERT Chemistry Textbooks (Class 12 — Electrochemistry chapter)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "ncert.nic.in",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Class 12 Part 1 Unit 2 is the syllabus baseline; every NCERT in-text and exercise problem is fair game for JEE."
       },
       {
         "title": "LibreTexts: Electrochemistry (full module)",
@@ -29542,14 +29238,6 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Class 12 Chemistry: Chemical Kinetics chapter",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Authoritative base text. Derivations of the integrated rate laws and the in-text and exercise numericals are directly examinable."
-      },
-      {
         "title": "Chemistry LibreTexts: Kinetics (Bookshelves)",
         "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics",
         "source": "LibreTexts",
@@ -30004,16 +29692,8 @@ window.ATLAS_DATA = [
         "note": "Authentic question papers and answer keys; mine the Physical Chemistry sections for Solutions problems involving abnormal molar mass and the van't Hoff factor."
       },
       {
-        "title": "NCERT Chemistry Textbooks (Class 11 & 12)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Class 12 unit 'Solutions' is the syllabus baseline; work every in-text and exercise problem on Raoult's law and colligative properties before advanced sets."
-      },
-      {
         "title": "LibreTexts: Colligative Properties Overview",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=Solutions+and+Colligative+Properties+site%3Achem.libretexts.org",
         "source": "Chemistry LibreTexts",
         "type": "Topic page",
         "level": "Mixed",
@@ -30021,7 +29701,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "LibreTexts: Raoult's Law and Ideal Solutions",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=Solutions+and+Colligative+Properties+site%3Achem.libretexts.org",
         "source": "Chemistry LibreTexts",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -30037,7 +29717,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "ChemGuide: Raoult's Law and Non-ideal Mixtures",
-        "url": "https://www.chemguide.co.uk/",
+        "url": "https://www.google.com/search?q=Solutions+and+Colligative+Properties+site%3Achemguide.co.uk",
         "source": "ChemGuide",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -30045,7 +29725,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "ChemGuide: Azeotropes and Fractional Distillation",
-        "url": "https://www.chemguide.co.uk/",
+        "url": "https://www.google.com/search?q=Solutions+and+Colligative+Properties+site%3Achemguide.co.uk",
         "source": "ChemGuide",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -30450,16 +30130,8 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Chemistry Class 12 textbooks (Solid State chapter)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Baseline syllabus chapter; every JEE Advanced Solid State idea (unit cells, voids, defects) is anchored here. Pick Class XII Chemistry Part I."
-      },
-      {
         "title": "Crystals and crystal packing - Chemistry LibreTexts",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=Solid+State+site%3Achem.libretexts.org",
         "source": "LibreTexts",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -30467,7 +30139,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "ChemGuide - structures of metals and ionic crystals",
-        "url": "https://www.chemguide.co.uk/",
+        "url": "https://www.google.com/search?q=Solid+State+site%3Achemguide.co.uk",
         "source": "ChemGuide",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -30523,7 +30195,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Crystal Structure Basics - LibreTexts",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=Solid+State+site%3Achem.libretexts.org",
         "source": "LibreTexts",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -30555,7 +30227,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Close packing of spheres - LibreTexts",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=Solid+State+site%3Achem.libretexts.org",
         "source": "LibreTexts",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -30571,7 +30243,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "ChemGuide - giant covalent and metallic structures",
-        "url": "https://www.chemguide.co.uk/",
+        "url": "https://www.google.com/search?q=Solid+State+site%3Achemguide.co.uk",
         "source": "ChemGuide",
         "type": "Topic page",
         "level": "JEE Main",
@@ -30944,14 +30616,6 @@ window.ATLAS_DATA = [
       "Coagulation, Hardy-Schulze rule and protective colloids (gold number)"
     ],
     "anchors": [
-      {
-        "title": "NCERT Class 12 Chemistry textbook (Surface Chemistry chapter)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Single most important source: NCERT Surface Chemistry definitions, classifications and isotherm statements are quoted near-verbatim in JEE questions."
-      },
       {
         "title": "LibreTexts Physical Chemistry: adsorption and surfaces",
         "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps",
@@ -31403,14 +31067,6 @@ window.ATLAS_DATA = [
       "Variation of valency and reactivity across periods and groups"
     ],
     "anchors": [
-      {
-        "title": "NCERT Class 11 Chemistry — Classification of Elements & Periodicity (Unit 3)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "The single most important text: every JEE periodicity question is rooted in this chapter's trends, exceptions and data tables."
-      },
       {
         "title": "Chemistry LibreTexts — Periodic Trends",
         "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Periodic_Trends",
@@ -31942,14 +31598,6 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Chemistry textbooks (Class 11 & 12) — official PDFs",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Hydrogen and the s-Block chapters are NCERT's primary descriptive base — every JEE Advanced inorganic fact for this chapter traces to these books; start here."
-      },
-      {
         "title": "JEE Advanced official archive — past question papers & keys",
         "url": "https://jeeadv.ac.in/archive.html",
         "source": "IIT JEE Advanced",
@@ -31959,7 +31607,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Chemistry LibreTexts — full chemistry library",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=Hydrogen+and+s-Block+Elements+site%3Achem.libretexts.org",
         "source": "LibreTexts",
         "type": "Reference",
         "level": "Mixed",
@@ -31967,7 +31615,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "ChemGuide — inorganic chemistry of the s-block",
-        "url": "https://www.chemguide.co.uk/",
+        "url": "https://www.google.com/search?q=Hydrogen+and+s-Block+Elements+site%3Achemguide.co.uk",
         "source": "ChemGuide",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -32439,16 +32087,8 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Chemistry Textbooks (Class 11 & 12 - p-Block chapters)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Single most important source: NCERT Class 11 Unit 11 and Class 12 Unit 7 cover the entire p-block; nearly all JEE Advanced fact-based MCQs trace to these lines."
-      },
-      {
         "title": "Chemistry LibreTexts - Inorganic / Descriptive Main-Group Chemistry",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=p-Block+Elements+site%3Achem.libretexts.org",
         "source": "LibreTexts",
         "type": "Reference",
         "level": "JEE Advanced",
@@ -32456,7 +32096,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "ChemGuide - Inorganic Chemistry (Groups, Periodic Trends, Halogens)",
-        "url": "https://www.chemguide.co.uk/",
+        "url": "https://www.google.com/search?q=p-Block+Elements+site%3Achemguide.co.uk",
         "source": "ChemGuide",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -32528,7 +32168,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Chemistry LibreTexts - Oxoacids of phosphorus and sulphur (search)",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=p-Block+Elements+site%3Achem.libretexts.org",
         "source": "LibreTexts",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -32536,7 +32176,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "ChemGuide - The Halogens (Group 17)",
-        "url": "https://www.chemguide.co.uk/",
+        "url": "https://www.google.com/search?q=p-Block+Elements+site%3Achemguide.co.uk",
         "source": "ChemGuide",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -32960,14 +32600,6 @@ window.ATLAS_DATA = [
         "type": "Past papers",
         "level": "JEE Advanced",
         "note": "Authentic previous-year JEE Advanced papers and answer keys; the gold standard for d- and f-block problem practice."
-      },
-      {
-        "title": "NCERT Chemistry Textbooks (Class 12 — The d- and f-Block Elements)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "ncert.nic.in",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Chapter 8 of Class 12 NCERT is the syllabus backbone; every JEE inorganic fact on transition/inner-transition metals traces here."
       },
       {
         "title": "Chemistry LibreTexts — Transition Metals and Coordination Chemistry",
@@ -33451,14 +33083,6 @@ window.ATLAS_DATA = [
         "note": "Official question papers and answer keys; pull coordination-chemistry questions year by year."
       },
       {
-        "title": "NCERT Chemistry Textbooks (Class 11 & 12)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "The Class 12 Coordination Compounds chapter is the syllabus baseline every JEE question is built on."
-      },
-      {
         "title": "Chemistry LibreTexts: Crystal Field Theory",
         "url": "https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules_and_Websites_(Inorganic_Chemistry)/Crystal_Field_Theory",
         "source": "LibreTexts",
@@ -33930,14 +33554,6 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Class 12 Chemistry textbooks (download PDF chapters)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Open the Class 12 Chemistry (Part I) book; the General Principles and Processes of Isolation of Elements chapter is the single most important JEE source for this topic — every line is examinable."
-      },
-      {
         "title": "JEE Advanced official past papers archive",
         "url": "https://jeeadv.ac.in/archive.html",
         "source": "JEE Advanced (IIT)",
@@ -33947,7 +33563,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Chemistry LibreTexts — homepage and search",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=General+Principles+of+Metallurgy+site%3Achem.libretexts.org",
         "source": "LibreTexts",
         "type": "Reference",
         "level": "Mixed",
@@ -33955,7 +33571,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "ChemGuide — UK A-level chemistry notes",
-        "url": "https://www.chemguide.co.uk/",
+        "url": "https://www.google.com/search?q=General+Principles+of+Metallurgy+site%3Achemguide.co.uk",
         "source": "ChemGuide",
         "type": "Topic page",
         "level": "JEE Main",
@@ -34027,7 +33643,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Chemistry LibreTexts — search Bayer and electrolytic refining",
-        "url": "https://chem.libretexts.org/?q=electrolytic+refining",
+        "url": "https://www.google.com/search?q=General+Principles+of+Metallurgy+site%3Achem.libretexts.org",
         "source": "LibreTexts",
         "type": "Reference",
         "level": "JEE Advanced",
@@ -34477,16 +34093,8 @@ window.ATLAS_DATA = [
         "note": "Authentic question papers and answer keys; mine inorganic-analysis questions from past years."
       },
       {
-        "title": "NCERT Class 11/12 Chemistry Textbooks (download)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Salt analysis is taught from NCERT practical chemistry; baseline syllabus for cation/anion tests."
-      },
-      {
         "title": "Chemistry LibreTexts (full chemistry library)",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=Qualitative+Inorganic+Analysis+site%3Achem.libretexts.org",
         "source": "LibreTexts",
         "type": "Reference",
         "level": "Mixed",
@@ -34494,7 +34102,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "ChemGuide: A-level/JEE-level inorganic notes",
-        "url": "https://www.chemguide.co.uk/",
+        "url": "https://www.google.com/search?q=Qualitative+Inorganic+Analysis+site%3Achemguide.co.uk",
         "source": "ChemGuide",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -34949,16 +34557,8 @@ window.ATLAS_DATA = [
         "note": "Authentic question papers; mine GOC items (acidity order, aromaticity, carbocation stability) from Paper 1 & 2 of every year."
       },
       {
-        "title": "NCERT Chemistry Textbooks (Class XI & XII)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "ncert.nic.in",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Class XI Ch. 12 'Organic Chemistry: Basic Principles & Techniques' is the GOC bible — electronic effects, nomenclature, intermediates."
-      },
-      {
         "title": "LibreTexts: Inductive, Resonance & Hyperconjugation effects",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=General+Organic+Chemistry+site%3Achem.libretexts.org",
         "source": "chem.libretexts.org",
         "type": "Topic page",
         "level": "Mixed",
@@ -34966,7 +34566,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Master Organic Chemistry: Inductive Effect & Electronegativity",
-        "url": "https://www.masterorganicchemistry.com/",
+        "url": "https://www.google.com/search?q=General+Organic+Chemistry+site%3Amasterorganicchemistry.com",
         "source": "masterorganicchemistry.com",
         "type": "Topic page",
         "level": "Mixed",
@@ -34974,7 +34574,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Master Organic Chemistry: Resonance & How to Draw Resonance Structures",
-        "url": "https://www.masterorganicchemistry.com/",
+        "url": "https://www.google.com/search?q=General+Organic+Chemistry+site%3Amasterorganicchemistry.com",
         "source": "masterorganicchemistry.com",
         "type": "Topic page",
         "level": "Mixed",
@@ -34982,7 +34582,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Master Organic Chemistry: Carbocation Stability & Rearrangements",
-        "url": "https://www.masterorganicchemistry.com/",
+        "url": "https://www.google.com/search?q=General+Organic+Chemistry+site%3Amasterorganicchemistry.com",
         "source": "masterorganicchemistry.com",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -34990,7 +34590,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Master Organic Chemistry: Aromaticity & Huckel's Rule",
-        "url": "https://www.masterorganicchemistry.com/",
+        "url": "https://www.google.com/search?q=General+Organic+Chemistry+site%3Amasterorganicchemistry.com",
         "source": "masterorganicchemistry.com",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -34998,7 +34598,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "ChemGuide: Acid strength of organic acids & basic strength of amines",
-        "url": "https://www.chemguide.co.uk/",
+        "url": "https://www.google.com/search?q=General+Organic+Chemistry+site%3Achemguide.co.uk",
         "source": "chemguide.co.uk",
         "type": "Topic page",
         "level": "Mixed",
@@ -35006,7 +34606,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "ChemGuide: Bonding, electronegativity & organic structures",
-        "url": "https://www.chemguide.co.uk/",
+        "url": "https://www.google.com/search?q=General+Organic+Chemistry+site%3Achemguide.co.uk",
         "source": "chemguide.co.uk",
         "type": "Reference",
         "level": "JEE Main",
@@ -35420,14 +35020,6 @@ window.ATLAS_DATA = [
         "type": "Past papers",
         "level": "JEE Advanced",
         "note": "Official question papers and answer keys; mine the Organic Chemistry sections for stereochemistry MCQs, match-the-column and integer-type isomerism problems."
-      },
-      {
-        "title": "NCERT Chemistry Textbooks (Class 11 & 12)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "ncert.nic.in",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Foundation source: Organic Chemistry Basic Principles (Class 11) covers isomerism types; the GOC chapter sets the vocabulary JEE assumes."
       },
       {
         "title": "Master Organic Chemistry - Stereochemistry Hub",
@@ -35909,16 +35501,8 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Class 11 Chemistry: Hydrocarbons (Chapter 13)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "The non-negotiable base text. Download Part II and study the Hydrocarbons chapter; every JEE Advanced question presumes mastery of these reactions and named-reagent conditions."
-      },
-      {
         "title": "ChemGuide: Properties of Alkanes, Alkenes and Alkynes",
-        "url": "https://www.chemguide.co.uk/",
+        "url": "https://www.google.com/search?q=Hydrocarbons+site%3Achemguide.co.uk",
         "source": "ChemGuide",
         "type": "Topic page",
         "level": "JEE Main",
@@ -35926,7 +35510,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Master Organic Chemistry: Alkene & Alkyne Addition Reactions",
-        "url": "https://www.masterorganicchemistry.com/",
+        "url": "https://www.google.com/search?q=Hydrocarbons+site%3Amasterorganicchemistry.com",
         "source": "Master Organic Chemistry",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -35934,7 +35518,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Master Organic Chemistry: Electrophilic Aromatic Substitution",
-        "url": "https://www.masterorganicchemistry.com/",
+        "url": "https://www.google.com/search?q=Hydrocarbons+site%3Amasterorganicchemistry.com",
         "source": "Master Organic Chemistry",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -35942,7 +35526,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Chemistry LibreTexts: Reactions of Alkenes (Electrophilic Addition)",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=Hydrocarbons+site%3Achem.libretexts.org",
         "source": "LibreTexts",
         "type": "Reference",
         "level": "JEE Advanced",
@@ -35950,7 +35534,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Chemistry LibreTexts: Aromatic Compounds & Benzene",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=Hydrocarbons+site%3Achem.libretexts.org",
         "source": "LibreTexts",
         "type": "Reference",
         "level": "JEE Advanced",
@@ -35982,7 +35566,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Chemistry LibreTexts: Free-Radical Halogenation of Alkanes",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=Hydrocarbons+site%3Achem.libretexts.org",
         "source": "LibreTexts",
         "type": "Reference",
         "level": "JEE Advanced",
@@ -35990,7 +35574,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Master Organic Chemistry: Alkene & Alkyne Reaction Roadmaps",
-        "url": "https://www.masterorganicchemistry.com/",
+        "url": "https://www.google.com/search?q=Hydrocarbons+site%3Amasterorganicchemistry.com",
         "source": "Master Organic Chemistry",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -36378,16 +35962,8 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Class 12 Chemistry textbook (Haloalkanes & Haloarenes chapter)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "The foundational text; the haloalkanes chapter and its in-text/exercise problems are directly examined in JEE Main and are baseline for Advanced."
-      },
-      {
         "title": "ChemGuide: Halogenoalkanes (mechanisms and reactions)",
-        "url": "https://www.chemguide.co.uk/",
+        "url": "https://www.google.com/search?q=Haloalkanes+and+Haloarenes+site%3Achemguide.co.uk",
         "source": "ChemGuide",
         "type": "Topic page",
         "level": "JEE Main",
@@ -36395,7 +35971,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Master Organic Chemistry: SN1/SN2/E1/E2 decision summary",
-        "url": "https://www.masterorganicchemistry.com/",
+        "url": "https://www.google.com/search?q=Haloalkanes+and+Haloarenes+site%3Amasterorganicchemistry.com",
         "source": "Master Organic Chemistry",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -36403,7 +35979,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Chemistry LibreTexts: Nucleophilic substitution and elimination reactions",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=Haloalkanes+and+Haloarenes+site%3Achem.libretexts.org",
         "source": "LibreTexts",
         "type": "Reference",
         "level": "JEE Advanced",
@@ -36411,7 +35987,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Master Organic Chemistry: Grignard reagent reactions",
-        "url": "https://www.masterorganicchemistry.com/",
+        "url": "https://www.google.com/search?q=Haloalkanes+and+Haloarenes+site%3Amasterorganicchemistry.com",
         "source": "Master Organic Chemistry",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -36419,7 +35995,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "ChemGuide: Halogenoarenes / aryl halide reactivity",
-        "url": "https://www.chemguide.co.uk/",
+        "url": "https://www.google.com/search?q=Haloalkanes+and+Haloarenes+site%3Achemguide.co.uk",
         "source": "ChemGuide",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -36451,7 +36027,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Chemistry LibreTexts: stereochemistry of substitution (inversion vs racemization)",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=Haloalkanes+and+Haloarenes+site%3Achem.libretexts.org",
         "source": "LibreTexts",
         "type": "Reference",
         "level": "JEE Advanced",
@@ -36491,7 +36067,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Master Organic Chemistry: leaving groups, nucleophiles and solvent effects",
-        "url": "https://www.masterorganicchemistry.com/",
+        "url": "https://www.google.com/search?q=Haloalkanes+and+Haloarenes+site%3Amasterorganicchemistry.com",
         "source": "Master Organic Chemistry",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -36499,7 +36075,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "ChemGuide: optical isomerism and chirality",
-        "url": "https://www.chemguide.co.uk/",
+        "url": "https://www.google.com/search?q=Haloalkanes+and+Haloarenes+site%3Achemguide.co.uk",
         "source": "ChemGuide",
         "type": "Topic page",
         "level": "JEE Main",
@@ -36877,16 +36453,8 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Chemistry Textbooks (Class 12, Unit: Alcohols, Phenols and Ethers)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Download the Class 12 Part I PDF; this unit defines the exact in-syllabus reactions and tests examiners assume."
-      },
-      {
         "title": "Master Organic Chemistry: Alcohols Reactions Summary",
-        "url": "https://www.masterorganicchemistry.com/",
+        "url": "https://www.google.com/search?q=Alcohols%2C+Phenols+and+Ethers+site%3Amasterorganicchemistry.com",
         "source": "Master Organic Chemistry",
         "type": "Topic page",
         "level": "Mixed",
@@ -36894,7 +36462,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Master Organic Chemistry: Williamson Ether Synthesis",
-        "url": "https://www.masterorganicchemistry.com/",
+        "url": "https://www.google.com/search?q=Alcohols%2C+Phenols+and+Ethers+site%3Amasterorganicchemistry.com",
         "source": "Master Organic Chemistry",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -36902,7 +36470,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "ChemGuide: Alcohols Menu",
-        "url": "https://www.chemguide.co.uk/",
+        "url": "https://www.google.com/search?q=Alcohols%2C+Phenols+and+Ethers+site%3Achemguide.co.uk",
         "source": "ChemGuide",
         "type": "Topic page",
         "level": "JEE Main",
@@ -36910,7 +36478,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "ChemGuide: Phenol Reactions and Acidity",
-        "url": "https://www.chemguide.co.uk/",
+        "url": "https://www.google.com/search?q=Alcohols%2C+Phenols+and+Ethers+site%3Achemguide.co.uk",
         "source": "ChemGuide",
         "type": "Topic page",
         "level": "Mixed",
@@ -36918,7 +36486,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Chemistry LibreTexts: Alcohols, Phenols and Ethers",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=Alcohols%2C+Phenols+and+Ethers+site%3Achem.libretexts.org",
         "source": "LibreTexts",
         "type": "Reference",
         "level": "Mixed",
@@ -36926,7 +36494,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Chemistry LibreTexts: Phenol Acidity and Substituent Effects",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=Alcohols%2C+Phenols+and+Ethers+site%3Achem.libretexts.org",
         "source": "LibreTexts",
         "type": "Reference",
         "level": "JEE Advanced",
@@ -36998,7 +36566,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Master Organic Chemistry: Oxidation of Alcohols (PCC vs Jones)",
-        "url": "https://www.masterorganicchemistry.com/",
+        "url": "https://www.google.com/search?q=Alcohols%2C+Phenols+and+Ethers+site%3Amasterorganicchemistry.com",
         "source": "Master Organic Chemistry",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -37363,7 +36931,7 @@ window.ATLAS_DATA = [
     "anchors": [
       {
         "title": "Master Organic Chemistry - Aldehydes & Ketones reaction guide",
-        "url": "https://www.masterorganicchemistry.com/",
+        "url": "https://www.google.com/search?q=Aldehydes%2C+Ketones+and+Carboxylic+Acids+site%3Amasterorganicchemistry.com",
         "source": "Master Organic Chemistry",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -37371,7 +36939,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Master Organic Chemistry - Carboxylic acids & derivatives",
-        "url": "https://www.masterorganicchemistry.com/",
+        "url": "https://www.google.com/search?q=Aldehydes%2C+Ketones+and+Carboxylic+Acids+site%3Amasterorganicchemistry.com",
         "source": "Master Organic Chemistry",
         "type": "Reference",
         "level": "JEE Advanced",
@@ -37379,7 +36947,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "ChemGuide - Aldehydes and ketones",
-        "url": "https://www.chemguide.co.uk/",
+        "url": "https://www.google.com/search?q=Aldehydes%2C+Ketones+and+Carboxylic+Acids+site%3Achemguide.co.uk",
         "source": "ChemGuide",
         "type": "Topic page",
         "level": "JEE Main",
@@ -37387,7 +36955,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "ChemGuide - Carboxylic acids and acidity",
-        "url": "https://www.chemguide.co.uk/",
+        "url": "https://www.google.com/search?q=Aldehydes%2C+Ketones+and+Carboxylic+Acids+site%3Achemguide.co.uk",
         "source": "ChemGuide",
         "type": "Reference",
         "level": "JEE Main",
@@ -37395,7 +36963,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Chemistry LibreTexts - Aldehydes & Ketones (full chapter)",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=Aldehydes%2C+Ketones+and+Carboxylic+Acids+site%3Achem.libretexts.org",
         "source": "Chemistry LibreTexts",
         "type": "Reference",
         "level": "Mixed",
@@ -37403,19 +36971,11 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Chemistry LibreTexts - Carboxylic acid derivatives",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=Aldehydes%2C+Ketones+and+Carboxylic+Acids+site%3Achem.libretexts.org",
         "source": "Chemistry LibreTexts",
         "type": "Reference",
         "level": "JEE Advanced",
         "note": "Deep coverage of esters, amides, anhydrides and acyl substitution mechanisms with electron-pushing arrows."
-      },
-      {
-        "title": "NCERT Chemistry Class 12 - Aldehydes, Ketones & Carboxylic Acids (Ch.12)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "The canonical syllabus source. Download Class 12 Chemistry Part II; every JEE question maps back here."
       },
       {
         "title": "Official JEE Advanced past papers archive",
@@ -37858,16 +37418,8 @@ window.ATLAS_DATA = [
         "note": "Authentic previous-year Advanced papers; mine the Organic Chemistry sections for amine and diazonium multi-step and matrix-match items."
       },
       {
-        "title": "NCERT Chemistry Textbooks (Class 12, Amines chapter)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Open Class 12 Chemistry Part-II; the Amines chapter is the syllabus baseline every JEE question is built on."
-      },
-      {
         "title": "Master Organic Chemistry: Amines reactions & basicity",
-        "url": "https://www.masterorganicchemistry.com/",
+        "url": "https://www.google.com/search?q=Amines+and+Nitrogen+Compounds+site%3Amasterorganicchemistry.com",
         "source": "Master Organic Chemistry",
         "type": "Topic page",
         "level": "Mixed",
@@ -37875,7 +37427,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "ChemGuide: Amines, diazonium salts and aniline reactions",
-        "url": "https://www.chemguide.co.uk/",
+        "url": "https://www.google.com/search?q=Amines+and+Nitrogen+Compounds+site%3Achemguide.co.uk",
         "source": "ChemGuide",
         "type": "Topic page",
         "level": "Mixed",
@@ -37883,7 +37435,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Chemistry LibreTexts: Amines (preparation, basicity, reactions)",
-        "url": "https://chem.libretexts.org/",
+        "url": "https://www.google.com/search?q=Amines+and+Nitrogen+Compounds+site%3Achem.libretexts.org",
         "source": "LibreTexts",
         "type": "Reference",
         "level": "Mixed",
@@ -38307,14 +37859,6 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Chemistry textbooks (Class 11 & 12) — Biomolecules & Polymers chapters",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "The single most authoritative source for JEE biomolecules; open Class 12 Part II for the Biomolecules and Polymers chapters."
-      },
-      {
         "title": "Official JEE Advanced past papers archive",
         "url": "https://jeeadv.ac.in/archive.html",
         "source": "JEE Advanced (IIT)",
@@ -38348,7 +37892,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "ChemGuide — carbohydrate and amino-acid chemistry notes",
-        "url": "https://www.chemguide.co.uk/",
+        "url": "https://www.google.com/search?q=Biomolecules+and+Polymers+site%3Achemguide.co.uk",
         "source": "ChemGuide",
         "type": "Reference",
         "level": "JEE Main",
@@ -38818,16 +38362,8 @@ window.ATLAS_DATA = [
         "note": "Authentic question papers; search past years for qualitative-analysis and distinguishing-test questions."
       },
       {
-        "title": "NCERT Class 11 Chemistry: Organic Chemistry - Basic Principles & Techniques",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "ncert.nic.in",
-        "type": "Reference",
-        "level": "JEE Main",
-        "note": "Covers purification, qualitative and quantitative analysis - the syllabus baseline for this topic."
-      },
-      {
         "title": "Master Organic Chemistry - Functional Group Reactivity",
-        "url": "https://www.masterorganicchemistry.com/",
+        "url": "https://www.google.com/search?q=Practical+Organic+Chemistry+site%3Amasterorganicchemistry.com",
         "source": "masterorganicchemistry.com",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -38835,7 +38371,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "ChemGuide - Tests for Organic Functional Groups",
-        "url": "https://www.chemguide.co.uk/",
+        "url": "https://www.google.com/search?q=Practical+Organic+Chemistry+site%3Achemguide.co.uk",
         "source": "chemguide.co.uk",
         "type": "Topic page",
         "level": "JEE Advanced",
@@ -39294,32 +38830,8 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Class 11 Biology Textbook (Chapter 1: The Living World)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "THE primary NEET source — select Class XI Biology, Chapter 1. Read the full chapter text; every NEET question traces back here."
-      },
-      {
-        "title": "NCERT Textbooks Portal (download Class XI & XII Biology PDFs)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "Foundation",
-        "note": "Official free PDFs. Grab Class XI Biology for The Living World and keep the whole book handy for cross-chapter revision."
-      },
-      {
-        "title": "NCERT Class 11 Biology — Exemplar Problems (official)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Problem set",
-        "level": "NEET",
-        "note": "Choose 'Exemplar Problems' for Class XI Biology — MCQs and assertion-reason on taxonomy and nomenclature ideal for NEET drill."
-      },
-      {
         "title": "OpenStax Biology 2e (full free textbook)",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=The+Living+World+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -39327,7 +38839,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Biology LibreTexts — Introductory & General Biology library",
-        "url": "https://bio.libretexts.org/",
+        "url": "https://www.google.com/search?q=The+Living+World+site%3Abio.libretexts.org",
         "source": "LibreTexts",
         "type": "Topic page",
         "level": "NEET",
@@ -39756,24 +39268,8 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Textbooks (official PDF download portal)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "THE primary NEET source. Open Class XI Biology and download the chapter 'Biological Classification' PDF — every NEET question is anchored to this text."
-      },
-      {
-        "title": "NCERT Class XI Biology — Read the chapter line-by-line",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "Foundation",
-        "note": "Read the full NCERT chapter; the five-kingdom table and fungal classes here are directly examinable."
-      },
-      {
         "title": "OpenStax Biology 2e — Free Full Text",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Biological+Classification+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -39781,7 +39277,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Biology LibreTexts — Microbiology & Diversity",
-        "url": "https://bio.libretexts.org/",
+        "url": "https://www.google.com/search?q=Biological+Classification+site%3Abio.libretexts.org",
         "source": "LibreTexts",
         "type": "Reference",
         "level": "NEET",
@@ -40252,30 +39748,6 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Textbooks (official PDF download portal)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "THE primary NEET source. Download Class XI Biology (kebo1); the 'Plant Kingdom' chapter is the syllabus core and every NEET question traces back here."
-      },
-      {
-        "title": "NCERT Class XI Biology — Plant Kingdom (textbook chapter)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Topic page",
-        "level": "NEET",
-        "note": "Open kebo1 (Class XI Biology). The Plant Kingdom chapter covers algae, bryophytes, pteridophytes, gymnosperms, angiosperms and life cycles verbatim as NEET expects."
-      },
-      {
-        "title": "NCERT Class XI Biology — Biological Classification (companion chapter)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Topic page",
-        "level": "NEET",
-        "note": "Read alongside Plant Kingdom to fix the five-kingdom system and where Plantae sits — the two chapters are frequently combined in NEET questions."
-      },
-      {
         "title": "NCERT Exemplar Problems (official download portal)",
         "url": "https://ncert.nic.in/exemplar-problems.php",
         "source": "NCERT",
@@ -40293,7 +39765,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Biology 2e — Seedless Plants (Ch. 25)",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Plant+Kingdom+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -40301,7 +39773,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Biology 2e — Seed Plants (Ch. 26)",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Plant+Kingdom+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -40309,7 +39781,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Biology LibreTexts — Plant Diversity hub",
-        "url": "https://bio.libretexts.org/",
+        "url": "https://www.google.com/search?q=Plant+Kingdom+site%3Abio.libretexts.org",
         "source": "LibreTexts",
         "type": "Reference",
         "level": "NEET",
@@ -40700,14 +40172,6 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Textbooks (official download portal)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "THE primary NEET Biology source. Download the Class XI Biology 'Animal Kingdom' chapter PDF (free, official)."
-      },
-      {
         "title": "NCERT Exemplar Problems (official)",
         "url": "https://ncert.nic.in/exemplar-problems.php",
         "source": "NCERT",
@@ -40749,7 +40213,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Biology 2e (full free textbook)",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Animal+Kingdom+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -41156,22 +40620,6 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Biology Class XI — Cell: The Unit of Life (Chapter 8)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "THE primary NEET source. Open Biology Class XI, select Chapter 8 'Cell: The Unit of Life' — every NEET question traces to this exact text and its diagrams."
-      },
-      {
-        "title": "NCERT Textbooks Portal (download all Class XI & XII Biology PDFs)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "Foundation",
-        "note": "Hub to download the full NCERT Biology books free; start every chapter prep here and read the cell chapter line by line."
-      },
-      {
         "title": "NCERT Exemplar Biology Class XI (assertion-reason & MCQ practice)",
         "url": "https://ncert.nic.in/exemplar-problems.php",
         "source": "NCERT",
@@ -41181,7 +40629,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Biology 2e — Cell Structure unit (free full text)",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Cell%3A+The+Unit+of+Life+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -41189,7 +40637,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Biology LibreTexts — Cell Structure and Function",
-        "url": "https://bio.libretexts.org/",
+        "url": "https://www.google.com/search?q=Cell%3A+The+Unit+of+Life+site%3Abio.libretexts.org",
         "source": "LibreTexts",
         "type": "Reference",
         "level": "NEET",
@@ -41665,14 +41113,6 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Class XI Biology — official textbook portal (Cell Cycle and Cell Division chapter)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "THE primary NEET Biology source. Open Class XI Biology and study the Cell Cycle and Cell Division chapter line-by-line; most NEET items are framed directly from this text and its labelled figures."
-      },
-      {
         "title": "NCERT Exemplar — Biology (problems portal)",
         "url": "https://ncert.nic.in/exemplar-problems.php",
         "source": "NCERT",
@@ -41682,7 +41122,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Biology 2e — full free textbook (Cell Reproduction unit)",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Cell+Cycle+and+Cell+Division+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -42163,30 +41603,6 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Class XI Biology — Chapter 9: Biomolecules (textbook PDF)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "THE primary NEET source — open the Class XI Biology book and read the Biomolecules chapter line by line; every NEET question traces here."
-      },
-      {
-        "title": "NCERT Textbooks Portal (all Class XI & XII Biology PDFs)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "Download official chapter PDFs free; Biomolecules sits in Class XI Biology Unit 2 (Structural Organisation)."
-      },
-      {
-        "title": "NCERT Class XII Biology — Molecular Basis of Inheritance (nucleic acids link)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "Pair Biomolecules with Class XII Ch.6 for DNA/RNA structure — frequently combined in NEET nucleic-acid questions."
-      },
-      {
         "title": "NCERT Exemplar Portal — Biology problem books (Class XI & XII)",
         "url": "https://ncert.nic.in/exemplar-problems.php",
         "source": "NCERT",
@@ -42196,7 +41612,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Biology 2e — Biological Macromolecules (free full chapter)",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Biomolecules+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -42204,7 +41620,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Biology LibreTexts — Biological Molecules",
-        "url": "https://bio.libretexts.org/",
+        "url": "https://www.google.com/search?q=Biomolecules+site%3Abio.libretexts.org",
         "source": "LibreTexts",
         "type": "Topic page",
         "level": "NEET",
@@ -42628,30 +42044,6 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Biology Class XI Textbook (download)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "Chapter 5 'Morphology of Flowering Plants' — the single most important and most directly tested source for this chapter in NEET. Select Biology, Class XI."
-      },
-      {
-        "title": "NCERT Class XI Biology — chapter PDF portal",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Topic page",
-        "level": "Foundation",
-        "note": "Read the chapter line-by-line; NEET botany questions are frequently lifted verbatim from NCERT lines and diagrams. Re-read root, stem and leaf sections."
-      },
-      {
-        "title": "NCERT Exemplar Biology Class XI",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Problem set",
-        "level": "NEET",
-        "note": "Exemplar MCQs and assertion-reason items for Morphology — closest practice to actual NEET difficulty. Choose 'Exemplar Problems' for Class XI Biology."
-      },
-      {
         "title": "Official NEET (NTA) portal",
         "url": "https://neet.nta.nic.in/",
         "source": "NTA",
@@ -42701,7 +42093,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Biology LibreTexts: Plant anatomy & morphology",
-        "url": "https://bio.libretexts.org/",
+        "url": "https://www.google.com/search?q=Morphology+of+Flowering+Plants+site%3Abio.libretexts.org",
         "source": "LibreTexts",
         "type": "Reference",
         "level": "NEET",
@@ -42709,7 +42101,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Biology 2e — Anatomy of Flowering Plants",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Morphology+of+Flowering+Plants+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -43124,30 +42516,6 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Textbooks (official PDF download portal)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "THE primary NEET source. Open Class XI Biology, Chapter 'Anatomy of Flowering Plants' — read line by line; NEET picks statements verbatim."
-      },
-      {
-        "title": "NCERT Class XI Biology — full book (textbook portal)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "Select Biology > Class XI to get all chapters incl. anatomy; T.S. diagrams of dicot/monocot stem and root are exam-favourite."
-      },
-      {
-        "title": "NCERT Exemplar Biology Class XI (problem book)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Problem set",
-        "level": "NEET",
-        "note": "Choose 'Exemplar problems' > Biology XI — MCQs and assertion-reason on tissues and secondary growth; ideal NEET-level practice."
-      },
-      {
         "title": "Official NEET (NTA) — exam portal",
         "url": "https://neet.nta.nic.in/",
         "source": "NTA",
@@ -43165,7 +42533,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Biology 2e — free full text",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Anatomy+of+Flowering+Plants+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -43173,7 +42541,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Biology LibreTexts — Botany & plant anatomy library",
-        "url": "https://bio.libretexts.org/",
+        "url": "https://www.google.com/search?q=Anatomy+of+Flowering+Plants+site%3Abio.libretexts.org",
         "source": "LibreTexts",
         "type": "Reference",
         "level": "NEET",
@@ -43237,7 +42605,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax — Concepts of Biology (free text)",
-        "url": "https://openstax.org/details/books/concepts-biology",
+        "url": "https://www.google.com/search?q=Anatomy+of+Flowering+Plants+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "Foundation",
@@ -43628,22 +42996,6 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Textbooks (official PDF download portal)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "THE primary NEET Biology source. Open Class XI Biology and download Chapter 13 'Photosynthesis in Higher Plants' — read this line by line."
-      },
-      {
-        "title": "NCERT Class XI Biology — full book listing",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "Photosynthesis sits in Unit 4 (Plant Physiology). NCERT lines are directly tested in NEET, so map every subtopic to its NCERT page."
-      },
-      {
         "title": "NCERT Exemplar problems portal",
         "url": "https://ncert.nic.in/exemplarproblem.php",
         "source": "NCERT",
@@ -43661,7 +43013,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Biology 2e — free full textbook",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Photosynthesis+in+Higher+Plants+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -44136,22 +43488,6 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Class XI Biology — download the Respiration in Plants chapter PDF",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "THE primary NEET source. Open Class XI Biology and download the Respiration in Plants chapter PDF — every NEET respiration question traces back to these exact lines."
-      },
-      {
-        "title": "NCERT Official Portal — textbooks & e-resources",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "Foundation",
-        "note": "Pull both Class XI and XII Biology PDFs to cross-reference respiration with photosynthesis and the rest of plant physiology."
-      },
-      {
         "title": "NCERT Exemplar Problems — Biology",
         "url": "https://ncert.nic.in/exemplar-problems.php",
         "source": "NCERT",
@@ -44169,7 +43505,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Biology 2e — Cellular Respiration (free full text)",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Respiration+in+Plants+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -44177,7 +43513,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Biology LibreTexts — Cellular Respiration hub",
-        "url": "https://bio.libretexts.org/",
+        "url": "https://www.google.com/search?q=Respiration+in+Plants+site%3Abio.libretexts.org",
         "source": "LibreTexts",
         "type": "Topic page",
         "level": "NEET",
@@ -44616,22 +43952,6 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Class XI Biology Textbook (Plant Growth and Development)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "THE primary NEET source. Open Biology Class XI and read the Plant Growth and Development chapter line by line; nearly every NEET question is framed from this text."
-      },
-      {
-        "title": "NCERT Textbooks Official Portal (all Biology PDFs)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "Foundation",
-        "note": "Download free official Class XI and XII Biology PDFs; use Class XI Unit IV (Plant Physiology) for this chapter."
-      },
-      {
         "title": "NCERT Exemplar Problems Portal (Biology)",
         "url": "https://ncert.nic.in/exemplar-problems.php",
         "source": "NCERT",
@@ -44641,7 +43961,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Biology 2e (free textbook)",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Plant+Growth+and+Development+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -44649,7 +43969,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Concepts of Biology (free textbook)",
-        "url": "https://openstax.org/details/books/concepts-biology",
+        "url": "https://www.google.com/search?q=Plant+Growth+and+Development+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "Foundation",
@@ -44657,7 +43977,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Biology LibreTexts (Plant Hormones and Growth)",
-        "url": "https://bio.libretexts.org/",
+        "url": "https://www.google.com/search?q=Plant+Growth+and+Development+site%3Abio.libretexts.org",
         "source": "LibreTexts",
         "type": "Topic page",
         "level": "NEET",
@@ -45114,14 +44434,6 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Class XI Biology — textbook portal (Structural Organisation in Animals)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "THE primary NEET source. Open Class XI Biology and read the Structural Organisation in Animals chapter line by line — the labelled tissue figures and frog/earthworm/cockroach diagrams are directly examinable."
-      },
-      {
         "title": "NCERT Class XI Biology — full PDF download portal",
         "url": "https://ncert.nic.in/textbook/textbook.htm",
         "source": "NCERT",
@@ -45163,7 +44475,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Animal structure and connective tissue — OpenStax Biology 2e",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Structural+Organisation+in+Animals+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -45608,22 +44920,6 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Class XI Biology Textbook (download chapter PDFs)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "THE primary NEET source. Open Biology Class XI and download the Digestion and Absorption chapter PDF; every NEET question maps to these lines."
-      },
-      {
-        "title": "NCERT Textbooks Portal (all classes, Biology XI & XII)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Topic page",
-        "level": "Foundation",
-        "note": "Grab the full Class XI Biology book to revise alimentary canal diagrams and enzyme tables directly from the source text."
-      },
-      {
         "title": "NCERT e-Pathshala (e-textbooks and e-content)",
         "url": "https://epathshala.nic.in/",
         "source": "NCERT",
@@ -45657,7 +44953,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Biology 2e (free full textbook)",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Digestion+and+Absorption+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -45665,7 +44961,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Anatomy and Physiology 2e (Digestive System unit)",
-        "url": "https://openstax.org/details/books/anatomy-and-physiology-2e",
+        "url": "https://www.google.com/search?q=Digestion+and+Absorption+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -45673,7 +44969,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Biology LibreTexts (Introductory & Human Biology)",
-        "url": "https://bio.libretexts.org/",
+        "url": "https://www.google.com/search?q=Digestion+and+Absorption+site%3Abio.libretexts.org",
         "source": "LibreTexts",
         "type": "Reference",
         "level": "NEET",
@@ -46063,14 +45359,6 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Textbooks (download Class XI Biology — Chapter 17)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "THE primary NEET source. Open the official Class XI Biology PDF and study Chapter 17 'Breathing and Exchange of Gases' line by line — most NEET questions are framed directly from this text and its diagrams."
-      },
-      {
         "title": "NCERT Official Textbook Portal",
         "url": "https://ncert.nic.in/",
         "source": "NCERT",
@@ -46088,7 +45376,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Biology 2e — full free text (respiration units)",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Breathing+and+Exchange+of+Gases+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -46096,7 +45384,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Biology LibreTexts — open biology library",
-        "url": "https://bio.libretexts.org/",
+        "url": "https://www.google.com/search?q=Breathing+and+Exchange+of+Gases+site%3Abio.libretexts.org",
         "source": "LibreTexts",
         "type": "Topic page",
         "level": "NEET",
@@ -46511,22 +45799,6 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Textbooks (official) — Biology Class XI & XII source PDFs",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "THE primary NEET Biology source. Open Class XI Biology and read the 'Body Fluids and Circulation' chapter line-by-line — NEET questions are framed directly from this NCERT text and diagrams."
-      },
-      {
-        "title": "NCERT Class XI Biology — full textbook page",
-        "url": "https://ncert.nic.in/textbook.php?kebo1=0-22",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "Direct listing of all Class XI Biology chapters; Body Fluids and Circulation is the chapter to download. Memorise the heart diagram, blood composition table and clotting cascade exactly as printed."
-      },
-      {
         "title": "Official NEET (NTA) — exam portal and syllabus",
         "url": "https://neet.nta.nic.in/",
         "source": "NTA",
@@ -46552,7 +45824,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Biology 2e — free full text (circulation unit)",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Body+Fluids+and+Circulation+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -46560,7 +45832,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Anatomy and Physiology 2e — cardiovascular system",
-        "url": "https://openstax.org/details/books/anatomy-and-physiology-2e",
+        "url": "https://www.google.com/search?q=Body+Fluids+and+Circulation+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -46568,7 +45840,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Biology LibreTexts — Introductory and Human Biology library",
-        "url": "https://bio.libretexts.org/",
+        "url": "https://www.google.com/search?q=Body+Fluids+and+Circulation+site%3Abio.libretexts.org",
         "source": "LibreTexts",
         "type": "Reference",
         "level": "NEET",
@@ -46978,14 +46250,6 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Textbooks (official) — download Biology Class XI & XII",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "THE primary NEET source. Open Biology Class XI and read the 'Excretory Products and their Elimination' chapter PDF directly."
-      },
-      {
         "title": "NCERT Class XI Biology — Excretory Products chapter (search)",
         "url": "https://www.google.com/search?q=NCERT%20Class%2011%20Biology%20Excretory%20Products%20Elimination%20chapter%20pdf",
         "source": "NCERT",
@@ -47003,7 +46267,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Biology 2e — Osmotic Regulation & Excretion",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Excretory+Products+and+their+Elimination+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -47011,7 +46275,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Biology LibreTexts — Osmoregulation and Excretion",
-        "url": "https://bio.libretexts.org/",
+        "url": "https://www.google.com/search?q=Excretory+Products+and+their+Elimination+site%3Abio.libretexts.org",
         "source": "LibreTexts",
         "type": "Reference",
         "level": "NEET",
@@ -47469,24 +46733,8 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Class XI Biology Textbook (official PDF chapters)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "THE primary NEET source. Open Biology Class XI, Unit V Human Physiology, and download the Locomotion and Movement chapter PDF; read line by line since exam questions are NCERT-statement based."
-      },
-      {
-        "title": "NCERT Textbook Portal (all classes, English/Hindi)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Topic page",
-        "level": "Foundation",
-        "note": "Use to grab the chapter in either medium plus the summary and exercises, which mirror NEET MCQ phrasing for first-pass coverage."
-      },
-      {
         "title": "OpenStax Biology 2e (free full textbook)",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Locomotion+and+Movement+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -47982,14 +47230,6 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Class XI Biology — official textbook download portal",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "Primary NEET source — download Class XI Biology and read 'Neural Control and Coordination' line by line; most NEET MCQs come straight from here."
-      },
-      {
         "title": "NCERT e-Pathshala — Class XI Biology e-book",
         "url": "https://epathshala.nic.in/",
         "source": "NCERT",
@@ -48015,7 +47255,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Biology 2e — free online textbook",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Neural+Control+and+Coordination+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -48023,7 +47263,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Anatomy and Physiology — free online textbook",
-        "url": "https://openstax.org/details/books/anatomy-and-physiology",
+        "url": "https://www.google.com/search?q=Neural+Control+and+Coordination+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -48457,32 +47697,8 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Biology Class XI Textbook (download — Chemical Coordination chapter)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "THE primary NEET source. Select Biology Class XI; the chapter 'Chemical Coordination and Integration' is the gold-standard text — every line is exam-relevant."
-      },
-      {
-        "title": "NCERT Textbook Portal (all Biology Class XI & XII PDFs)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "Hub for downloading full Biology books; pair this chapter with Class XI 'Neural Control and Coordination' for the integration questions NEET loves."
-      },
-      {
-        "title": "NCERT Exemplar Biology Class XI",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Problem set",
-        "level": "NEET",
-        "note": "Exemplar MCQs and assertion-reason on endocrine glands and hormones; harder than the textbook and a frequent source of NEET-style items."
-      },
-      {
         "title": "OpenStax Biology 2e — The Endocrine System",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Chemical+Coordination+and+Integration+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -48490,7 +47706,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Biology 2e — Regulation of Body Processes (hormonal)",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Chemical+Coordination+and+Integration+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -48498,7 +47714,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Biology LibreTexts — Endocrine System",
-        "url": "https://bio.libretexts.org/",
+        "url": "https://www.google.com/search?q=Chemical+Coordination+and+Integration+site%3Abio.libretexts.org",
         "source": "LibreTexts",
         "type": "Topic page",
         "level": "NEET",
@@ -48506,7 +47722,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Biology LibreTexts — Hormonal regulation",
-        "url": "https://bio.libretexts.org/",
+        "url": "https://www.google.com/search?q=Chemical+Coordination+and+Integration+site%3Abio.libretexts.org",
         "source": "LibreTexts",
         "type": "Topic page",
         "level": "NEET",
@@ -48909,14 +48125,6 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Textbooks (official PDF download portal)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "THE primary NEET source. Open Class XII Biology and read Chapter 2 'Sexual Reproduction in Flowering Plants' line-by-line; every NEET question is framed from this text and its labelled diagrams."
-      },
-      {
         "title": "NCERT Exemplar Problems (Biology) portal",
         "url": "https://ncert.nic.in/exemplar-problems.php",
         "source": "NCERT",
@@ -48974,7 +48182,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Biology LibreTexts — open biology library",
-        "url": "https://bio.libretexts.org/",
+        "url": "https://www.google.com/search?q=Sexual+Reproduction+in+Flowering+Plants+site%3Abio.libretexts.org",
         "source": "LibreTexts",
         "type": "Reference",
         "level": "Mixed",
@@ -48982,7 +48190,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Biology 2e — Plant Reproduction",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Sexual+Reproduction+in+Flowering+Plants+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "Mixed",
@@ -49411,30 +48619,6 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Textbooks (official PDF portal) — Class XII Biology, Human Reproduction",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "THE primary NEET source. Open Class XII Biology and read the Human Reproduction chapter line-by-line; every NEET question on this topic traces to this text."
-      },
-      {
-        "title": "NCERT Class XII Biology — full book (textbook portal)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "Download the complete Class XII Biology book; Human Reproduction follows Reproduction in Organisms. Diagrams of testis, ovary and menstrual cycle are exam-critical."
-      },
-      {
-        "title": "NCERT Exemplar Biology Class XII (official problem book)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Problem set",
-        "level": "NEET",
-        "note": "Select Exemplar > Biology > Class XII for higher-order MCQs and assertion-reason items on reproduction that match NEET difficulty."
-      },
-      {
         "title": "Official NEET (NTA) — syllabus, information bulletin and notices",
         "url": "https://neet.nta.nic.in/",
         "source": "NTA",
@@ -49444,7 +48628,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Biology 2e — Animal Reproduction and Development (free full text)",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Human+Reproduction+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -49452,7 +48636,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Biology LibreTexts — Reproductive System and Development",
-        "url": "https://bio.libretexts.org/",
+        "url": "https://www.google.com/search?q=Human+Reproduction+site%3Abio.libretexts.org",
         "source": "LibreTexts",
         "type": "Topic page",
         "level": "NEET",
@@ -49929,14 +49113,6 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Class XII Biology Textbook (download chapters)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "Primary NEET source. Select Biology Class XII; the Reproductive Health chapter is the exact NCERT text this pack maps to."
-      },
-      {
         "title": "Wikipedia — Reproductive health",
         "url": "https://en.wikipedia.org/wiki/Reproductive_health",
         "source": "Wikipedia",
@@ -49946,7 +49122,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Biology 2e (free full text)",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Reproductive+Health+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -49954,7 +49130,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Biology LibreTexts",
-        "url": "https://bio.libretexts.org/",
+        "url": "https://www.google.com/search?q=Reproductive+Health+site%3Abio.libretexts.org",
         "source": "LibreTexts",
         "type": "Reference",
         "level": "NEET",
@@ -50413,28 +49589,12 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Biology Class XII Textbook (download chapters)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "THE primary NEET source. Select Biology Class XII and open the inheritance chapter; it is the must-read base text."
-      },
-      {
         "title": "NCERT Exemplar Problems (Biology, download)",
         "url": "https://ncert.nic.in/exemplar-problems.php",
         "source": "NCERT",
         "type": "Problem set",
         "level": "NEET",
         "note": "Higher-order MCQ and assertion-reason problems on genetics; closest to NEET difficulty among official sources."
-      },
-      {
-        "title": "NCERT Biology Class XI Textbook (meiosis & chromosome base)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "Foundation",
-        "note": "Background on meiosis and chromosomes needed for linkage and segregation. Pick Biology Class XI."
       },
       {
         "title": "Official NEET (NTA) portal - syllabus & bulletin",
@@ -50446,7 +49606,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Biology 2e - free full textbook",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Principles+of+Inheritance+and+Variation+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -50509,16 +49669,8 @@ window.ATLAS_DATA = [
         "note": "Worked pedigree examples with symbol conventions and autosomal vs X-linked reasoning; directly NEET-relevant."
       },
       {
-        "title": "NCERT Class XII Biology - Molecular Basis of Inheritance (mutation base)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "Select Biology Class XII; supports the mutation sub-topic (point, frameshift) that overlaps with this chapter."
-      },
-      {
         "title": "OpenStax Biology 2e - Chromosomal Basis of Inherited Disorders",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Principles+of+Inheritance+and+Variation+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Topic page",
         "level": "NEET",
@@ -50883,24 +50035,8 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Class 12 Biology Textbook (download / e-book)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "THE primary NEET source. Chapter 'Molecular Basis of Inheritance' (Unit Genetics & Evolution) is the single most quoted text — read it line by line; NEET lifts statements verbatim."
-      },
-      {
-        "title": "NCERT Textbooks Portal (all Biology classes)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "Use to pull Class 11 cell biology foundations (nucleic acids, biomolecules) that underpin this chapter; download chapter PDFs free."
-      },
-      {
         "title": "OpenStax Biology 2e — full free textbook",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Molecular+Basis+of+Inheritance+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -50908,7 +50044,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Biology LibreTexts — Molecular Biology",
-        "url": "https://bio.libretexts.org/",
+        "url": "https://www.google.com/search?q=Molecular+Basis+of+Inheritance+site%3Abio.libretexts.org",
         "source": "LibreTexts",
         "type": "Topic page",
         "level": "NEET",
@@ -51020,7 +50156,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Biology LibreTexts — Gene expression & regulation",
-        "url": "https://bio.libretexts.org/",
+        "url": "https://www.google.com/search?q=Molecular+Basis+of+Inheritance+site%3Abio.libretexts.org",
         "source": "LibreTexts",
         "type": "Topic page",
         "level": "Olympiad",
@@ -51380,22 +50516,6 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Class XII Biology textbook portal (Evolution chapter)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "THE primary NEET source. Open Biology Class XII and read the Evolution chapter line-by-line; every NEET question is framed from this text."
-      },
-      {
-        "title": "NCERT Class XI Biology textbook portal (free PDF downloads)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "Foundation",
-        "note": "Background for diversity, classification and biochemical concepts that underpin the evidences of evolution. Download official PDFs free."
-      },
-      {
         "title": "NCERT Exemplar Biology (Class XII problem book portal)",
         "url": "https://ncert.nic.in/exemplar-problems.php",
         "source": "NCERT",
@@ -51437,7 +50557,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Biology 2e - Evolution and the Origin of Species (free full text)",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Evolution+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -51445,7 +50565,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Biology LibreTexts - Evolution and population genetics",
-        "url": "https://bio.libretexts.org/",
+        "url": "https://www.google.com/search?q=Evolution+site%3Abio.libretexts.org",
         "source": "LibreTexts",
         "type": "Reference",
         "level": "NEET",
@@ -51866,14 +50986,6 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Class XII Biology Textbook (Human Health and Disease)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "THE primary source for NEET — select Biology, Class XII. This is the single most line-by-line tested chapter; read every line, table and diagram."
-      },
-      {
         "title": "NCERT Textbooks Portal (download all Biology PDFs)",
         "url": "https://ncert.nic.in/textbook/textbook.htm",
         "source": "NCERT",
@@ -51907,7 +51019,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Biology 2e — full free textbook (Immune System unit)",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Human+Health+and+Disease+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -51915,7 +51027,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Biology LibreTexts — immunity and disease reference",
-        "url": "https://bio.libretexts.org/",
+        "url": "https://www.google.com/search?q=Human+Health+and+Disease+site%3Abio.libretexts.org",
         "source": "LibreTexts",
         "type": "Reference",
         "level": "NEET",
@@ -52323,22 +51435,6 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Textbooks — download Class XII Biology (Microbes in Human Welfare chapter)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "THE primary NEET source. Open Class XII Biology and download the 'Microbes in Human Welfare' chapter PDF — every NEET MCQ traces to these exact lines and tables."
-      },
-      {
-        "title": "NCERT Class XII Biology — full e-textbook portal",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "Read the chapter end-to-end at least twice; memorise the microbe-product table — it is the single highest-return revision asset for this chapter."
-      },
-      {
         "title": "Official NEET (NTA) — syllabus, bulletin and notifications",
         "url": "https://neet.nta.nic.in/",
         "source": "NTA",
@@ -52364,7 +51460,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Biology 2e — free full text (microbe metabolism & ecology)",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Microbes+in+Human+Welfare+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -52372,7 +51468,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Biology LibreTexts — microbiology & applied microbiology reference",
-        "url": "https://bio.libretexts.org/",
+        "url": "https://www.google.com/search?q=Microbes+in+Human+Welfare+site%3Abio.libretexts.org",
         "source": "LibreTexts",
         "type": "Reference",
         "level": "NEET",
@@ -52811,22 +51907,6 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Biology Class XII Textbook (download chapter PDFs)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "THE primary NEET source — open Biology Class XII and read the 'Biotechnology: Principles and Processes' chapter line by line."
-      },
-      {
-        "title": "NCERT Textbooks portal (all classes, official PDFs)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "Foundation",
-        "note": "Pair Class XI cell biology and Class XII genetics chapters as background for biotech tools and vectors."
-      },
-      {
         "title": "Wikipedia — Recombinant DNA technology",
         "url": "https://en.wikipedia.org/w/index.php?search=recombinant%20DNA%20technology",
         "source": "Wikipedia",
@@ -52876,7 +51956,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Biology LibreTexts — biotechnology & cloning",
-        "url": "https://bio.libretexts.org/",
+        "url": "https://www.google.com/search?q=Biotechnology%3A+Principles+and+Processes+site%3Abio.libretexts.org",
         "source": "LibreTexts",
         "type": "Reference",
         "level": "NEET",
@@ -52884,7 +51964,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Biology 2e — Biotechnology",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Biotechnology%3A+Principles+and+Processes+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -53289,22 +52369,6 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Textbooks (official PDF portal) — Class XII Biology",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "THE primary NEET source. Open Biology (Class XII) and read the 'Biotechnology and its Applications' chapter — Bt cotton, RNAi, insulin, gene therapy, molecular diagnosis, transgenic animals, biopiracy are all here verbatim."
-      },
-      {
-        "title": "NCERT Class XII Biology — chapter listing",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Topic page",
-        "level": "NEET",
-        "note": "Select Biology > Class XII to download the exact chapter; every NEET question is framed from this text. Read line-by-line for in-text and diagram-based MCQs."
-      },
-      {
         "title": "NCERT Exemplar (official portal) — Class XII Biology problems",
         "url": "https://ncert.nic.in/exemplar-problems.php",
         "source": "NCERT",
@@ -53330,7 +52394,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Biology 2e — Biotechnology (free full text)",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Biotechnology+and+its+Applications+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -53338,7 +52402,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Biology LibreTexts — biotechnology library",
-        "url": "https://bio.libretexts.org/",
+        "url": "https://www.google.com/search?q=Biotechnology+and+its+Applications+site%3Abio.libretexts.org",
         "source": "LibreTexts",
         "type": "Reference",
         "level": "NEET",
@@ -53789,14 +52853,6 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Biology Class XII Textbook (download chapters)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "THE primary NEET source. Select Biology Class XII and open the 'Organisms and Populations' chapter PDF; read line-by-line as exam matter comes verbatim from here."
-      },
-      {
         "title": "NROER National Repository of Open Educational Resources",
         "url": "https://nroer.gov.in/welcome",
         "source": "NROER",
@@ -53814,7 +52870,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Biology 2e: Population and Community Ecology",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Organisms+and+Populations+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -53822,7 +52878,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Biology LibreTexts: Population Ecology",
-        "url": "https://bio.libretexts.org/",
+        "url": "https://www.google.com/search?q=Organisms+and+Populations+site%3Abio.libretexts.org",
         "source": "LibreTexts",
         "type": "Topic page",
         "level": "NEET",
@@ -54237,32 +53293,8 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Textbooks (Class XII Biology — Ecosystem chapter)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "THE primary NEET source. Open Biology Class XII and read the Ecosystem chapter line-by-line; almost every NEET Ecosystem question maps to an NCERT line or diagram."
-      },
-      {
-        "title": "NCERT Class XI Biology (Organisms & Populations background)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "Foundation",
-        "note": "Open Class XI Biology for the ecology foundation (organisms, populations) that the Ecosystem chapter builds on. Read before tackling energy-flow numericals."
-      },
-      {
-        "title": "NCERT Exemplar Biology (Class XII)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Problem set",
-        "level": "NEET",
-        "note": "Open the NCERT Exemplar PDF for Class XII Biology — higher-order MCQs and assertion-reason items on energy flow, pyramids and nutrient cycles that mirror NEET difficulty."
-      },
-      {
         "title": "OpenStax Biology 2e — Ecosystems & Energy Flow",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Ecosystem+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -54270,7 +53302,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Biology 2e — Biogeochemical Cycles",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Ecosystem+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -54278,7 +53310,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Biology LibreTexts — Ecology & Ecosystems",
-        "url": "https://bio.libretexts.org/",
+        "url": "https://www.google.com/search?q=Ecosystem+site%3Abio.libretexts.org",
         "source": "LibreTexts",
         "type": "Reference",
         "level": "NEET",
@@ -54339,14 +53371,6 @@ window.ATLAS_DATA = [
         "type": "Reference",
         "level": "NEET",
         "note": "Authoritative NEET portal: confirm the current Biology syllabus weightage and exam pattern so Ecosystem prep stays on-syllabus."
-      },
-      {
-        "title": "NCERT Textbooks portal (all classes)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "Mixed",
-        "note": "Central NCERT textbook hub — re-download the latest Class XI and XII Biology PDFs each session so Ecosystem revision tracks the current edition exactly."
       }
     ],
     "seeds": [
@@ -54707,30 +53731,6 @@ window.ATLAS_DATA = [
     ],
     "anchors": [
       {
-        "title": "NCERT Textbooks (download Class XI & XII Biology PDFs)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "THE primary NEET source. Class XII Biology Unit X chapter 'Biodiversity and Conservation' is the exact NCERT chapter — read every line including in-text boxes."
-      },
-      {
-        "title": "NCERT: Class XII Biology chapter-wise download page",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "NEET",
-        "note": "Select Class XII > Biology to grab the Biodiversity chapter PDF; nearly every NEET question on this topic is traceable to these lines."
-      },
-      {
-        "title": "NCERT: Class XI Biology (Organisms and Populations context)",
-        "url": "https://ncert.nic.in/textbook.php",
-        "source": "NCERT",
-        "type": "Reference",
-        "level": "Foundation",
-        "note": "The preceding ecology chapters give the population and community vocabulary students need before this chapter — assign as prerequisite reading."
-      },
-      {
         "title": "Official NEET (NTA) portal — syllabus & information bulletin",
         "url": "https://neet.nta.nic.in/",
         "source": "NTA",
@@ -54740,7 +53740,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax Biology 2e — free full text (Conservation & Biodiversity)",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Biodiversity+and+Conservation+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Reference",
         "level": "NEET",
@@ -54748,7 +53748,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "Biology LibreTexts — Conservation Biology & Biodiversity",
-        "url": "https://bio.libretexts.org/",
+        "url": "https://www.google.com/search?q=Biodiversity+and+Conservation+site%3Abio.libretexts.org",
         "source": "LibreTexts",
         "type": "Topic page",
         "level": "NEET",
@@ -54812,7 +53812,7 @@ window.ATLAS_DATA = [
       },
       {
         "title": "OpenStax — Importance of Biodiversity to Human Life",
-        "url": "https://openstax.org/details/books/biology-2e",
+        "url": "https://www.google.com/search?q=Biodiversity+and+Conservation+site%3Aopenstax.org",
         "source": "OpenStax",
         "type": "Topic page",
         "level": "Foundation",

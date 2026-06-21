@@ -200,7 +200,7 @@
     const spec = SPECIALISTS[subj] || SPECIALISTS.Mathematics;
 
     // ---- Theory & Notes (direct pages) ----
-    out.push({ title: name + " — Wikipedia article", url: "https://en.wikipedia.org/w/index.php?title=Special:Search&search=" + qp(key) + "&go=Go", source: "Wikipedia", type: "Reference", level: "Standard", note: "Jumps straight to the encyclopedia article for this topic.", cat: "Theory & Notes" });
+    out.push({ title: name + " — Wikipedia article", url: ch.wiki || ("https://en.wikipedia.org/w/index.php?title=Special:Search&search=" + qp(key) + "&go=Go"), source: "Wikipedia", type: "Reference", level: "Standard", note: ch.wiki ? "The encyclopedia article for this topic." : "Jumps to the encyclopedia article for this topic.", cat: "Theory & Notes" });
     out.push({ title: name + " — Khan Academy", url: "https://www.khanacademy.org/search?page_search_query=" + qp(key + " " + sw), source: "Khan Academy", type: "Course", level: "Standard", note: "Free lessons, articles and practice on this topic.", cat: "Theory & Notes" });
     out.push({ title: name + " — LibreTexts", url: g(key + " site:" + libre), source: "LibreTexts", type: "Reference", level: "Standard", note: "Free, peer-reviewed open-textbook section.", cat: "Theory & Notes" });
     out.push({ title: name + " — specialist sites", url: g(key + " " + spec.sites), source: "Specialist sites", type: "Reference", level: "Advanced", note: "The best subject-specialist sites — " + spec.names + ".", cat: "Theory & Notes" });
@@ -209,7 +209,7 @@
     out.push({ title: name + " — NCERT chapter (PDF, Govt.)", url: g(key + " " + sw + " NCERT filetype:pdf site:ncert.nic.in"), source: "NCERT", type: "Past papers", level: "Standard", note: "Official NCERT chapter PDF — Government of India.", cat: "Papers, PDFs & Slides" });
     out.push({ title: name + " — MIT OpenCourseWare", url: "https://ocw.mit.edu/search/?q=" + qp(key + " " + sw), source: "MIT OCW", type: "Course", level: "Advanced", note: "MIT courses: notes, problem sets & exams with solutions.", cat: "Papers, PDFs & Slides" });
     out.push({ title: name + " — top universities (PDF)", url: g(key + " " + sw + " " + TOP_UNI + " filetype:pdf"), source: "Top universities", type: "Past papers", level: "Advanced", note: "Lecture notes & PDFs from MIT, Stanford, Harvard, Oxford, Cambridge, Berkeley, Princeton, ETH & more.", cat: "Papers, PDFs & Slides" });
-    out.push({ title: name + " — university lecture notes (.edu)", url: g(key + " " + sw + " (intitle:notes OR intitle:lecture OR intitle:fundamentals) filetype:pdf site:edu"), source: "Lecture notes · .edu", type: "Past papers", level: "Standard", note: "PDFs titled as notes/lectures on this topic, from .edu universities only.", cat: "Papers, PDFs & Slides" });
+    out.push({ title: name + " — university lecture notes (.edu)", url: g(key + " " + sw + " lecture notes filetype:pdf site:.edu"), source: "Lecture notes · .edu", type: "Past papers", level: "Standard", note: "Lecture-note PDFs on this topic, from .edu universities.", cat: "Papers, PDFs & Slides" });
     out.push({ title: name + " — problem sets w/ solutions (PDF · universities)", url: g(key + " " + sw + " problem set with solutions filetype:pdf (site:ocw.mit.edu OR site:nptel.ac.in OR site:" + libre + ")"), source: "PDF · universities", type: "Past papers", level: "Advanced", note: "Problem-set & exam PDFs from MIT, NPTEL & LibreTexts only.", cat: "Papers, PDFs & Slides" });
 
     // ---- Video Lectures (topic playlists & lessons, not channel-locked) ----
@@ -225,16 +225,23 @@
   }
 
   // generic landing pages that don't open the specific topic — drop these from curated anchors
-  const DEADEND_HOSTS = ["brilliant.org/courses", "artofproblemsolving.com/online", "artofproblemsolving.com/community", "wolframalpha.com", "desmos.com", "geogebra.org/classic", "geogebra.org/calculator", "nptel.ac.in/courses", "jeemain.nta.nic.in", "neet.nta.nic.in", "pubmed.ncbi.nlm.nih.gov/?term="];
-  const isDeadend = (u) => DEADEND_HOSTS.some((d) => (u || "").includes(d));
+  // block only generic landing pages — NOT specific deep-links on the same host
+  const DEADEND_SUBSTR = ["wolframalpha.com", "desmos.com", "geogebra.org/classic", "geogebra.org/calculator", "jeemain.nta.nic.in", "neet.nta.nic.in", "pubmed.ncbi.nlm.nih.gov/?term=", "ncert.nic.in/textbook.php"];
+  const DEADEND_BARE = ["https://brilliant.org/courses", "https://artofproblemsolving.com/online", "https://artofproblemsolving.com/community", "https://nptel.ac.in/courses", "https://ncert.nic.in/textbook.php"];
+  const isDeadend = (u) => {
+    if (!u) return false;
+    if (DEADEND_SUBSTR.some((d) => u.includes(d))) return true;       // user-disliked / generic tools
+    const s = u.replace(/\/$/, "");
+    return DEADEND_BARE.includes(s);                                   // exact bare-root listings only
+  };
 
   /* ---------------- expand a chapter into its full resource list ---------------- */
   function expandChapter(ch) {
     const list = [];
     list.push(getStudio(ch.subject));
-    (TEACHER_EXTRAS[ch.slug] || []).forEach((r) => list.push({ ...r, level: normLevel(r.level), cat: categorize(r) }));
+    (TEACHER_EXTRAS[ch.slug] || []).forEach((r) => list.push({ ...r, level: normLevel(r.level), cat: categorize(r), _pick: true }));
     chapterShortcuts(ch).forEach((r) => list.push({ ...r, level: normLevel(r.level) }));
-    (ch.anchors || []).forEach((a) => { if (isDeadend(a.url)) return; list.push({ ...a, level: normLevel(a.level), cat: categorize(a) }); });
+    (ch.anchors || []).forEach((a) => { if (isDeadend(a.url)) return; list.push({ ...a, level: normLevel(a.level), cat: categorize(a), _pick: true }); });
     (ch.seeds || []).forEach((seed) => {
       (seed.sources || []).forEach((src) => {
         // keep only premium Q&A sources; drop mixed-quality web & random-video searches
@@ -247,10 +254,12 @@
     });
     // dedupe: exact URL, and at most one Tool per host
     const hostOf = (u) => { try { return new URL(u).hostname.replace(/^www\./, ""); } catch (e) { return u; } };
+    const isSearchUrl = (u) => /google\.com\/search|youtube\.com\/results|\/search\/?($|[?])|[?&](q|search|search_query|page_search_query|query)=|go=Go/i.test(u || "");
     const seenUrl = new Set(), seenTool = new Set(), final = [];
     list.forEach((r) => {
       if (seenUrl.has(r.url)) return;
       if (r.cat === "Tools" && !r.feature) { const h = hostOf(r.url); if (seenTool.has(h)) return; seenTool.add(h); }
+      r._search = isSearchUrl(r.url);
       seenUrl.add(r.url); final.push(r);
     });
     return final;
@@ -329,7 +338,12 @@
     window.scrollTo(0, 0);
   }
 
-  function switchSubject(key) { activeSubject = key; localStorage.setItem("atlas-subject", key); renderSubject(key); }
+  function switchSubject(key) { activeSubject = key; localStorage.setItem("atlas-subject", key); const s = document.getElementById("homeSearch"); if (s) s.value = ""; renderSubject(key); }
+
+  function chapterCardHtml(ch, n) {
+    const chips = (ch.subtopics || []).slice(0, 3).map((s) => `<span class="chip">${esc(s)}</span>`).join("");
+    return `<article class="ch-card" data-slug="${esc(ch.slug)}" data-search="${esc((ch.chapter + " " + ch.group + " " + ch.subject + " " + (ch.subtopics || []).join(" ") + " " + (ch.blurb || "")).toLowerCase())}" style="animation-delay:${Math.min(n * 0.02, 0.4)}s" tabindex="0" role="link" aria-label="Open ${esc(ch.chapter)}"><div class="ch-top"><span class="ch-num">${String(n).padStart(2, "0")}</span><span class="ch-go" aria-hidden="true">→</span></div><h3>${esc(ch.chapter)}</h3><p class="ch-blurb">${esc(ch.blurb || "")}</p><div class="ch-foot"><span class="ch-count"><b>${ch._count}</b> resources</span><span class="weight ${esc(ch.jeeWeight || "")}">${esc(ch.jeeWeight || "")} weight</span></div><div class="chips" style="margin-top:12px">${chips}</div></article>`;
+  }
 
   function renderSubject(key) {
     const sm = subjectMeta(key);
@@ -365,17 +379,34 @@
     const sub = document.getElementById("chapterCountSub");
     if (sub) sub.textContent = `${chapters.length} ${key} chapters · grouped the way you teach them.`;
     bindCardNav();
-    const search = document.getElementById("homeSearch");
-    if (search && search.value.trim()) applyHomeSearch(search.value);
   }
 
+  // GLOBAL search — finds chapters across ALL subjects, grouped by subject
   function applyHomeSearch(q) {
     const term = q.trim().toLowerCase();
-    document.querySelectorAll(".ch-card").forEach((c) => { c.style.display = !term || c.dataset.search.includes(term) ? "" : "none"; });
-    document.querySelectorAll(".group").forEach((g) => {
-      const any = [...g.querySelectorAll(".ch-card")].some((c) => c.style.display !== "none");
-      g.style.display = any ? "" : "none";
+    const container = document.getElementById("chapterGroups");
+    const sub = document.getElementById("chapterCountSub");
+    const tabs = app.querySelector(".subj-tabs");
+    if (!term) { if (tabs) tabs.style.display = ""; renderSubject(activeSubject); return; }
+    if (tabs) tabs.style.display = "none";
+    const matches = DATA.filter((ch) => (ch.chapter + " " + ch.group + " " + ch.subject + " " + (ch.subtopics || []).join(" ") + " " + (ch.blurb || "")).toLowerCase().includes(term));
+    container.style.removeProperty("--subj");
+    if (!matches.length) {
+      if (sub) sub.textContent = "";
+      container.innerHTML = `<div class="empty"><div class="e-ico">⌕</div><p>No chapter matches &ldquo;${esc(q.trim())}&rdquo;. Try a topic like <b>genetics</b>, <b>limits</b>, <b>electrochemistry</b>, <b>optics</b> or <b>vectors</b>.</p></div>`;
+      return;
+    }
+    if (sub) sub.textContent = `${matches.length} chapter${matches.length > 1 ? "s" : ""} match “${q.trim()}” across all subjects.`;
+    let n = 0, html = "";
+    subjectsPresent.forEach((subjKey) => {
+      const ms = matches.filter((c) => c.subject === subjKey);
+      if (!ms.length) return;
+      const sm = subjectMeta(subjKey);
+      const cards = ms.map((ch) => { n += 1; return chapterCardHtml(ch, n); }).join("");
+      html += `<section class="group" style="--subj:${sm.accent}"><div class="group-head"><span class="g-name">${sm.glyph} ${esc(subjKey)}</span><span class="g-count">${ms.length} match${ms.length > 1 ? "es" : ""}</span><span class="g-line"></span></div><div class="card-grid">${cards}</div></section>`;
     });
+    container.innerHTML = html;
+    bindCardNav();
   }
   function bindCardNav() {
     document.querySelectorAll(".ch-card").forEach((c) => {
@@ -387,6 +418,20 @@
 
   /* ---------------- chapter detail (tabbed — jump straight to a section) ---------------- */
   let detailState = null;
+
+  // the 5 best "start here" links — one direct pick per category, in learning order
+  const SH_LABEL = { "Theory & Notes": "Learn it", "Video Lectures": "Watch", "Problems & Solutions": "Practise", "Papers, PDFs & Slides": "Past papers", "Tools": "Explore", "Community": "Discuss" };
+  function startHerePicks(res) {
+    const order = ["Theory & Notes", "Video Lectures", "Problems & Solutions", "Papers, PDFs & Slides", "Tools"];
+    const picks = [], used = new Set();
+    order.forEach((cat) => {
+      let c = res.find((r) => r.cat === cat && r._pick && !r._search && !used.has(r.url))
+           || res.find((r) => r.cat === cat && !r._search && !used.has(r.url))
+           || res.find((r) => r.cat === cat && !used.has(r.url));
+      if (c) { picks.push(c); used.add(c.url); }
+    });
+    return picks;
+  }
 
   function renderChapter(slug) {
     const ch = DATA.find((c) => c.slug === slug);
@@ -424,7 +469,9 @@
           </div>
         </div>
 
-        ${feature ? `<article class="feature" style="margin-top:24px"><span class="f-ico" aria-hidden="true">∑</span><div style="flex:1"><h4>${esc(feature.title)}</h4><p>${esc(feature.note)}</p></div><a class="btn primary" href="${esc(feature.url)}" target="_blank" rel="noopener noreferrer">Open ↗</a></article>` : ""}
+        ${(() => { const picks = startHerePicks(res); return picks.length ? `<div class="starthere"><div class="sh-head"><span aria-hidden="true">✦</span> Start here</div><div class="sh-row">${picks.map((p) => `<a class="sh-card" href="${esc(p.url)}" target="_blank" rel="noopener noreferrer"><span class="sh-cat">${esc(SH_LABEL[p.cat] || "Open")}</span><span class="sh-title">${esc(p.title.split(" — ").pop())}</span><span class="sh-go">${p._search ? "Search ↗" : "Open ↗"}</span></a>`).join("")}</div></div>` : ""; })()}
+
+        ${feature ? `<article class="feature" style="margin-top:18px"><span class="f-ico" aria-hidden="true">∑</span><div style="flex:1"><h4>${esc(feature.title)}</h4><p>${esc(feature.note)}</p></div><a class="btn primary" href="${esc(feature.url)}" target="_blank" rel="noopener noreferrer">Open ↗</a></article>` : ""}
 
         <div class="toolbar">
           <div class="toolbar-row">
@@ -477,7 +524,10 @@
     const renderCards = (items) => items.map((r, j) => {
       const delay = Math.min(j * 0.008, 0.25);
       const lvlClass = "lvl " + String(r.level || "Mixed").replace(/\s+/g, "-");
-      return `<article class="res" style="animation-delay:${delay}s"><div class="res-badges"><span class="badge src">${esc(r.source)}</span><span class="badge">${esc(r.type)}</span><span class="${lvlClass}">${esc(r.level || "Mixed")}</span></div><h4>${esc(r.title)}</h4><p>${esc(r.note)}</p><div class="res-actions"><a class="res-open" href="${esc(r.url)}" target="_blank" rel="noopener noreferrer">Open ↗</a><button class="res-copy" type="button" title="Copy link" data-url="${esc(r.url)}" aria-label="Copy link">⧉</button></div></article>`;
+      const pickTag = r._pick ? `<span class="badge pick">★ Pick</span>` : "";
+      const label = r._search ? "Search ↗" : "Open ↗";
+      const openClass = r._search ? "res-open is-search" : "res-open";
+      return `<article class="res${r._pick ? " res--pick" : ""}" style="animation-delay:${delay}s"><div class="res-badges">${pickTag}<span class="badge src">${esc(r.source)}</span><span class="badge">${esc(r.type)}</span><span class="${lvlClass}">${esc(r.level || "Mixed")}</span></div><h4>${esc(r.title)}</h4><p>${esc(r.note)}</p><div class="res-actions"><a class="${openClass}" href="${esc(r.url)}" target="_blank" rel="noopener noreferrer">${label}</a><button class="res-copy" type="button" title="Copy link" data-url="${esc(r.url)}" aria-label="Copy link">⧉</button></div></article>`;
     }).join("");
 
     let html = "";

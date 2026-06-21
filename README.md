@@ -1,13 +1,15 @@
-# Problem Atlas — JEE Advanced (Maths · Physics · Chemistry)
+# Problem Atlas — the whole syllabus, one click away
 
-**A free, living map of the world's best problems for JEE Advanced — chapter by chapter, across all three subjects.**
+**A free, living index of the internet's best free learning — Maths, Physics, Chemistry & Biology, school to Olympiad, for learners and teachers everywhere.**
 
-Every chapter has **~100 hand-curated, always-working links** to brilliant, strictly *in-syllabus* problems — pulled from the Stack Exchanges, Art of Problem Solving, MIT OCW, Paul's Notes, the Feynman Lectures, LibreTexts, ChemGuide, NCERT, Brilliant, PhET, official JEE Advanced past papers, and the best YouTube lectures. Built for teachers. Free for everyone.
+🔗 **Live: https://yosoyun.github.io/problem-atlas/**
 
-> **81 chapters · 8,900+ curated links · 100% live · ₹0 forever**
-> Mathematics (27) · Physics (25) · Chemistry (29)
+Every chapter routes you straight to the best existing resource — direct Wikipedia articles, MIT OpenCourseWare, Khan Academy, NCERT, LibreTexts, the Stack Exchanges, AoPS, the top universities, renowned YouTube channels, and free interactive tools (GeoGebra, PhET). It hosts nothing, so links never rot. Tagged for JEE, NEET, SAT, AP, A-Level, IB & Olympiads.
 
-Made by **Indrajeet Yadav** — Mathematics Faculty, ALLEN.
+> **114 chapters · 4 subjects · 100% free, forever**
+> Mathematics · Physics · Chemistry · Biology
+
+Made by **Indrajeet Yadav** — mathematics teacher. Free for the world; please share it.
 
 ---
 
