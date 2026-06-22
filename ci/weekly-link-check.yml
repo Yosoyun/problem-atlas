@@ -1,0 +1,28 @@
+# Weekly link-health sweep (brief §20). Copy to .github/workflows/ to activate
+# (that path needs a one-time `workflow` permission this session's token lacks).
+name: weekly-link-check
+
+on:
+  schedule:
+    - cron: "0 3 * * 0"   # 03:00 UTC every Sunday
+  workflow_dispatch:
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check direct links
+        run: python3 scripts/check_links.py
+
+      - name: Upload link-health report
+        uses: actions/upload-artifact@v4
+        with:
+          name: link-health
+          path: reports/link-health.json
+          if-no-files-found: error
