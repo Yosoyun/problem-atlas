@@ -1,0 +1,32 @@
+name: validate
+
+# Runs on every push/PR to main. Keeps the data honest: schema-ish invariants,
+# no duplicate slugs, no forbidden hosts, no padding, and app.js stays parseable.
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate data integrity
+        run: python3 scripts/validate.py
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Check app.js parses
+        run: node --check app.js
