@@ -149,6 +149,7 @@ img { max-width: 100%; display: block; }
   transition: transform .15s, border-color .2s, background .2s;
 }
 .icon-btn:hover { transform: translateY(-1px); border-color: var(--accent); background: var(--surface-2); }
+#langToggle { font-family: var(--mono); font-size: 13px; font-weight: 700; letter-spacing: .02em; }
 .theme-ico { font-size: 18px; line-height: 1; }
 .theme-ico--light { display: none; }
 :root[data-theme="light"] .theme-ico--dark { display: none; }

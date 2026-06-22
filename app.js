@@ -36,6 +36,25 @@
   const normLevel = (l) => LEVEL_MAP[l] || l || "Mixed";
   const LEVEL_ORDER = ["Foundation", "Standard", "Advanced", "Olympiad", "Mixed"];
 
+  /* ---------------- i18n (interface + language-aware results) ---------------- */
+  let lang = localStorage.getItem("atlas-lang") || "en";
+  const LANG_ORDER = ["en", "hi", "es"];
+  const LANG_SHORT = { en: "EN", hi: "हिं", es: "ES" };
+  const LANG_QUERY = { en: "", hi: " in Hindi", es: " en español" }; // appended to video searches
+  const lq = () => LANG_QUERY[lang] || "";
+  const I18N = {
+    en: { nav_chapters: "Chapters", nav_howto: "How to use", nav_about: "About", nav_feedback: "Feedback", hero_eyebrow: "● Free · trusted sources only · for learners everywhere", hero_h1a: "The world's best problems & resources,", hero_h1b: "mapped chapter by chapter.", hero_lede: "One tap to the best free resources on any chapter — Maths, Physics, Chemistry & Biology, from school basics to Olympiad. Trusted sources only, every link live.", hero_search: "Search chapters — e.g. limits, rotation, genetics, electrochemistry…", stat_chapters: "Chapters", stat_links: "Curated links", stat_trusted: "Trusted only", stat_free: "Forever free", guide_kicker: "Start here", guide_h2: "How to use this — in 30 seconds", guide_sub: "No account, no install. Built for teachers who just want great resources, fast.", s1t: "Pick subject & chapter", s1d: "Choose Maths / Physics / Chemistry / Biology, then tap a chapter — or just search.", s2t: "Tap a section", s2d: "PDFs, Problems, Videos, Theory, Community or Tools — it jumps straight there, no scrolling.", s3t: "Filter by level", s3d: "Narrow to Foundation, Standard, Advanced or Olympiad. Open or copy any link.", s4t: "Need more?", s4d: "Every chapter links to an AI prompt library — generate unlimited fresh problems in one click.", callout: "Only sources you can trust — universities, the Stack Exchanges, AoPS, government textbooks and renowned creators. No random sites, and every link is a live search or official page, so nothing ever rots.", atlas_kicker: "The Atlas", atlas_h2: "Every chapter, every level", atlas_sub: "{0} {1} chapters · grouped the way you teach them.", search_match: "{0} chapter(s) match “{1}” across all subjects.", res_word: "resources", weight_word: "weight", crumb_all: "← All chapters", m_subject: "Subject", m_group: "Group", m_weight: "Weight", m_resources: "Resources", filter_ph: "Filter within this chapter…", btn_copy: "⧉ Copy visible links", btn_share: "▦ Share / QR", btn_reset: "Reset", level_word: "Level", start_here: "Start here", sh_learn: "Learn it", sh_watch: "Watch", sh_practise: "Practise", sh_papers: "Past papers", sh_explore: "Explore", open_label: "Open ↗", search_label: "Search ↗", showing: "{0} of {1} resources · showing {2}", share_sub: "Project the QR for students to scan, or copy the link.", share_copy: "⧉ Copy link", share_more: "↗ Share…", empty_filter: "No matches — try clearing the level filter." },
+    hi: { nav_chapters: "अध्याय", nav_howto: "कैसे उपयोग करें", nav_about: "परिचय", nav_feedback: "प्रतिक्रिया", hero_eyebrow: "● निःशुल्क · केवल विश्वसनीय स्रोत · सभी के लिए", hero_h1a: "दुनिया के बेहतरीन प्रश्न और संसाधन,", hero_h1b: "अध्याय दर अध्याय।", hero_lede: "किसी भी अध्याय के सर्वोत्तम निःशुल्क संसाधन एक टैप में — गणित, भौतिकी, रसायन और जीव विज्ञान, स्कूल से ओलंपियाड तक। केवल विश्वसनीय स्रोत, हर लिंक चालू।", hero_search: "अध्याय खोजें — जैसे limits, rotation, genetics…", stat_chapters: "अध्याय", stat_links: "चयनित लिंक", stat_trusted: "केवल विश्वसनीय", stat_free: "हमेशा निःशुल्क", guide_kicker: "यहाँ से शुरू करें", guide_h2: "उपयोग कैसे करें — 30 सेकंड में", guide_sub: "न खाता, न इंस्टॉल। शिक्षकों के लिए, जिन्हें तेज़ी से बेहतरीन संसाधन चाहिए।", s1t: "विषय और अध्याय चुनें", s1d: "गणित / भौतिकी / रसायन / जीव विज्ञान चुनें, फिर अध्याय टैप करें — या खोजें।", s2t: "सेक्शन टैप करें", s2d: "PDF, प्रश्न, वीडियो, सिद्धांत, समुदाय या उपकरण — सीधे वहीं, बिना स्क्रॉल।", s3t: "स्तर से छाँटें", s3d: "आधारभूत, मानक, उन्नत या ओलंपियाड चुनें। कोई भी लिंक खोलें या कॉपी करें।", s4t: "और चाहिए?", s4d: "हर अध्याय में AI प्रॉम्प्ट लाइब्रेरी — एक क्लिक में असीमित नए प्रश्न बनाएँ।", callout: "केवल भरोसेमंद स्रोत — विश्वविद्यालय, Stack Exchange, AoPS, सरकारी पाठ्यपुस्तकें और प्रसिद्ध रचनाकार। कोई रैंडम साइट नहीं, हर लिंक लाइव — कभी पुराना नहीं होता।", atlas_kicker: "एटलस", atlas_h2: "हर अध्याय, हर स्तर", atlas_sub: "{0} {1} अध्याय · जैसे आप पढ़ाते हैं वैसे समूहित।", search_match: "{0} अध्याय “{1}” से मेल खाते हैं (सभी विषयों में)।", res_word: "संसाधन", weight_word: "महत्त्व", crumb_all: "← सभी अध्याय", m_subject: "विषय", m_group: "समूह", m_weight: "महत्त्व", m_resources: "संसाधन", filter_ph: "इस अध्याय में खोजें…", btn_copy: "⧉ दिखाए लिंक कॉपी करें", btn_share: "▦ शेयर / QR", btn_reset: "रीसेट", level_word: "स्तर", start_here: "यहाँ से शुरू करें", sh_learn: "सीखें", sh_watch: "देखें", sh_practise: "अभ्यास", sh_papers: "पुराने पेपर", sh_explore: "एक्सप्लोर", open_label: "खोलें ↗", search_label: "खोजें ↗", showing: "{1} में से {0} संसाधन · {2} दिखा रहे हैं", share_sub: "QR प्रोजेक्ट करें ताकि विद्यार्थी स्कैन करें, या लिंक कॉपी करें।", share_copy: "⧉ लिंक कॉपी करें", share_more: "↗ शेयर…", empty_filter: "कोई मेल नहीं — स्तर फ़िल्टर हटाकर देखें।" },
+    es: { nav_chapters: "Capítulos", nav_howto: "Cómo usar", nav_about: "Acerca de", nav_feedback: "Comentarios", hero_eyebrow: "● Gratis · solo fuentes confiables · para todos", hero_h1a: "Los mejores problemas y recursos del mundo,", hero_h1b: "capítulo por capítulo.", hero_lede: "Un toque para los mejores recursos gratuitos de cualquier capítulo — Matemáticas, Física, Química y Biología, desde lo básico hasta la Olimpiada. Solo fuentes confiables, cada enlace activo.", hero_search: "Busca capítulos — p. ej. limits, rotation, genetics…", stat_chapters: "Capítulos", stat_links: "Enlaces", stat_trusted: "Solo confiable", stat_free: "Siempre gratis", guide_kicker: "Empieza aquí", guide_h2: "Cómo usarlo — en 30 segundos", guide_sub: "Sin cuenta, sin instalar. Hecho para docentes que quieren buenos recursos, rápido.", s1t: "Elige materia y capítulo", s1d: "Elige Matemáticas / Física / Química / Biología y toca un capítulo — o busca.", s2t: "Toca una sección", s2d: "PDF, Problemas, Videos, Teoría, Comunidad o Herramientas — va directo, sin desplazar.", s3t: "Filtra por nivel", s3d: "Básico, Estándar, Avanzado u Olimpiada. Abre o copia cualquier enlace.", s4t: "¿Más?", s4d: "Cada capítulo enlaza una biblioteca de prompts de IA — genera problemas nuevos en un clic.", callout: "Solo fuentes confiables — universidades, los Stack Exchange, AoPS, libros oficiales y creadores reconocidos. Sin sitios al azar; cada enlace es una búsqueda activa o página oficial.", atlas_kicker: "El Atlas", atlas_h2: "Cada capítulo, cada nivel", atlas_sub: "{0} capítulos de {1} · agrupados como los enseñas.", search_match: "{0} capítulo(s) coinciden con «{1}» en todas las materias.", res_word: "recursos", weight_word: "peso", crumb_all: "← Todos los capítulos", m_subject: "Materia", m_group: "Grupo", m_weight: "Peso", m_resources: "Recursos", filter_ph: "Filtrar en este capítulo…", btn_copy: "⧉ Copiar enlaces visibles", btn_share: "▦ Compartir / QR", btn_reset: "Restablecer", level_word: "Nivel", start_here: "Empieza aquí", sh_learn: "Aprende", sh_watch: "Mira", sh_practise: "Practica", sh_papers: "Exámenes", sh_explore: "Explora", open_label: "Abrir ↗", search_label: "Buscar ↗", showing: "{0} de {1} recursos · mostrando {2}", share_sub: "Proyecta el QR para que los alumnos lo escaneen, o copia el enlace.", share_copy: "⧉ Copiar enlace", share_more: "↗ Compartir…", empty_filter: "Sin resultados — quita el filtro de nivel." },
+  };
+  const t = (k, ...a) => { let s = I18N[lang] && I18N[lang][k]; if (s == null) s = I18N.en[k]; if (s == null) return k; a.forEach((v, i) => { s = s.split("{" + i + "}").join(v); }); return s; };
+  const SUBJ_I18N = { hi: { Mathematics: "गणित", Physics: "भौतिकी", Chemistry: "रसायन", Biology: "जीव विज्ञान" }, es: { Mathematics: "Matemáticas", Physics: "Física", Chemistry: "Química", Biology: "Biología" } };
+  const LEVEL_I18N = { hi: { Foundation: "आधारभूत", Standard: "मानक", Advanced: "उन्नत", Olympiad: "ओलंपियाड", Mixed: "मिश्रित" }, es: { Foundation: "Básico", Standard: "Estándar", Advanced: "Avanzado", Olympiad: "Olimpiada", Mixed: "Mixto" } };
+  const CAT_I18N = { hi: { "Papers, PDFs & Slides": "पेपर, PDF और स्लाइड", "Problems & Solutions": "प्रश्न और हल", "Video Lectures": "वीडियो लेक्चर", "Theory & Notes": "सिद्धांत और नोट्स", "Community": "समुदाय", "Tools": "उपकरण" }, es: { "Papers, PDFs & Slides": "Exámenes, PDF y diapositivas", "Problems & Solutions": "Problemas y soluciones", "Video Lectures": "Videoclases", "Theory & Notes": "Teoría y apuntes", "Community": "Comunidad", "Tools": "Herramientas" } };
+  const tsubj = (k) => (SUBJ_I18N[lang] && SUBJ_I18N[lang][k]) || k;
+  const tlevel = (k) => (LEVEL_I18N[lang] && LEVEL_I18N[lang][k]) || k;
+  const tcat = (k) => (CAT_I18N[lang] && CAT_I18N[lang][k]) || k;
+
   /* ---------------- durable link builders ---------------- */
   const SOURCE_META = {
     mse:     { name: "Math StackExchange",     type: "Problem set", note: "Hundreds of fully-worked solutions — sort by votes for the cleanest." },
@@ -222,8 +241,8 @@
     out.push({ title: name + " — problem sets w/ solutions (PDF · universities)", url: g(key + " " + sw + " problem set with solutions filetype:pdf (site:ocw.mit.edu OR site:nptel.ac.in OR site:" + libre + ")"), source: "PDF · universities", type: "Past papers", level: "Advanced", note: "Problem-set & exam PDFs from MIT, NPTEL & LibreTexts only.", cat: "Papers, PDFs & Slides" });
 
     // ---- Video Lectures (topic playlists & lessons, not channel-locked) ----
-    out.push({ title: name + " — full-course playlists", url: "https://www.youtube.com/results?search_query=" + qp(key + " " + sw + " full course") + "&sp=EgIQAw%3D%3D", source: "YouTube", type: "Video", level: "Mixed", note: "Complete course playlists on this exact topic.", cat: "Video Lectures" });
-    out.push({ title: name + " — video lessons", url: "https://www.youtube.com/results?search_query=" + qp(key + " " + sw + " lecture"), source: "YouTube", type: "Video", level: "Mixed", note: "Top video lessons on this topic.", cat: "Video Lectures" });
+    out.push({ title: name + " — full-course playlists", url: "https://www.youtube.com/results?search_query=" + qp(key + " " + sw + " full course" + lq()) + "&sp=EgIQAw%3D%3D", source: "YouTube", type: "Video", level: "Mixed", note: "Complete course playlists on this exact topic.", cat: "Video Lectures" });
+    out.push({ title: name + " — video lessons", url: "https://www.youtube.com/results?search_query=" + qp(key + " " + sw + " lecture" + lq()), source: "YouTube", type: "Video", level: "Mixed", note: "Top video lessons on this topic.", cat: "Video Lectures" });
 
     // ---- Community (serious subs, top-sorted) ----
     (SUBREDDITS[subj] || ["JEE"]).forEach((sr) => out.push({ title: name + " — r/" + sr, url: "https://www.reddit.com/r/" + sr + "/search/?q=" + qp(key) + "&restrict_sr=1&sort=top&t=all", source: "Reddit", type: "Reference", level: "Mixed", note: "Top-voted discussions & resource recommendations in r/" + sr + ".", cat: "Community" }));
@@ -290,49 +309,49 @@
 
     const tabsHtml = subjectsPresent.map((k) => {
       const sm = subjectMeta(k);
-      return `<button class="subj-tab" data-subject="${esc(k)}" type="button"><span class="subj-glyph" aria-hidden="true">${sm.glyph}</span><span>${esc(k)}</span><span class="subj-n">${chaptersOf(k).length}</span></button>`;
+      return `<button class="subj-tab" data-subject="${esc(k)}" type="button"><span class="subj-glyph" aria-hidden="true">${sm.glyph}</span><span>${esc(tsubj(k))}</span><span class="subj-n">${chaptersOf(k).length}</span></button>`;
     }).join("");
 
     app.innerHTML = `
       <section class="hero wrap">
-        <span class="eyebrow">● Free · trusted sources only · for learners everywhere</span>
-        <h1>The world's best problems &amp; resources, <em>mapped chapter by chapter.</em></h1>
-        <p class="lede">A curated atlas for <strong>Maths, Physics, Chemistry &amp; Biology</strong> — from school basics to Olympiad. Every chapter pulls the best of <strong>MIT&nbsp;OCW, the Stack&nbsp;Exchanges, AoPS, 3Blue1Brown, Khan&nbsp;Academy, NCERT, LibreTexts, OpenStax, Feynman</strong> and official archives. Tagged for <strong>JEE, NEET, SAT, AP, A-Level, IB &amp; Olympiads</strong>. Around <strong>100+ trusted resources per chapter</strong> — no random sites, every link live.</p>
+        <span class="eyebrow">${esc(t("hero_eyebrow"))}</span>
+        <h1>${esc(t("hero_h1a"))} <em>${esc(t("hero_h1b"))}</em></h1>
+        <p class="lede">${esc(t("hero_lede"))}</p>
         <div class="hero-search">
           <span class="s-ico" aria-hidden="true">⌕</span>
-          <input id="homeSearch" type="search" placeholder="Search chapters — e.g. limits, rotation, genetics, electrochemistry…" aria-label="Search chapters" autocomplete="off" />
+          <input id="homeSearch" type="search" placeholder="${esc(t("hero_search"))}" aria-label="${esc(t("hero_search"))}" autocomplete="off" />
           <span class="s-hint">press /</span>
         </div>
         <div class="hero-stats">
-          <div class="stat"><span class="num">${chCount}</span><span class="lbl">Chapters</span></div>
-          <div class="stat"><span class="num">${total}<span class="unit">+</span></span><span class="lbl">Curated links</span></div>
-          <div class="stat"><span class="num">100<span class="unit">%</span></span><span class="lbl">Trusted only</span></div>
-          <div class="stat"><span class="num">0<span class="unit">₹</span></span><span class="lbl">Forever free</span></div>
+          <div class="stat"><span class="num">${chCount}</span><span class="lbl">${esc(t("stat_chapters"))}</span></div>
+          <div class="stat"><span class="num">${total}<span class="unit">+</span></span><span class="lbl">${esc(t("stat_links"))}</span></div>
+          <div class="stat"><span class="num">100<span class="unit">%</span></span><span class="lbl">${esc(t("stat_trusted"))}</span></div>
+          <div class="stat"><span class="num">0<span class="unit">₹</span></span><span class="lbl">${esc(t("stat_free"))}</span></div>
         </div>
       </section>
 
       <section class="guide wrap" id="guide">
         <div class="section-head">
-          <span class="kicker">Start here</span>
-          <h2>How to use this — in 30 seconds</h2>
-          <p class="sub">No account, no install. Built for teachers who just want great questions, fast.</p>
+          <span class="kicker">${esc(t("guide_kicker"))}</span>
+          <h2>${esc(t("guide_h2"))}</h2>
+          <p class="sub">${esc(t("guide_sub"))}</p>
         </div>
         <div class="guide-grid">
-          <div class="step"><span class="n">STEP 01</span><h3>Pick subject &amp; chapter</h3><p>Choose Maths / Physics / Chemistry / Biology, then tap a chapter — or just search.</p></div>
-          <div class="step"><span class="n">STEP 02</span><h3>Tap a section tab</h3><p>Inside a chapter, tap <strong>PDFs</strong>, <strong>Problems</strong>, <strong>Videos</strong>, <strong>Theory</strong>, <strong>Community</strong> or <strong>Tools</strong> — it jumps you straight there, no scrolling.</p></div>
-          <div class="step"><span class="n">STEP 03</span><h3>Filter by level</h3><p>Narrow to <em>Foundation</em>, <em>Standard</em>, <em>Advanced</em> or <em>Olympiad</em>. Open or <strong>⧉</strong> copy any link.</p></div>
-          <div class="step"><span class="n">STEP 04</span><h3>Need more?</h3><p>Every chapter links to an <strong>AI prompt library</strong> — generate unlimited fresh problems in one click.</p></div>
+          <div class="step"><span class="n">01</span><h3>${esc(t("s1t"))}</h3><p>${esc(t("s1d"))}</p></div>
+          <div class="step"><span class="n">02</span><h3>${esc(t("s2t"))}</h3><p>${esc(t("s2d"))}</p></div>
+          <div class="step"><span class="n">03</span><h3>${esc(t("s3t"))}</h3><p>${esc(t("s3d"))}</p></div>
+          <div class="step"><span class="n">04</span><h3>${esc(t("s4t"))}</h3><p>${esc(t("s4d"))}</p></div>
         </div>
         <div class="callout">
           <span class="c-ico" aria-hidden="true">✦</span>
-          <p><strong>Only sources you can trust:</strong> universities (MIT, Stanford-grade), the Stack Exchanges, AoPS, government textbooks (NCERT/NPTEL) and renowned creators. No random coaching sites, no junk — and every link is a live search or official page, so nothing ever rots.</p>
+          <p>${esc(t("callout"))}</p>
         </div>
       </section>
 
       <section class="chapters wrap">
         <div class="section-head">
-          <span class="kicker">The Atlas</span>
-          <h2>Every chapter, every level</h2>
+          <span class="kicker">${esc(t("atlas_kicker"))}</span>
+          <h2>${esc(t("atlas_h2"))}</h2>
           <p class="sub" id="chapterCountSub"></p>
         </div>
         <div class="subj-tabs" role="tablist" aria-label="Choose subject">${tabsHtml}</div>
@@ -351,7 +370,7 @@
 
   function chapterCardHtml(ch, n) {
     const chips = (ch.subtopics || []).slice(0, 3).map((s) => `<span class="chip">${esc(s)}</span>`).join("");
-    return `<article class="ch-card" data-slug="${esc(ch.slug)}" data-search="${esc((ch.chapter + " " + ch.group + " " + ch.subject + " " + (ch.subtopics || []).join(" ") + " " + (ch.blurb || "")).toLowerCase())}" style="animation-delay:${Math.min(n * 0.02, 0.4)}s" tabindex="0" role="link" aria-label="Open ${esc(ch.chapter)}"><div class="ch-top"><span class="ch-num">${String(n).padStart(2, "0")}</span><span class="ch-go" aria-hidden="true">→</span></div><h3>${esc(ch.chapter)}</h3><p class="ch-blurb">${esc(ch.blurb || "")}</p><div class="ch-foot"><span class="ch-count"><b>${ch._count}</b> resources</span><span class="weight ${esc(ch.jeeWeight || "")}">${esc(ch.jeeWeight || "")} weight</span></div><div class="chips" style="margin-top:12px">${chips}</div></article>`;
+    return `<article class="ch-card" data-slug="${esc(ch.slug)}" data-search="${esc((ch.chapter + " " + ch.group + " " + ch.subject + " " + (ch.subtopics || []).join(" ") + " " + (ch.blurb || "")).toLowerCase())}" style="animation-delay:${Math.min(n * 0.02, 0.4)}s" tabindex="0" role="link" aria-label="Open ${esc(ch.chapter)}"><div class="ch-top"><span class="ch-num">${String(n).padStart(2, "0")}</span><span class="ch-go" aria-hidden="true">→</span></div><h3>${esc(ch.chapter)}</h3><p class="ch-blurb">${esc(ch.blurb || "")}</p><div class="ch-foot"><span class="ch-count"><b>${ch._count}</b> ${esc(t("res_word"))}</span><span class="weight ${esc(ch.jeeWeight || "")}">${esc(ch.jeeWeight || "")} ${esc(t("weight_word"))}</span></div><div class="chips" style="margin-top:12px">${chips}</div></article>`;
   }
 
   function renderSubject(key) {
@@ -372,7 +391,7 @@
             <div class="ch-top"><span class="ch-num">${String(n).padStart(2, "0")}</span><span class="ch-go" aria-hidden="true">→</span></div>
             <h3>${esc(ch.chapter)}</h3>
             <p class="ch-blurb">${esc(ch.blurb || "")}</p>
-            <div class="ch-foot"><span class="ch-count"><b>${ch._count}</b> resources</span><span class="weight ${esc(ch.jeeWeight || "")}">${esc(ch.jeeWeight || "")} weight</span></div>
+            <div class="ch-foot"><span class="ch-count"><b>${ch._count}</b> ${esc(t("res_word"))}</span><span class="weight ${esc(ch.jeeWeight || "")}">${esc(ch.jeeWeight || "")} ${esc(t("weight_word"))}</span></div>
             <div class="chips" style="margin-top:12px">${chips}</div>
           </article>`;
       }).join("");
@@ -386,7 +405,7 @@
     if (tabsWrap) tabsWrap.style.setProperty("--subj", sm.accent);
     app.querySelectorAll(".subj-tab").forEach((t) => t.classList.toggle("active", t.dataset.subject === key));
     const sub = document.getElementById("chapterCountSub");
-    if (sub) sub.textContent = `${chapters.length} ${key} chapters · grouped the way you teach them.`;
+    if (sub) sub.textContent = t("atlas_sub", chapters.length, tsubj(key));
     bindCardNav();
   }
 
@@ -405,14 +424,14 @@
       container.innerHTML = `<div class="empty"><div class="e-ico">⌕</div><p>No chapter matches &ldquo;${esc(q.trim())}&rdquo;. Try a topic like <b>genetics</b>, <b>limits</b>, <b>electrochemistry</b>, <b>optics</b> or <b>vectors</b>.</p></div>`;
       return;
     }
-    if (sub) sub.textContent = `${matches.length} chapter${matches.length > 1 ? "s" : ""} match “${q.trim()}” across all subjects.`;
+    if (sub) sub.textContent = t("search_match", matches.length, q.trim());
     let n = 0, html = "";
     subjectsPresent.forEach((subjKey) => {
       const ms = matches.filter((c) => c.subject === subjKey);
       if (!ms.length) return;
       const sm = subjectMeta(subjKey);
       const cards = ms.map((ch) => { n += 1; return chapterCardHtml(ch, n); }).join("");
-      html += `<section class="group" style="--subj:${sm.accent}"><div class="group-head"><span class="g-name">${sm.glyph} ${esc(subjKey)}</span><span class="g-count">${ms.length} match${ms.length > 1 ? "es" : ""}</span><span class="g-line"></span></div><div class="card-grid">${cards}</div></section>`;
+      html += `<section class="group" style="--subj:${sm.accent}"><div class="group-head"><span class="g-name">${sm.glyph} ${esc(tsubj(subjKey))}</span><span class="g-count">${ms.length} match${ms.length > 1 ? "es" : ""}</span><span class="g-line"></span></div><div class="card-grid">${cards}</div></section>`;
     });
     container.innerHTML = html;
     bindCardNav();
@@ -429,7 +448,7 @@
   let detailState = null;
 
   // the 5 best "start here" links — one direct pick per category, in learning order
-  const SH_LABEL = { "Theory & Notes": "Learn it", "Video Lectures": "Watch", "Problems & Solutions": "Practise", "Papers, PDFs & Slides": "Past papers", "Tools": "Explore", "Community": "Discuss" };
+  const SH_LABEL = { "Theory & Notes": "sh_learn", "Video Lectures": "sh_watch", "Problems & Solutions": "sh_practise", "Papers, PDFs & Slides": "sh_papers", "Tools": "sh_explore", "Community": "sh_explore" };
   function startHerePicks(res) {
     const order = ["Theory & Notes", "Video Lectures", "Problems & Solutions", "Papers, PDFs & Slides", "Tools"];
     const picks = [], used = new Set();
@@ -458,11 +477,11 @@
     detailState = { ch, res, levels: new Set(), term: "", activeCat: "All" };
 
     const subs = (ch.subtopics || []).map((s) => `<span class="chip">${esc(s)}</span>`).join("");
-    const levelPills = levels.map((l) => `<button class="pill" data-level="${esc(l)}">${esc(l)}<span class="pc">${res.filter((r) => r.level === l).length}</span></button>`).join("");
+    const levelPills = levels.map((l) => `<button class="pill" data-level="${esc(l)}">${esc(tlevel(l))}<span class="pc">${res.filter((r) => r.level === l).length}</span></button>`).join("");
 
     app.innerHTML = `
       <section class="detail wrap" style="--subj:${subjAccent}">
-        <a class="crumb" href="#/">← All chapters</a>
+        <a class="crumb" href="#/">${esc(t("crumb_all"))}</a>
         <div class="detail-head">
           <span class="d-index">${String(idx).padStart(2, "0")}</span>
           <div style="flex:1; min-width:260px">
@@ -471,25 +490,25 @@
             <div class="sub-list">${subs}</div>
           </div>
           <div class="detail-meta">
-            <div class="mrow"><span class="k">Subject</span><span class="v">${esc(ch.subject || "—")}</span></div>
-            <div class="mrow"><span class="k">Group</span><span class="v">${esc(ch.group)}</span></div>
-            <div class="mrow"><span class="k">Weight</span><span class="v">${esc(ch.jeeWeight || "—")}</span></div>
-            <div class="mrow"><span class="k">Resources</span><span class="v">${res.length}</span></div>
+            <div class="mrow"><span class="k">${esc(t("m_subject"))}</span><span class="v">${esc(tsubj(ch.subject) || "—")}</span></div>
+            <div class="mrow"><span class="k">${esc(t("m_group"))}</span><span class="v">${esc(ch.group)}</span></div>
+            <div class="mrow"><span class="k">${esc(t("m_weight"))}</span><span class="v">${esc(ch.jeeWeight || "—")}</span></div>
+            <div class="mrow"><span class="k">${esc(t("m_resources"))}</span><span class="v">${res.length}</span></div>
           </div>
         </div>
 
-        ${(() => { const picks = startHerePicks(res); return picks.length ? `<div class="starthere"><div class="sh-head"><span aria-hidden="true">✦</span> Start here</div><div class="sh-row">${picks.map((p) => `<a class="sh-card" href="${esc(p.url)}" target="_blank" rel="noopener noreferrer"><span class="sh-cat">${esc(SH_LABEL[p.cat] || "Open")}</span><span class="sh-title">${esc(p.title.split(" — ").pop())}</span><span class="sh-go">${p._search ? "Search ↗" : "Open ↗"}</span></a>`).join("")}</div></div>` : ""; })()}
+        ${(() => { const picks = startHerePicks(res); return picks.length ? `<div class="starthere"><div class="sh-head"><span aria-hidden="true">✦</span> ${esc(t("start_here"))}</div><div class="sh-row">${picks.map((p) => `<a class="sh-card" href="${esc(p.url)}" target="_blank" rel="noopener noreferrer"><span class="sh-cat">${esc(t(SH_LABEL[p.cat] || "sh_explore"))}</span><span class="sh-title">${esc(p.title.split(" — ").pop())}</span><span class="sh-go">${p._search ? esc(t("search_label")) : esc(t("open_label"))}</span></a>`).join("")}</div></div>` : ""; })()}
 
         ${feature ? `<article class="feature" style="margin-top:18px"><span class="f-ico" aria-hidden="true">∑</span><div style="flex:1"><h4>${esc(feature.title)}</h4><p>${esc(feature.note)}</p></div><a class="btn primary" href="${esc(feature.url)}" target="_blank" rel="noopener noreferrer">Open ↗</a></article>` : ""}
 
         <div class="toolbar">
           <div class="toolbar-row">
-            <div class="filter-search"><span class="s-ico" aria-hidden="true">⌕</span><input id="detailSearch" type="search" placeholder="Filter within this chapter…" aria-label="Filter resources" autocomplete="off" /></div>
-            <button class="btn" id="copyAll" type="button">⧉ Copy visible links</button>
-            <button class="btn" id="shareChapter" type="button">▦ Share / QR</button>
-            <button class="btn" id="clearFilters" type="button">Reset</button>
+            <div class="filter-search"><span class="s-ico" aria-hidden="true">⌕</span><input id="detailSearch" type="search" placeholder="${esc(t("filter_ph"))}" aria-label="${esc(t("filter_ph"))}" autocomplete="off" /></div>
+            <button class="btn" id="copyAll" type="button">${esc(t("btn_copy"))}</button>
+            <button class="btn" id="shareChapter" type="button">${esc(t("btn_share"))}</button>
+            <button class="btn" id="clearFilters" type="button">${esc(t("btn_reset"))}</button>
           </div>
-          ${levelPills ? `<div class="facets"><div class="facet-row"><span class="f-label">Level</span>${levelPills}</div></div>` : ""}
+          ${levelPills ? `<div class="facets"><div class="facet-row"><span class="f-label">${esc(t("level_word"))}</span>${levelPills}</div></div>` : ""}
         </div>
 
         <div class="cat-tabs" id="catTabs" role="tablist" aria-label="Resource sections"></div>
@@ -522,29 +541,30 @@
     if (!presentCats.some((c) => c.key === detailState.activeCat) && detailState.activeCat !== "All") detailState.activeCat = "All";
 
     // tabs
-    const tabsHtml = [`<button class="cat-tab${detailState.activeCat === "All" ? " active" : ""}" data-cat="All" type="button">All<span class="ct-n">${base.length}</span></button>`]
-      .concat(presentCats.map((c) => `<button class="cat-tab${detailState.activeCat === c.key ? " active" : ""}" data-cat="${esc(c.key)}" type="button"><span class="ct-ico" aria-hidden="true">${c.icon}</span>${esc(c.key)}<span class="ct-n">${byCat[c.key].length}</span></button>`)).join("");
+    const allLabel = lang === "hi" ? "सभी" : lang === "es" ? "Todo" : "All";
+    const tabsHtml = [`<button class="cat-tab${detailState.activeCat === "All" ? " active" : ""}" data-cat="All" type="button">${esc(allLabel)}<span class="ct-n">${base.length}</span></button>`]
+      .concat(presentCats.map((c) => `<button class="cat-tab${detailState.activeCat === c.key ? " active" : ""}" data-cat="${esc(c.key)}" type="button"><span class="ct-ico" aria-hidden="true">${c.icon}</span>${esc(tcat(c.key))}<span class="ct-n">${byCat[c.key].length}</span></button>`)).join("");
     document.getElementById("catTabs").innerHTML = tabsHtml;
-    document.querySelectorAll(".cat-tab").forEach((t) => t.addEventListener("click", () => { detailState.activeCat = t.dataset.cat; applyDetailFilters(); document.getElementById("catTabs").scrollIntoView({ behavior: "smooth", block: "start" }); }));
+    document.querySelectorAll(".cat-tab").forEach((el) => el.addEventListener("click", () => { detailState.activeCat = el.dataset.cat; applyDetailFilters(); document.getElementById("catTabs").scrollIntoView({ behavior: "smooth", block: "start" }); }));
 
-    document.getElementById("resultCount").innerHTML = `<b>${base.length}</b> of ${detailState.res.length} resources · showing <b>${detailState.activeCat}</b>`;
+    document.getElementById("resultCount").innerHTML = t("showing", "<b>" + base.length + "</b>", detailState.res.length, "<b>" + (detailState.activeCat === "All" ? allLabel : tcat(detailState.activeCat)) + "</b>");
 
     const sectionsEl = document.getElementById("sections");
-    if (!base.length) { sectionsEl.innerHTML = emptyState("No matches — try clearing the level filter."); return; }
+    if (!base.length) { sectionsEl.innerHTML = emptyState(t("empty_filter")); return; }
 
     const renderCards = (items) => items.map((r, j) => {
       const delay = Math.min(j * 0.008, 0.25);
       const lvlClass = "lvl " + String(r.level || "Mixed").replace(/\s+/g, "-");
       const pickTag = r._pick ? `<span class="badge pick">★ Pick</span>` : "";
-      const label = r._search ? "Search ↗" : "Open ↗";
+      const label = r._search ? t("search_label") : t("open_label");
       const openClass = r._search ? "res-open is-search" : "res-open";
-      return `<article class="res${r._pick ? " res--pick" : ""}" style="animation-delay:${delay}s"><div class="res-badges">${pickTag}<span class="badge src">${esc(r.source)}</span><span class="badge">${esc(r.type)}</span><span class="${lvlClass}">${esc(r.level || "Mixed")}</span></div><h4>${esc(r.title)}</h4><p>${esc(r.note)}</p><div class="res-actions"><a class="${openClass}" href="${esc(r.url)}" target="_blank" rel="noopener noreferrer">${label}</a><button class="res-copy" type="button" title="Copy link" data-url="${esc(r.url)}" aria-label="Copy link">⧉</button></div></article>`;
+      return `<article class="res${r._pick ? " res--pick" : ""}" style="animation-delay:${delay}s"><div class="res-badges">${pickTag}<span class="badge src">${esc(r.source)}</span><span class="badge">${esc(r.type)}</span><span class="${lvlClass}">${esc(tlevel(r.level || "Mixed"))}</span></div><h4>${esc(r.title)}</h4><p>${esc(r.note)}</p><div class="res-actions"><a class="${openClass}" href="${esc(r.url)}" target="_blank" rel="noopener noreferrer">${label}</a><button class="res-copy" type="button" title="Copy link" data-url="${esc(r.url)}" aria-label="Copy link">⧉</button></div></article>`;
     }).join("");
 
     let html = "";
     if (detailState.activeCat === "All") {
       presentCats.forEach((c) => {
-        html += `<section class="cat-section"><div class="cat-head"><span class="cat-ico" aria-hidden="true">${c.icon}</span><h3>${esc(c.key)}</h3><span class="cat-count">${byCat[c.key].length}</span><span class="cat-line"></span></div><p class="cat-blurb">${esc(c.blurb)}</p><div class="res-grid">${renderCards(byCat[c.key])}</div></section>`;
+        html += `<section class="cat-section"><div class="cat-head"><span class="cat-ico" aria-hidden="true">${c.icon}</span><h3>${esc(tcat(c.key))}</h3><span class="cat-count">${byCat[c.key].length}</span><span class="cat-line"></span></div><p class="cat-blurb">${esc(c.blurb)}</p><div class="res-grid">${renderCards(byCat[c.key])}</div></section>`;
       });
     } else {
       const c = CATS.find((x) => x.key === detailState.activeCat);
@@ -570,10 +590,10 @@
     m.innerHTML = `<div class="modal" role="dialog" aria-modal="true" aria-label="Share ${esc(ch.chapter)}">
       <button class="modal-close" type="button" aria-label="Close">✕</button>
       <h3>Share &ldquo;${esc(ch.chapter)}&rdquo;</h3>
-      <p class="modal-sub">Project the QR for students to scan, or copy the link to WhatsApp.</p>
+      <p class="modal-sub">${esc(t("share_sub"))}</p>
       <img class="modal-qr" src="${qr}" alt="QR code linking to this chapter" width="240" height="240" loading="lazy" />
       <div class="modal-url">${esc(url)}</div>
-      <div class="modal-actions"><button class="btn primary" id="mCopy" type="button">⧉ Copy link</button><button class="btn" id="mShare" type="button">↗ Share…</button></div></div>`;
+      <div class="modal-actions"><button class="btn primary" id="mCopy" type="button">${esc(t("share_copy"))}</button><button class="btn" id="mShare" type="button">${esc(t("share_more"))}</button></div></div>`;
     document.body.appendChild(m);
     const close = () => m.remove();
     m.addEventListener("click", (e) => { if (e.target === m) close(); });
@@ -620,6 +640,23 @@
     });
   }
 
+  /* ---------------- language ---------------- */
+  function applyChromeI18n() {
+    document.documentElement.setAttribute("lang", lang);
+    document.querySelectorAll("[data-i18n]").forEach((el) => { const s = t(el.getAttribute("data-i18n")); if (s) el.textContent = s; });
+    const lt = document.getElementById("langToggle"); if (lt) lt.textContent = LANG_SHORT[lang];
+  }
+  function initLang() {
+    applyChromeI18n();
+    const lt = document.getElementById("langToggle");
+    if (lt) lt.addEventListener("click", () => {
+      lang = LANG_ORDER[(LANG_ORDER.indexOf(lang) + 1) % LANG_ORDER.length];
+      localStorage.setItem("atlas-lang", lang);
+      applyChromeI18n();
+      route();
+    });
+  }
+
   /* ---------------- nav + router ---------------- */
   function initNav() {
     document.querySelectorAll(".nav-links a[data-nav]").forEach((a) => {
@@ -650,6 +687,7 @@
   }
 
   initTheme();
+  initLang();
   initNav();
   renderFooter();
   window.addEventListener("hashchange", route);
