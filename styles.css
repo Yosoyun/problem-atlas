@@ -363,6 +363,8 @@ img { max-width: 100%; display: block; }
 /* editor's pick */
 .res--pick { border-color: color-mix(in srgb, var(--accent) 45%, var(--line-strong)); box-shadow: -3px 0 0 var(--accent) inset, var(--shadow); }
 .badge.pick { color: var(--accent-ink); background: var(--accent); border-color: var(--accent); font-weight: 700; }
+/* discovery-search marker — matches the amber "Search ↗" button so a search never reads as a verified PDF */
+.badge.badge-search { color: var(--accent); border-color: color-mix(in srgb, var(--accent) 42%, var(--line-strong)); background: color-mix(in srgb, var(--accent) 8%, transparent); }
 
 .feature {
   grid-column: 1 / -1; display: flex; gap: 16px; align-items: center;
