@@ -86,16 +86,19 @@ GROUP_ORDER = {
     "Biology": ["Diversity & Cell Biology", "Plant Physiology & Anatomy", "Human Physiology", "Reproduction", "Genetics & Evolution", "Biology in Human Welfare & Biotech", "Ecology"],
 }
 
-PAD = [
-    ("Mixed JEE Advanced problem set", "{n} JEE Advanced problems with solutions", "JEE Advanced", ["mse","youtube","pyq"]),
-    ("Chapter-wise previous-year questions", "{n} chapterwise previous year questions", "JEE Advanced", ["pyq","google"]),
-    ("Concept & formulae revision", "{n} important formulas and concepts", "JEE Main", ["youtube","google"]),
-    ("Tricky / quality problems", "{n} tricky challenging problems", "Olympiad", ["youtube","google"]),
-]
-SUBJ_PSRC = {"Mathematics": "mse", "Physics": "pse", "Chemistry": "cse", "Biology": "bio"}
+# NOTE: no padding. The brief (§3) forbids inflating counts with discarded
+# seeds. app.js skips these seed sources at render time, so counting them would
+# overstate the real total. rendered_of() mirrors the frontend exactly.
+DISCARDED_SEED_SOURCES = {"google", "pyq", "youtube"}
+FIXED_SHORTCUTS = {"Mathematics": 15, "Physics": 15, "Chemistry": 16, "Biology": 15}
 
-def total_of(c):
-    return len(c["anchors"]) + sum(len(s.get("sources", [])) for s in c["seeds"]) + 1 + TEACHER_EXTRA.get(c["slug"], 0)
+def rendered_of(c):
+    seed_rendered = sum(
+        1 for s in c["seeds"] for src in s.get("sources", []) if src not in DISCARDED_SEED_SOURCES
+    )
+    return (len(c["anchors"]) + seed_rendered + 1
+            + TEACHER_EXTRA.get(c["slug"], 0)
+            + FIXED_SHORTCUTS.get(c.get("subject"), 15))
 
 forbidden_hits, warn, slugs = [], 0, []
 clean = []
@@ -109,13 +112,10 @@ for ch in data:
     # FIX double-wrap bug: strip any full-URL queries down to plain search terms
     for s in ch.get("seeds", []):
         s["query"] = clean_query(s.get("query", ""))
-    # pad to >=102 rendered resources, using the subject's primary SE source
-    psrc = SUBJ_PSRC.get(ch.get("subject"), "mse")
-    i = 0
-    while total_of(ch) < 102 and i < len(PAD):
-        lab, q, lvl, srcs = PAD[i]; i += 1
-        srcs = [psrc if s == "mse" else s for s in srcs]
-        ch["seeds"].append({"label": lab, "query": q.format(n=ch["chapter"]), "level": lvl, "sources": srcs})
+    # drop seed SOURCES the frontend discards (no padding) so the file is honest
+    for s in ch.get("seeds", []):
+        s["sources"] = [src for src in s.get("sources", []) if src not in DISCARDED_SEED_SOURCES]
+    ch["seeds"] = [s for s in ch.get("seeds", []) if s.get("sources")]
     clean.append({
         "chapter": ch["chapter"], "slug": ch["slug"], "subject": ch.get("subject", "Mathematics"),
         "group": ch["group"], "blurb": ch.get("blurb", ""), "jeeWeight": ch.get("jeeWeight", "Variable"),
@@ -131,9 +131,9 @@ by_subject = {}
 for c in clean:
     by_subject[c["subject"]] = by_subject.get(c["subject"], 0) + 1
 print("by subject:", by_subject)
-print("SITE TOTAL rendered resources:", sum(total_of(c) for c in clean))
+print("SITE TOTAL rendered resources:", sum(rendered_of(c) for c in clean))
 if clean:
-    print("per-chapter min:", min(total_of(c) for c in clean), "max:", max(total_of(c) for c in clean))
+    print("per-chapter min:", min(rendered_of(c) for c in clean), "max:", max(rendered_of(c) for c in clean))
 print("FORBIDDEN hits:", forbidden_hits)
 dupes = sorted({s for s in slugs if slugs.count(s) > 1})
 print("duplicate slugs:", dupes)
